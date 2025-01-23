@@ -167,17 +167,19 @@ ul#myCategoriesTab li.active a {
 .cr-footer ul li::after {
   color: #3f51b5;
 }
+/*
 .cr-footer ul li a:hover {
   color: #3f51b5;
 }
+*/
 .cr-footer .cr-social-media span a:hover {
   color: #3f51b5;
 }
-
+/*
 .cr-last-footer p a {
   color: #3f51b5;
 }
-
+*/
 a.back-to-top {
   color: #3f51b5;
   border-color: #3f51b5;
