@@ -1,0 +1,25 @@
+/* Cart Sidebar */
+.cr-cart-view-active {
+    right: 0 !important;
+}
+.cart-qty-plus-minus {
+    input {
+        background: transparent none repeat scroll 0 0;
+        border: medium none;
+    }
+}
+.cr-cart-view {
+    .cr-cart-inner {
+        .cr-cart-top {
+            ul.crcart-pro-items {
+                li {
+                    .cr-pro-content {
+                        .cart_pro_title {
+                            color: $text-777;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

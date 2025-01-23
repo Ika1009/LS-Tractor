@@ -1,0 +1,215 @@
+/* Common css */
+body {
+    margin: 0;
+    background-color: $fff;
+    letter-spacing: 0.03rem;
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+    color: $black;
+}
+
+.font-Poppins {
+    font-family: $font-family-Poppins;
+}
+
+.font-Manrope {
+    font-family: $font-family-Manrope;
+}
+
+.text-manrope {
+    font-family: "Montserrat";
+}
+
+.title-2 {
+    #dealend {
+        padding: 0;
+    }
+    .dealend-timer {
+        padding: 5px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-end;
+        position: relative;
+        .dealend-timer {
+            background-color: $off-white;
+            border-radius: $radius;
+        }
+        .time-block {
+            margin-left: 10px;
+            position: relative;
+            display: flex;
+            font-size: 15px;
+            font-weight: 600;
+            line-height: 28px;
+            color: $title-color;
+            .day {
+                margin-left: 5px;
+                position: relative;
+                font-size: 14px;
+                font-weight: 400;
+                display: flex;
+                align-items: center;
+                line-height: 28px;
+                color: $title-color;
+            }
+            .time {
+                min-width: 20px;
+                position: relative;
+            }
+            .dots {
+                margin-top: -1px;
+                margin-left: 5px;
+                color: $title-color;
+            }
+        }
+    }
+    .cr-pro-tab-nav {
+        li {
+            a.active {
+                border: 1px solid $title-color;
+            }
+        }
+    }
+}
+
+.ui-widget.ui-widget-content {
+    border: 0;
+}
+
+.cr-size-and-weight {
+    .cr-size-weight {
+        .cr-kg {
+            ul {
+                .active-color {
+                    background-color: $main-primary-color;
+                    color: $fff;
+                }
+            }
+        }
+    }
+}
+
+ul#myTab {
+    li.active {
+        background-color: $fff;
+        border-color: $main-primary-color;
+        a {
+            color: $main-primary-color;
+        }
+        i {
+            color: $main-primary-color;
+        }
+    }
+}
+
+@keyframes shadowRolling {
+    0% {
+        box-shadow: $box_shadow_0;
+    }
+    12% {
+        box-shadow: $box_shadow_12;
+    }
+    25% {
+        box-shadow: $box_shadow_25;
+    }
+    36% {
+        box-shadow: $box_shadow_36;
+    }
+    50% {
+        box-shadow: $box_shadow_50;
+    }
+    62% {
+        box-shadow: $box_shadow_62;
+    }
+    75% {
+        box-shadow: $box_shadow_75;
+    }
+    87% {
+        box-shadow: $box_shadow_87;
+    }
+    100% {
+        box-shadow: $box_shadow_100;
+    }
+}
+
+.cr-wish-notify,
+.cr-compare-notify,
+.cr-cart-notify {
+    p {
+        box-shadow: 2px 2px 15px 0 rgba(0, 0, 0, 0.07);
+    }
+}
+
+#cr-overlay {
+    .loader {
+        animation: shadowRolling 2s linear infinite;
+    }
+}
+
+/* Animations */
+@keyframes fadeInDown {
+    0% {
+        transform: translateY(3rem);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+@keyframes fadeOutUp {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(3rem);
+    }
+}
+
+.cr-fadeInDown {
+    animation: fadeInDown 0.3s ease-in-out forwards;
+}
+
+.cr-fadeOutUp {
+    animation: fadeOutUp 0.2s ease-in-out forwards;
+}
+
+.cr-modal {
+    transform: translate(-50%, -50%);
+}
+
+.cr-form-control {
+    &::placeholder {
+        font-size: 14px;
+        color: $text-777;
+    }
+}
+
+.cr-pagination {
+    ul {
+        li.active {
+            background-color: $main-primary-color;
+            border-color: $main-primary-color;
+            color: #fff;
+        }
+    }
+}
+
+#mycollectionTab {
+    li.active {
+        a {
+            border: 1px solid #2b2b2d;
+        }
+    }
+}
+
+/* Responsive */
+@media only screen and (min-width: 1200px) {
+    .cr-col-5 {
+        width: 20%;
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 20%;
+        flex: 0 0 20%;
+    }
+}

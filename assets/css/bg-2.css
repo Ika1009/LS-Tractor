@@ -1,0 +1,6 @@
+.body-bg-2 {
+  background-image: linear-gradient(#f7f7f7 1px, transparent 1px), linear-gradient(180deg, #f7f7f7 1px, transparent 1px), linear-gradient(#f7f7f7 1px, transparent 1px), linear-gradient(180deg, #f7f7f7 1px, transparent 1px);
+  background-size: 5px 5px, 5px 5px, 5px 5px, 5px 5px;
+  background-position: -1px -1px, -1px -1px, -1px -1px, -1px -1px;
+}
+/*# sourceMappingURL=bg-2.css.map */

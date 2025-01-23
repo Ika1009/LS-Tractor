@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+/* Typography */
+@import "base/_typography";
+
+/* Utilities */
+@import "utilities/_variables";
+@import "utilities/_mixing";
+
+/* Components */
+@import "components/_common";
+@import "components/_header-2";
+@import "components/_footer-2";
+
+/* layout */
+@import "layout/_hero-2";
+@import "layout/_sidebar-tools";
+@import "layout/_cart-sidebar";
+@import "layout/_product-card-2";
+@import "layout/_category-2";
+@import "layout/_deal-2";
+@import "layout/_categories";
+@import "layout/_blog-2";
+@import "layout/_insta";

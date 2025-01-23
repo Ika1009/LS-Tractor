@@ -1,0 +1,209 @@
+/* Hero */
+.cr-hero-banner {
+    &::before {
+        width: 50px;
+        height: 50px;
+        content: "";
+        background-image: url("../img/shape/2.png");
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        z-index: 0;
+        opacity: .5;
+    }
+    &::after {
+        width: 100px;
+        height: 100px;
+        content: "";
+        background-image: url("../img/shape/5.png");
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        z-index: 0;
+        animation : left-right 10s linear infinite;
+        opacity: .5;
+    }
+    @keyframes left-right{
+        0%{
+          left : 0px;
+        }
+        50%{
+          left : 50px;
+          transform: rotate(30deg);
+        }
+        100%{
+          left : 0px;
+        }
+      }
+      @keyframes rotate{
+        0%{
+            transform: rotate(0deg);
+        }
+        50%{
+          transform: rotate(30deg);
+        }
+        100%{
+            transform: rotate(0deg);
+        }
+      }
+    .hero-container {
+        position: relative;
+        height: 100%;
+        &::before {
+            width: 80px;
+            height: 80px;
+            content: "";
+            background-image: url("../img/shape/4.png");
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            position: absolute;
+            z-index: 0;
+            top: -15px;
+            left: 500px;
+            animation : rotate 10s linear infinite;
+            opacity: .5;
+        }
+        &::after {
+            width: 100px;
+            height: 100px;
+            content: "";
+            background-image: url("../img/shape/3.png");
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            position: absolute;
+            bottom: -30px;
+            right: 500px;
+            z-index: 0;
+            opacity: .5;
+        }
+    }
+}
+
+.section-hero {
+    .swiper-container-horizontal>.swiper-pagination-bullets {
+        bottom: 15px !important;
+    }
+}
+
+.cr-slider {
+    .swiper-wrapper {
+        .swiper-slide-active {
+            h5 {
+                animation: fadeInUp 1s both 0.5s;
+            }
+            h1 {
+                animation: fadeInUp 1s both 0.75s;
+            }
+            p {
+                animation: fadeInUp 1s both 1s;
+            }
+            .cr-last-buttons {
+                animation: fadeInUp 1s both 1.25s;
+            }
+        }
+    }
+}
+
+.cr-slider {
+    .swiper-pagination-bullet {
+        transition: all 0.3s ease 0s;
+        width: 15px;
+        height: 15px;
+        margin: 0 2.5px !important;
+        display: inline-block;
+        border-radius: 30px;
+        opacity: 1;
+        border: 1px solid $main-primary-color;
+        box-shadow: none;
+        background-color: transparent;
+    }
+    .swiper-pagination-bullet.swiper-pagination-bullet-active {
+        background-color: $main-primary-color;
+    }
+}
+
+/* Responsive */
+@media only screen and (max-width: 1399px) {
+    .cr-hero-banner {
+        .hero-container {
+            &::after {
+                right: 300px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+    .cr-hero-banner {
+        .hero-container {
+            &::after {
+                right: 300px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .cr-hero-banner {
+        .hero-container {
+            &::after {
+                right: 200px;
+            }
+        }
+    }
+    .cr-hero-banner {
+        &::after {
+            width: 56px;
+            height: 50px;
+        }
+        .hero-container {
+            &::after {
+                width: 60px;
+                right: 10px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .cr-hero-banner {
+        .hero-container {
+            &::after {
+                right: -80px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .cr-hero-banner {
+        .container {
+            &::after {
+                right: 10px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .cr-hero-banner {
+        &::after {
+            height: 40px;
+            width: 40px;
+        }
+        .container {
+            &::after {
+                width: 40px;
+                height: 40px;
+            }
+        }
+    }
+}

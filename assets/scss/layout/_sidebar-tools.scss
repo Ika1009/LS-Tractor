@@ -1,0 +1,81 @@
+/* Sidebar Tools */
+.cr-tool-active {
+    right: 0 !important;
+}
+
+.cr-tool {
+    .cr-tool-btn {
+        .btn-cr-tool {
+            box-shadow: $card_shadow;
+        }
+        .color-variant {
+            .cr-tools-detail {
+                ul.dark-mode {
+                    li {
+                        box-shadow: $black_300;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.active-bg-panel {
+    position: relative;
+    &:before {
+        width: 20px;
+        height: 20px;
+        padding: 0;
+        font-family: remixicon;
+        content: "\EB79";
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        background-color: $main-primary-color;
+        color: $fff;
+        border-radius: 5px;
+        font-size: 12px;
+        font-weight: 700;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.active-dark-mode,
+.active-rtl-mode {
+    position: relative;
+    &:before {
+        width: 20px;
+        height: 20px;
+        padding: 0;
+        font-family: remixicon;
+        content: "\EB79";
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        background-color: $main-primary-color;
+        color: $fff;
+        border-radius: 5px;
+        font-size: 12px;
+        font-weight: 700;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.active-colors {
+    &:before {
+        padding: 0;
+        font-family: remixicon;
+        content: "\EB79";
+        font-size: 16px;
+        font-weight: 700;
+        display: flex;
+        align-items: center;
+        height: 36px;
+        justify-content: center;
+        color: $fff;
+    }
+}

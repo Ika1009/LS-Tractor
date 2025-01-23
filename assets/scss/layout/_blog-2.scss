@@ -1,0 +1,23 @@
+/* Blog */
+.cr-blog {
+    &:hover {
+        .cr-blog-image {
+            img {
+                transform: rotate(3deg) scale(1.1);
+            }
+        }
+    }
+    .cr-blog-content {
+        .read {
+            &:after {
+                position: absolute;
+                font-family: remixicon;
+                content: "\EA6C";
+                font-size: 16px;
+                line-height: 1.2;
+                top: 0;
+                right: -20px;
+            }
+        }
+    }
+}

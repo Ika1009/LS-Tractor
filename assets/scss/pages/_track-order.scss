@@ -1,0 +1,49 @@
+/*-------------------------------------------------
+  Track Order Page CSS
+---------------------------------------------------*/
+.cr-track {
+	.cr-step {
+		&:hover {
+			color: $title-color;;
+			text-decoration: none;
+			.cr-step-indicator {
+				transition: all 0.25s ease-in-out;
+				border-color: transparent;
+				background-color: $border-color;
+			}
+			.cr-step-icon {
+				color: $text-777;
+			}
+		}
+	}
+	.cr-step-active {
+		color: $title-color;
+		pointer-events: none;
+		cursor: default;
+		font-weight: 500;
+		&:hover {
+			color: $title-color;
+			pointer-events: none;
+			cursor: default;
+			.cr-step-icon {
+				color: $main-primary-color;
+			}
+		}
+		.cr-step-icon {
+			color: $main-primary-color;
+		}
+	}	
+	.cr-step-completed{
+		&:hover {
+			.cr-step-indicator {
+				border-color: transparent;
+				background-color: $main-primary-color;
+				color: $fff;
+				line-height: 1.25rem;
+				i {
+					line-height: 23px;
+				}
+			}
+		}
+	}
+}

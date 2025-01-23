@@ -1,0 +1,87 @@
+@charset "UTF-8";
+
+/*-----------------------------------------------------------------------------------
+
+    Item Name: Carrot - Multipurpose eCommerce HTML Template.
+    Author: ashishmaraviya
+    Version: 1.0
+    Copyright 2024
+
+-----------------------------------------------------------------------------------*/
+
+/*---------------------------------------------------------------------------------
+    Included CSS INDEX
+-----------------------------------------------------------------------------------
+
+01. Typography
+
+02. Utilities
+    - Variables
+    - Mixins
+
+03. Components
+    - Common
+    - Header
+    - Footer
+
+04. layout
+    - hero
+    - sidebar-tools
+    - cart-sidebar
+    - deal
+    - testimonial
+    - popular-product
+    - product-banner
+    - categories
+    - services
+    - blog
+
+05. pages 
+    - product-page
+    - shop
+    - blog-classic
+    - blog-details
+    - faq
+    - login
+    - elements-buttons
+    - wishlist
+    - track-order
+    - checkout
+
+-----------------------------------------------------------------------------------*/
+
+/* Typography */
+@import "base/_typography";
+
+/* Utilities */
+@import "utilities/_variables";
+@import "utilities/_mixing";
+
+/* Components */
+@import "components/_common";
+@import "components/_footer";
+@import "components/_header";
+
+/* layout */
+@import "layout/_hero";
+@import "layout/_sidebar-tools";
+@import "layout/_cart-sidebar";
+@import "layout/_deal";
+@import "layout/_testimonial";
+@import "layout/_popular-product";
+@import "layout/_product-banner";
+@import "layout/_categories";
+@import "layout/_services";
+@import "layout/_blog";
+
+/* pages */
+@import "pages/_product-page";
+@import "pages/_shop";
+@import "pages/_blog-classic";
+@import "pages/_blog-details";
+@import "pages/_faq";
+@import "pages/_login";
+@import "pages/_elements-buttons";
+@import "pages/_wishlist";
+@import "pages/_track-order";
+@import "pages/_checkout";

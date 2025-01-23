@@ -1,0 +1,42 @@
+/* Deal */
+.cr-deal-rightside {
+    .cr-deal-content {
+        box-shadow: -3px 3px 8px 5px rgba(0, 0, 0, .05);
+    }
+}
+
+.cr-counter {
+    .cr-counter-inner {
+        h4 {
+            &:not(:first-child) {
+                margin-left: 20px;
+                &::after {
+                    content: ":";
+                    font-size: 25px;
+                    color: $text-color;
+                    position: absolute;
+                    right: 50px;
+                    top: 5px;
+                }
+            }
+        }
+    }
+}
+
+/* Responsive */
+@media only screen and (max-width: 390px) {
+    .cr-counter {
+        .cr-counter-inner {
+            h4 {
+                &:not(:first-child) {
+                    margin-left: 5px;
+                    &::after{
+                        font-size: 20px;
+                        top: 5px;
+                        right: 43px;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,34 @@
+/* Product-banner */
+.section-product-banner {
+    &::before {
+        width: 45px;
+        height: 80px;
+        content: "";
+        background-image: url("../img/shape/8.png");
+        background-size: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 130px;
+        right: 20px;
+        z-index: 0;
+    }
+}
+
+/* Responsive */
+@media only screen and (max-width: 991px) {
+    .section-product-banner {
+        &:before {
+            width: 30px;
+            height: 55px;
+        }
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .section-product-banner{
+        &:before {
+            display: none;
+        }
+    }
+}

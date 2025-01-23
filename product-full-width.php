@@ -1,3 +1,43 @@
+<?php
+// Include database connection file
+include('db_connect.php'); 
+
+// Assuming you pass the product ID through a GET parameter
+$productId = intval($_GET['id']); 
+
+// SQL query to fetch product details and images
+$query = "SELECT proizvodi.*, slike.url_slike 
+          FROM proizvodi 
+          LEFT JOIN slike ON proizvodi.id_proizvoda = slike.id_proizvoda 
+          WHERE proizvodi.id_proizvoda = ?";
+
+$stmt = $conn->prepare($query);
+$stmt->bind_param("i", $productId);
+$stmt->execute();
+$result = $stmt->get_result();
+
+$product = [];
+$images = [];
+
+while ($row = $result->fetch_assoc()) {
+    if (empty($product)) {
+        // Store product details once
+        $product = [
+            'title' => $row['naziv'],
+            'price' => $row['cena_bez_popusta'],
+            'discounted_price' => $row['cena_sa_popustom'],
+            'short_description' => $row['kratki_opis'],
+            'description' => $row['opis'],
+            'dimensions' => $row['spec1'],
+            'color' => $row['spec2'],
+            'material' => $row['spec3'],
+        ];
+    }
+    // Store each image
+    $images[] = $row['url_slike'];
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
@@ -6,11 +46,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="ecommerce, market, shop, mart, cart, deal, multipurpose, marketplace">
-    <meta name="description" content="LS Tractor Serbia">
-    <title>LS Tractor Serbia</title>
+    <meta name="description" content="<?php echo $product['title']; ?> - Tvoj luksuz">
+    <meta name="author" content="milosmitrovic20">
+    <title><?php echo $product['title']; ?> - Tvoj luksuz</title>
 
     <!-- App favicon -->
-    <link rel="shortcut icon" href="assets/img/logo/logo.svg">
+    <link rel="shortcut icon" href="assets/img/logo/favicon.png">
 
     <!-- Icon CSS -->
     <link rel="stylesheet" href="assets/css/vendor/materialdesignicons.min.css">
@@ -28,23 +69,8 @@
     <script src="assets/js/vendor/tailwindcss3.4.5.js"></script>
 
     <!-- Main CSS -->
-    <link rel="stylesheet" href="assets/css/color-3.css" id="add_class">
     <link rel="stylesheet" href="assets/css/style.css">
 
-    <style>
-        .background-layer {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: 0;
-            background-size: cover;
-            background-position: center;
-            opacity: 1; 
-        }
-    </style>
-    
 </head>
 
 <body class="body-bg-6">
@@ -54,14 +80,14 @@
         <span class="loader w-[10px] h-[10px] rounded-[50%] inline-block relative text-[#64b496] left-[-100px]"></span>
     </div>
 
-     <!-- Header -->
-     <header class="h-[142px] max-[991px]:h-[133px] max-[575px]:h-[173px] bg-[#fff] border-b-[1px] border-solid border-[#e9e9e9]">
+    <!-- Header -->
+    <header class="h-[142px] max-[991px]:h-[133px] max-[575px]:h-[173px] bg-[#fff] border-b-[1px] border-solid border-[#e9e9e9]">
         <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1600px]:max-w-[1500px] min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
             <div class="flex flex-wrap w-full">
                 <div class="w-full px-[12px]">
                     <div class="top-header py-[20px] flex flex-row gap-[10px] justify-between border-b-[1px] border-solid border-[#e9e9e9] relative z-[4] max-[575px]:py-[15px] max-[575px]:block">
                         <a href="index.html" class="cr-logo max-[575px]:mb-[15px] max-[575px]:flex max-[575px]:justify-center">
-                            <img src="assets/img/logo/logo.svg" alt="logo" class="logo block h-[35px] max-[575px]:w-[100px]">
+                            <img src="assets/img/logo/logo.png" alt="logo" class="logo block h-[35px] max-[575px]:w-[100px]">
                         </a>
                         <form class="cr-search relative max-[575px]:max-w-[350px] max-[575px]:m-auto" action="shop-full-width.php" method="get">
                             <input class="search-input w-[600px] h-[45px] pl-[15px] pr-[175px] border-[1px] border-solid border-[#64b496] rounded-[5px] outline-[0] max-[1399px]:w-[400px] max-[991px]:max-w-[350px] max-[575px]:w-full max-[420px]:pr-[45px]" type="text" name="query" placeholder="Pretraži sajt">
@@ -71,7 +97,8 @@
                         </form>
                         <div class="cr-right-bar flex max-[991px]:hidden">
                             <a href="cart.html" class="cr-right-bar-item transition-all duration-[0.3s] ease-in-out flex items-center">
-                                <i class="ri-user-3-line pr-[5px] text-[21px] leading-[17px]"></i>
+                                <i class="ri-shopping-bag-line pr-[5px] text-[21px] leading-[17px]"></i>
+                                <span class="transition-all duration-[0.3s] ease-in-out font-Poppins text-[15px] leading-[15px] font-medium text-[#000]">Korpa</span>
                             </a>
                         </div>
                     </div>
@@ -101,17 +128,17 @@
                             <ul class="navbar-nav flex min-[992px]:flex-row items-center m-auto relative z-[3] min-[992px]:flex-row max-[1199px]:mr-[-5px] max-[991px]:m-[0]">
                                 <li class="nav-item relative mr-[25px] max-[1399px]:mr-[20px] max-[1199px]:mr-[30px]">
                                     <a class="nav-link font-Poppins text-[14px] font-medium block text-[#000] z-[1] flex items-center relative py-[11px] px-[8px] max-[1199px]:py-[8px] max-[1199px]:px-[0]" href="index.html">
-                                        Traktori
+                                        Početna
                                     </a>
                                 </li>
                                 <li class="nav-item relative mr-[25px] max-[1399px]:mr-[20px] max-[1199px]:mr-[30px]">
                                     <a class="nav-link font-Poppins text-[14px] font-medium block text-[#000] z-[1] flex items-center relative py-[11px] px-[8px] max-[1199px]:py-[8px] max-[1199px]:px-[0]" href="shop-full-width.php">
-                                        Dodatna oprema
+                                        Proizvodi
                                     </a>
                                 </li>
                                 <li class="nav-item relative">
                                     <a class="nav-link font-Poppins text-[14px] font-medium block text-[#000] z-[1] flex items-center relative py-[11px] px-[8px] max-[1199px]:py-[8px] max-[1199px]:px-[0]" href="contact-us.html">
-                                        Podrška
+                                        Kontakt
                                     </a>
                                 </li>
                             </ul>
@@ -119,6 +146,7 @@
                     </nav>
                     <div class="cr-calling flex justify-end items-center max-[1199px]:hidden">
                         <i class="ri-phone-line pr-[5px] text-[20px]"></i>
+                        <a href="javascript:void(0)" class="text-[15px] font-medium">+381 64 8221 993</a>
                     </div>
                 </div>
             </div>
@@ -149,104 +177,81 @@
         </div>
     </div>
 
-    <!-- Hero slider -->
-    <section class="section-hero next pb-[100px] max-[1199px]:pb-[70px]">
-        <div class="cr-slider swiper-container">
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <div class="cr-hero-banner cr-banner-image-two w-full bg-[url('assets/img/banner/background_slider.webp')] bg-no-repeat bg-cover bg-center h-[80vh] max-[1199px]:h-[600px] max-[767px]:h-[500px] max-[480px]:h-[400px] max-[360px]:h-[350px] relative z-[1]">
-                        <div class="background-layer absolute inset-0 z-0 bg-[url('assets/img/banner/slider_1.png')] bg-cover bg-center opacity-80"></div>
-                        <div class="flex hero-container flex-wrap justify-between relative items-center mx-auto min-[1600px]:max-w-[1500px] min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
-                            <div class="flex flex-wrap w-full">
-                                <div class="w-full px-[12px]">
-                                    <div class="cr-left-side-contain max-w-[550px] h-[80vh] flex flex-col justify-center max-[1199px]:max-w-[400px] max-[1199px]:h-[600px] max-[767px]:max-w-[290px] max-[767px]:h-[500px] max-[480px]:max-w-[250px] max-[480px]:h-[400px] max-[360px]:max-w-[210px] max-[360px]:h-[350px] slider-animation">
-                                        <h5 class="mb-[20px] text-[20px] font-Poppins font-bold leading-[1.2] text-[#fff] max-[991px]:mb-[15px] max-[767px]:text-[14px] max-[767px]:font-normal">5 YEARS WARRANTY*</h5>
-                                        <h1 class="mb-[25px] text-[55px] font-Manrope font-extrabold leading-[68px] text-[#fff] relative max-[1399px]:text-[48px] max-[1399px]:leading-[56px] max-[1199px]:text-[40px] max-[1199px]:leading-[46px] max-[991px]:text-[28px] max-[991px]:leading-[36px] max-[991px]:mb-[20px] max-[767px]:text-[24px] max-[480px]:mb-[0] max-[360px]:text-[20px] max-[360px]:leading-[26px] max-[320px]:text-[22px] max-[320px]:leading-[24px] max-[320px]:mb-[10px]">ROBUST</h1>
-                                        <div class="cr-last-buttons mt-[30px] flex max-[991px]:mt-[18px]">
-                                            <a href="shop-full-width.php" class="cr-button mr-[20px] h-[40px] font-bold transition-all duration-[0.3s] ease-in-out py-[8px] px-[22px] text-[14px] font-Manrope capitalize leading-[1.2] bg-[#3f51b5] text-[#fff] border-[1px] border-solid border-[#64b496] rounded-[5px] flex items-center justify-center hover:bg-[#000] hover:border-[#000]">
-                                                read more
-                                            </a>
+    <!-- Product -->
+    <section class="section-product pt-[50px] max-[1199px]:pt-[20px]">
+        <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1600px]:max-w-[1500px] min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
+            <div class="flex flex-wrap w-full mb-[-24px]" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="600">
+                <div class="min-[1400px]:w-[33.33%] min-[1200px]:w-[41.66%] min-[768px]:w-[50%] w-full px-[12px] mb-[24px]">
+                    <div class="vehicle-detail-banner banner-content clearfix h-full">
+                        <div class="banner-slider sticky top-[30px]">
+                            <div class="slider slider-for mb-[15px]">
+                                <?php foreach ($images as $image_url): ?>
+                                    <div class="slider-banner-image">
+                                        <div class="zoom-image-hover h-full flex items-center text-center border-[1px] border-solid border-[#e9e9e9] bg-[#f7f7f8] rounded-[5px] cursor-pointer">
+                                            <img src="<?php echo $image_url; ?>" alt="Product Image" class="product-image w-full block m-auto">
                                         </div>
                                     </div>
-                                </div>
+                                <?php endforeach; ?>
+                            </div>
+                            <div class="slider slider-nav thumb-image mx-[-6px]">
+                                <?php foreach ($images as $image_url): ?>
+                                    <div class="thumbnail-image">
+                                        <div class="thumbImg mx-[6px] border-[1px] border-solid border-[#e9e9e9] rounded-[5px] flex justify-center items-center">
+                                            <img src="<?php echo $image_url; ?>" alt="Thumbnail Image" class="w-full p-[2px] rounded-[5px]">
+                                        </div>
+                                    </div>
+                                <?php endforeach; ?>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="swiper-slide">
-                    <div class="cr-hero-banner cr-banner-image-one w-full bg-[url('assets/img/banner/background_slider.webp')] bg-no-repeat bg-cover bg-center h-[80vh] max-[1199px]:h-[600px] max-[767px]:h-[500px] max-[480px]:h-[400px] max-[360px]:h-[350px] relative z-[1]">      
-                    <div class="background-layer absolute inset-0 z-0 bg-[url('assets/img/banner/slider_2.png')] bg-cover bg-center opacity-80"></div>              
-                        <div class="flex hero-container flex-wrap justify-between relative items-center mx-auto min-[1600px]:max-w-[1500px] min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
-                            <div class="flex flex-wrap w-full">
-                                <div class="w-full px-[12px]">
-                                    <div class="cr-left-side-contain max-w-[550px] h-[80vh] flex flex-col justify-center max-[1199px]:max-w-[400px] max-[1199px]:h-[600px] max-[767px]:max-w-[290px] max-[767px]:h-[500px] max-[480px]:max-w-[250px] max-[480px]:h-[400px] max-[360px]:max-w-[210px] max-[360px]:h-[350px] slider-animation">
-                                        <h5 class="mb-[20px] text-[20px] font-Poppins font-bold leading-[1.2] text-[#fff] max-[991px]:mb-[15px] max-[767px]:text-[14px] max-[767px]:font-normal">HAS BEEN OFFERING SOLUTIONS FOR MORE THAN 44 YEARS</h5>
-                                        <h1 class="mb-[25px] text-[55px] font-Manrope font-extrabold leading-[68px] text-[#fff] relative max-[1399px]:text-[48px] max-[1399px]:leading-[56px] max-[1199px]:text-[40px] max-[1199px]:leading-[46px] max-[991px]:text-[28px] max-[991px]:leading-[36px] max-[991px]:mb-[20px] max-[767px]:text-[24px] max-[480px]:mb-[0] max-[360px]:text-[20px] max-[360px]:leading-[26px] max-[320px]:text-[22px] max-[320px]:leading-[24px] max-[320px]:mb-[10px]">INOVATIVE</h1>
-                                        <div class="cr-last-buttons mt-[30px] flex max-[991px]:mt-[18px]">
-                                            <a href="shop-full-width.php" class="cr-button mr-[20px] h-[40px] font-bold transition-all duration-[0.3s] ease-in-out py-[8px] px-[22px] text-[14px] font-Manrope capitalize leading-[1.2] bg-[#3f51b5] text-[#fff] border-[1px] border-solid border-[#64b496] rounded-[5px] flex items-center justify-center hover:bg-[#000] hover:border-[#000]">
-                                                read more
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
+                <div class="min-[1400px]:w-[66.66%] min-[1200px]:w-[58.33%] min-[768px]:w-[50%] w-full px-[12px] mb-[24px]">
+                    <div class="cr-size-and-weight-contain border-b-[1px] border-solid border-[#e9e9e9] pb-[20px] max-[767px]:mt-[24px]">
+                        <h2 class="heading mb-[15px] block text-[#2b2b2d] text-[22px] leading-[1.5] font-medium max-[1399px]:text-[26px] max-[991px]:text-[20px]"><?php echo $product['title']; ?></h2>
+                        <p class="mb-[0] text-[14px] font-Poppins text-[#7a7a7a] leading-[1.75] "><?php echo $product['short_description']; ?></p>
+                    </div>
+                    <div class="cr-size-and-weight pt-[20px]">
+                        <div class="list">
+                            <ul class="mt-[15px] p-[0] mb-[1rem]">
+                                <li class="py-[5px] text-[#777] flex"><label class="min-w-[100px] mr-[10px] text-[#2b2b2d] font-semibold flex justify-between">Dimenzije <span>:</span></label><?php echo $product['dimensions']; ?></li>
+                                <li class="py-[5px] text-[#777] flex"><label class="min-w-[100px] mr-[10px] text-[#2b2b2d] font-semibold flex justify-between">Boja<span>:</span></label><?php echo $product['color']; ?></li>
+                                <li class="py-[5px] text-[#777] flex"><label class="min-w-[100px] mr-[10px] text-[#2b2b2d] font-semibold flex justify-between">Materijal <span>:</span></label><?php echo $product['material']; ?></li>
+                            </ul>
+                        </div>
+                        <div class="cr-product-price pt-[20px]">
+                            <span class="new-price font-Poppins text-[24px] font-semibold leading-[1.167] text-[#64b496] max-[767px]:text-[22px] max-[575px]:text-[20px]"><?php echo $product['discounted_price']; ?> RSD</span>
+                            <span class="old-price font-Poppins text-[16px] line-through leading-[1.75] text-[#7a7a7a]"><?php echo $product['price']; ?> RSD</span>
+                        </div>
+                        <div class="cr-add-card flex pt-[20px]">
+                            <div class="cr-qty-main h-full flex relative">
+                                <input type="text" placeholder="." value="1" minlength="1" maxlength="20" class="quantity h-[40px] w-[40px] mr-[5px] text-center border-[1px] border-solid border-[#e9e9e9] rounded-[5px]">
+                                <button type="button" class="plus w-[18px] h-[18px] p-[0] bg-[#fff] border-[1px] border-solid border-[#e9e9e9] rounded-[5px] leading-[0]">+</button>
+                                <button type="button" class="minus w-[18px] h-[18px] p-[0] bg-[#fff] border-[1px] border-solid border-[#e9e9e9] rounded-[5px] leading-[0] absolute bottom-[0] right-[0]">-</button>
+                            </div>
+                            <div class="cr-add-button ml-[15px] max-[380px]:hidden">
+                                <button type="button" data-id="<?php echo $productId; ?>" data-name="<?php echo $product['title']; ?>" data-price="<?php echo $product['discounted_price']; ?>" data-image="<?php echo $images[0]; ?>" class="add-to-cart cr-button cr-shopping-bag h-[40px] font-bold transition-all duration-[0.3s] ease-in-out py-[8px] px-[22px] text-[14px] font-Manrope leading-[1.2] bg-[#64b496] text-[#fff] border-[1px] border-solid border-[#64b496] rounded-[5px] flex items-center justify-center hover:bg-[#000] hover:border-[#000] max-[1199px]:py-[8px] max-[1199px]:px-[15px]">Dodaj u korpu</button>
                             </div>
                         </div>
-                    </div>                    
+                    </div>
                 </div>
-            <div class="swiper-pagination"></div>
-        </div>
-    </section>
-
-    <!-- Services -->
-    <section class="section-services pb-[100px] max-[1199px]:pb-[70px] relative">
-        <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1600px]:max-w-[1500px] min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
-            <div class="flex flex-wrap w-full">
+            </div>
+            <div class="flex flex-wrap w-full" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="600">
                 <div class="w-full px-[12px]">
-                    <div class="cr-services-border" data-aos="fade-up" data-aos-duration="2000">
-                        <div class="cr-service-slider swiper-container">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="cr-services p-[24px] bg-[#f7f7f8] rounded-[5px] border-[1px] border-solid border-[#e9e9e9] flex flex-col max-[767px]:justify-center">
-                                        <div class="cr-services-image mt-auto mr-auto mb-[12px] ml-auto block">
-                                            <i class="ri-red-packet-line text-[43px] leading-[40px] text-[#64b496]"></i>
-                                        </div>
-                                        <div class="cr-services-contain max-[767px]:text-center">
-                                            <h4 class="mb-[5px] text-[18px] font-Poppins text-[#2b2b2d] leading-[1.667] font-semibold text-center max-[1399px]:text-[17px] max-[767px]:text-[15px]">Zamena i povrat novca</h4>
-                                            <p class="font-Poppins text-[14px] leading-[22px] font-light text-center text-[#7a7a7a]">Ukoliko proizvod iz bilo kog razloga ne ispuni Vaša očekivanja, možete ga zameniti za neki drugi ili zahtevati povrat novca.</p>
-                                        </div>
+                    <div class="cr-paking-delivery mt-[40px] p-[24px] bg-[#fff] border-[1px] border-solid border-[#e9e9e9] rounded-[5px]">
+                        <ul class="nav nav-tabs border-b-[1px] border-solid border-[#dee2e6] flex flex-wrap justify-left" id="mydeliveryTab">
+                            <li class="nav-item transition-all duration-[0.3s] ease-in-out mr-[30px] relative active">
+                                <a href="#description" class="mb-[25px] flex font-Poppins text-[17px] font-semibold leading-[1.5] tracking-[0] text-[#2b2b2d] text-left max-[1399px]:text-[18px] max-[767px]:text-[16px] max-[575px]:mb-[15px]">Opis</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content" id="myTabContent">
+                            <div class="tab-delivery-pane" id="description">
+                                <div class="cr-tab-content">
+                                    <div class="cr-description pt-[30px]">
+                                        <p class="text-[14px] text-left mb-[0] font-Poppins text-[#7a7a7a] leading-[1.75]"><?php echo $product['description']; ?></p>
                                     </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="cr-services p-[24px] bg-[#f7f7f8] rounded-[5px] border-[1px] border-solid border-[#e9e9e9] flex flex-col max-[767px]:justify-center">
-                                        <div class="cr-services-image mt-auto mr-auto mb-[12px] ml-auto block">
-                                            <i class="ri-customer-service-2-line text-[43px] leading-[40px] text-[#64b496]"></i>
-                                        </div>
-                                        <div class="cr-services-contain max-[767px]:text-center">
-                                            <h4 class="mb-[5px] text-[18px] font-Poppins text-[#2b2b2d] leading-[1.667] font-semibold text-center max-[1399px]:text-[17px] max-[767px]:text-[15px]">Podrška putem mejla</h4>
-                                            <p class="font-Poppins text-[14px] leading-[22px] font-light text-center text-[#7a7a7a]">Za sva pitanja ili nedoumice možete nas kontaktirati putem e-maila, i odgovorićemo Vam u najkraćem mogućem roku.</p>
-                                        </div>
-                                    </div>
-                                </div>                                
-                                <div class="swiper-slide">
-                                    <div class="cr-services p-[24px] bg-[#f7f7f8] rounded-[5px] border-[1px] border-solid border-[#e9e9e9] flex flex-col max-[767px]:justify-center">
-                                        <div class="cr-services-image mt-auto mr-auto mb-[12px] ml-auto block">
-                                            <i class="ri-truck-line text-[43px] leading-[40px] text-[#64b496]"></i>
-                                        </div>
-                                        <div class="cr-services-contain max-[767px]:text-center">
-                                            <h4 class="mb-[5px] text-[18px] font-Poppins text-[#2b2b2d] leading-[1.667] font-semibold text-center max-[1399px]:text-[17px] max-[767px]:text-[15px]">Brza dostava na adresu</h4>
-                                            <p class="font-Poppins text-[14px] leading-[22px] font-light text-center text-[#7a7a7a]">Dostava za 2-3 radna dana. Cena dostave je 300 dinara, a za porudžbine preko 2.500 dinara dostava je besplatna.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="cr-services p-[24px] bg-[#f7f7f8] rounded-[5px] border-[1px] border-solid border-[#e9e9e9] flex flex-col max-[767px]:justify-center">
-                                        <div class="cr-services-image mt-auto mr-auto mb-[12px] ml-auto block">
-                                            <i class="ri-money-dollar-box-line text-[43px] leading-[40px] text-[#64b496]"></i>
-                                        </div>
-                                        <div class="cr-services-contain max-[767px]:text-center">
-                                            <h4 class="mb-[5px] text-[18px] font-Poppins text-[#2b2b2d] leading-[1.667] font-semibold text-center max-[1399px]:text-[17px] max-[767px]:text-[15px]">100% sigurna kupovina</h4>
-                                            <p class="font-Poppins text-[14px] leading-[22px] font-light text-center text-[#7a7a7a]">Mi smo registrovana internet prodaja i kupovinom kod nas ostvarujete sva prava iz zakona o zaštiti potrošača.</p>
-                                        </div>
+                                    <h4 class="heading mb-[0] pt-[30px] pb-[20px] font-Poppins text-[16px] font-medium leading-[1.5] text-left text-[#2b2b2d] border-b-[1px] border-solid border-[#e9e9e9]">Pakovanje i dostava</h4>
+                                    <div class="cr-description pt-[30px]">
+                                        <p class="text-[14px] text-left mb-[0] font-Poppins text-[#7a7a7a] leading-[1.75]">Dostava za 2-3 radna dana. Cena dostave je 300 dinara, a za porudžbine preko 2.500 dinara dostava je besplatna.</p>
                                     </div>
                                 </div>
                             </div>
@@ -256,6 +261,16 @@
             </div>
         </div>
     </section>
+
+    <!-- Custom Add to Cart Popup -->
+    <div id="add-to-cart-popup" class="z-[9999] fixed top-0 left-0 w-full h-full bg-black bg-opacity-50 flex justify-center items-center hidden">
+        <div class="bg-white rounded-lg shadow-lg p-6 w-[300px] text-center">
+            <h2 class="text-xl font-bold text-[#64b496] mb-2">Proizvod dodat!</h2>
+            <p id="popup-product-name" class="text-[#444] text-[14px] mb-4"></p>
+            <a href="cart.html" class="bg-[#64b496] text-white px-4 py-2 rounded hover:bg-[#000] hover:text-white transition">Idi na plaćanje</a>
+            <button id="close-popup" class="text-[#64b496] mt-4 underline hover:text-[#000] transition">Nastavi kupovinu</button>
+        </div>
+    </div>
 
     <!-- Custom Popup for notifications -->
     <div id="email-popup" class="popup fixed inset-0 flex items-center justify-center bg-[rgba(0,0,0,0.7)] z-[9999] hidden">
@@ -356,7 +371,7 @@
             </svg>
         </div>
     </a>
-
+    
     <!-- Vendor Custom -->
     <script src="assets/js/vendor/jquery-3.6.4.min.js"></script>
     <script src="assets/js/vendor/jquery.zoom.min.js"></script>
@@ -369,9 +384,10 @@
     <!-- Main Custom -->
     <script src="assets/js/main.js"></script>
 
+    <script src="addToCart.js"></script>
     <script src="emailScript.js"></script>
     <script src="search.js"></script>
-
+    
 </body>
 
 </html>

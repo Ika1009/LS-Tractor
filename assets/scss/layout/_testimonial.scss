@@ -1,0 +1,120 @@
+/* Testimonial */
+.section-testimonial {
+    &::before {
+        width: 100px;
+        height: 100px;
+        content: "";
+        background-image: url("../img/shape/11.png");
+        background-size: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 20px;
+        left: -20px;
+        z-index: 0;
+    }
+}
+
+.cr-testimonial {
+    &::before {
+        width: 50px;
+        height: 50px;
+        content: "";
+        background-image: url("../img/testimonial/left-quote.png");
+        background-size: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 20px;
+        left: 30px;
+        opacity: 0.5;
+    }
+    &::after {
+        width: 50px;
+        height: 50px;
+        content: "";
+        background-image: url("../img/testimonial/left-quote.png");
+        background-size: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        position: absolute;
+        transform: rotate(180deg);
+        bottom: 20px;
+        right: 30px;
+        opacity: 0.5;
+    }
+    .cr-testimonial-image {
+        &::after {
+            width: 121px;
+            height: 63px;
+            content: "";
+            position: absolute;
+            bottom: 0px;
+            border: 1px solid $card-border-color;
+            border-bottom-left-radius: 100px;
+            border-bottom-right-radius: 100px;
+            border-top: none;
+            z-index: 0;
+        }
+    }
+}
+
+/* Responsive */
+@media only screen and (max-width: 1199px) {
+    .cr-testimonial {
+        &::before {
+            width: 40px;
+            height: 40px;
+            top: 20px;
+            left: 20px;
+        }
+        &::after {
+            width: 40px;
+            height: 40px;
+            bottom: 20px;
+            right: 20px;
+        }
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .section-testimonial {
+        &::before {
+            width: 60px;
+            height: 60px;
+        }
+        &::after {
+            width: 100px;
+            height: 80px;
+        }
+    }
+    .cr-testimonial {
+        &::before {
+            width: 35px;
+            height: 35px;
+            top: 10px;
+            left: 10px;
+        }
+        &::after {
+            width: 35px;
+            height: 35px;
+            bottom: 10px;
+            right: 10px;
+        }
+        .cr-testimonial-image {
+            &::after {
+                width: 92px;
+                height: 41px;
+                bottom: 0;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .section-testimonial {
+        &:before {
+            display: none;
+        }
+    }
+}

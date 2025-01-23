@@ -1,0 +1,36 @@
+/* Instagram */
+.cr-insta {
+    .swiper-slide {
+        border-radius: 5px;
+        overflow: hidden;
+    }
+}
+.cr-insta-image {
+    &:hover {
+        .insta-overlay {
+            background-color: rgba(0, 0, 0, 0.6);
+            &:after {
+                opacity: 1;
+            }
+        } 
+    }
+    .insta-overlay {
+        &:after {
+            @include ease3;
+            padding: 0;
+            font-family: remixicon;
+            content: "\ee66";
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            color: #fff;
+            font-size: 30px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            opacity: 0;
+        }
+    }
+}

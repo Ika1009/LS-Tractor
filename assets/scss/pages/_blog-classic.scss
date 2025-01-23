@@ -1,0 +1,45 @@
+/* Blog-classic */
+.cr-blog-classic {
+    background-color: $fff;
+    border: 1px solid $border-color;
+    border-radius: $radius;
+    &:not(:last-child) {
+        margin-bottom: 24px;
+    }
+    .cr-blog-classic-content {
+        a {
+            &:after {
+                font-family: remixicon;
+                content: "\ea6c";
+                font-size: 16px;
+                line-height: 1.2;
+                position: absolute;
+                top: 0;
+                right: -20px;
+            }
+        }
+    }
+}
+
+.cr-blog-sideview {
+    .cr-serch-box {
+        .cr-search {
+            input {
+                &::placeholder {
+                    font-family: $font-family-Poppins;
+                    font-size: 14px;
+                    color: $text-color;
+                }
+                &:focus-visible {
+                    border: 1px solid $border-color;
+                }
+            }
+        }
+    }
+}
+
+.cr-blog-instagram-image {
+    .cr-blog-instagram-image-inner {
+        grid-template-columns: repeat(auto-fill, calc(33% - 10px));
+    }
+}

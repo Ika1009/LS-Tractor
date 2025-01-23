@@ -1,0 +1,7 @@
+.body-bg-3 {
+  background-color: #f8fafb;
+  opacity: 1;
+  background-size: 7px 7px;
+  background-image: repeating-linear-gradient(45deg, #eee 0, #eee 0.7px, #f8fafb 0, #f8fafb 50%);
+}
+/*# sourceMappingURL=bg-3.css.map */

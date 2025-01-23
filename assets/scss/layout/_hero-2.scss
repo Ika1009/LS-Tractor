@@ -1,0 +1,226 @@
+/* Hero 2 */
+.cr-hero-banner {
+    .hero-container-fluid {
+        .hero-row {
+            &:after {
+                width: 350px;
+                height: 100%;
+                overflow: hidden;
+                content: "";
+                background-image: url("../img/shape/15.png");
+                background-size: 100%;
+                background-position: bottom;
+                background-repeat: no-repeat;
+                position: absolute;
+                bottom: -30px;
+                right: -100px;
+                z-index: 3;
+                opacity: 0.9;
+                filter: blur(1px);
+                animation: left-right-2 5s linear infinite;
+            }
+            @keyframes left-right-2 {
+                0% {
+                    right: -90px;
+                    transform: rotate(0deg);
+                }
+                50% {
+                    right: -100px;
+                    bottom: 5px;
+                    transform: rotate(-2deg);
+                }
+                100% {
+                    right: -90px;
+                    transform: rotate(0deg);
+                }
+            }
+        }
+    }
+}
+
+.section-hero {
+    .swiper-container-horizontal > .swiper-pagination-bullets {
+        bottom: 15px !important;
+    }
+}
+
+.cr-slider {
+    &:before {
+        width: 400px;
+        height: 300px;
+        content: "";
+        background-image: url("../img/shape/14.png");
+        background-size: 100%;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 20px;
+        left: -50px;
+        z-index: 2;
+        opacity: 0.5;
+        animation: left-right-1 3s linear infinite;
+    }
+    &:after {
+        width: 350px;
+        height: 300px;
+        content: "";
+        background-image: url("../img/shape/14.png");
+        background-size: 100%;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 50px;
+        left: -70px;
+        z-index: 2;
+        animation: left-right 6s linear infinite;
+        opacity: 0.5;
+    }
+    @keyframes left-right-1 {
+        0% {
+            left: -40px;
+            transform: rotate(0deg);
+        }
+        50% {
+            left: -50px;
+            top: 5px;
+            transform: rotate(-2deg);
+        }
+        100% {
+            left: -40px;
+            transform: rotate(0deg);
+        }
+    }
+    @keyframes left-right {
+        0% {
+            left: -60px;
+        }
+        50% {
+            left: -70px;
+            top: 5px;
+            transform: rotate(-2deg);
+        }
+        100% {
+            left: -60px;
+        }
+    }
+    @keyframes rotate {
+        0% {
+            transform: rotate(0deg);
+        }
+        50% {
+            transform: rotate(30deg);
+        }
+        100% {
+            transform: rotate(0deg);
+        }
+    }
+    .swiper-wrapper {
+        .swiper-slide-active {
+            h5 {
+                animation: fadeInUp 1s both 0.5s;
+            }
+            h1 {
+                animation: fadeInUp 1s both 0.75s;
+            }
+            p {
+                animation: fadeInUp 1s both 1s;
+            }
+            .cr-last-buttons {
+                animation: fadeInUp 1s both 1.25s;
+            }
+        }
+    }
+    .swiper-pagination-bullet {
+        transition: all 0.3s ease 0s;
+        width: 15px;
+        height: 15px;
+        margin: 0 2.5px !important;
+        display: inline-block;
+        border-radius: 30px;
+        opacity: 1;
+        border: 1px solid $main-primary-color;
+        box-shadow: none;
+        background-color: transparent;
+    }
+    .swiper-pagination-bullet.swiper-pagination-bullet-active {
+        background-color: $main-primary-color;
+    }
+}
+
+/* Responsive */
+@media only screen and (max-width: 1199px) {
+    .cr-hero-banner {
+        .hero-container-fluid {
+            .hero-row {
+                &:after {
+                    width: 250px;
+                }
+            }
+        }
+    }
+    .cr-slider {
+        &:before,
+        &:after {
+            width: 300px;
+            height: 150px;
+        }
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .cr-slider {
+        &:before,
+        &:after {
+            width: 250px;
+        }
+    }
+    .cr-hero-banner {
+        &::after {
+            width: 56px;
+            height: 50px;
+        }
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .cr-hero-banner {
+        .hero-container-fluid {
+            .hero-row {
+                &:after {
+                    width: 200px;
+                }
+            }
+        }
+    }
+    .cr-slider {
+        &:before,
+        &:after {
+            width: 200px;
+        }
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .cr-hero-banner {
+        .hero-container-fluid {
+            .hero-row {
+                &:after {
+                    display: none;
+                }
+            }
+        }
+    }
+    .cr-slider {
+        &:before,
+        &:after {
+            display: none;
+        }
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .cr-hero-banner {
+        &::after {
+            height: 40px;
+            width: 40px;
+        }
+    }
+}

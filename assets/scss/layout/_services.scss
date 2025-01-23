@@ -1,0 +1,34 @@
+/* services- */
+.section-services {
+    &::before {
+        width: 80px;
+        height: 80px;
+        content: "";
+        background-image: url("../img/shape/7.png");
+        background-size: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 0;
+        left: 20px;
+        z-index: 0;
+    }
+}
+
+/* Responsive */
+@media only screen and (max-width: 991px) {
+    .section-services {
+        &::before {
+            width: 50px;
+            height: 50px;
+        }
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .section-services {
+        &:before {
+            display: none;
+        }
+    }
+}
