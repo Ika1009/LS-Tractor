@@ -1,0 +1,240 @@
+[
+    {
+        "model": "LS XR50 MT CAB (50 HP)",
+        "description": "Voćarski traktor sa kabinom od 50 KS; Mitsubishi motor; sinhrona šatl transmisija 16x16; pogon na sva četiri točka; hidrostatički upravljački sistem; zadnji nezavisni PTO.",
+        "specifications": {
+            "engine": {
+                "manufacturer": "Mitsubishi",
+                "type": "Tier III motor",
+                "power": "50 KS",
+                "fuel_tank_capacity": "47 litara"
+            },
+            "transmission": {
+                "type": "Sinhrona šatl transmisija 16x16",
+                "drive": "4WD"
+            },
+            "steering": "Hidrostatički",
+            "pto": {
+                "type": "Nezavisni PTO sa 3 brzine",
+                "control": "Prekidač na kontrolnoj tabli"
+            },
+            "hydraulics": {
+                "remote_valves": "Maksimalno 2 para daljinskih ventila"
+            },
+            "features": [
+                "Novi prednji dizajn sa hromiranim detaljima",
+                "Ergonomski dizajnirane kontrole hidraulike i džojstik na blatobranu",
+                "Vodootporna prednja osovina pogodna za rad u vlažnim uslovima",
+                "Jednostavna i praktična kontrolna tabla sa prekidačima"
+            ]
+        },
+        "images": [
+            "https://lstractor.bg/image/cache/catalog/Products/Tractors/XR50%20MT%20CAB/LS%20XR50%20MT%20CAB%20(50%20HP)%201-500x500.jpg",
+            "https://lstractor.bg/image/cache/catalog/Products/Tractors/XR50%20MT%20CAB/LS%20XR50%20MT%20CAB%20(50%20HP)%202-500x500.jpg",
+            "https://lstractor.bg/image/cache/catalog/Products/Tractors/XR50%20MT%20CAB/LS%20XR50%20MT%20CAB%20(50%20HP)%203-500x500.jpg"
+        ],
+        "price": "47,000.00 лв. bez PDV-a"
+    },
+    {
+        "model": "LS U60 MT CAB (60 HP)",
+        "description": "Traktor sa kabinom od 60 KS; Mitsubishi motor; sinhrona šatl transmisija 16x16; pogon na sva četiri točka; hidrostatički upravljački sistem; zadnji nezavisni PTO.",
+        "specifications": {
+            "engine": {
+                "manufacturer": "Mitsubishi",
+                "type": "Tier III motor",
+                "power": "60 KS",
+                "fuel_tank_capacity": "N/A"
+            },
+            "transmission": {
+                "type": "Sinhrona šatl transmisija 16x16",
+                "drive": "4WD"
+            },
+            "steering": "Hidrostatički",
+            "pto": {
+                "type": "Nezavisni PTO sa 3 brzine",
+                "control": "Prekidač na kontrolnoj tabli"
+            },
+            "hydraulics": {
+                "remote_valves": "Maksimalno 2 para daljinskih ventila"
+            },
+            "features": [
+                "Novi prednji dizajn sa hromiranim detaljima",
+                "Ergonomski dizajnirane kontrole hidraulike i džojstik na blatobranu",
+                "Vodootporna prednja osovina pogodna za rad u vlažnim uslovima",
+                "Jednostavna i praktična kontrolna tabla sa prekidačima"
+            ]
+        },
+        "images": [
+            "https://lstractor.bg/image/cache/catalog/Products/Tractors/U60%20MT%20CAB/LS%20U60%20MT%20CAB%20(60%20HP)%201-500x500.jpg",
+            "https://lstractor.bg/image/cache/catalog/Products/Tractors/U60%20MT%20CAB/LS%20U60%20MT%20CAB%20(60%20HP)%202-500x500.jpg",
+            "https://lstractor.bg/image/cache/catalog/Products/Tractors/U60%20MT%20CAB/LS%20U60%20MT%20CAB%20(60%20HP)%203-500x500.jpg"
+        ],
+        "price": "Cena na upit"
+    },
+    {
+        "model": "LS PLUS100 PS CAB (100 HP)",
+        "description": "Traktor sa kabinom, snage 100 KS, pogodan za razne poljoprivredne zadatke.",
+        "specifications": {
+            "engine": {
+                "manufacturer": "LS Mtron",
+                "type": "Vodeno hlađeni 4-cilindrični dizel motor sa turbo punjačem",
+                "model": "Nije navedeno",
+                "power": "100 KS",
+                "cylinders": 4,
+                "displacement": "Nije navedeno",
+                "fuel_tank_capacity": "Nije navedeno",
+                "battery": "Nije navedeno",
+                "max_rpm_and_torque": "Nije navedeno",
+                "emission_class": "Stage III"
+            },
+            "transmission": {
+                "type": "Mehanički menjač",
+                "differential_lock": "Da",
+                "drive": "4×4",
+                "steering": "Hidrostatički",
+                "max_speed": "Nije navedeno",
+                "brakes": "Nije navedeno"
+            },
+            "tbz_and_pto": {
+                "rear_pto": "Nije navedeno",
+                "tbz_category": "Nije navedeno",
+                "rear_hydraulic_lift_capacity": "Nije navedeno",
+                "hydraulic_pump_capacity": "Nije navedeno"
+            },
+            "dimensions_and_weight": {
+                "length": "Nije navedeno",
+                "width": "Nije navedeno",
+                "height": "Nije navedeno",
+                "wheelbase": "Nije navedeno",
+                "ground_clearance": "Nije navedeno",
+                "turning_radius": "Nije navedeno",
+                "max_steering_angle": "Nije navedeno",
+                "weight": "Nije navedeno",
+                "tires_front_rear": "Nije navedeno"
+            },
+            "price": "Nije navedeno"
+        },
+        "features": [
+            "Kabina sa klima uređajem za udobnost operatera.",
+            "Pogon na sva četiri točka za bolju trakciju.",
+            "Snažan motor od 100 KS za zahtevne zadatke."
+        ],
+        "images": [
+            "https://lstractor.bg/image/cache/catalog/PLUS100-500x500.jpg"
+        ]
+    },
+    {
+        "model": "LS R36i MT RR (38 HP)",
+        "description": "Voćarski traktor snage 38 KS sa ROPS zaštitom; Mitsubishi motor; sinhroni menjač 12x12; 4WD; hidrostatički upravljački sistem; zadnji nezavisni PTO.",
+        "specifications": {
+            "engine": {
+                "manufacturer": "Mitsubishi",
+                "type": "Vodeno hlađeni 3-cilindrični dizel motor",
+                "model": "Nije navedeno",
+                "power": "38 KS",
+                "cylinders": 3,
+                "displacement": "Nije navedeno",
+                "fuel_tank_capacity": "47 litara",
+                "battery": "Nije navedeno",
+                "max_rpm_and_torque": "Nije navedeno",
+                "emission_class": "Stage III"
+            },
+            "transmission": {
+                "type": "Mehanički menjač 12 napred / 12 nazad sa super puzećim brzinama",
+                "differential_lock": "Da",
+                "drive": "4×4",
+                "steering": "Hidrostatički",
+                "max_speed": "Nije navedeno",
+                "brakes": "Nije navedeno"
+            },
+            "tbz_and_pto": {
+                "rear_pto": "Nezavisni PTO, lako upravljiv prekidačem na komandnoj tabli",
+                "tbz_category": "Nije navedeno",
+                "rear_hydraulic_lift_capacity": "Nije navedeno",
+                "hydraulic_pump_capacity": "Nije navedeno"
+            },
+            "dimensions_and_weight": {
+                "length": "Nije navedeno",
+                "width": "Nije navedeno",
+                "height": "Nije navedeno",
+                "wheelbase": "Nije navedeno",
+                "ground_clearance": "Nije navedeno",
+                "turning_radius": "Nije navedeno",
+                "max_steering_angle": "Nije navedeno",
+                "weight": "Nije navedeno",
+                "tires_front_rear": "Nije navedeno"
+            },
+            "price": "31,000.00 лв. (bez PDV-a)"
+        },
+        "features": [
+            "Motor koji ispunjava EU Stage III standarde emisije sa tihim radom i niskim vibracijama.",
+            "Moderni prednji dizajn sa hromiranim detaljima.",
+            "Veliki rezervoar za gorivo od 47 litara za duži rad i lakše punjenje.",
+            "Menjač sa 12 napred i 12 nazad brzina, uključujući super puzeće brzine za raznovrsne poslove.",
+            "Nezavisni PTO, lako upravljiv prekidačem na komandnoj tabli.",
+            "Vodootporna prednja osovina sa snažnom strukturom i izdržljivošću, idealna za rad u vlažnim uslovima.",
+            "Jednostavna i praktična kontrolna tabla sa prekidačima za različite funkcije.",
+            "Maksimalno 2 para daljinskih ventila za praktičnu upotrebu sa različitim priključcima."
+        ],
+        "images": [
+            "https://lstractor.bg/image/cache/catalog/R36i-500x500.jpg"
+        ]
+    },
+    {
+        "model": "LS R60 MT FR (60 HP)",
+        "description": "Voćarski traktor snage 60 KS sa ROPS zaštitom; Mitsubishi motor; sinhroni menjač 16x16; 4WD; hidrostatički upravljački sistem; zadnji nezavisni PTO.",
+        "specifications": {
+            "engine": {
+                "manufacturer": "Mitsubishi",
+                "type": "Vodeno hlađeni 4-cilindrični dizel motor",
+                "model": "Nije navedeno",
+                "power": "60 KS",
+                "cylinders": 4,
+                "displacement": "Nije navedeno",
+                "fuel_tank_capacity": "47 litara",
+                "battery": "Nije navedeno",
+                "max_rpm_and_torque": "Nije navedeno",
+                "emission_class": "Stage III"
+            },
+            "transmission": {
+                "type": "Sinhroni menjač 16 napred / 16 nazad sa super puzećim brzinama",
+                "differential_lock": "Da",
+                "drive": "4×4",
+                "steering": "Hidrostatički",
+                "max_speed": "Nije navedeno",
+                "brakes": "Nije navedeno"
+            },
+            "tbz_and_pto": {
+                "rear_pto": "Nezavisni PTO, lako upravljiv prekidačem na komandnoj tabli",
+                "tbz_category": "Nije navedeno",
+                "rear_hydraulic_lift_capacity": "Nije navedeno",
+                "hydraulic_pump_capacity": "Nije navedeno"
+            },
+            "dimensions_and_weight": {
+                "length": "Nije navedeno",
+                "width": "Nije navedeno",
+                "height": "Nije navedeno",
+                "wheelbase": "Nije navedeno",
+                "ground_clearance": "Nije navedeno",
+                "turning_radius": "Nije navedeno",
+                "max_steering_angle": "Nije navedeno",
+                "weight": "Nije navedeno",
+                "tires_front_rear": "Nije navedeno"
+            },
+            "price": "37,000.00 лв. (bez PDV-a)"
+        },
+        "features": [
+            "Motor koji ispunjava EU Stage III standarde emisije sa tihim radom i niskim vibracijama.",
+            "Veliki rezervoar za gorivo od 47 litara za duži rad i lakše punjenje.",
+            "Sinhroni menjač sa 16 napred i 16 nazad brzina, uključujući super puzeće brzine za raznovrsne poslove.",
+            "Nezavisni PTO, lako upravljiv prekidačem na komandnoj tabli.",
+            "Vodootporna prednja osovina sa snažnom strukturom i izdržljivošću, idealna za rad u vlažnim uslovima.",
+            "Maksimalno 2 para daljinskih ventila za praktičnu upotrebu sa različitim priključcima.",
+            "Hidrostatički upravljački sistem za laku manevrabilnost.",
+            "ROPS zaštita za bezbednost operatera."
+        ],
+        "images": [
+            "https://lstractor.bg/image/cache/catalog/R60-500x500.jpg"
+        ]
+    }
+]
