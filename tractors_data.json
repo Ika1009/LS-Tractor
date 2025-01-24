@@ -1,0 +1,388 @@
+[
+  {
+    "model": "LS MT1.25",
+    "description": "LS MT1.25 je kompaktni traktor pogodan za male farme, rančeve, parkove i komunalno održavanje. Opremljen je motorom od 25 KS proizvođača YANMAR, hidrostatičkom transmisijom, pogonom na sva četiri točka (4×4) i zadnjom hidraulikom kapaciteta podizanja od 440 kg.",
+    "specifications": {
+      "engine": {
+        "manufacturer": "YANMAR",
+        "type": "Vodeno hlađeni trocilindrični dizel motor, direktno ubrizgavanje",
+        "model": "3TNV80F",
+        "power": "18.4 kW / 24.7 KS",
+        "cylinders": 3,
+        "displacement": "1267 cm³",
+        "fuel_tank_capacity": "25 litara",
+        "battery": "12V",
+        "max_rpm_and_torque": "3000 o/min / 69 Nm",
+        "emission_class": "EURO V"
+      },
+      "transmission": {
+        "type": "Hidrostatička",
+        "differential_lock": "Da",
+        "drive": "4×4",
+        "steering": "Hidrostatičko",
+        "max_speed": "14.6 km/h",
+        "brakes": "Mokre disk kočnice"
+      },
+      "tbz_and_pto": {
+        "rear_pto": "540 o/min",
+        "mid_pto": "2500 o/min",
+        "tbz_category": "I",
+        "rear_hydraulic_lift_capacity": "440 kg",
+        "hydraulic_pump_capacity": "17 l/min"
+      },
+      "dimensions_and_weight": {
+        "length": "2470 mm",
+        "width": "1190 mm",
+        "height": "2218 mm",
+        "wheelbase": "1425 mm",
+        "ground_clearance": "430 mm",
+        "turning_radius": "2400 mm",
+        "max_steering_angle": "54.5°",
+        "weight": "655 kg",
+        "tires_front_rear": "18×8.5-10 / 26×12.00-12"
+      },
+      "price": "Od €13,999.00 sa PDV-om"
+    },
+    "features": [
+      "Moderan i elegantan dizajn optimalan za male farme i stambene potrebe.",
+      "Snažna zadnja kašika koja se može brzo i lako ukloniti.",
+      "HST – hidrostatički pogon sa sistemom dvostrukih pedala za lako menjanje pravca i brzine.",
+      "Kosilica montirana u sredini sa odstojanjem od tla od 152 mm, omogućavajući lako montiranje i demontiranje.",
+      "Jednostavno podešavanje visine sečenja okretanjem kontrolnog točkića.",
+      "Zadnja hidraulika kategorije I sa kapacitetom podizanja od 440 kg, pogodna za razne priključke.",
+      "Prostrana ravna platforma sa dovoljno prostora za noge i lak ulazak u traktor.",
+      "Rotirajuće GRAMMER® sedište sa visokim naslonom za udobnost i podršku."
+    ],
+    "images": [
+      "https://www.lstraktor.sk/images/mt1.25_1.jpg",
+      "https://www.lstraktor.sk/images/mt1.25_2.jpg",
+      "https://www.lstraktor.sk/images/mt1.25_3.jpg"
+    ]
+  },
+  {
+    "model": "LS XJ25",
+    "description": "LS XJ25 je mali i okretan traktor dizajniran za male poljoprivrednike i komunalnu upotrebu. Nudi motor od 25 KS proizvođača MITSUBISHI, dostupan sa mehaničkom ili hidrostatičkom transmisijom, pogonom na sva četiri točka (4×4) i zadnjom hidraulikom kapaciteta podizanja od 650 kg.",
+    "specifications": {
+      "engine": {
+        "manufacturer": "MITSUBISHI",
+        "type": "Vodeno hlađeni trocilindrični dizel motor, direktno ubrizgavanje",
+        "model": "S3L2",
+        "power": "18.2 kW / 24.4 KS",
+        "cylinders": 3,
+        "displacement": "1318 cm³",
+        "fuel_tank_capacity": "25 litara",
+        "battery": "12V",
+        "max_rpm_and_torque": "2700 o/min / 71 Nm",
+        "emission_class": "EURO V"
+      },
+      "transmission": {
+        "type": "Mehanička (6/2) ili Hidrostatička (2 opsega)",
+        "differential_lock": "Da",
+        "drive": "4×4",
+        "steering": "Hidrostatičko",
+        "max_speed": "23.7 km/h",
+        "brakes": "Mokre disk kočnice"
+      },
+      "tbz_and_pto": {
+        "rear_pto": "540 o/min",
+        "mid_pto": "2000 o/min",
+        "tbz_category": "I",
+        "rear_hydraulic_lift_capacity": "650 kg",
+        "hydraulic_pump_capacity": "25.5 l/min"
+      },
+      "dimensions_and_weight": {
+        "length": "2632 mm",
+        "width": "1140-1220 mm",
+        "height": "2148-2173 mm",
+        "wheelbase": "1500 mm",
+        "ground_clearance": "285-306 mm",
+        "turning_radius": "2220 mm",
+        "max_steering_angle": "47°",
+        "weight": "766 kg",
+        "tires_front_rear": "6-12 / 9.5-16"
+      },
+      "price": {
+        "mechanical_transmission": "Od €13,999.00 sa PDV-om",
+        "hydrostatic_transmission": "Od €14,999.00 sa PDV-om"
+      }
+    },
+    "features": [
+      "Moderan i elegantan dizajn optimalan za male farme i stambene potrebe.",
+      "Motor u skladu sa emisijom EURO V, osigurava tihi i pouzdani rad sa smanjenim vibracijama.",
+      "Veliki rezervoar od 25 litara za produženo vreme rada.",
+      "Standardni srednji PTO sa 2000 o/min, omogućavajući priključivanje raznih dodataka.",
+      "Velika maksimalna brzina od 23.7 km/h za brzo transportovanje.",
+      "Zadnja hidraulika kategorije I sa kapacitetom podizanja od 650 kg, pogodna za razne priključke.",
+      "Elektronski ON/OFF prekidač PTO-a za lako uključivanje i isključivanje.",
+      "Jednostavna promena između 2×4 i 4×4 pogona pomoću zgodno postavljenih poluga.",
+      "Ergonomski dizajnirana kontrolna tabla za maksimalnu udobnost.",
+      "Podesivo GRAMMER® sedište koje pruža udobnost i sigurnost."
+    ],
+    "images": [
+      "https://www.lstraktor.sk/images/xj25_1.jpg",
+      "https://www.lstraktor.sk/images/xj25_2.jpg",
+      "https://www.lstraktor.sk/images/xj25_3.jpg"
+    ]
+  },
+  {
+    "model": "LS MT3.35 / MT3.40",
+    "opis": "LS MT3.35 i MT3.40 su višenamenski traktori dizajnirani za male i srednje farme, kao i za komunalnu upotrebu. Nude pouzdane performanse sa nizom funkcija koje povećavaju produktivnost.",
+    "specifikacije": {
+      "motor": {
+        "proizvođač": "LS Mtron",
+        "tip": "Vodeno hlađeni dizel sa 3 cilindra, direktno ubrizgavanje",
+        "model": "L3C19-T",
+        "snaga": "35 KS / 40 KS",
+        "cilindri": 3,
+        "zapremina": "1.826 cm³",
+        "kapacitet_rezervoara": "45 litara",
+        "baterija": "12V",
+        "maksimalni_obrtaji_i_obrtni_moment": "2.600 obrtaja/min / 142 Nm",
+        "klasa_emisije": "EURO V"
+      },
+      "transmisija": {
+        "tip": "Mehanička (12 napred / 12 nazad)",
+        "blokada_diferencijala": "Da",
+        "pogonski_sistem": "4×4",
+        "upravljanje": "Hidrostatičko",
+        "maksimalna_brzina": "25 km/h",
+        "kočnice": "Disk kočnice u ulju"
+      },
+      "tbz_i_pto": {
+        "zadnji_pto": "540 obrtaja/min",
+        "tbz_kategorija": "I",
+        "kapacitet_podižnog_mehanizma": "820 kg",
+        "kapacitet_hidrauličke_pumpe": "28,5 l/min"
+      },
+      "dimenzije_i_tezina": {
+        "dužina": "3.140 mm",
+        "širina": "1.460 mm",
+        "visina": "2.400 mm",
+        "međusovinsko_rastojanje": "1.750 mm",
+        "razmak_od_tla": "340 mm",
+        "radijus_okretanja": "2.800 mm",
+        "maksimalni_ugao_upravljanja": "50°",
+        "težina": "1.500 kg",
+        "gume_prednje_zadnje": "7-16 / 11.2-24"
+      },
+      "cena": "Od 19.999,00 € sa PDV-om"
+    },
+    "funkcije": [
+      "Moderan dizajn pogodan za različite poljoprivredne i komunalne zadatke.",
+      "Motor sa EURO V standardom emisije za efikasno i ekološko poslovanje.",
+      "Prostrana platforma za operatera sa ergonomskim komandama za povećan komfor.",
+      "Standardni 4×4 pogon koji obezbeđuje odličnu vuču u različitim uslovima.",
+      "Kategorija I trotačka veza sa kapacitetom podizanja od 820 kg, pogodna za širok spektar priključaka.",
+      "Hidrostatičko upravljanje za lakše manevrisanje.",
+      "Disk kočnice u ulju za pouzdano kočenje.",
+      "Mehanička transmisija sa 12 brzina napred i 12 nazad za različite opcije brzine."
+    ],
+    "slike": [
+      "https://www.lstraktor.sk/images/mt3.35_1.jpg",
+      "https://www.lstraktor.sk/images/mt3.35_2.jpg",
+      "https://www.lstraktor.sk/images/mt3.35_3.jpg"
+    ]
+  },
+  {
+    "model": "LS MT3.50 / MT3.60",
+    "opis": "LS MT3.50 i MT3.60 su robusni traktori dizajnirani za srednje farme i teške zadatke. Pružaju snažne performanse sa naprednim funkcijama za zadovoljavanje različitih poljoprivrednih potreba.",
+    "specifikacije": {
+      "motor": {
+        "proizvođač": "LS Mtron",
+        "tip": "Vodeno hlađeni dizel sa 4 cilindra, turbopunjač, direktno ubrizgavanje",
+        "model": "L4C25-T",
+        "snaga": "50 KS / 60 KS",
+        "cilindri": 4,
+        "zapremina": "2.505 cm³",
+        "kapacitet_rezervoara": "60 litara",
+        "baterija": "12V",
+        "maksimalni_obrtaji_i_obrtni_moment": "2.500 obrtaja/min / 196 Nm",
+        "klasa_emisije": "EURO V"
+      },
+      "transmisija": {
+        "tip": "Mehanička (16 napred / 16 nazad)",
+        "blokada_diferencijala": "Da",
+        "pogonski_sistem": "4×4",
+        "upravljanje": "Hidrostatičko",
+        "maksimalna_brzina": "30 km/h",
+        "kočnice": "Disk kočnice u ulju"
+      },
+      "tbz_i_pto": {
+        "zadnji_pto": "540 / 540E obrtaja/min",
+        "tbz_kategorija": "II",
+        "kapacitet_podižnog_mehanizma": "1.500 kg",
+        "kapacitet_hidrauličke_pumpe": "37,5 l/min"
+      },
+      "dimenzije_i_tezina": {
+        "dužina": "3.500 mm",
+        "širina": "1.750 mm",
+        "visina": "2.500 mm",
+        "međusovinsko_rastojanje": "2.000 mm",
+        "razmak_od_tla": "400 mm",
+        "radijus_okretanja": "3.200 mm",
+        "maksimalni_ugao_upravljanja": "55°",
+        "težina": "2.000 kg",
+        "gume_prednje_zadnje": "9.5-20 / 13.6-28"
+      },
+      "cena": "Od 29.999,00 € sa PDV-om"
+    },
+    "funkcije": [
+      "Snažan motor sa turbopunjačem koji zadovoljava EURO V standarde emisije.",
+      "Prostrana kabina sa klimatizacijom i ergonomskim komandama za komfor operatera.",
+      "Standardni 4×4 pogon koji obezbeđuje optimalne performanse na različitim terenima.",
+      "Kategorija II trotačka veza sa kapacitetom podizanja od 1.500 kg, pogodna za teške priključke.",
+      "Hidrostatičko upravljanje za precizno rukovanje.",
+      "Disk kočnice u ulju za pouzdano kočenje.",
+      "Mehanička transmisija sa 16 brzina napred i 16 nazad za fleksibilan rad.",
+      "Hidraulička pumpa velikog kapaciteta za zahtevne hidrauličke aplikacije."
+    ],
+    "slike": [
+      "https://www.lstraktor.sk/images/mt3.50_1.jpg",
+      "https://www.lstraktor.sk/images/mt3.50_2.jpg",
+      "https://www.lstraktor.sk/images/mt3.50_3.jpg"
+    ]
+  },
+  {
+    "model": "LS XU6168",
+    "opis": "LS XU6168 je dizajniran za srednje i velike farme, kao i za komunalnu upotrebu. Sa motorom od 68 KS i prostranom kabinom opremljenom klimatizacijom i radiom, pruža odličan komfor tokom dugih i zahtevnih zadataka.",
+    "specifikacije": {
+      "motor": {
+        "proizvođač": "LS Mtron",
+        "tip": "Vodeno hlađeni dizel sa 4 cilindra, turbopunjač, direktno ubrizgavanje",
+        "model": "L4CRV-T4",
+        "snaga": "50,7 kW / 68 KS",
+        "cilindri": 4,
+        "zapremina": "2.505 cm³",
+        "kapacitet_rezervoara": "80 litara",
+        "baterija": "12V",
+        "maksimalni_obrtaji_i_obrtni_moment": "2.500 obrtaja/min / 236 Nm",
+        "klasa_emisije": "EURO V"
+      },
+      "transmisija": {
+        "tip": "Mehanička (16 napred / 16 nazad)",
+        "blokada_diferencijala": "Da",
+        "pogonski_sistem": "4×4",
+        "upravljanje": "Hidrostatičko",
+        "maksimalna_brzina": "35 km/h",
+        "kočnice": "Disk kočnice u ulju"
+      },
+      "tbz_i_pto": {
+        "zadnji_pto": "540 / 540E obrtaja/min",
+        "tbz_kategorija": "II",
+        "kapacitet_podižnog_mehanizma": "2.200 kg",
+        "kapacitet_hidrauličke_pumpe": "44,5 l/min"
+      },
+      "dimenzije_i_tezina": {
+        "dužina": "4.000 mm",
+        "širina": "2.000 mm",
+        "visina": "2.650 mm",
+        "međusovinsko_rastojanje": "2.150 mm",
+        "razmak_od_tla": "430 mm",
+        "radijus_okretanja": "4.200 mm",
+        "maksimalni_ugao_upravljanja": "55°",
+        "težina": "2.700 kg",
+        "gume_prednje_zadnje": "12.4-24 / 16.9-30"
+      },
+      "cena": "Od 39.999,00 € sa PDV-om"
+    },
+    "funkcije": [
+      "Visokoperformansni motor od 68 KS sa turbopunjačem i EURO V standardom.",
+      "Prostrana kabina sa ergonomskim komandama, klimatizacijom i ugrađenim radiom za komfor operatera.",
+      "Standardni 4×4 pogon koji pruža odličnu vuču u izazovnim uslovima.",
+      "Kategorija II trotačka veza sa kapacitetom podizanja od 2.200 kg, pogodna za teške priključke.",
+      "Hidrostatičko upravljanje za preciznu kontrolu i manevrisanje.",
+      "Disk kočnice u ulju za pouzdano zaustavljanje.",
+      "Mehanička transmisija sa 16 brzina napred i 16 nazad za univerzalne performanse.",
+      "Veliki rezervoar (80 litara) za duge radne sate."
+    ],
+    "slike": [
+      "https://www.lstraktor.sk/images/xu6168_1.jpg",
+      "https://www.lstraktor.sk/images/xu6168_2.jpg",
+      "https://www.lstraktor.sk/images/xu6168_3.jpg"
+    ]
+  },
+  {
+    "model": "LS MT5.73",
+    "engine": {
+      "manufacturer": "LS MTRON",
+      "type": "Vodeno hlađeni četvorocilindrični turbo-dizel",
+      "model": "L4CRV-T1A",
+      "power_kW": 54.4,
+      "power_HP": 73,
+      "displacement_cm3": 2505,
+      "max_torque_Nm": 276,
+      "rpm": 2500,
+      "emission_class": "EURO V"
+    },
+    "transmission": {
+      "type": "Mehanički (12/12 ili 24/24) ili Power Shuttle",
+      "drive": "4×4",
+      "max_speed_kmh": 33
+    },
+    "hydraulics": {
+      "category": "II",
+      "lifting_capacity_kg": 3000,
+      "pump_flow_lpm": 50,
+      "hydraulic_valves": {
+        "front": "4/6",
+        "rear": "4/6"
+      }
+    },
+    "dimensions": {
+      "length_mm": 3977,
+      "width_mm": "1890-2291",
+      "height_mm": 2652,
+      "wheelbase_mm": 2150
+    },
+    "fuel_tank_capacity_l": 100,
+    "cabin": {
+      "seat": "GRAMMER® sedište sa rotacijom od 20°"
+    }
+  },
+  {
+    "model": "LS MT7.101",
+    "engine": {
+      "manufacturer": "FIAT",
+      "type": "Vodeno hlađeni četvorocilindrični turbo-dizel sa direktnim ubrizgavanjem",
+      "model": "FPT F36",
+      "power_kW": 75,
+      "power_HP": 101,
+      "displacement_cm3": 3595,
+      "max_torque_Nm": 430,
+      "rpm": 2200,
+      "emission_class": "EURO V"
+    },
+    "transmission": {
+      "type": "Mehanički (12/12 ili 24/24) ili Power Shuttle",
+      "drive": "4×4",
+      "max_speed_kmh": 36
+    },
+    "hydraulics": {
+      "category": "II",
+      "lifting_capacity_kg": 3800,
+      "pump_flow_lpm": 59.4,
+      "hydraulic_valves": {
+        "front": 4,
+        "rear": 6
+      }
+    },
+    "dimensions": {
+      "length_mm": 4228,
+      "width_mm": "1967-2312",
+      "height_mm": 2679,
+      "wheelbase_mm": 2287,
+      "ground_clearance_mm": 464,
+      "turning_radius_mm": 3150,
+      "wheel_turning_angle_deg": 55
+    },
+    "fuel_tank_capacity_l": 115,
+    "weight_kg": 3509,
+    "cabin": {
+      "seat": "GRAMMER® sedište sa vazdušnim oslanjanjem i rotacijom od 20°",
+      "features": [
+        "klimatizacija",
+        "grejanje"
+      ]
+    }
+  }
+]
