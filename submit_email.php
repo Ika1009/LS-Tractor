@@ -5,7 +5,7 @@ include 'db_connect.php';
 $data = json_decode(file_get_contents("php://input"), true);
 
 if (!isset($data['email'])) {
-    echo json_encode(['success' => false, 'error' => 'Email is required']);
+    echo json_encode(['success' => false, 'error' => 'Morate da unesete imejl']);
     exit;
 }
 
