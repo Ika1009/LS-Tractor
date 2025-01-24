@@ -29,170 +29,64 @@
     <!-- Main CSS -->
     <link rel="stylesheet" href="assets/css/color-3.css" id="add_class">
     <link rel="stylesheet" href="assets/css/style.css">
-
-    <style>
-        .background-layer {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: 0;
-            background-size: cover;
-            background-position: center;
-            opacity: 1; 
-        }
-    </style>
-    
 </head>
 
 <body class="body-bg-6">
-
-    <!-- Loader -->
-    <div id="cr-overlay" class="w-full h-full fixed top-[0] right-[0] left-[0] bottom-[0] bg-[#fff] flex items-center justify-center z-[99]">
-        <span class="loader w-[10px] h-[10px] rounded-[50%] inline-block relative text-[#64b496] left-[-100px]"></span>
-    </div>
-
-     <!-- Header -->
-     <header class="h-[142px] max-[991px]:h-[133px] max-[575px]:h-[173px] bg-[#fff] border-b-[1px] border-solid border-[#e9e9e9]">
-        <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1600px]:max-w-[1500px] min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
-            <div class="flex flex-wrap w-full">
-                <div class="w-full px-[12px]">
-                    <div class="top-header py-[20px] flex flex-row gap-[10px] justify-between border-b-[1px] border-solid border-[#e9e9e9] relative z-[4] max-[575px]:py-[15px] max-[575px]:block">
-                        <a href="index.html" class="cr-logo max-[575px]:mb-[15px] max-[575px]:flex max-[575px]:justify-center">
-                            <img src="assets/img/logo/logo.svg" alt="logo" class="logo block h-[35px] max-[575px]:w-[100px]">
-                        </a>
-                        <form class="cr-search relative max-[575px]:max-w-[350px] max-[575px]:m-auto" action="shop-full-width.php" method="get">
-                            <input class="search-input w-[600px] h-[45px] pl-[15px] pr-[175px] border-[1px] border-solid border-[#64b496] rounded-[5px] outline-[0] max-[1399px]:w-[400px] max-[991px]:max-w-[350px] max-[575px]:w-full max-[420px]:pr-[45px]" type="text" name="query" placeholder="Pretraži sajt">
-                            <a href="javascript:void(0)" class="search-btn w-[45px] bg-[#64b496] absolute right-[0] top-[0] bottom-[0] rounded-r-[5px] flex items-center justify-center" id="searchButton">
-                                <i class="ri-search-line text-[14px] text-[#fff]"></i>
-                            </a>
-                        </form>
-                        <div class="cr-right-bar flex max-[991px]:hidden">
-                            <a href="cart.html" class="cr-right-bar-item transition-all duration-[0.3s] ease-in-out flex items-center">
-                                <i class="ri-user-3-line pr-[5px] text-[21px] leading-[17px]"></i>
-                            </a>
-                        </div>
-                    </div>
+    <!-- Header -->
+    <header>
+        <nav class="bg-[#0A1E5A] border-gray-200 px-4 lg:px-6 py-5">
+            <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
+                <a href="" class="flex items-center">
+                    <img src="assets/img/logo/logo2.svg" class="mr-3 h-6 sm:h-9" alt="LS Tractor Logo" />
+                </a>
+                <div class="flex items-center lg:order-1">
+                    <button data-collapse-toggle="mobile-menu-2" type="button" class="inline-flex items-center p-2 ml-1 text-sm text-gray-500 rounded-lg lg:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="mobile-menu-2" aria-expanded="false">
+                        <span class="sr-only">Open main menu</span>
+                        <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
+                        <svg class="hidden w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+                    </button>
+                </div>
+                <div class="hidden justify-between items-center w-full lg:flex lg:w-auto lg:order-1" id="mobile-menu-2">
+                    <ul class="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
+                        <li>
+                            <a href="#" class="block py-2 pr-4 pl-3 text-[#D71E33] rounded bg-primary-700 lg:bg-transparent lg:text-primary-700 lg:p-0" aria-current="page">Elegantni i kompaktni traktori</a>
+                        </li>
+                        <li>
+                            <a href="#" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">Proizvodi</a>
+                        </li>
+                        <li>
+                            <a href="#" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">O nama</a>
+                        </li>
+                        <li>
+                            <a href="#" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">Kontakt</a>
+                        </li>
+                    </ul>
                 </div>
             </div>
-        </div>
-        <div class="cr-fix" id="cr-main-menu-desk">
-            <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1600px]:max-w-[1500px] min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
-                <div class="cr-menu-list w-full px-[12px] relative flex items-center flex-row justify-between">
-                    <div class="cr-category-icon-block py-[10px] max-[991px]:hidden">
-                        <div class="cr-category-menu relative">
-                            <div class="cr-category-toggle w-[35px] h-[35px] border-[1px] border-solid border-[#e9e9e9] rounded-[5px] cursor-pointer flex items-center justify-center">
-                                <i class="ri-menu-2-line text-[22px] text-[#2b2b2d] leading-[14px] block"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <nav class="justify-between relative flex flex-wrap items-center max-[991px]:w-full max-[991px]:py-[10px]">
-                        <a href="javascript:void(0)" class="navbar-toggler py-[7px] px-[14px] hidden text-[16px] leading-[1] max-[991px]:flex max-[991px]:p-[0] max-[991px]:border-[0]">
-                            <i class="ri-menu-3-line max-[991px]:text-[20px]"></i>
-                        </a>
-                        <div class="cr-header-buttons hidden max-[991px]:flex max-[991px]:items-center">
-                            <a href="cart.html" class="cr-right-bar-item transition-all duration-[0.3s] ease-in-out mr-[16px] max-[991px]:m-[0]">
-                                <i class="ri-shopping-cart-line text-[20px]"></i>
-                            </a>
-                        </div>
-                        <div class="min-[992px]:flex min-[992px]:basis-auto grow-[1] items-center hidden" id="navbarSupportedContent">
-                            <ul class="navbar-nav flex min-[992px]:flex-row items-center m-auto relative z-[3] min-[992px]:flex-row max-[1199px]:mr-[-5px] max-[991px]:m-[0]">
-                                <li class="nav-item relative mr-[25px] max-[1399px]:mr-[20px] max-[1199px]:mr-[30px]">
-                                    <a class="nav-link font-Poppins text-[14px] font-medium block text-[#000] z-[1] flex items-center relative py-[11px] px-[8px] max-[1199px]:py-[8px] max-[1199px]:px-[0]" href="index.html">
-                                        Traktori
-                                    </a>
-                                </li>
-                                <li class="nav-item relative mr-[25px] max-[1399px]:mr-[20px] max-[1199px]:mr-[30px]">
-                                    <a class="nav-link font-Poppins text-[14px] font-medium block text-[#000] z-[1] flex items-center relative py-[11px] px-[8px] max-[1199px]:py-[8px] max-[1199px]:px-[0]" href="shop-full-width.php">
-                                        Dodatna oprema
-                                    </a>
-                                </li>
-                                <li class="nav-item relative">
-                                    <a class="nav-link font-Poppins text-[14px] font-medium block text-[#000] z-[1] flex items-center relative py-[11px] px-[8px] max-[1199px]:py-[8px] max-[1199px]:px-[0]" href="contact-us.html">
-                                        Podrška
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </nav>
-                    <div class="cr-calling flex justify-end items-center max-[1199px]:hidden">
-                        <i class="ri-phone-line pr-[5px] text-[20px]"></i>
-                    </div>
-                </div>
-            </div>
-        </div>
+        </nav>
     </header>
 
-    <!-- Mobile menu -->
-    <div class="cr-sidebar-overlay w-full h-screen hidden fixed top-[0] left-[0] bg-[#000000b3] z-[21]"></div>
-    <div id="cr_mobile_menu" class="cr-side-cart cr-mobile-menu transition-all duration-[0.5s] ease h-full p-[15px] fixed top-[0] bg-[#fff] z-[22] overflow-auto w-[400px] left-[-400px] max-[575px]:w-[300px] max-[575px]:left-[-300px] max-[420px]:w-[250px] max-[420px]:left-[-250px]">
-        <div class="cr-menu-title w-full mb-[10px] pb-[10px] flex flex-wrap justify-between border-b-[2px] border-solid border-[#e9e9e9]">
-            <span class="menu-title text-[18px] font-semibold text-[#64b496]">Meni</span>
-            <button type="button" class="cr-close relative border-[0] text-[30px] leading-[1] text-[#999] bg-[#fff]">×</button>
-        </div>
-        <div class="cr-menu-inner">
-            <div class="cr-menu-content">
-                <ul>
-                    <li class="dropdown drop-list relative leading-[28px]">
-                        <a href="index.html" class="dropdown-list py-[12px] block capitalize text-[15px] font-medium text-[#444] border-b-[1px] border-solid border-[#e9e9e9]">Početna</a>
-                    </li>
-                    <li class="dropdown drop-list relative leading-[28px]">
-                        <a href="shop-full-width.php" class="dropdown-list py-[12px] block capitalize text-[15px] font-medium text-[#444] border-b-[1px] border-solid border-[#e9e9e9]">Proizvodi</a>
-                    </li>
-                    <li class="dropdown drop-list relative leading-[28px]">
-                        <a href="contact-us.html" class="dropdown-list py-[12px] block capitalize text-[15px] font-medium text-[#444] border-b-[1px] border-solid border-[#e9e9e9]">Kontakt</a>
-                    </li>
-                </ul>
+    <!-- Hero section -->
+    <section class="relative bg-[url('assets/img/banner/pozadina.webp')] bg-cover bg-center bg-opacity-50 bg-blend-overlay z-1">
+        <div class="absolute inset-0 bg-blue-900 bg-opacity-50 z-1"></div>
+        <div class="relative grid max-w-screen-xl px-4 py-16 mx-auto lg:gap-8 xl:gap-0 lg:py-32 lg:grid-cols-12">
+            <div class="mr-auto place-self-center lg:col-span-4">
+                <h1 class="max-w-2xl mb-4 text-2xl text-white font-extrabold tracking-tight leading-snug md:text-3xl xl:text-4xl">
+                    Moderni traktori za modernog poljoprivrednika
+                </h1>
+                <p class="max-w-2xl mb-6 font-light text-white lg:mb-8 text-sm md:text-base lg:text-lg">
+                    LS traktori su traktori 21. veka koji svojim kupcima donose punu udobnost na radu, veće performanse i garanciju po odličnim cenama. Visoko zadovoljstvo kupaca dokazuje da se možete osloniti na kvalitetnu mašinu u boji Blue Sky, koja predstavlja lepo vreme za poljoprivredu punu nade u budućnost.
+                </p>                
+                <a href="#" class="inline-flex items-center justify-center px-5 py-3 mr-3 text-base font-medium text-center text-black rounded-lg bg-white hover:bg-primary-800 focus:ring-4 focus:ring-primary-300">
+                    Proizvodi
+                </a>
+                <a href="#" class="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-white bg-black rounded-lg hover:bg-gray-100 focus:ring-4 focus:ring-gray-100">
+                    O nama
+                </a> 
             </div>
-        </div>
-    </div>
-
-    <!-- Hero slider -->
-    <section class="section-hero next pb-[100px] max-[1199px]:pb-[70px]">
-        <div class="cr-slider swiper-container">
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <div class="cr-hero-banner cr-banner-image-two w-full bg-[url('assets/img/banner/background_slider.webp')] bg-no-repeat bg-cover bg-center h-[80vh] max-[1199px]:h-[600px] max-[767px]:h-[500px] max-[480px]:h-[400px] max-[360px]:h-[350px] relative z-[1]">
-                        <div class="background-layer absolute inset-0 z-0 bg-[url('assets/img/banner/slider_1.png')] bg-cover bg-center opacity-80"></div>
-                        <div class="flex hero-container flex-wrap justify-between relative items-center mx-auto min-[1600px]:max-w-[1500px] min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
-                            <div class="flex flex-wrap w-full">
-                                <div class="w-full px-[12px]">
-                                    <div class="cr-left-side-contain max-w-[550px] h-[80vh] flex flex-col justify-center max-[1199px]:max-w-[400px] max-[1199px]:h-[600px] max-[767px]:max-w-[290px] max-[767px]:h-[500px] max-[480px]:max-w-[250px] max-[480px]:h-[400px] max-[360px]:max-w-[210px] max-[360px]:h-[350px] slider-animation">
-                                        <h5 class="mb-[20px] text-[20px] font-Poppins font-bold leading-[1.2] text-[#fff] max-[991px]:mb-[15px] max-[767px]:text-[14px] max-[767px]:font-normal">5 YEARS WARRANTY*</h5>
-                                        <h1 class="mb-[25px] text-[55px] font-Manrope font-extrabold leading-[68px] text-[#fff] relative max-[1399px]:text-[48px] max-[1399px]:leading-[56px] max-[1199px]:text-[40px] max-[1199px]:leading-[46px] max-[991px]:text-[28px] max-[991px]:leading-[36px] max-[991px]:mb-[20px] max-[767px]:text-[24px] max-[480px]:mb-[0] max-[360px]:text-[20px] max-[360px]:leading-[26px] max-[320px]:text-[22px] max-[320px]:leading-[24px] max-[320px]:mb-[10px]">ROBUST</h1>
-                                        <div class="cr-last-buttons mt-[30px] flex max-[991px]:mt-[18px]">
-                                            <a href="shop-full-width.php" class="cr-button mr-[20px] h-[40px] font-bold transition-all duration-[0.3s] ease-in-out py-[8px] px-[22px] text-[14px] font-Manrope capitalize leading-[1.2] bg-[#3f51b5] text-[#fff] border-[1px] border-solid border-[#64b496] rounded-[5px] flex items-center justify-center hover:bg-[#000] hover:border-[#000]">
-                                                read more
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="cr-hero-banner cr-banner-image-one w-full bg-[url('assets/img/banner/background_slider.webp')] bg-no-repeat bg-cover bg-center h-[80vh] max-[1199px]:h-[600px] max-[767px]:h-[500px] max-[480px]:h-[400px] max-[360px]:h-[350px] relative z-[1]">      
-                    <div class="background-layer absolute inset-0 z-0 bg-[url('assets/img/banner/slider_2.png')] bg-cover bg-center opacity-80"></div>              
-                        <div class="flex hero-container flex-wrap justify-between relative items-center mx-auto min-[1600px]:max-w-[1500px] min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
-                            <div class="flex flex-wrap w-full">
-                                <div class="w-full px-[12px]">
-                                    <div class="cr-left-side-contain max-w-[550px] h-[80vh] flex flex-col justify-center max-[1199px]:max-w-[400px] max-[1199px]:h-[600px] max-[767px]:max-w-[290px] max-[767px]:h-[500px] max-[480px]:max-w-[250px] max-[480px]:h-[400px] max-[360px]:max-w-[210px] max-[360px]:h-[350px] slider-animation">
-                                        <h5 class="mb-[20px] text-[20px] font-Poppins font-bold leading-[1.2] text-[#fff] max-[991px]:mb-[15px] max-[767px]:text-[14px] max-[767px]:font-normal">HAS BEEN OFFERING SOLUTIONS FOR MORE THAN 44 YEARS</h5>
-                                        <h1 class="mb-[25px] text-[55px] font-Manrope font-extrabold leading-[68px] text-[#fff] relative max-[1399px]:text-[48px] max-[1399px]:leading-[56px] max-[1199px]:text-[40px] max-[1199px]:leading-[46px] max-[991px]:text-[28px] max-[991px]:leading-[36px] max-[991px]:mb-[20px] max-[767px]:text-[24px] max-[480px]:mb-[0] max-[360px]:text-[20px] max-[360px]:leading-[26px] max-[320px]:text-[22px] max-[320px]:leading-[24px] max-[320px]:mb-[10px]">INOVATIVE</h1>
-                                        <div class="cr-last-buttons mt-[30px] flex max-[991px]:mt-[18px]">
-                                            <a href="shop-full-width.php" class="cr-button mr-[20px] h-[40px] font-bold transition-all duration-[0.3s] ease-in-out py-[8px] px-[22px] text-[14px] font-Manrope capitalize leading-[1.2] bg-[#3f51b5] text-[#fff] border-[1px] border-solid border-[#64b496] rounded-[5px] flex items-center justify-center hover:bg-[#000] hover:border-[#000]">
-                                                read more
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>                    
-                </div>
-            <div class="swiper-pagination"></div>
+            <div class="hidden lg:mt-0 lg:col-span-7 lg:flex">
+                <img src="assets/img/banner/banner.webp" alt="mockup">
+            </div>                
         </div>
     </section>
 
