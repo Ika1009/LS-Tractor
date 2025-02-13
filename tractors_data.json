@@ -286,48 +286,48 @@
   },  
   {
     "model": "LS XU6168",
-    "opis": "LS XU6168 je dizajniran za srednje i velike farme, kao i za komunalnu upotrebu. Sa motorom od 68 KS i prostranom kabinom opremljenom klimatizacijom i radiom, pruža odličan komfor tokom dugih i zahtevnih zadataka.",
-    "specifikacije": {
-      "motor": {
-        "proizvođač": "LS Mtron",
-        "tip": "Vodeno hlađeni dizel sa 4 cilindra, turbopunjač, direktno ubrizgavanje",
+    "description": "LS XU6168 je dizajniran za srednje i velike farme, kao i za komunalnu upotrebu. Sa motorom od 68 KS i prostranom kabinom opremljenom klimatizacijom i radiom, pruža odličan komfor tokom dugih i zahtevnih zadataka.",
+    "specifications": {
+      "engine": {
+        "manufacturer": "LS Mtron",
+        "type": "Vodeno hlađeni dizel sa 4 cilindra, turbopunjač, direktno ubrizgavanje",
         "model": "L4CRV-T4",
-        "snaga": "50,7 kW / 68 KS",
-        "cilindri": 4,
-        "zapremina": "2.505 cm³",
-        "kapacitet_rezervoara": "80 litara",
-        "baterija": "12V",
-        "maksimalni_obrtaji_i_obrtni_moment": "2.500 obrtaja/min / 236 Nm",
-        "klasa_emisije": "EURO V"
+        "power": "50,7 kW / 68 KS",
+        "cylinders": 4,
+        "displacement": "2.505 cm³",
+        "fuel_tank_capacity": "80 litara",
+        "battery": "12V",
+        "max_rpm_and_torque": "2.500 obrtaja/min / 236 Nm",
+        "emission_class": "EURO V"
       },
-      "transmisija": {
-        "tip": "Mehanička (16 napred / 16 nazad)",
-        "blokada_diferencijala": "Da",
-        "pogonski_sistem": "4×4",
-        "upravljanje": "Hidrostatičko",
-        "maksimalna_brzina": "35 km/h",
-        "kočnice": "Disk kočnice u ulju"
+      "transmission": {
+        "type": "Mehanička (16 napred / 16 nazad)",
+        "differential_lock": "Da",
+        "drive": "4×4",
+        "steering": "Hidrostatičko",
+        "max_speed": "35 km/h",
+        "brakes": "Disk kočnice u ulju"
       },
-      "tbz_i_pto": {
-        "zadnji_pto": "540 / 540E obrtaja/min",
-        "tbz_kategorija": "II",
-        "kapacitet_podižnog_mehanizma": "2.200 kg",
-        "kapacitet_hidrauličke_pumpe": "44,5 l/min"
+      "tbz_and_pto": {
+        "rear_pto": "540 / 540E obrtaja/min",
+        "tbz_category": "II",
+        "rear_hydraulic_lift_capacity": "2.200 kg",
+        "hydraulic_pump_capacity": "44,5 l/min"
       },
-      "dimenzije_i_tezina": {
-        "dužina": "4.000 mm",
-        "širina": "2.000 mm",
-        "visina": "2.650 mm",
-        "međusovinsko_rastojanje": "2.150 mm",
-        "razmak_od_tla": "430 mm",
-        "radijus_okretanja": "4.200 mm",
-        "maksimalni_ugao_upravljanja": "55°",
-        "težina": "2.700 kg",
-        "gume_prednje_zadnje": "12.4-24 / 16.9-30"
+      "dimensions_and_weight": {
+        "length": "4.000 mm",
+        "width": "2.000 mm",
+        "height": "2.650 mm",
+        "wheelbase": "2.150 mm",
+        "ground_clearance": "430 mm",
+        "turning_radius": "4.200 mm",
+        "max_steering_angle": "55°",
+        "weight": "2.700 kg",
+        "tires_front_rear": "12.4-24 / 16.9-30"
       },
-      "cena": "Od 39.999,00 € sa PDV-om"
+      "price": "Od 39.999,00 € sa PDV-om"
     },
-    "funkcije": [
+    "features": [
       "Visokoperformansni motor od 68 KS sa turbopunjačem i EURO V standardom.",
       "Prostrana kabina sa ergonomskim komandama, klimatizacijom i ugrađenim radiom za komfor operatera.",
       "Standardni 4×4 pogon koji pruža odličnu vuču u izazovnim uslovima.",
@@ -352,7 +352,7 @@
       "./images/LS-XU6168_7-feature.jpg",
       "./images/LS-XU6168_8-feature.jpg"
     ]
-  },
+  },  
   {
     "model": "LS MT5.73",
     "engine": {
