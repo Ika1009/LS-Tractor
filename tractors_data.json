@@ -217,48 +217,48 @@
   },
   {
     "model": "LS MT3.50 / MT3.60",
-    "opis": "LS MT3.50 i MT3.60 su robusni traktori dizajnirani za srednje farme i teške zadatke. Pružaju snažne performanse sa naprednim funkcijama za zadovoljavanje različitih poljoprivrednih potreba.",
-    "specifikacije": {
-      "motor": {
-        "proizvođač": "LS Mtron",
-        "tip": "Vodeno hlađeni dizel sa 4 cilindra, turbopunjač, direktno ubrizgavanje",
+    "description": "LS MT3.50 i MT3.60 su robusni traktori dizajnirani za srednje farme i teške zadatke. Pružaju snažne performanse sa naprednim funkcijama za zadovoljavanje različitih poljoprivrednih potreba.",
+    "specifications": {
+      "engine": {
+        "manufacturer": "LS Mtron",
+        "type": "Vodeno hlađeni dizel sa 4 cilindra, turbopunjač, direktno ubrizgavanje",
         "model": "L4C25-T",
-        "snaga": "50 KS / 60 KS",
-        "cilindri": 4,
-        "zapremina": "2.505 cm³",
-        "kapacitet_rezervoara": "60 litara",
-        "baterija": "12V",
-        "maksimalni_obrtaji_i_obrtni_moment": "2.500 obrtaja/min / 196 Nm",
-        "klasa_emisije": "EURO V"
+        "power": "50 KS / 60 KS",
+        "cylinders": 4,
+        "displacement": "2.505 cm³",
+        "fuel_tank_capacity": "60 litara",
+        "battery": "12V",
+        "max_rpm_and_torque": "2.500 obrtaja/min / 196 Nm",
+        "emission_class": "EURO V"
       },
-      "transmisija": {
-        "tip": "Mehanička (16 napred / 16 nazad)",
-        "blokada_diferencijala": "Da",
-        "pogonski_sistem": "4×4",
-        "upravljanje": "Hidrostatičko",
-        "maksimalna_brzina": "30 km/h",
-        "kočnice": "Disk kočnice u ulju"
+      "transmission": {
+        "type": "Mehanička (16 napred / 16 nazad)",
+        "differential_lock": "Da",
+        "drive": "4×4",
+        "steering": "Hidrostatičko",
+        "max_speed": "30 km/h",
+        "brakes": "Disk kočnice u ulju"
       },
-      "tbz_i_pto": {
-        "zadnji_pto": "540 / 540E obrtaja/min",
-        "tbz_kategorija": "II",
-        "kapacitet_podižnog_mehanizma": "1.500 kg",
-        "kapacitet_hidrauličke_pumpe": "37,5 l/min"
+      "tbz_and_pto": {
+        "rear_pto": "540 / 540E obrtaja/min",
+        "tbz_category": "II",
+        "rear_hydraulic_lift_capacity": "1.500 kg",
+        "hydraulic_pump_capacity": "37,5 l/min"
       },
-      "dimenzije_i_tezina": {
-        "dužina": "3.500 mm",
-        "širina": "1.750 mm",
-        "visina": "2.500 mm",
-        "međusovinsko_rastojanje": "2.000 mm",
-        "razmak_od_tla": "400 mm",
-        "radijus_okretanja": "3.200 mm",
-        "maksimalni_ugao_upravljanja": "55°",
-        "težina": "2.000 kg",
-        "gume_prednje_zadnje": "9.5-20 / 13.6-28"
+      "dimensions_and_weight": {
+        "length": "3.500 mm",
+        "width": "1.750 mm",
+        "height": "2.500 mm",
+        "wheelbase": "2.000 mm",
+        "ground_clearance": "400 mm",
+        "turning_radius": "3.200 mm",
+        "max_steering_angle": "55°",
+        "weight": "2.000 kg",
+        "tires_front_rear": "9.5-20 / 13.6-28"
       },
-      "cena": "Od 29.999,00 € sa PDV-om"
+      "price": "Od 29.999,00 € sa PDV-om"
     },
-    "funkcije": [
+    "features": [
       "Snažan motor sa turbopunjačem koji zadovoljava EURO V standarde emisije.",
       "Prostrana kabina sa klimatizacijom i ergonomskim komandama za komfor operatera.",
       "Standardni 4×4 pogon koji obezbeđuje optimalne performanse na različitim terenima.",
@@ -283,7 +283,7 @@
       "./images/LS-MT3.50-MT3.60_7-feature.jpg",
       "./images/LS-MT3.50-MT3.60_8-feature.jpg"
     ]
-  },
+  },  
   {
     "model": "LS XU6168",
     "opis": "LS XU6168 je dizajniran za srednje i velike farme, kao i za komunalnu upotrebu. Sa motorom od 68 KS i prostranom kabinom opremljenom klimatizacijom i radiom, pruža odličan komfor tokom dugih i zahtevnih zadataka.",
