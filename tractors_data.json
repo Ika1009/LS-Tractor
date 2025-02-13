@@ -148,56 +148,56 @@
   },
   {
     "model": "LS MT3.35 / MT3.40",
-    "opis": "LS MT3.35 i MT3.40 su višenamenski traktori dizajnirani za male i srednje farme, kao i za komunalnu upotrebu. Nude pouzdane performanse sa nizom funkcija koje povećavaju produktivnost.",
-    "specifikacije": {
-      "motor": {
-        "proizvođač": "LS Mtron",
-        "tip": "Vodeno hlađeni dizel sa 3 cilindra, direktno ubrizgavanje",
+    "description": "LS MT3.35 and MT3.40 are versatile tractors designed for small and medium-sized farms, as well as municipal use. They offer reliable performance with a range of features that increase productivity.",
+    "specifications": {
+      "engine": {
+        "manufacturer": "LS Mtron",
+        "type": "Water-cooled 3-cylinder diesel engine, direct injection",
         "model": "L3C19-T",
-        "snaga": "35 KS / 40 KS",
-        "cilindri": 3,
-        "zapremina": "1.826 cm³",
-        "kapacitet_rezervoara": "45 litara",
-        "baterija": "12V",
-        "maksimalni_obrtaji_i_obrtni_moment": "2.600 obrtaja/min / 142 Nm",
-        "klasa_emisije": "EURO V"
+        "power": "35 HP / 40 HP",
+        "cylinders": 3,
+        "displacement": "1826 cm³",
+        "fuel_tank_capacity": "45 liters",
+        "battery": "12V",
+        "max_rpm_and_torque": "2600 rpm / 142 Nm",
+        "emission_class": "EURO V"
       },
-      "transmisija": {
-        "tip": "Mehanička (12 napred / 12 nazad)",
-        "blokada_diferencijala": "Da",
-        "pogonski_sistem": "4×4",
-        "upravljanje": "Hidrostatičko",
-        "maksimalna_brzina": "25 km/h",
-        "kočnice": "Disk kočnice u ulju"
+      "transmission": {
+        "type": "Mechanical (12 forward / 12 reverse)",
+        "differential_lock": "Yes",
+        "drive": "4×4",
+        "steering": "Hydrostatic",
+        "max_speed": "25 km/h",
+        "brakes": "Oil-immersed disc brakes"
       },
-      "tbz_i_pto": {
-        "zadnji_pto": "540 obrtaja/min",
-        "tbz_kategorija": "I",
-        "kapacitet_podižnog_mehanizma": "820 kg",
-        "kapacitet_hidrauličke_pumpe": "28,5 l/min"
+      "tbz_and_pto": {
+        "rear_pto": "540 rpm",
+        "tbz_category": "I",
+        "rear_hydraulic_lift_capacity": "820 kg",
+        "hydraulic_pump_capacity": "28.5 l/min"
       },
-      "dimenzije_i_tezina": {
-        "dužina": "3.140 mm",
-        "širina": "1.460 mm",
-        "visina": "2.400 mm",
-        "međusovinsko_rastojanje": "1.750 mm",
-        "razmak_od_tla": "340 mm",
-        "radijus_okretanja": "2.800 mm",
-        "maksimalni_ugao_upravljanja": "50°",
-        "težina": "1.500 kg",
-        "gume_prednje_zadnje": "7-16 / 11.2-24"
+      "dimensions_and_weight": {
+        "length": "3140 mm",
+        "width": "1460 mm",
+        "height": "2400 mm",
+        "wheelbase": "1750 mm",
+        "ground_clearance": "340 mm",
+        "turning_radius": "2800 mm",
+        "max_steering_angle": "50°",
+        "weight": "1500 kg",
+        "tires_front_rear": "7-16 / 11.2-24"
       },
-      "cena": "Od 19.999,00 € sa PDV-om"
+      "price": "From €19,999.00 including VAT"
     },
     "features": [
-      "Moderan dizajn pogodan za različite poljoprivredne i komunalne zadatke.",
-      "Motor sa EURO V standardom emisije za efikasno i ekološko poslovanje.",
-      "Prostrana platforma za operatera sa ergonomskim komandama za povećan komfor.",
-      "Standardni 4×4 pogon koji obezbeđuje odličnu vuču u različitim uslovima.",
-      "Kategorija I trotačka veza sa kapacitetom podizanja od 820 kg, pogodna za širok spektar priključaka.",
-      "Hidrostatičko upravljanje za lakše manevrisanje.",
-      "Disk kočnice u ulju za pouzdano kočenje.",
-      "Mehanička transmisija sa 12 brzina napred i 12 nazad za različite opcije brzine."
+      "Modern design suitable for various agricultural and municipal tasks.",
+      "Engine with EURO V emission standards for efficient and eco-friendly operation.",
+      "Spacious operator platform with ergonomic controls for increased comfort.",
+      "Standard 4×4 drive providing excellent traction in various conditions.",
+      "Category I three-point hitch with a lifting capacity of 820 kg, suitable for a wide range of attachments.",
+      "Hydrostatic steering for easier maneuvering.",
+      "Oil-immersed disc brakes for reliable stopping.",
+      "Mechanical transmission with 12 forward and 12 reverse speeds for versatile performance."
     ],
     "images": [
       "./images/LS-MT3.35-MT3.40_1.jpg",
