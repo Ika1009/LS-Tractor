@@ -468,5 +468,108 @@
       "./images/LS-MT7.101_7_feature.jpg",
       "./images/LS-MT7.101_8_feature.jpg"
     ]
-  }
+  },
+  {
+    "model": "Čeoni utovarivači",
+    "description": "Svaki LS traktor iz naše ponude može biti opremljen čeonim utovarivačem.",
+    "features": [
+      {
+        "feature": "Sigurnosni ventil",
+        "description": "U slučaju preopterećenja utovarivača tokom rada, hidraulični sistem se automatski prilagođava kako bi sprečio potencijalne nezgode."
+      },
+      {
+        "feature": "Jednostavno povezivanje/odvajanje",
+        "description": "Utovarivač se može lako povezati i odvojiti pomoću dva pričvrsna klina na traktoru, bez upotrebe alata."
+      },
+      {
+        "feature": "Brza spojka",
+        "description": "Za lako povezivanje hidraulike."
+      },
+      {
+        "feature": "Funkcija lebdenja",
+        "description": "Kada je utovarivač spušten i poluga pritisnuta, aktivira se funkcija lebdenja za zaštitu utovarivača. Kada kašika udari u prepreku, nastavak se automatski povlači kako bi zaštitio i utovarivač i traktor."
+      },
+      {
+        "feature": "Automatsko nivelisanje utovarivača",
+        "description": "Automatsko nivelisanje je dizajnirano da poboljša izravnavanje kašike podešavanjem paralelnih spojeva prilikom pomeranja ruke utovarivača."
+      },
+      {
+        "feature": "Čvrsti stalak",
+        "description": "Utovarivač se može bezbedno stabilizovati pomoću čvrstog, visinski podesivog stalka."
+      }
+    ],
+    "specifications": [
+      {
+        "tractor_model": "MT1.25",
+        "quick_attach": "bobcat",
+        "max_lift_height_attachment_point_mm": 1850,
+        "max_lift_height_bucket_horizontal_mm": 1675,
+        "max_lift_height_bucket_down_mm": 1305,
+        "distance_from_tractor_front_lifted_loader_mm": 719,
+        "max_bucket_angle_away_degrees": 44,
+        "distance_from_tractor_front_lowered_loader_mm": 1421,
+        "max_bucket_angle_towards_degrees": 38,
+        "digging_depth_bucket_horizontal_mm": 42,
+        "loader_height_when_lowered_mm": 1128,
+        "bucket_width_mm": 1220,
+        "bucket_volume_m3": 0.21,
+        "lift_capacity_kg": 527,
+        "lift_time_to_full_height_no_load_seconds": 2.7,
+        "lowering_time_from_full_height_seconds": 1.5,
+        "bucket_dump_time_seconds": 1.8,
+        "bucket_curl_time_seconds": 1.2
+      },
+      {
+        "tractor_model": "XJ 25",
+        "quick_attach": "bobcat",
+        "max_lift_height_attachment_point_mm": 2132,
+        "max_lift_height_bucket_horizontal_mm": 1945,
+        "max_lift_height_bucket_down_mm": 1585,
+        "distance_from_tractor_front_lifted_loader_mm": 500,
+        "max_bucket_angle_away_degrees": 44,
+        "distance_from_tractor_front_lowered_loader_mm": 1550,
+        "max_bucket_angle_towards_degrees": 36,
+        "digging_depth_bucket_horizontal_mm": 196,
+        "loader_height_when_lowered_mm": 1194,
+        "bucket_width_mm": 1270,
+        "bucket_volume_m3": 0.22,
+        "lift_capacity_kg": 798,
+        "lift_time_to_full_height_no_load_seconds": 3.2,
+        "lowering_time_from_full_height_seconds": 2.1,
+        "bucket_dump_time_seconds": 1.9,
+        "bucket_curl_time_seconds": 1.5
+      },
+      {
+        "tractor_model": "XU6168",
+        "quick_attach": "bobcat",
+        "max_lift_height_attachment_point_mm": 2600,
+        "max_lift_height_bucket_horizontal_mm": 2390,
+        "max_lift_height_bucket_down_mm": 2000,
+        "distance_from_tractor_front_lifted_loader_mm": 720,
+        "max_bucket_angle_away_degrees": 45,
+        "distance_from_tractor_front_lowered_loader_mm": 1700,
+        "max_bucket_angle_towards_degrees": 40,
+        "digging_depth_bucket_horizontal_mm": 200,
+        "loader_height_when_lowered_mm": 1300,
+        "bucket_width_mm": 1800,
+        "bucket_volume_m3": 0.34,
+        "lift_capacity_kg": 1250,
+        "lift_time_to_full_height_no_load_seconds": 4.0,
+        "lowering_time_from_full_height_seconds": 2.5,
+        "bucket_dump_time_seconds": 2.2,
+        "bucket_curl_time_seconds": 1.8
+      }
+    ],
+    "images": [
+      "./images/front-loader-1.jpg",
+      "./images/front-loader-2.jpg",
+      "./images/front-loader-3.jpg"
+    ],
+    "feature_images": [
+      "./images/front-loader-feature-1.jpg",
+      "./images/front-loader-feature-2.jpg",
+      "./images/front-loader-feature-3.jpg",
+      "./images/front-loader-feature-4.jpg"
+    ]
+  }  
 ]
