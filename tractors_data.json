@@ -561,15 +561,15 @@
       }
     ],
     "images": [
-      "./images/front-loader-1.jpg",
-      "./images/front-loader-2.jpg",
-      "./images/front-loader-3.jpg"
+      "./images/Front-loader/front-loader-1.jpg",
+      "./images/Front-loader/front-loader-2.jpg",
+      "./images/Front-loader/front-loader-3.jpg"
     ],
     "feature_images": [
-      "./images/front-loader-feature-1.jpg",
-      "./images/front-loader-feature-2.jpg",
-      "./images/front-loader-feature-3.jpg",
-      "./images/front-loader-feature-4.jpg"
+      "./images/Front-loader/front-loader-1-feature.jpg",
+      "./images/Front-loader/front-loader-2-feature.jpg",
+      "./images/Front-loader/front-loader-3-feature.jpg",
+      "./images/Front-loader/front-loader-4-feature.jpg"
     ]
   }  
 ]
