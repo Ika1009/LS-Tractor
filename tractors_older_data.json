@@ -1,5 +1,61 @@
 [
     {
+        "model": "LS R65 MT CAB 65 HP",
+        "description": "The LS R65 MT CAB 65 HP is an orchard tractor equipped with a Mitsubishi engine, designed for versatility and efficiency. It features a synchro shuttle transmission with 16 forward and 16 reverse gears, 4WD, hydrostatic steering system, and a rear independent PTO.",
+        "specifications": {
+            "engine": {
+            "manufacturer": "Mitsubishi",
+            "type": "Tier III engine",
+            "power": "65 HP",
+            "fuel_tank_capacity": "47 liters"
+            },
+            "transmission": {
+            "type": "Synchro shuttle",
+            "gears": "16 forward / 16 reverse"
+            },
+            "drive": {
+            "type": "4WD",
+            "steering": "Hydrostatic"
+            },
+            "pto": {
+            "rear": "Independent, 3-speed"
+            },
+            "dimensions_and_weight": {
+            "weight": "1,950 kg"
+            },
+            "cabin": {
+            "features": [
+                "Original LS factory cabin",
+                "Sealed and filtered",
+                "Soundproofed",
+                "Equipped with air conditioning and audio system"
+            ]
+            },
+            "price": "51,000.00 лв. (excluding VAT)"
+        },
+        "features": [
+            "Meets EU Tier III emission standards with low noise and vibration.",
+            "Stylish chrome-plated front design.",
+            "Ergonomically designed 3-point hitch controls and fender-mounted joystick for maximum comfort and convenience.",
+            "Large 47-liter fuel tank for extended operation time.",
+            "Independent PTO with 3 speeds, easily operated by a switch on the dashboard.",
+            "Waterproof and rustproof front axle, offering excellent performance in paddy fields.",
+            "Easy and convenient switch control panel."
+        ],
+        "images": [
+            "./images/LS-R65_1.webp",
+            "./images/LS-R65_2.webp",
+            "./images/LS-R65_3.webp",
+            "./images/LS-R65_4.webp",
+            "./images/LS-R65_5.webp",
+            "./images/LS-R65_6.webp",
+            "./images/LS-R65_7.webp",
+            "./images/LS-R65_8.webp",
+            "./images/LS-R65_9.webp",
+            "./images/LS-R65_10.webp"
+        ]
+        },      
+    {
         "model": "LS XR50 MT CAB (50 HP)",
         "description": "Voćarski traktor sa kabinom od 50 KS; Mitsubishi motor; sinhrona šatl transmisija 16x16; pogon na sva četiri točka; hidrostatički upravljački sistem; zadnji nezavisni PTO.",
         "specifications": {
@@ -29,9 +85,16 @@
             ]
         },
         "images": [
-            "https://lstractor.bg/image/cache/catalog/Products/Tractors/XR50%20MT%20CAB/LS%20XR50%20MT%20CAB%20(50%20HP)%201-500x500.jpg",
-            "https://lstractor.bg/image/cache/catalog/Products/Tractors/XR50%20MT%20CAB/LS%20XR50%20MT%20CAB%20(50%20HP)%202-500x500.jpg",
-            "https://lstractor.bg/image/cache/catalog/Products/Tractors/XR50%20MT%20CAB/LS%20XR50%20MT%20CAB%20(50%20HP)%203-500x500.jpg"
+            "./images/LS-XR50_1.jpg",
+            "./images/LS-XR50_2.jpg",
+            "./images/LS-XR50_3.jpg",
+            "./images/LS-XR50_4.jpg",
+            "./images/LS-XR50_5.jpg",
+            "./images/LS-XR50_6.jpg",
+            "./images/LS-XR50_7.jpg",
+            "./images/LS-XR50_8.jpg",
+            "./images/LS-XR50_9.jpg",
+            "./images/LS-XR50_10.jpg"
         ],
         "price": "47,000.00 лв. bez PDV-a"
     },
