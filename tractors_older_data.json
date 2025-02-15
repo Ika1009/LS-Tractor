@@ -91,10 +91,7 @@
             "./images/LS-XR50_4.jpg",
             "./images/LS-XR50_5.jpg",
             "./images/LS-XR50_6.jpg",
-            "./images/LS-XR50_7.jpg",
-            "./images/LS-XR50_8.jpg",
-            "./images/LS-XR50_9.jpg",
-            "./images/LS-XR50_10.jpg"
+            "./images/LS-XR50_7.jpg"
         ],
         "price": "47,000.00 лв. bez PDV-a"
     },
@@ -128,9 +125,15 @@
             ]
         },
         "images": [
-            "https://lstractor.bg/image/cache/catalog/Products/Tractors/U60%20MT%20CAB/LS%20U60%20MT%20CAB%20(60%20HP)%201-500x500.jpg",
-            "https://lstractor.bg/image/cache/catalog/Products/Tractors/U60%20MT%20CAB/LS%20U60%20MT%20CAB%20(60%20HP)%202-500x500.jpg",
-            "https://lstractor.bg/image/cache/catalog/Products/Tractors/U60%20MT%20CAB/LS%20U60%20MT%20CAB%20(60%20HP)%203-500x500.jpg"
+            "./images/LS-U60_1.jpg",
+            "./images/LS-U60_2.jpg",
+            "./images/LS-U60_3.jpg",
+            "./images/LS-U60_4.jpg",
+            "./images/LS-U60_5.jpg",
+            "./images/LS-U60_6.jpg",
+            "./images/LS-U60_7.jpg",
+            "./images/LS-U60_8.jpg",
+            "./images/LS-U60_9.jpg"
         ],
         "price": "Cena na upit"
     },
@@ -183,7 +186,12 @@
             "Snažan motor od 100 KS za zahtevne zadatke."
         ],
         "images": [
-            "https://lstractor.bg/image/cache/catalog/PLUS100-500x500.jpg"
+            "./images/LS-PLUS100_1.jpg",
+            "./images/LS-PLUS100_2.jpg",
+            "./images/LS-PLUS100_3.jpg",
+            "./images/LS-PLUS100_4.jpg",
+            "./images/LS-PLUS100_5.jpg",
+            "./images/LS-PLUS100_6.jpg"
         ]
     },
     {
@@ -240,7 +248,16 @@
             "Maksimalno 2 para daljinskih ventila za praktičnu upotrebu sa različitim priključcima."
         ],
         "images": [
-            "https://lstractor.bg/image/cache/catalog/R36i-500x500.jpg"
+            "./images/LS-R36i_1.jpg",
+            "./images/LS-R36i_2.jpg",
+            "./images/LS-R36i_3.jpg",
+            "./images/LS-R36i_4.jpg",
+            "./images/LS-R36i_5.jpg",
+            "./images/LS-R36i_6.jpg",
+            "./images/LS-R36i_7.jpg",
+            "./images/LS-R36i_8.jpg",
+            "./images/LS-R36i_9.jpg",
+            "./images/LS-R36i_10.jpg"
         ]
     },
     {
@@ -297,7 +314,16 @@
             "ROPS zaštita za bezbednost operatera."
         ],
         "images": [
-            "https://lstractor.bg/image/cache/catalog/R60-500x500.jpg"
+            "./images/LS-R60_1.jpg",
+            "./images/LS-R60_2.jpg",
+            "./images/LS-R60_3.jpg",
+            "./images/LS-R60_4.jpg",
+            "./images/LS-R60_5.jpg",
+            "./images/LS-R60_6.jpg",
+            "./images/LS-R60_7.jpg",
+            "./images/LS-R60_8.jpg",
+            "./images/LS-R60_9.jpg",
+            "./images/LS-R60_10.jpg"
         ]
     }
 ]
