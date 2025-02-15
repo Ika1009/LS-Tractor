@@ -44,6 +44,12 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log('Updated title:', tractor.model);
         }
 
+        const titleElement2 = document.querySelector('h2');
+        if (titleElement2) {
+            titleElement2.textContent = tractor.model;
+            console.log('Updated title 2:', tractor.model);
+        }
+        
         const descriptionElement = document.querySelector('section.bg-gray-100 p');
         if (descriptionElement) {
             descriptionElement.textContent = tractor.description;
@@ -58,31 +64,38 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log('Updated main image:', tractor.images[0]);
         }
 
-        const thumbnails = document.querySelectorAll('section.bg-gray-100 .grid-cols-4 img');
-        if (thumbnails.length > 0) {
+        const thumbnailsContainer = document.querySelector('section.bg-gray-100 .grid.grid-cols-2.md\\:grid-cols-4');
+        if (thumbnailsContainer) {
+            // Clear existing thumbnails
+            thumbnailsContainer.innerHTML = '';
             tractor.images.forEach((img, index) => {
-                if (thumbnails[index]) {
-                    thumbnails[index].src = img;
-                    thumbnails[index].alt = tractor.model;
+                if(index==0) { // jump over the first image as it already displayed
+                    return;
                 }
+                const imgElement = document.createElement('img');
+                imgElement.className = "w-full rounded-lg cursor-pointer";
+                imgElement.src = img;
+                imgElement.alt = `${tractor.model} - Image ${index + 1}`;
+                thumbnailsContainer.appendChild(imgElement);
             });
-            console.log('Updated thumbnails');
+            console.log('Updated thumbnails with new images');
         }
-
+        
         // Update features
         const featureContainer = document.querySelector('section.bg-gray-100 .grid-cols-1.sm\\:grid-cols-2');
         if (featureContainer) {
             featureContainer.innerHTML = tractor.features.map((feature, index) => `
                 <div class="mb-8">
                     <img class="w-full cursor-pointer" 
-                         src="assets/img/feature-${index + 1}.webp" 
+                         src="${tractor.feature_images[index] || 'default-image.webp'}" 
                          alt="Feature ${index + 1}">
                     <h2 class="mt-2 font-bold">${feature.split(':')[0]}</h2>
                     <p class="mt-4">${feature.split(':')[1] || ''}</p>
                 </div>
             `).join('');
-            console.log('Updated features');
+            console.log('Updated feature images');
         }
+        
 
         // Update specifications
         const specs = tractor.specifications;

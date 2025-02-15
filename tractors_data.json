@@ -54,19 +54,21 @@
       "Rotirajuće GRAMMER® sedište sa visokim naslonom za udobnost i podršku."
     ],
     "images": [
-      "./images/LS-MT1.25_1.jpg",
-      "./images/LS-MT1.25_2.jpg",
-      "./images/LS-MT1.25_3.jpg"
+      "./images/LS-MT1.25/LS-MT1_1.jpg",
+      "./images/LS-MT1.25/LS-MT1_2.jpg",
+      "./images/LS-MT1.25/LS-MT1_3.jpg",
+      "./images/LS-MT1.25/LS-MT1_4.jpg",
+      "./images/LS-MT1.25/LS-MT1_5.jpg"
     ],
     "feature_images": [
-      "./images/LS-MT1.25_1_feature.jpg",
-      "./images/LS-MT1.25_2_feature.jpg",
-      "./images/LS-MT1.25_3_feature.jpg",
-      "./images/LS-MT1.25_4_feature.jpg",
-      "./images/LS-MT1.25_5_feature.jpg",
-      "./images/LS-MT1.25_6_feature.jpg",
-      "./images/LS-MT1.25_7_feature.jpg",
-      "./images/LS-MT1.25_8_feature.jpg"
+      "./images/LS-MT1.25/LS-MT1_1_feature.jpg",
+      "./images/LS-MT1.25/LS-MT1_2_feature.jpg",
+      "./images/LS-MT1.25/LS-MT1_3_feature.jpg",
+      "./images/LS-MT1.25/LS-MT1_4_feature.jpg",
+      "./images/LS-MT1.25/LS-MT1_5_feature.jpg",
+      "./images/LS-MT1.25/LS-MT1_6_feature.jpg",
+      "./images/LS-MT1.25/LS-MT1_7_feature.jpg",
+      "./images/LS-MT1.25/LS-MT1_8_feature.jpg"
     ]
   },
   {
