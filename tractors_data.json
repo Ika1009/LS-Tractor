@@ -390,63 +390,85 @@
   },
   {
     "model": "LS MT5.73",
-    "description": "Serija LS traktora – PREMIUM klasa – predstavlja izuzetno snažan i efikasan traktor MT5.73, koji može raditi na bilo kojem terenu, čak i u najzahtevnijim uslovima.<br><br>Ekonomičan traktor pruža izdržljivost, udobnost i svestranost za obavljanje velikih radnih opterećenja. Može se pohvaliti TBZ kat. II sa nosivošću do 3000 kg.<br><br>Odlikuje se velikim rezervoarom goriva (100 l) i visokim standardom osnovne opreme. LS traktori serije MT5.73 dostupni su u dve varijante: – potpuno mehanički traktor, tj. potpuno mehanički menjač, ili PS (Power Shuttle) verzija sa mehaničkim menjačem i elektrohidrauličkim inverterom ispod volana za promenu smera vožnje bez potrebe za korišćenjem kvačila.<br><br>Ispod haube se nalazi snažan četvorotaktni vodeno hlađeni dizel motor snage 73 KS. Obezbeđuje veoma dobre radne karakteristike i visoku efikasnost. Tri hidraulična kruga omogućavaju priključivanje širokog spektra dodatne opreme na traktor.",
+    "description": "Serija LS traktora – PREMIUM klasa – predstavlja izuzetno snažan i efikasan traktor MT5.73, koji može raditi na bilo kojem terenu, čak i u najzahtevnijim uslovima.<br><br>Ekonomičan traktor pruža izdržljivost, udobnost i svestranost za obavljanje velikih radnih opterećenja. Može se pohvaliti TBZ kat. II sa nosivošću do 3000 kg.<br><br>Odlikuje se velikim rezervoarom goriva (100 l) i visokim standardom osnovne opreme. LS traktori serije MT5.73 dostupni su u dve varijante: potpuno mehanički traktor sa potpuno mehaničkim menjačem, ili PS (Power Shuttle) verzija sa mehaničkim menjačem i elektrohidrauličkim inverterom ispod volana za promenu smera vožnje bez potrebe za korišćenjem kvačila.<br><br>Ispod haube se nalazi snažan četvorotaktni vodeno hlađeni dizel motor snage 73 KS. Obezbeđuje veoma dobre radne karakteristike i visoku efikasnost. Tri hidraulična kruga omogućavaju priključivanje širokog spektra dodatne opreme na traktor.",
     "engine": {
-      "manufacturer": "LS MTRON",
-      "type": "Vodeno hlađeni četvorocilindrični turbo-dizel",
-      "model": "L4CRV-T1A",
-      "power_kW": 54.4,
-      "power_HP": 73,
-      "displacement_cm3": 2505,
-      "max_torque_Nm": 276,
-      "rpm": 2500,
-      "emission_class": "EURO V"
+        "manufacturer": "LS MTRON",
+        "type": "Vodeno hlađeni četvorocilindrični turbo-dizel",
+        "model": "L4CRV-T1A",
+        "power_kW": 54.4,
+        "power_HP": 73,
+        "cylinders": 4,
+        "displacement_cm3": 2505,
+        "fuel_tank_capacity_l": 100,
+        "max_torque_Nm": 276,
+        "rpm": 2500,
+        "emission_class": "EURO V"
     },
     "transmission": {
-      "type": "Mehanički (12/12 ili 24/24) ili Power Shuttle",
-      "drive": "4×4",
-      "max_speed_kmh": 33
+        "type": "Mehanička (12/12 ili 24/24 super menjač) ili PS (Power Shuttle) mehanički menjač sa elektrohidrauličkim inverterom",
+        "differential_lock": true,
+        "drive": "4×4",
+        "steering": "Hidrostatičko",
+        "max_speed_kmh": 33,
+        "brakes": "U uljnoj kupki"
     },
-    "hydraulics": {
-      "category": "II",
-      "lifting_capacity_kg": 3000,
-      "pump_flow_lpm": 50,
-      "hydraulic_valves": {
-        "front": "4/6",
-        "rear": "4/6"
-      }
+    "tbz_and_pto": {
+        "rear_pto_rpm": "540/750/1000",
+        "tbz_category": "II",
+        "rear_hydraulic_lift_capacity_kg": 3000,
+        "hydraulic_pump_capacity_lpm": 50,
+        "hydraulic_valves": {
+            "front": "4/6",
+            "rear": "4/6"
+        }
     },
-    "dimensions": {
-      "length_mm": 3977,
-      "width_mm": "1890-2291",
-      "height_mm": 2652,
-      "wheelbase_mm": 2150
+    "dimensions_and_weight": {
+        "length_mm": 3977,
+        "width_mm": "1890–2291",
+        "height_mm": 2652,
+        "wheelbase_mm": 2150,
+        "ground_clearance_mm": 459
     },
-    "fuel_tank_capacity_l": 100,
-    "cabin": {
-      "seat": "GRAMMER® sedište sa rotacijom od 20°"
-    },
+    "features": [
+        "Motor ispunjava najnovije emisijske zahteve, ekonomičan je i tih.",
+        "Veliki rezervoar goriva od 100 l sa zaključavanjem povećava radnu efikasnost bez potrebe za čestim dopunjavanjem.",
+        "Verzija sa električnim inverterom standardno je opremljena EHR hidraulikom – električnim hidrauličkim podizačem i automatskim nivelisanjem kvačila, što je posebno korisno na nagibima.",
+        "PST menjač (opciono) omogućava jednostavnu promenu smera vožnje napred ili nazad pomeranjem ručice bez pritiskanja kvačila.",
+        "Joystick sa trećom funkcijom (opciono) omogućava dodatnu hidrauličnu funkcionalnost za priključke.",
+        "Ručno dugme kvačila na glavnoj upravljačkoj ručici omogućava jednostavno upravljanje bez korišćenja papučice kvačila.",
+        "Premium GRAMMER® sedište pruža udobnost i može se rotirati do 20° radi smanjenja napora pri gledanju unazad.",
+        "Visoka nosivost zadnje hidraulike do 3000 kg omogućava rad sa teškim priključcima.",
+        "Elektrohidraulički kontrolni panel je ergonomski dizajniran za udobno korišćenje.",
+        "Tempomat omogućava jednostavnu kontrolu broja obrtaja motora pomoću dugmadi.",
+        "Dvostruka brisača pružaju jasan i neometan pogled za vozača tokom kiše.",
+        "Providna sunčana zavesa blokira sunčevu svetlost, pružajući jasan pogled napred.",
+        "Mali radijus okretanja olakšava manevrisanje na uskim radnim površinama.",
+        "Klizna vučna kuka SCHARMÜLLER omogućava jednostavno i brzo povezivanje prikolica."
+    ],
     "video_url": "https://youtu.be/Yfl1xktZdo8",
     "images": [
-      "./images/LS-MT5.73/LS-MT5.73_1.jpg",
-      "./images/LS-MT5.73/LS-MT5.73_2.jpg",
-      "./images/LS-MT5.73/LS-MT5.73_3.jpg",
-      "./images/LS-MT5.73/LS-MT5.73_4.jpg",
-      "./images/LS-MT5.73/LS-MT5.73_5.jpg",
-      "./images/LS-MT5.73/LS-MT5.73_6.jpg"
+        "./images/LS-MT5.73/LS-MT5.73_1.jpg",
+        "./images/LS-MT5.73/LS-MT5.73_2.jpg",
+        "./images/LS-MT5.73/LS-MT5.73_3.jpg",
+        "./images/LS-MT5.73/LS-MT5.73_4.jpg",
+        "./images/LS-MT5.73/LS-MT5.73_5.jpg",
+        "./images/LS-MT5.73/LS-MT5.73_6.jpg"
     ],
     "feature_images": [
-      "./images/LS-MT5.73/LS-MT5.73_1_feature.jpg",
-      "./images/LS-MT5.73/LS-MT5.73_2_feature.jpg",
-      "./images/LS-MT5.73/LS-MT5.73_3_feature.jpg",
-      "./images/LS-MT5.73/LS-MT5.73_4_feature.jpg",
-      "./images/LS-MT5.73/LS-MT5.73_5_feature.jpg",
-      "./images/LS-MT5.73/LS-MT5.73_6_feature.jpg",
-      "./images/LS-MT5.73/LS-MT5.73_7_feature.jpg",
-      "./images/LS-MT5.73/LS-MT5.73_8_feature.jpg",
-      "./images/LS-MT5.73/LS-MT5.73_9_feature.jpg",
-      "./images/LS-MT5.73/LS-MT5.73_10_feature.jpg",
-      "./images/LS-MT5.73/LS-MT5.73_11_feature.jpg"
+      "./images/LS-MT5.73/LS-MT5.73_1_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_2_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_3_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_4_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_5_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_6_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_7_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_8_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_9_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_10_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_11_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_12_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_13_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_14_feature.jpg"
     ]
   },
   {
