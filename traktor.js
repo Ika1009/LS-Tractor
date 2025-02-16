@@ -99,51 +99,114 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Update specifications
         const specs = tractor.specifications;
-        const specSections = {
-            engine: 'Motor',
-            transmission: 'Menjač',
-            tbz_and_pto: 'TBZ i PTO',
-            dimensions_and_weight: 'Dimenzije i težina'
+        const specMappings = {
+            engine: {
+                section: 'Motor',
+                keys: {
+                    manufacturer: 'Proizvođač',
+                    type: 'Tip',
+                    model: 'Model',
+                    power: 'Snaga',
+                    cylinders: 'Broj cilindra',  // Changed from 'Cilindri'
+                    displacement: 'Zapremina cilindra (cm³)',  // Changed from 'Zapremina'
+                    fuel_tank_capacity: 'Kapacitet rezervoara za gorivo (l)',  // Changed
+                    battery: 'Baterija (V)',  // Added (V)
+                    max_rpm_and_torque: 'Max. brzina i obrtni moment motora (ot./min./Nm)',  // Full match
+                    emission_class: 'Emisiona klasa'  // Changed from 'Klasa emisije'
+                }
+            },
+            transmission: {
+                section: 'Menjač',
+                keys: {
+                    type: 'Tip',
+                    differential_lock: 'Blokada diferencijala',  // Changed from 'Diferencijalna brava'
+                    drive: 'Pogon',
+                    steering: 'Upravljanje',
+                    max_speed: 'Maksimalna brzina (km/h)',  // Added units
+                    brakes: 'Kočnice'
+                }
+            },
+            tbz_and_pto: {
+                section: 'TBZ i PTO',
+                keys: {
+                    rear_pto: 'Zadnji PTO (ot./min.)',  // Added units
+                    mid_pto: 'Srednji PTO (ot./min.)',  // Added units
+                    tbz_category: 'TBZ kategorija',  // Changed label
+                    rear_hydraulic_lift_capacity: 'Sila podizanja zadnje hidraulike (kg)',  // Full match
+                    hydraulic_pump_capacity: 'Performanse hidraulične pumpe (l/min.)'  // Changed label
+                }
+            },
+            dimensions_and_weight: {
+                section: 'Dimenzije i težina',
+                keys: {
+                    length: 'Dužina (mm)',
+                    width: 'Širina (mm)',
+                    height: 'Visina (mm)',
+                    wheelbase: 'Međuosovinsko rastojanje (mm)',
+                    ground_clearance: 'Visina prelaza (mm)',  // Changed from 'Prohodnost'
+                    turning_radius: 'Prečnik rotacije - unutrašnji (mm)',  // Changed label
+                    max_steering_angle: 'Najveći ugao okretanja točkova (°)',  // Changed label
+                    weight: 'Težina (kg)',
+                    tires_front_rear: 'Gume (prednje / zadnje)'
+                }
+            }
         };
 
-        Object.entries(specSections).forEach(([key, section]) => {
+        // Update specifications using mappings
+        Object.entries(specMappings).forEach(([category, mapping]) => {
             const sectionHeader = Array.from(document.querySelectorAll('tr')).find(tr => 
-                tr.querySelector('td')?.textContent.trim() === section
+                tr.querySelector('td')?.textContent.trim() === mapping.section
             );
-            if (sectionHeader) {
-                console.log(`Updating ${section} specs`);
-                Object.entries(specs[key]).forEach(([specKey, value]) => {
-                    updateRow(specKey, value, section);
+            
+            if (sectionHeader && specs[category]) {
+                console.log(`Updating ${mapping.section} specs`);
+                Object.entries(mapping.keys).forEach(([jsonKey, label]) => {
+                    if (specs[category][jsonKey]) {
+                        updateRow(label, specs[category][jsonKey], mapping.section);
+                    }
                 });
             }
         });
-
+        
         // Update price
         const priceElement = document.querySelector('.bg-white.border-t-\\[3px\\] td');
-        if (priceElement) {
+        if (priceElement && specs.price) {
             priceElement.textContent = specs.price;
             console.log('Updated price:', specs.price);
         }
     }
 
+
     function updateRow(label, value, section) {
         const rows = document.querySelectorAll('tbody tr');
-        const row = Array.from(rows).find(tr => {
-            const firstTd = tr.querySelector('td:first-child');
-            return firstTd && 
-                   firstTd.textContent.trim() === label &&
-                   tr.previousElementSibling?.querySelector('td')?.textContent === section;
-        });
         
-        if (row) {
-            const cells = row.querySelectorAll('td');
-            if (cells.length >= 3) {
-                cells[1].textContent = value;
-                cells[2].textContent = value;
-                console.log(`Updated ${label}: ${value}`);
-            }
-        } else {
-            console.warn(`Row not found for: ${label}`);
+        // Find the section header row
+        const sectionHeader = Array.from(rows).find(tr => {
+            const td = tr.querySelector('td:first-child');
+            return td && td.textContent.trim() === section;
+        });
+
+        if (!sectionHeader) {
+            console.warn(`Section header not found: ${section}`);
+            return;
         }
+
+        // Find all rows after the section header until next section
+        let currentRow = sectionHeader.nextElementSibling;
+        while (currentRow && !currentRow.querySelector('td[colspan]')) {
+            const firstTd = currentRow.querySelector('td:first-child');
+            if (firstTd && firstTd.textContent.trim() === label) {
+                const cells = currentRow.querySelectorAll('td');
+                if (cells.length >= 3) {
+                    cells[1].textContent = value;
+                    cells[2].textContent = value;
+                    console.log(`Updated ${label}: ${value}`);
+                    return;
+                }
+            }
+            currentRow = currentRow.nextElementSibling;
+        }
+
+        console.warn(`Row not found for: ${label} (Section: ${section})`);
     }
 });
