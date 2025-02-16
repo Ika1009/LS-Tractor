@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         const descriptionElement = document.querySelector('section.bg-gray-100 p');
         if (descriptionElement) {
-            descriptionElement.textContent = tractor.description;
+            descriptionElement.innerHTML = tractor.description;
             console.log('Updated description');
         }
 

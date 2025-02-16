@@ -390,6 +390,7 @@
   },
   {
     "model": "LS MT5.73",
+    "description": "Serija LS traktora – PREMIUM klasa – predstavlja izuzetno snažan i efikasan traktor MT5.73, koji može raditi na bilo kojem terenu, čak i u najzahtevnijim uslovima.<br><br>Ekonomičan traktor pruža izdržljivost, udobnost i svestranost za obavljanje velikih radnih opterećenja. Može se pohvaliti TBZ kat. II sa nosivošću do 3000 kg.<br><br>Odlikuje se velikim rezervoarom goriva (100 l) i visokim standardom osnovne opreme. LS traktori serije MT5.73 dostupni su u dve varijante: – potpuno mehanički traktor, tj. potpuno mehanički menjač, ili PS (Power Shuttle) verzija sa mehaničkim menjačem i elektrohidrauličkim inverterom ispod volana za promenu smera vožnje bez potrebe za korišćenjem kvačila.<br><br>Ispod haube se nalazi snažan četvorotaktni vodeno hlađeni dizel motor snage 73 KS. Obezbeđuje veoma dobre radne karakteristike i visoku efikasnost. Tri hidraulična kruga omogućavaju priključivanje širokog spektra dodatne opreme na traktor.",
     "engine": {
       "manufacturer": "LS MTRON",
       "type": "Vodeno hlađeni četvorocilindrični turbo-dizel",
