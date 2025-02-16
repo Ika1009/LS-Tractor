@@ -151,33 +151,33 @@
   },
   {
     "model": "LS MT3.35 / MT3.40",
-    "description": "LS MT3.35 and MT3.40 are versatile tractors designed for small and medium-sized farms, as well as municipal use. They offer reliable performance with a range of features that increase productivity.",
+    "description": "LS MT3.35 i MT3.40 su svestrani traktori dizajnirani za male i srednje farme, kao i za komunalnu upotrebu. Nude pouzdane performanse sa nizom karakteristika koje povećavaju produktivnost.",
     "specifications": {
       "engine": {
         "manufacturer": "LS Mtron",
-        "type": "Water-cooled 3-cylinder diesel engine, direct injection",
+        "type": "Vodeno hlađeni 3-cilindrični dizel motor, direktno ubrizgavanje",
         "model": "L3C19-T",
-        "power": "35 HP / 40 HP",
+        "power": "35 KS / 40 KS",
         "cylinders": 3,
         "displacement": "1826 cm³",
-        "fuel_tank_capacity": "45 liters",
+        "fuel_tank_capacity": "45 litara",
         "battery": "12V",
-        "max_rpm_and_torque": "2600 rpm / 142 Nm",
+        "max_rpm_and_torque": "2600 o/min / 142 Nm",
         "emission_class": "EURO V"
       },
       "transmission": {
-        "type": "Mechanical (12 forward / 12 reverse)",
-        "differential_lock": "Yes",
+        "type": "Mehanički (12 napred / 12 unazad)",
+        "differential_lock": "Da",
         "drive": "4×4",
-        "steering": "Hydrostatic",
+        "steering": "Hidrostatički",
         "max_speed": "25 km/h",
-        "brakes": "Oil-immersed disc brakes"
+        "brakes": "Uljno potopljene disk kočnice"
       },
       "tbz_and_pto": {
-        "rear_pto": "540 rpm",
+        "rear_pto": "540 o/min",
         "tbz_category": "I",
         "rear_hydraulic_lift_capacity": "820 kg",
-        "hydraulic_pump_capacity": "28.5 l/min"
+        "hydraulic_pump_capacity": "28,5 l/min"
       },
       "dimensions_and_weight": {
         "length": "3140 mm",
@@ -190,17 +190,17 @@
         "weight": "1500 kg",
         "tires_front_rear": "7-16 / 11.2-24"
       },
-      "price": "From €19,999.00 including VAT"
+      "price": "Od 19.999,00 € sa PDV-om"
     },
     "features": [
-      "Modern design suitable for various agricultural and municipal tasks.",
-      "Engine with EURO V emission standards for efficient and eco-friendly operation.",
-      "Spacious operator platform with ergonomic controls for increased comfort.",
-      "Standard 4×4 drive providing excellent traction in various conditions.",
-      "Category I three-point hitch with a lifting capacity of 820 kg, suitable for a wide range of attachments.",
-      "Hydrostatic steering for easier maneuvering.",
-      "Oil-immersed disc brakes for reliable stopping.",
-      "Mechanical transmission with 12 forward and 12 reverse speeds for versatile performance."
+      "Moderan dizajn pogodan za različite poljoprivredne i komunalne zadatke.",
+      "Motor sa EURO V standardom emisije za efikasnu i ekološki prihvatljivu upotrebu.",
+      "Prostrana operaterska platforma sa ergonomskim komandama za povećanu udobnost.",
+      "Standardni 4×4 pogon koji pruža odličnu trakciju u različitim uslovima.",
+      "Tročlani hidraulični priključak kategorije I sa kapacitetom podizanja od 820 kg, pogodan za širok spektar priključaka.",
+      "Hidrostatički upravljački sistem za lakše manevrisanje.",
+      "Uljno potopljene disk kočnice za pouzdano zaustavljanje.",
+      "Mehanički menjač sa 12 brzina napred i 12 unazad za svestrane performanse."
     ],
     "images": [
       "./images/LS-MT3.35/LS-MT3.35_1.jpg",
@@ -306,7 +306,7 @@
       "./images/LS-MT3.60/LS-MT3.60_11_feature.jpg",
       "./images/LS-MT3.60/LS-MT3.60_12_feature.jpg"
     ]
-  },  
+  },
   {
     "model": "LS XU6168",
     "description": "LS XU6168 je dizajniran za srednje i velike farme, kao i za komunalnu upotrebu. Sa motorom od 68 KS i prostranom kabinom opremljenom klimatizacijom i radiom, pruža odličan komfor tokom dugih i zahtevnih zadataka.",
@@ -387,7 +387,7 @@
       "./images/LS-XU6168/LS-XU6168_9_feature.jpg",
       "./images/LS-XU6168/LS-XU6168_10_feature.jpg"
     ]
-  },  
+  },
   {
     "model": "LS MT5.73",
     "engine": {
@@ -620,5 +620,5 @@
       "./images/Front-loader/front-loader-5-feature.jpg",
       "./images/Front-loader/front-loader-6-feature.jpg"
     ]
-  }  
+  }
 ]
