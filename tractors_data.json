@@ -131,21 +131,22 @@
       "Podesivo GRAMMER® sedište koje pruža udobnost i sigurnost."
     ],
     "images": [
-      "./images/LS-XJ25_1.jpg",
-      "./images/LS-XJ25_2.jpg",
-      "./images/LS-XJ25_3.jpg"
+      "./images/LS-XJ25/LS-XJ25_1.jpg",
+      "./images/LS-XJ25/LS-XJ25_2.jpg",
+      "./images/LS-XJ25/LS-XJ25_3.jpg",
+      "./images/LS-XJ25/LS-XJ25_4.jpg"
     ],
     "feature_images": [
-      "./images/LS-XJ25_1_feature.jpg",
-      "./images/LS-XJ25_2_feature.jpg",
-      "./images/LS-XJ25_3_feature.jpg",
-      "./images/LS-XJ25_4_feature.jpg",
-      "./images/LS-XJ25_5_feature.jpg",
-      "./images/LS-XJ25_6_feature.jpg",
-      "./images/LS-XJ25_7_feature.jpg",
-      "./images/LS-XJ25_8_feature.jpg",
-      "./images/LS-XJ25_9_feature.jpg",
-      "./images/LS-XJ25_10_feature.jpg"
+      "./images/LS-XJ25/LS-XJ25_1_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_2_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_3_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_4_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_5_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_6_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_7_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_8_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_9_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_10_feature.jpg"
     ]
   },
   {
@@ -202,19 +203,25 @@
       "Mechanical transmission with 12 forward and 12 reverse speeds for versatile performance."
     ],
     "images": [
-      "./images/LS-MT3.35-MT3.40_1.jpg",
-      "./images/LS-MT3.35-MT3.40_2.jpg",
-      "./images/LS-MT3.35-MT3.40_3.jpg"
+      "./images/LS-MT3.35/LS-MT3.35_1.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_2.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_3.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_4.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_5.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_6.jpg"
     ],
     "feature_images": [
-      "./images/LS-MT3.35-MT3.40_1_feature.jpg",
-      "./images/LS-MT3.35-MT3.40_2_feature.jpg",
-      "./images/LS-MT3.35-MT3.40_3_feature.jpg",
-      "./images/LS-MT3.35-MT3.40_4_feature.jpg",
-      "./images/LS-MT3.35-MT3.40_5_feature.jpg",
-      "./images/LS-MT3.35-MT3.40_6_feature.jpg",
-      "./images/LS-MT3.35-MT3.40_7_feature.jpg",
-      "./images/LS-MT3.35-MT3.40_8_feature.jpg"
+      "./images/LS-MT3.35/LS-MT3.35_1_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_2_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_3_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_4_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_5_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_6_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_7_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_8_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_9_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_10_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_11_feature.jpg"
     ]
   },
   {
@@ -271,19 +278,33 @@
       "Hidraulička pumpa velikog kapaciteta za zahtevne hidrauličke aplikacije."
     ],
     "images": [
-      "./images/LS-MT3.50-MT3.60_1.jpg",
-      "./images/LS-MT3.50-MT3.60_2.jpg",
-      "./images/LS-MT3.50-MT3.60_3.jpg"
+      "./images/LS-MT3.60/LS-MT3.60_1.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_2.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_3.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_4.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_5.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_6.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_7.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_8.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_9.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_10.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_11.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_12jpg",
+      "./images/LS-MT3.60/LS-MT3.60_13.jpg"
     ],
     "feature_images": [
-      "./images/LS-MT3.50-MT3.60_1_feature.jpg",
-      "./images/LS-MT3.50-MT3.60_2_feature.jpg",
-      "./images/LS-MT3.50-MT3.60_3_feature.jpg",
-      "./images/LS-MT3.50-MT3.60_4_feature.jpg",
-      "./images/LS-MT3.50-MT3.60_5_feature.jpg",
-      "./images/LS-MT3.50-MT3.60_6_feature.jpg",
-      "./images/LS-MT3.50-MT3.60_7_feature.jpg",
-      "./images/LS-MT3.50-MT3.60_8_feature.jpg"
+      "./images/LS-MT3.60/LS-MT3.60_1_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_2_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_3_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_4_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_5_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_6_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_7_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_8_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_9_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_10_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_11_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_12_feature.jpg"
     ]
   },  
   {
