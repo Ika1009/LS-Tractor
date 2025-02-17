@@ -390,69 +390,70 @@
   },
   {
     "model": "LS MT5.73",
-    "description": "Serija LS traktora – PREMIUM klasa – predstavlja izuzetno snažan i efikasan traktor MT5.73, koji može raditi na bilo kojem terenu, čak i u najzahtevnijim uslovima.<br><br>Ekonomičan traktor pruža izdržljivost, udobnost i svestranost za obavljanje velikih radnih opterećenja. Može se pohvaliti TBZ kat. II sa nosivošću do 3000 kg.<br><br>Odlikuje se velikim rezervoarom goriva (100 l) i visokim standardom osnovne opreme. LS traktori serije MT5.73 dostupni su u dve varijante: potpuno mehanički traktor sa potpuno mehaničkim menjačem, ili PS (Power Shuttle) verzija sa mehaničkim menjačem i elektrohidrauličkim inverterom ispod volana za promenu smera vožnje bez potrebe za korišćenjem kvačila.<br><br>Ispod haube se nalazi snažan četvorotaktni vodeno hlađeni dizel motor snage 73 KS. Obezbeđuje veoma dobre radne karakteristike i visoku efikasnost. Tri hidraulična kruga omogućavaju priključivanje širokog spektra dodatne opreme na traktor.",
-    "engine": {
-        "manufacturer": "LS MTRON",
-        "type": "Vodeno hlađeni četvorocilindrični turbo-dizel",
+    "description": "LS MT5.73 je dizajniran za rad na zahtevnim terenima, pružajući izdržljivost, udobnost i svestranost. Sa motorom od 73 KS i naprednim opcijama menjača, nudi odlične performanse u svim radnim uslovima.",
+    "specifications": {
+      "engine": {
+        "manufacturer": "LS Mtron",
+        "type": "Vodeno hlađeni dizel sa 4 cilindra, turbopunjač, direktno ubrizgavanje",
         "model": "L4CRV-T1A",
-        "power_kW": 54.4,
-        "power_HP": 73,
+        "power": "54,4 kW / 73 KS",
         "cylinders": 4,
-        "displacement_cm3": 2505,
-        "fuel_tank_capacity_l": 100,
-        "max_torque_Nm": 276,
-        "rpm": 2500,
+        "displacement": "2.505 cm³",
+        "fuel_tank_capacity": "100 litara",
+        "battery": "12V",
+        "max_rpm_and_torque": "2.500 obrtaja/min / 276 Nm",
         "emission_class": "EURO V"
-    },
-    "transmission": {
-        "type": "Mehanička (12/12 ili 24/24 super menjač) ili PS (Power Shuttle) mehanički menjač sa elektrohidrauličkim inverterom",
-        "differential_lock": true,
+      },
+      "transmission": {
+        "type": "Mehanička (12 napred / 12 nazad ili 24 napred / 24 nazad) ili PS (Power Shuttle) verzija",
+        "differential_lock": "Da",
         "drive": "4×4",
         "steering": "Hidrostatičko",
-        "max_speed_kmh": 33,
-        "brakes": "U uljnoj kupki"
-    },
-    "tbz_and_pto": {
-        "rear_pto_rpm": "540/750/1000",
+        "max_speed": "33 km/h",
+        "brakes": "Disk kočnice u ulju"
+      },
+      "tbz_and_pto": {
+        "rear_pto": "540 / 750 / 1000 obrtaja/min",
         "tbz_category": "II",
-        "rear_hydraulic_lift_capacity_kg": 3000,
-        "hydraulic_pump_capacity_lpm": 50,
-        "hydraulic_valves": {
-            "front": "4/6",
-            "rear": "4/6"
-        }
-    },
-    "dimensions_and_weight": {
-        "length_mm": 3977,
-        "width_mm": "1890–2291",
-        "height_mm": 2652,
-        "wheelbase_mm": 2150,
-        "ground_clearance_mm": 459
+        "rear_hydraulic_lift_capacity": "3.000 kg",
+        "hydraulic_pump_capacity": "50 l/min"
+      },
+      "dimensions_and_weight": {
+        "length": "3.977 mm",
+        "width": "1.890–2.291 mm",
+        "height": "2.652 mm",
+        "wheelbase": "2.150 mm",
+        "ground_clearance": "459 mm",
+        "turning_radius": "4.100 mm",
+        "max_steering_angle": "55°",
+        "weight": "2.900 kg",
+        "tires_front_rear": "12.4-24 / 16.9-30"
+      },
+      "price": "Od 42.999,00 € sa PDV-om"
     },
     "features": [
-        "Motor ispunjava najnovije emisijske zahteve, ekonomičan je i tih.",
-        "Veliki rezervoar goriva od 100 l sa zaključavanjem povećava radnu efikasnost bez potrebe za čestim dopunjavanjem.",
-        "Verzija sa električnim inverterom standardno je opremljena EHR hidraulikom – električnim hidrauličkim podizačem i automatskim nivelisanjem kvačila, što je posebno korisno na nagibima.",
-        "PST menjač (opciono) omogućava jednostavnu promenu smera vožnje napred ili nazad pomeranjem ručice bez pritiskanja kvačila.",
-        "Joystick sa trećom funkcijom (opciono) omogućava dodatnu hidrauličnu funkcionalnost za priključke.",
-        "Ručno dugme kvačila na glavnoj upravljačkoj ručici omogućava jednostavno upravljanje bez korišćenja papučice kvačila.",
-        "Premium GRAMMER® sedište pruža udobnost i može se rotirati do 20° radi smanjenja napora pri gledanju unazad.",
-        "Visoka nosivost zadnje hidraulike do 3000 kg omogućava rad sa teškim priključcima.",
-        "Elektrohidraulički kontrolni panel je ergonomski dizajniran za udobno korišćenje.",
-        "Tempomat omogućava jednostavnu kontrolu broja obrtaja motora pomoću dugmadi.",
-        "Dvostruka brisača pružaju jasan i neometan pogled za vozača tokom kiše.",
-        "Providna sunčana zavesa blokira sunčevu svetlost, pružajući jasan pogled napred.",
-        "Mali radijus okretanja olakšava manevrisanje na uskim radnim površinama.",
-        "Klizna vučna kuka SCHARMÜLLER omogućava jednostavno i brzo povezivanje prikolica."
+      "Motor od 73 KS sa turbopunjačem i EURO V standardom za efikasne performanse.",
+      "Kabina opremljena EHR hidraulikom i elektrohidrauličkim inverterom za veću preciznost rada.",
+      "Dostupan u varijantama sa mehaničkim ili Power Shuttle menjačem.",
+      "TBZ kategorije II sa kapacitetom podizanja do 3.000 kg za teške priključke.",
+      "Hidrostatičko upravljanje omogućava preciznu kontrolu i manevrisanje.",
+      "Disk kočnice u ulju osiguravaju sigurnost i pouzdano zaustavljanje.",
+      "PST menjač (opciono) omogućava promenu smera vožnje bez korišćenja kvačila.",
+      "Premium GRAMMER® sedište sa mogućnošću rotacije za veću udobnost.",
+      "Veliki rezervoar goriva (100 litara) omogućava duge radne sate.",
+      "Ergonomski dizajniran elektrohidraulički kontrolni panel.",
+      "Tempomat za preciznu kontrolu broja obrtaja motora.",
+      "Dvostruki brisači za bolju vidljivost tokom kišnih uslova.",
+      "Klizna vučna kuka SCHARMÜLLER za lako povezivanje prikolica."
     ],
     "video_url": "https://youtu.be/Yfl1xktZdo8",
     "images": [
-        "./images/LS-MT5.73/LS-MT5.73_1.jpg",
-        "./images/LS-MT5.73/LS-MT5.73_2.jpg",
-        "./images/LS-MT5.73/LS-MT5.73_3.jpg",
-        "./images/LS-MT5.73/LS-MT5.73_4.jpg",
-        "./images/LS-MT5.73/LS-MT5.73_5.jpg",
-        "./images/LS-MT5.73/LS-MT5.73_6.jpg"
+      "./images/LS-MT5.73/LS-MT5.73_1.jpg",
+      "./images/LS-MT5.73/LS-MT5.73_2.jpg",
+      "./images/LS-MT5.73/LS-MT5.73_3.jpg",
+      "./images/LS-MT5.73/LS-MT5.73_4.jpg",
+      "./images/LS-MT5.73/LS-MT5.73_5.jpg",
+      "./images/LS-MT5.73/LS-MT5.73_6.jpg"
     ],
     "feature_images": [
       "./images/LS-MT5.73/LS-MT5.73_1_feature.webp",
@@ -468,54 +469,64 @@
       "./images/LS-MT5.73/LS-MT5.73_11_feature.webp",
       "./images/LS-MT5.73/LS-MT5.73_12_feature.webp",
       "./images/LS-MT5.73/LS-MT5.73_13_feature.webp",
-      "./images/LS-MT5.73/LS-MT5.73_14_feature.jpg"
+      "./images/LS-MT5.73/LS-MT5.73_14_feature.jgp"
     ]
-  },
+  },  
   {
     "model": "LS MT7.101",
-    "engine": {
-      "manufacturer": "FIAT",
-      "type": "Vodeno hlađeni četvorocilindrični turbo-dizel sa direktnim ubrizgavanjem",
-      "model": "FPT F36",
-      "power_kW": 75,
-      "power_HP": 101,
-      "displacement_cm3": 3595,
-      "max_torque_Nm": 430,
-      "rpm": 2200,
-      "emission_class": "EURO V"
+    "description": "Seria LS traktora MT7 je jedinstvena svojom modernošću i svestranošću.<br>LS traktor MT7.101 se odlikuje izuzetnim performansama i pouzdanošću.<br>Jedna od glavnih karakteristika je njegov visokoperformansni četvorocilindrični turbo-dizel motor snage 101 KS, koji može da generiše impresivnu snagu, a istovremeno je veoma ekonomičan, što se odražava na niže operativne troškove.<br><br>Širok opseg radnih brzina (20/20) omogućava pronalaženje optimalne brzine za vaš rad.<br>Traktori LS serije MT7.101 su dostupni u dve varijante:<br>– potpuno mehanički traktor, tj. sa potpuno mehaničkim menjačem,<br>– ili PS (Power Shuttle) varijanta sa mehaničkim menjačem i elektrohidrauličnim inverterom ispod volana, koji omogućava promenu pravca vožnje bez upotrebe kvačila, čime se olakšava nesmetan rad traktora uprkos njegovim velikim dimenzijama.<br>Podizna snaga zadnje hidraulike iznosi 3800 kg, što mu omogućava rad sa širokim spektrom poljoprivrednih mašina.<br><br>Kod modela MT7, LS Tractor je stavio poseban akcenat na visoki radni komfor, zbog čega vreli letnji dani ili zimske hladnoće ne predstavljaju nikakav problem.<br>Vrlo prostrana kabina opremljena je klimatizacijom, grejanjem i premium GRAMMER® sedištem sa vazdušnim oslanjanjem i mogućnošću rotacije od 20°.",
+    "specifications": {
+      "engine": {
+        "manufacturer": "FIAT",
+        "type": "Vodeno hlađeni dizel sa 4 cilindra, turbopunjač, direktno ubrizgavanje",
+        "model": "FPT F36",
+        "power": "75 kW / 101 KS",
+        "cylinders": 4,
+        "displacement": "3.595 cm³",
+        "fuel_tank_capacity": "115 litara",
+        "battery": "12V",
+        "max_rpm_and_torque": "2.200 obrtaja/min / 430 Nm",
+        "emission_class": "EURO V"
+      },
+      "transmission": {
+        "type": "Mehanička (12 napred / 12 nazad ili 24/24) ili Power Shuttle",
+        "differential_lock": "Da",
+        "drive": "4×4",
+        "steering": "Hidrostatičko",
+        "max_speed": "36 km/h",
+        "brakes": "Disk kočnice u ulju"
+      },
+      "tbz_and_pto": {
+        "rear_pto": "540 / 540E obrtaja/min",
+        "tbz_category": "II",
+        "rear_hydraulic_lift_capacity": "3.800 kg",
+        "hydraulic_pump_capacity": "59,4 l/min"
+      },
+      "dimensions_and_weight": {
+        "length": "4.228 mm",
+        "width": "1.967 - 2.312 mm",
+        "height": "2.679 mm",
+        "wheelbase": "2.287 mm",
+        "ground_clearance": "464 mm",
+        "turning_radius": "3.150 mm",
+        "max_steering_angle": "55°",
+        "weight": "3.509 kg",
+        "tires_front_rear": "Opcione dimenzije dostupne"
+      },
+      "price": "Na upit"
     },
-    "transmission": {
-      "type": "Mehanički (12/12 ili 24/24) ili Power Shuttle",
-      "drive": "4×4",
-      "max_speed_kmh": 36
-    },
-    "hydraulics": {
-      "category": "II",
-      "lifting_capacity_kg": 3800,
-      "pump_flow_lpm": 59.4,
-      "hydraulic_valves": {
-        "front": 4,
-        "rear": 6
-      }
-    },
-    "dimensions": {
-      "length_mm": 4228,
-      "width_mm": "1967-2312",
-      "height_mm": 2679,
-      "wheelbase_mm": 2287,
-      "ground_clearance_mm": 464,
-      "turning_radius_mm": 3150,
-      "wheel_turning_angle_deg": 55
-    },
-    "fuel_tank_capacity_l": 115,
-    "weight_kg": 3509,
-    "cabin": {
-      "seat": "GRAMMER® sedište sa vazdušnim oslanjanjem i rotacijom od 20°",
-      "features": [
-        "klimatizacija",
-        "grejanje"
-      ]
-    },
+    "features": [
+      "<h2 class='mt-2 font-bold'>Emisiona klasa EURO V</h2><p class='mt-4'>Motor zadovoljava najnovije emisijske zahteve, a istovremeno je ekonomičan i tih.</p>",
+      "<h2 class='mt-2 font-bold'>Novo dizajnirana svetla</h2><p class='mt-4'>Visokoperformansna svetla osvetljavaju čak i najtamnije noći.</p>",
+      "<h2 class='mt-2 font-bold'>Hidraulika EHR i AUTO LEVELING</h2><p class='mt-4'>Verzija sa elektro-invertorom standardno je opremljena EHR hidraulikom – elektro-hidrauličnim podizanjem i automatskim nivelisanjem kvačila, što je posebno korisno na nagibima.</p>",
+      "<h2 class='mt-2 font-bold'>Prevodnica PST (opciono)</h2><p class='mt-4'>Jednostavno promenite smer vožnje napred ili unazad pomeranjem poluge bez korišćenja kvačila.</p>",
+      "<h2 class='mt-2 font-bold'>Multiplikator brzine</h2><p class='mt-4'>Veći izbor brzina sa polugama u verziji sa elektro-hidrauličnim invertorom omogućava vozaču preciznije i udobnije upravljanje traktorom.</p>",
+      "<h2 class='mt-2 font-bold'>Elektronska instrument tabla</h2><p class='mt-4'>Potpuno digitalni instrument panel olakšava praćenje performansi čak i pri jakom sunčevom svetlu.</p>",
+      "<h2 class='mt-2 font-bold'>Premijum sedište GRAMMER®</h2><p class='mt-4'>Udobno vazdušno suspendovano sedište renomiranog proizvođača GRAMMER® može se okretati do 20° kako bi se smanjilo naprezanje pri gledanju unazad.</p>",
+      "<h2 class='mt-2 font-bold'>Visoka podizna snaga</h2><p class='mt-4'>Podizna snaga zadnje hidraulike iznosi 3800 kg.</p>",
+      "<h2 class='mt-2 font-bold'>Pomerni priključak SCHARMÜLLER</h2><p class='mt-4'>Traktor je standardno opremljen pomernim priključkom SCHARMÜLLER.</p>"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=c2YSfciK3TU",
     "images": [
       "./images/LS-MT7.101/LS-MT7.101_1.jpg",
       "./images/LS-MT7.101/LS-MT7.101_2.jpg",
@@ -539,7 +550,7 @@
       "./images/LS-MT7.101/LS-MT7.101_8_feature.jpg",
       "./images/LS-MT7.101/LS-MT7.101_9_feature.jpg"
     ]
-  },
+  },  
   {
     "model": "Čeoni utovarivači",
     "description": "Svaki LS traktor iz naše ponude može biti opremljen čeonim utovarivačem.",
