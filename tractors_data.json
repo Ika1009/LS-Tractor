@@ -555,30 +555,12 @@
     "model": "Čeoni utovarivači",
     "description": "Svaki LS traktor iz naše ponude može biti opremljen čeonim utovarivačem.",
     "features": [
-      {
-        "feature": "Sigurnosni ventil",
-        "description": "U slučaju preopterećenja utovarivača tokom rada, hidraulični sistem se automatski prilagođava kako bi sprečio potencijalne nezgode."
-      },
-      {
-        "feature": "Jednostavno povezivanje/odvajanje",
-        "description": "Utovarivač se može lako povezati i odvojiti pomoću dva pričvrsna klina na traktoru, bez upotrebe alata."
-      },
-      {
-        "feature": "Brza spojka",
-        "description": "Za lako povezivanje hidraulike."
-      },
-      {
-        "feature": "Funkcija lebdenja",
-        "description": "Kada je utovarivač spušten i poluga pritisnuta, aktivira se funkcija lebdenja za zaštitu utovarivača. Kada kašika udari u prepreku, nastavak se automatski povlači kako bi zaštitio i utovarivač i traktor."
-      },
-      {
-        "feature": "Automatsko nivelisanje utovarivača",
-        "description": "Automatsko nivelisanje je dizajnirano da poboljša izravnavanje kašike podešavanjem paralelnih spojeva prilikom pomeranja ruke utovarivača."
-      },
-      {
-        "feature": "Čvrsti stalak",
-        "description": "Utovarivač se može bezbedno stabilizovati pomoću čvrstog, visinski podesivog stalka."
-      }
+      "<h2 class='mt-2 font-bold'>Sigurnosni ventil</h2><p class='mt-4'>U slučaju preopterećenja utovarivača tokom rada, hidraulični sistem se automatski prilagođava kako bi sprečio potencijalne nezgode.</p>",
+      "<h2 class='mt-2 font-bold'>Jednostavno povezivanje/odvajanje</h2><p class='mt-4'>Utovarivač se može lako povezati i odvojiti pomoću dva pričvrsna klina na traktoru, bez upotrebe alata.</p>",
+      "<h2 class='mt-2 font-bold'>Brza spojka</h2><p class='mt-4'>Za lako povezivanje hidraulike.</p>",
+      "<h2 class='mt-2 font-bold'>Funkcija lebdenja</h2><p class='mt-4'>Kada je utovarivač spušten i poluga pritisnuta, aktivira se funkcija lebdenja za zaštitu utovarivača. Kada kašika udari u prepreku, nastavak se automatski povlači kako bi zaštitio i utovarivač i traktor.</p>",
+      "<h2 class='mt-2 font-bold'>Automatsko nivelisanje utovarivača</h2><p class='mt-4'>Automatsko nivelisanje je dizajnirano da poboljša izravnavanje kašike podešavanjem paralelnih spojeva prilikom pomeranja ruke utovarivača.</p>",
+      "<h2 class='mt-2 font-bold'>Čvrsti stalak</h2><p class='mt-4'>Utovarivač se može bezbedno stabilizovati pomoću čvrstog, visinski podesivog stalka.</p>"
     ],
     "specifications": [
       {
@@ -647,12 +629,12 @@
       "./images/Front-loader/front-loader-2.jpg"
     ],
     "feature_images": [
-      "./images/Front-loader/front-loader-1-feature.jpg",
-      "./images/Front-loader/front-loader-2-feature.jpg",
-      "./images/Front-loader/front-loader-3-feature.jpg",
-      "./images/Front-loader/front-loader-4-feature.jpg",
-      "./images/Front-loader/front-loader-5-feature.jpg",
-      "./images/Front-loader/front-loader-6-feature.jpg"
+      "./images/Front-loader/front-loader-1_feature.jpg",
+      "./images/Front-loader/front-loader-2_feature.jpg",
+      "./images/Front-loader/front-loader-3_feature.jpg",
+      "./images/Front-loader/front-loader-4_feature.jpg",
+      "./images/Front-loader/front-loader-5_feature.jpg",
+      "./images/Front-loader/front-loader-6_feature.jpg"
     ]
   }
 ]
