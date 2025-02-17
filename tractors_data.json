@@ -44,14 +44,14 @@
       "price": "Od €13,999.00 sa PDV-om"
     },
     "features": [
-      "Moderan i elegantan dizajn optimalan za male farme i stambene potrebe.",
-      "Snažna zadnja kašika koja se može brzo i lako ukloniti.",
-      "HST – hidrostatički pogon sa sistemom dvostrukih pedala za lako menjanje pravca i brzine.",
-      "Kosilica montirana u sredini sa odstojanjem od tla od 152 mm, omogućavajući lako montiranje i demontiranje.",
-      "Jednostavno podešavanje visine sečenja okretanjem kontrolnog točkića.",
-      "Zadnja hidraulika kategorije I sa kapacitetom podizanja od 440 kg, pogodna za razne priključke.",
-      "Prostrana ravna platforma sa dovoljno prostora za noge i lak ulazak u traktor.",
-      "Rotirajuće GRAMMER® sedište sa visokim naslonom za udobnost i podršku."
+      "<h2 class='mt-2 font-bold'>Moderan i elegantan dizajn</h2><p class='mt-4'>Optimalan za male farme i stambene potrebe.</p>",
+      "<h2 class='mt-2 font-bold'>Snažna zadnja kašika</h2><p class='mt-4'>Koja se može brzo i lako ukloniti.</p>",
+      "<h2 class='mt-2 font-bold'>HST – hidrostatički pogon</h2><p class='mt-4'>Sa sistemom dvostrukih pedala za lako menjanje pravca i brzine.</p>",
+      "<h2 class='mt-2 font-bold'>Kosilica sa visinom od 152 mm</h2><p class='mt-4'>Kosilica montirana u sredini sa odstojanjem od tla od 152 mm, omogućavajući lako montiranje i demontiranje.</p>",
+      "<h2 class='mt-2 font-bold'>Jednostavno podešavanje visine sečenja</h2><p class='mt-4'>Okretanjem kontrolnog točkića.</p>",
+      "<h2 class='mt-2 font-bold'>Zadnja hidraulika kategorije I</h2><p class='mt-4'>Sa kapacitetom podizanja od 440 kg, pogodna za razne priključke.</p>",
+      "<h2 class='mt-2 font-bold'>Prostrana ravna platforma</h2><p class='mt-4'>Sa dovoljno prostora za noge i lak ulazak u traktor.</p>",
+      "<h2 class='mt-2 font-bold'>Rotirajuće GRAMMER® sedište</h2><p class='mt-4'>Sa visokim naslonom za udobnost i podršku.</p>"
     ],
     "images": [
       "./images/LS-MT1.25/LS-MT1_1.jpg",
@@ -119,16 +119,16 @@
       }
     },
     "features": [
-      "Moderan i elegantan dizajn optimalan za male farme i stambene potrebe.",
-      "Motor u skladu sa emisijom EURO V, osigurava tihi i pouzdani rad sa smanjenim vibracijama.",
-      "Veliki rezervoar od 25 litara za produženo vreme rada.",
-      "Standardni srednji PTO sa 2000 o/min, omogućavajući priključivanje raznih dodataka.",
-      "Velika maksimalna brzina od 23.7 km/h za brzo transportovanje.",
-      "Zadnja hidraulika kategorije I sa kapacitetom podizanja od 650 kg, pogodna za razne priključke.",
-      "Elektronski ON/OFF prekidač PTO-a za lako uključivanje i isključivanje.",
-      "Jednostavna promena između 2×4 i 4×4 pogona pomoću zgodno postavljenih poluga.",
-      "Ergonomski dizajnirana kontrolna tabla za maksimalnu udobnost.",
-      "Podesivo GRAMMER® sedište koje pruža udobnost i sigurnost."
+      "<h2 class='mt-2 font-bold'>Moderan i elegantan dizajn</h2><p class='mt-4'>Optimalan za male farme i stambene potrebe.</p>",
+      "<h2 class='mt-2 font-bold'>Motor u skladu sa emisijom EURO V</h2><p class='mt-4'>Osigurava tihi i pouzdani rad sa smanjenim vibracijama.</p>",
+      "<h2 class='mt-2 font-bold'>Veliki rezervoar od 25 litara</h2><p class='mt-4'>Za produženo vreme rada.</p>",
+      "<h2 class='mt-2 font-bold'>Standardni srednji PTO</h2><p class='mt-4'>Sa 2000 o/min, omogućavajući priključivanje raznih dodataka.</p>",
+      "<h2 class='mt-2 font-bold'>Velika maksimalna brzina</h2><p class='mt-4'>Od 23.7 km/h za brzo transportovanje.</p>",
+      "<h2 class='mt-2 font-bold'>Zadnja hidraulika kategorije I</h2><p class='mt-4'>Sa kapacitetom podizanja od 650 kg, pogodna za razne priključke.</p>",
+      "<h2 class='mt-2 font-bold'>Elektronski ON/OFF prekidač PTO-a</h2><p class='mt-4'>Za lako uključivanje i isključivanje.</p>",
+      "<h2 class='mt-2 font-bold'>Jednostavna promena između 2×4 i 4×4 pogona</h2><p class='mt-4'>Pomoću zgodno postavljenih poluga.</p>",
+      "<h2 class='mt-2 font-bold'>Ergonomski dizajnirana kontrolna tabla</h2><p class='mt-4'>Za maksimalnu udobnost.</p>",
+      "<h2 class='mt-2 font-bold'>Podesivo GRAMMER® sedište</h2><p class='mt-4'>Koje pruža udobnost i sigurnost.</p>"
     ],
     "images": [
       "./images/LS-XJ25/LS-XJ25_1.jpg",
@@ -193,15 +193,15 @@
       "price": "Od 19.999,00 € sa PDV-om"
     },
     "features": [
-      "Moderan dizajn pogodan za različite poljoprivredne i komunalne zadatke.",
-      "Motor sa EURO V standardom emisije za efikasnu i ekološki prihvatljivu upotrebu.",
-      "Prostrana operaterska platforma sa ergonomskim komandama za povećanu udobnost.",
-      "Standardni 4×4 pogon koji pruža odličnu trakciju u različitim uslovima.",
-      "Tročlani hidraulični priključak kategorije I sa kapacitetom podizanja od 820 kg, pogodan za širok spektar priključaka.",
-      "Hidrostatički upravljački sistem za lakše manevrisanje.",
-      "Uljno potopljene disk kočnice za pouzdano zaustavljanje.",
-      "Mehanički menjač sa 12 brzina napred i 12 unazad za svestrane performanse."
-    ],
+      "<h2 class='mt-2 font-bold'>Moderan dizajn</h2><p class='mt-4'>Pogodan za različite poljoprivredne i komunalne zadatke.</p>",
+      "<h2 class='mt-2 font-bold'>Motor sa EURO V standardom emisije</h2><p class='mt-4'>Za efikasnu i ekološki prihvatljivu upotrebu.</p>",
+      "<h2 class='mt-2 font-bold'>Prostrana operaterska platforma</h2><p class='mt-4'>Sa ergonomskim komandama za povećanu udobnost.</p>",
+      "<h2 class='mt-2 font-bold'>Standardni 4×4 pogon</h2><p class='mt-4'>Koji pruža odličnu trakciju u različitim uslovima.</p>",
+      "<h2 class='mt-2 font-bold'>TroČlani hidraulični priključak kategorije I</h2><p class='mt-4'>Sa kapacitetom podizanja od 820 kg, pogodan za širok spektar priključaka.</p>",
+      "<h2 class='mt-2 font-bold'>Hidrostatički upravljački sistem</h2><p class='mt-4'>Za lakše manevrisanje.</p>",
+      "<h2 class='mt-2 font-bold'>Uljno potopljene disk kočnice</h2><p class='mt-4'>Za pouzdano zaustavljanje.</p>",
+      "<h2 class='mt-2 font-bold'>Mehanički menjač</h2><p class='mt-4'>Sa 12 brzina napred i 12 unazad za svestrane performanse.</p>"
+    ],    
     "images": [
       "./images/LS-MT3.35/LS-MT3.35_1.jpg",
       "./images/LS-MT3.35/LS-MT3.35_2.jpg",
@@ -268,15 +268,15 @@
       "price": "Od 29.999,00 € sa PDV-om"
     },
     "features": [
-      "Snažan motor sa turbopunjačem koji zadovoljava EURO V standarde emisije.",
-      "Prostrana kabina sa klimatizacijom i ergonomskim komandama za komfor operatera.",
-      "Standardni 4×4 pogon koji obezbeđuje optimalne performanse na različitim terenima.",
-      "Kategorija II trotačka veza sa kapacitetom podizanja od 1.500 kg, pogodna za teške priključke.",
-      "Hidrostatičko upravljanje za precizno rukovanje.",
-      "Disk kočnice u ulju za pouzdano kočenje.",
-      "Mehanička transmisija sa 16 brzina napred i 16 nazad za fleksibilan rad.",
-      "Hidraulička pumpa velikog kapaciteta za zahtevne hidrauličke aplikacije."
-    ],
+      "<h2 class='mt-2 font-bold'>Snažan motor sa turbopunjačem</h2><p class='mt-4'>Koji zadovoljava EURO V standarde emisije.</p>",
+      "<h2 class='mt-2 font-bold'>Prostrana kabina</h2><p class='mt-4'>Sa klimatizacijom i ergonomskim komandama za komfor operatera.</p>",
+      "<h2 class='mt-2 font-bold'>Standardni 4×4 pogon</h2><p class='mt-4'>Koji obezbeđuje optimalne performanse na različitim terenima.</p>",
+      "<h2 class='mt-2 font-bold'>Kategorija II trotačka veza</h2><p class='mt-4'>Sa kapacitetom podizanja od 1.500 kg, pogodna za teške priključke.</p>",
+      "<h2 class='mt-2 font-bold'>Hidrostatičko upravljanje</h2><p class='mt-4'>Za precizno rukovanje.</p>",
+      "<h2 class='mt-2 font-bold'>Disk kočnice u ulju</h2><p class='mt-4'>Za pouzdano kočenje.</p>",
+      "<h2 class='mt-2 font-bold'>Mehanička transmisija</h2><p class='mt-4'>Sa 16 brzina napred i 16 nazad za fleksibilan rad.</p>",
+      "<h2 class='mt-2 font-bold'>Hidraulička pumpa velikog kapaciteta</h2><p class='mt-4'>Za zahtevne hidrauličke aplikacije.</p>"
+    ],   
     "images": [
       "./images/LS-MT3.60/LS-MT3.60_1.jpg",
       "./images/LS-MT3.60/LS-MT3.60_2.jpg",
@@ -351,15 +351,15 @@
       "price": "Od 39.999,00 € sa PDV-om"
     },
     "features": [
-      "Visokoperformansni motor od 68 KS sa turbopunjačem i EURO V standardom.",
-      "Prostrana kabina sa ergonomskim komandama, klimatizacijom i ugrađenim radiom za komfor operatera.",
-      "Standardni 4×4 pogon koji pruža odličnu vuču u izazovnim uslovima.",
-      "Kategorija II trotačka veza sa kapacitetom podizanja od 2.200 kg, pogodna za teške priključke.",
-      "Hidrostatičko upravljanje za preciznu kontrolu i manevrisanje.",
-      "Disk kočnice u ulju za pouzdano zaustavljanje.",
-      "Mehanička transmisija sa 16 brzina napred i 16 nazad za univerzalne performanse.",
-      "Veliki rezervoar (80 litara) za duge radne sate."
-    ],
+      "<h2 class='mt-2 font-bold'>Visokoperformansni motor od 68 KS</h2><p class='mt-4'>Sa turbopunjačem i EURO V standardom.</p>",
+      "<h2 class='mt-2 font-bold'>Prostrana kabina</h2><p class='mt-4'>Sa ergonomskim komandama, klimatizacijom i ugrađenim radiom za komfor operatera.</p>",
+      "<h2 class='mt-2 font-bold'>Standardni 4×4 pogon</h2><p class='mt-4'>Koji pruža odličnu vuču u izazovnim uslovima.</p>",
+      "<h2 class='mt-2 font-bold'>Kategorija II trotačka veza</h2><p class='mt-4'>Sa kapacitetom podizanja od 2.200 kg, pogodna za teške priključke.</p>",
+      "<h2 class='mt-2 font-bold'>Hidrostatičko upravljanje</h2><p class='mt-4'>Za preciznu kontrolu i manevrisanje.</p>",
+      "<h2 class='mt-2 font-bold'>Disk kočnice u ulju</h2><p class='mt-4'>Za pouzdano zaustavljanje.</p>",
+      "<h2 class='mt-2 font-bold'>Mehanička transmisija</h2><p class='mt-4'>Sa 16 brzina napred i 16 nazad za univerzalne performanse.</p>",
+      "<h2 class='mt-2 font-bold'>Veliki rezervoar (80 litara)</h2><p class='mt-4'>Za duge radne sate.</p>"
+    ],    
     "video_url": "https://youtu.be/d69_eHe3NUk",
     "images": [
       "./images/LS-XU6168/LS-XU6168_1.jpg",
@@ -432,20 +432,20 @@
       "price": "Od 42.999,00 € sa PDV-om"
     },
     "features": [
-      "Motor od 73 KS sa turbopunjačem i EURO V standardom za efikasne performanse.",
-      "Kabina opremljena EHR hidraulikom i elektrohidrauličkim inverterom za veću preciznost rada.",
-      "Dostupan u varijantama sa mehaničkim ili Power Shuttle menjačem.",
-      "TBZ kategorije II sa kapacitetom podizanja do 3.000 kg za teške priključke.",
-      "Hidrostatičko upravljanje omogućava preciznu kontrolu i manevrisanje.",
-      "Disk kočnice u ulju osiguravaju sigurnost i pouzdano zaustavljanje.",
-      "PST menjač (opciono) omogućava promenu smera vožnje bez korišćenja kvačila.",
-      "Premium GRAMMER® sedište sa mogućnošću rotacije za veću udobnost.",
-      "Veliki rezervoar goriva (100 litara) omogućava duge radne sate.",
-      "Ergonomski dizajniran elektrohidraulički kontrolni panel.",
-      "Tempomat za preciznu kontrolu broja obrtaja motora.",
-      "Dvostruki brisači za bolju vidljivost tokom kišnih uslova.",
-      "Klizna vučna kuka SCHARMÜLLER za lako povezivanje prikolica."
-    ],
+      "<h2 class='mt-2 font-bold'>Motor od 73 KS</h2><p class='mt-4'>Sa turbopunjačem i EURO V standardom za efikasne performanse.</p>",
+      "<h2 class='mt-2 font-bold'>Kabina opremljena EHR hidraulikom</h2><p class='mt-4'>I elektrohidrauličkim inverterom za veću preciznost rada.</p>",
+      "<h2 class='mt-2 font-bold'>Dostupan u varijantama sa mehaničkim ili Power Shuttle menjačem</h2><p class='mt-4'></p>",
+      "<h2 class='mt-2 font-bold'>TBZ kategorije II</h2><p class='mt-4'>Sa kapacitetom podizanja do 3.000 kg za teške priključke.</p>",
+      "<h2 class='mt-2 font-bold'>Hidrostatičko upravljanje</h2><p class='mt-4'>Omogućava preciznu kontrolu i manevrisanje.</p>",
+      "<h2 class='mt-2 font-bold'>Disk kočnice u ulju</h2><p class='mt-4'>Osiguravaju sigurnost i pouzdano zaustavljanje.</p>",
+      "<h2 class='mt-2 font-bold'>PST menjač (opciono)</h2><p class='mt-4'>Omogućava promenu smera vožnje bez korišćenja kvačila.</p>",
+      "<h2 class='mt-2 font-bold'>Premium GRAMMER® sedište</h2><p class='mt-4'>Sa mogućnošću rotacije za veću udobnost.</p>",
+      "<h2 class='mt-2 font-bold'>Veliki rezervoar goriva (100 litara)</h2><p class='mt-4'>Omogućava duge radne sate.</p>",
+      "<h2 class='mt-2 font-bold'>Ergonomski dizajniran elektrohidraulički kontrolni panel</h2><p class='mt-4'></p>",
+      "<h2 class='mt-2 font-bold'>Tempomat</h2><p class='mt-4'>Za preciznu kontrolu broja obrtaja motora.</p>",
+      "<h2 class='mt-2 font-bold'>Dvostruki brisači</h2><p class='mt-4'>Za bolju vidljivost tokom kišnih uslova.</p>",
+      "<h2 class='mt-2 font-bold'>Klizna vučna kuka SCHARMÜLLER</h2><p class='mt-4'>Za lako povezivanje prikolica.</p>"
+    ],   
     "video_url": "https://youtu.be/Yfl1xktZdo8",
     "images": [
       "./images/LS-MT5.73/LS-MT5.73_1.jpg",
