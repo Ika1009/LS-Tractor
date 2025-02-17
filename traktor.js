@@ -167,13 +167,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
             }
         });
-        
-        // Update price
-        const priceElement = document.querySelector('.bg-white.border-t-\\[3px\\] td');
-        if (priceElement && specs.price) {
-            priceElement.textContent = specs.price;
-            console.log('Updated price:', specs.price);
-        }
+
     }
 
 
