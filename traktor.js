@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     return;
                 }
                 const imgElement = document.createElement('img');
-                imgElement.className = "w-full rounded-lg cursor-pointer";
+                imgElement.className = "w-full aspect-[4/3] object-cover rounded-lg cursor-pointer";
                 imgElement.src = img;
                 imgElement.alt = `${tractor.model} - Image ${index + 1}`;
                 thumbnailsContainer.appendChild(imgElement);
