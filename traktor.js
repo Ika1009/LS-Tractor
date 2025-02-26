@@ -69,15 +69,29 @@ document.addEventListener('DOMContentLoaded', function() {
             // Clear existing thumbnails
             thumbnailsContainer.innerHTML = '';
             tractor.images.forEach((img, index) => {
-                if(index==0) { // jump over the first image as it already displayed
+                if (index === 0) { // Skip the first image since it's already displayed
                     return;
                 }
+            
+                // Create anchor element
+                const anchorElement = document.createElement('a');
+                anchorElement.href = img; // Link to the full image
+                anchorElement.target = "_blank"; // Open in a new tab (optional)
+                anchorElement.setAttribute("data-pswp-width", "800"); // Set PhotoSwipe width
+                anchorElement.setAttribute("data-pswp-height", "600"); // Set PhotoSwipe height
+            
+                // Create image element
                 const imgElement = document.createElement('img');
                 imgElement.className = "w-full aspect-[4/3] object-cover rounded-lg cursor-pointer";
                 imgElement.src = img;
                 imgElement.alt = `${tractor.model} - Image ${index + 1}`;
-                thumbnailsContainer.appendChild(imgElement);
-            });
+            
+                // Append image inside the anchor
+                anchorElement.appendChild(imgElement);
+            
+                // Append the anchor inside the thumbnails container
+                thumbnailsContainer.appendChild(anchorElement);
+            });            
             console.log('Updated thumbnails with new images');
         }
         
@@ -167,7 +181,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
             }
         });
-
     }
 
 
@@ -203,4 +216,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
         console.warn(`Row not found for: ${label} (Section: ${section})`);
     }
+
+    var lightbox = new PhotoSwipeLightbox({
+        gallery: '.gallery',
+        children: 'a',
+        pswpModule: PhotoSwipe 
+      });
+      lightbox.init();
 });
