@@ -44,19 +44,31 @@
       "price": "Od €13,999.00 sa PDV-om"
     },
     "features": [
-      "Moderan i elegantan dizajn optimalan za male farme i stambene potrebe.",
-      "Snažna zadnja kašika koja se može brzo i lako ukloniti.",
-      "HST – hidrostatički pogon sa sistemom dvostrukih pedala za lako menjanje pravca i brzine.",
-      "Kosilica montirana u sredini sa odstojanjem od tla od 152 mm, omogućavajući lako montiranje i demontiranje.",
-      "Jednostavno podešavanje visine sečenja okretanjem kontrolnog točkića.",
-      "Zadnja hidraulika kategorije I sa kapacitetom podizanja od 440 kg, pogodna za razne priključke.",
-      "Prostrana ravna platforma sa dovoljno prostora za noge i lak ulazak u traktor.",
-      "Rotirajuće GRAMMER® sedište sa visokim naslonom za udobnost i podršku."
+      "<h2 class='mt-2 font-bold'>Moderan i elegantan dizajn</h2><p class='mt-4'>Optimalan za male farme i stambene potrebe.</p>",
+      "<h2 class='mt-2 font-bold'>Snažna zadnja kašika</h2><p class='mt-4'>Koja se može brzo i lako ukloniti.</p>",
+      "<h2 class='mt-2 font-bold'>HST – hidrostatički pogon</h2><p class='mt-4'>Sa sistemom dvostrukih pedala za lako menjanje pravca i brzine.</p>",
+      "<h2 class='mt-2 font-bold'>Kosilica sa visinom od 152 mm</h2><p class='mt-4'>Kosilica montirana u sredini sa odstojanjem od tla od 152 mm, omogućavajući lako montiranje i demontiranje.</p>",
+      "<h2 class='mt-2 font-bold'>Jednostavno podešavanje visine sečenja</h2><p class='mt-4'>Okretanjem kontrolnog točkića.</p>",
+      "<h2 class='mt-2 font-bold'>Zadnja hidraulika kategorije I</h2><p class='mt-4'>Sa kapacitetom podizanja od 440 kg, pogodna za razne priključke.</p>",
+      "<h2 class='mt-2 font-bold'>Prostrana ravna platforma</h2><p class='mt-4'>Sa dovoljno prostora za noge i lak ulazak u traktor.</p>",
+      "<h2 class='mt-2 font-bold'>Rotirajuće GRAMMER® sedište</h2><p class='mt-4'>Sa visokim naslonom za udobnost i podršku.</p>"
     ],
     "images": [
-      "https://www.lstraktor.sk/images/mt1.25_1.jpg",
-      "https://www.lstraktor.sk/images/mt1.25_2.jpg",
-      "https://www.lstraktor.sk/images/mt1.25_3.jpg"
+      "./images/LS-MT1.25/LS-MT1_1.jpg",
+      "./images/LS-MT1.25/LS-MT1_2.jpg",
+      "./images/LS-MT1.25/LS-MT1_3.jpg",
+      "./images/LS-MT1.25/LS-MT1_4.jpg",
+      "./images/LS-MT1.25/LS-MT1_5.jpg"
+    ],
+    "feature_images": [
+      "./images/LS-MT1.25/LS-MT1_1_feature.jpg",
+      "./images/LS-MT1.25/LS-MT1_2_feature.jpg",
+      "./images/LS-MT1.25/LS-MT1_3_feature.jpg",
+      "./images/LS-MT1.25/LS-MT1_4_feature.jpg",
+      "./images/LS-MT1.25/LS-MT1_5_feature.jpg",
+      "./images/LS-MT1.25/LS-MT1_6_feature.jpg",
+      "./images/LS-MT1.25/LS-MT1_7_feature.jpg",
+      "./images/LS-MT1.25/LS-MT1_8_feature.jpg"
     ]
   },
   {
@@ -107,282 +119,522 @@
       }
     },
     "features": [
-      "Moderan i elegantan dizajn optimalan za male farme i stambene potrebe.",
-      "Motor u skladu sa emisijom EURO V, osigurava tihi i pouzdani rad sa smanjenim vibracijama.",
-      "Veliki rezervoar od 25 litara za produženo vreme rada.",
-      "Standardni srednji PTO sa 2000 o/min, omogućavajući priključivanje raznih dodataka.",
-      "Velika maksimalna brzina od 23.7 km/h za brzo transportovanje.",
-      "Zadnja hidraulika kategorije I sa kapacitetom podizanja od 650 kg, pogodna za razne priključke.",
-      "Elektronski ON/OFF prekidač PTO-a za lako uključivanje i isključivanje.",
-      "Jednostavna promena između 2×4 i 4×4 pogona pomoću zgodno postavljenih poluga.",
-      "Ergonomski dizajnirana kontrolna tabla za maksimalnu udobnost.",
-      "Podesivo GRAMMER® sedište koje pruža udobnost i sigurnost."
+      "<h2 class='mt-2 font-bold'>Moderan i elegantan dizajn</h2><p class='mt-4'>Optimalan za male farme i stambene potrebe.</p>",
+      "<h2 class='mt-2 font-bold'>Motor u skladu sa emisijom EURO V</h2><p class='mt-4'>Osigurava tihi i pouzdani rad sa smanjenim vibracijama.</p>",
+      "<h2 class='mt-2 font-bold'>Veliki rezervoar od 25 litara</h2><p class='mt-4'>Za produženo vreme rada.</p>",
+      "<h2 class='mt-2 font-bold'>Standardni srednji PTO</h2><p class='mt-4'>Sa 2000 o/min, omogućavajući priključivanje raznih dodataka.</p>",
+      "<h2 class='mt-2 font-bold'>Velika maksimalna brzina</h2><p class='mt-4'>Od 23.7 km/h za brzo transportovanje.</p>",
+      "<h2 class='mt-2 font-bold'>Zadnja hidraulika kategorije I</h2><p class='mt-4'>Sa kapacitetom podizanja od 650 kg, pogodna za razne priključke.</p>",
+      "<h2 class='mt-2 font-bold'>Elektronski ON/OFF prekidač PTO-a</h2><p class='mt-4'>Za lako uključivanje i isključivanje.</p>",
+      "<h2 class='mt-2 font-bold'>Jednostavna promena između 2×4 i 4×4 pogona</h2><p class='mt-4'>Pomoću zgodno postavljenih poluga.</p>",
+      "<h2 class='mt-2 font-bold'>Ergonomski dizajnirana kontrolna tabla</h2><p class='mt-4'>Za maksimalnu udobnost.</p>",
+      "<h2 class='mt-2 font-bold'>Podesivo GRAMMER® sedište</h2><p class='mt-4'>Koje pruža udobnost i sigurnost.</p>"
     ],
     "images": [
-      "https://www.lstraktor.sk/images/xj25_1.jpg",
-      "https://www.lstraktor.sk/images/xj25_2.jpg",
-      "https://www.lstraktor.sk/images/xj25_3.jpg"
+      "./images/LS-XJ25/LS-XJ25_1.jpg",
+      "./images/LS-XJ25/LS-XJ25_2.jpg",
+      "./images/LS-XJ25/LS-XJ25_3.jpg",
+      "./images/LS-XJ25/LS-XJ25_4.jpg"
+    ],
+    "feature_images": [
+      "./images/LS-XJ25/LS-XJ25_1_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_2_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_3_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_4_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_5_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_6_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_7_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_8_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_9_feature.jpg",
+      "./images/LS-XJ25/LS-XJ25_10_feature.jpg"
     ]
   },
   {
     "model": "LS MT3.35 / MT3.40",
-    "opis": "LS MT3.35 i MT3.40 su višenamenski traktori dizajnirani za male i srednje farme, kao i za komunalnu upotrebu. Nude pouzdane performanse sa nizom funkcija koje povećavaju produktivnost.",
-    "specifikacije": {
-      "motor": {
-        "proizvođač": "LS Mtron",
-        "tip": "Vodeno hlađeni dizel sa 3 cilindra, direktno ubrizgavanje",
+    "description": "LS MT3.35 i MT3.40 su svestrani traktori dizajnirani za male i srednje farme, kao i za komunalnu upotrebu. Nude pouzdane performanse sa nizom karakteristika koje povećavaju produktivnost.",
+    "specifications": {
+      "engine": {
+        "manufacturer": "LS Mtron",
+        "type": "Vodeno hlađeni 3-cilindrični dizel motor, direktno ubrizgavanje",
         "model": "L3C19-T",
-        "snaga": "35 KS / 40 KS",
-        "cilindri": 3,
-        "zapremina": "1.826 cm³",
-        "kapacitet_rezervoara": "45 litara",
-        "baterija": "12V",
-        "maksimalni_obrtaji_i_obrtni_moment": "2.600 obrtaja/min / 142 Nm",
-        "klasa_emisije": "EURO V"
+        "power": "35 KS / 40 KS",
+        "cylinders": 3,
+        "displacement": "1826 cm³",
+        "fuel_tank_capacity": "45 litara",
+        "battery": "12V",
+        "max_rpm_and_torque": "2600 o/min / 142 Nm",
+        "emission_class": "EURO V"
       },
-      "transmisija": {
-        "tip": "Mehanička (12 napred / 12 nazad)",
-        "blokada_diferencijala": "Da",
-        "pogonski_sistem": "4×4",
-        "upravljanje": "Hidrostatičko",
-        "maksimalna_brzina": "25 km/h",
-        "kočnice": "Disk kočnice u ulju"
+      "transmission": {
+        "type": "Mehanički (12 napred / 12 unazad)",
+        "differential_lock": "Da",
+        "drive": "4×4",
+        "steering": "Hidrostatički",
+        "max_speed": "25 km/h",
+        "brakes": "Uljno potopljene disk kočnice"
       },
-      "tbz_i_pto": {
-        "zadnji_pto": "540 obrtaja/min",
-        "tbz_kategorija": "I",
-        "kapacitet_podižnog_mehanizma": "820 kg",
-        "kapacitet_hidrauličke_pumpe": "28,5 l/min"
+      "tbz_and_pto": {
+        "rear_pto": "540 o/min",
+        "tbz_category": "I",
+        "rear_hydraulic_lift_capacity": "820 kg",
+        "hydraulic_pump_capacity": "28,5 l/min"
       },
-      "dimenzije_i_tezina": {
-        "dužina": "3.140 mm",
-        "širina": "1.460 mm",
-        "visina": "2.400 mm",
-        "međusovinsko_rastojanje": "1.750 mm",
-        "razmak_od_tla": "340 mm",
-        "radijus_okretanja": "2.800 mm",
-        "maksimalni_ugao_upravljanja": "50°",
-        "težina": "1.500 kg",
-        "gume_prednje_zadnje": "7-16 / 11.2-24"
+      "dimensions_and_weight": {
+        "length": "3140 mm",
+        "width": "1460 mm",
+        "height": "2400 mm",
+        "wheelbase": "1750 mm",
+        "ground_clearance": "340 mm",
+        "turning_radius": "2800 mm",
+        "max_steering_angle": "50°",
+        "weight": "1500 kg",
+        "tires_front_rear": "7-16 / 11.2-24"
       },
-      "cena": "Od 19.999,00 € sa PDV-om"
+      "price": "Od 19.999,00 € sa PDV-om"
     },
-    "funkcije": [
-      "Moderan dizajn pogodan za različite poljoprivredne i komunalne zadatke.",
-      "Motor sa EURO V standardom emisije za efikasno i ekološko poslovanje.",
-      "Prostrana platforma za operatera sa ergonomskim komandama za povećan komfor.",
-      "Standardni 4×4 pogon koji obezbeđuje odličnu vuču u različitim uslovima.",
-      "Kategorija I trotačka veza sa kapacitetom podizanja od 820 kg, pogodna za širok spektar priključaka.",
-      "Hidrostatičko upravljanje za lakše manevrisanje.",
-      "Disk kočnice u ulju za pouzdano kočenje.",
-      "Mehanička transmisija sa 12 brzina napred i 12 nazad za različite opcije brzine."
+    "features": [
+      "<h2 class='mt-2 font-bold'>Moderan dizajn</h2><p class='mt-4'>Pogodan za različite poljoprivredne i komunalne zadatke.</p>",
+      "<h2 class='mt-2 font-bold'>Motor sa EURO V standardom emisije</h2><p class='mt-4'>Za efikasnu i ekološki prihvatljivu upotrebu.</p>",
+      "<h2 class='mt-2 font-bold'>Prostrana operaterska platforma</h2><p class='mt-4'>Sa ergonomskim komandama za povećanu udobnost.</p>",
+      "<h2 class='mt-2 font-bold'>Standardni 4×4 pogon</h2><p class='mt-4'>Koji pruža odličnu trakciju u različitim uslovima.</p>",
+      "<h2 class='mt-2 font-bold'>TroČlani hidraulični priključak kategorije I</h2><p class='mt-4'>Sa kapacitetom podizanja od 820 kg, pogodan za širok spektar priključaka.</p>",
+      "<h2 class='mt-2 font-bold'>Hidrostatički upravljački sistem</h2><p class='mt-4'>Za lakše manevrisanje.</p>",
+      "<h2 class='mt-2 font-bold'>Uljno potopljene disk kočnice</h2><p class='mt-4'>Za pouzdano zaustavljanje.</p>",
+      "<h2 class='mt-2 font-bold'>Mehanički menjač</h2><p class='mt-4'>Sa 12 brzina napred i 12 unazad za svestrane performanse.</p>"
+    ],    
+    "images": [
+      "./images/LS-MT3.35/LS-MT3.35_1.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_2.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_3.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_4.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_5.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_6.jpg"
     ],
-    "slike": [
-      "https://www.lstraktor.sk/images/mt3.35_1.jpg",
-      "https://www.lstraktor.sk/images/mt3.35_2.jpg",
-      "https://www.lstraktor.sk/images/mt3.35_3.jpg"
+    "feature_images": [
+      "./images/LS-MT3.35/LS-MT3.35_1_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_2_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_3_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_4_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_5_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_6_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_7_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_8_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_9_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_10_feature.jpg",
+      "./images/LS-MT3.35/LS-MT3.35_11_feature.jpg"
     ]
   },
   {
     "model": "LS MT3.50 / MT3.60",
-    "opis": "LS MT3.50 i MT3.60 su robusni traktori dizajnirani za srednje farme i teške zadatke. Pružaju snažne performanse sa naprednim funkcijama za zadovoljavanje različitih poljoprivrednih potreba.",
-    "specifikacije": {
-      "motor": {
-        "proizvođač": "LS Mtron",
-        "tip": "Vodeno hlađeni dizel sa 4 cilindra, turbopunjač, direktno ubrizgavanje",
+    "description": "LS MT3.50 i MT3.60 su robusni traktori dizajnirani za srednje farme i teške zadatke. Pružaju snažne performanse sa naprednim funkcijama za zadovoljavanje različitih poljoprivrednih potreba.",
+    "specifications": {
+      "engine": {
+        "manufacturer": "LS Mtron",
+        "type": "Vodeno hlađeni dizel sa 4 cilindra, turbopunjač, direktno ubrizgavanje",
         "model": "L4C25-T",
-        "snaga": "50 KS / 60 KS",
-        "cilindri": 4,
-        "zapremina": "2.505 cm³",
-        "kapacitet_rezervoara": "60 litara",
-        "baterija": "12V",
-        "maksimalni_obrtaji_i_obrtni_moment": "2.500 obrtaja/min / 196 Nm",
-        "klasa_emisije": "EURO V"
+        "power": "50 KS / 60 KS",
+        "cylinders": 4,
+        "displacement": "2.505 cm³",
+        "fuel_tank_capacity": "60 litara",
+        "battery": "12V",
+        "max_rpm_and_torque": "2.500 obrtaja/min / 196 Nm",
+        "emission_class": "EURO V"
       },
-      "transmisija": {
-        "tip": "Mehanička (16 napred / 16 nazad)",
-        "blokada_diferencijala": "Da",
-        "pogonski_sistem": "4×4",
-        "upravljanje": "Hidrostatičko",
-        "maksimalna_brzina": "30 km/h",
-        "kočnice": "Disk kočnice u ulju"
+      "transmission": {
+        "type": "Mehanička (16 napred / 16 nazad)",
+        "differential_lock": "Da",
+        "drive": "4×4",
+        "steering": "Hidrostatičko",
+        "max_speed": "30 km/h",
+        "brakes": "Disk kočnice u ulju"
       },
-      "tbz_i_pto": {
-        "zadnji_pto": "540 / 540E obrtaja/min",
-        "tbz_kategorija": "II",
-        "kapacitet_podižnog_mehanizma": "1.500 kg",
-        "kapacitet_hidrauličke_pumpe": "37,5 l/min"
+      "tbz_and_pto": {
+        "rear_pto": "540 / 540E obrtaja/min",
+        "tbz_category": "II",
+        "rear_hydraulic_lift_capacity": "1.500 kg",
+        "hydraulic_pump_capacity": "37,5 l/min"
       },
-      "dimenzije_i_tezina": {
-        "dužina": "3.500 mm",
-        "širina": "1.750 mm",
-        "visina": "2.500 mm",
-        "međusovinsko_rastojanje": "2.000 mm",
-        "razmak_od_tla": "400 mm",
-        "radijus_okretanja": "3.200 mm",
-        "maksimalni_ugao_upravljanja": "55°",
-        "težina": "2.000 kg",
-        "gume_prednje_zadnje": "9.5-20 / 13.6-28"
+      "dimensions_and_weight": {
+        "length": "3.500 mm",
+        "width": "1.750 mm",
+        "height": "2.500 mm",
+        "wheelbase": "2.000 mm",
+        "ground_clearance": "400 mm",
+        "turning_radius": "3.200 mm",
+        "max_steering_angle": "55°",
+        "weight": "2.000 kg",
+        "tires_front_rear": "9.5-20 / 13.6-28"
       },
-      "cena": "Od 29.999,00 € sa PDV-om"
+      "price": "Od 29.999,00 € sa PDV-om"
     },
-    "funkcije": [
-      "Snažan motor sa turbopunjačem koji zadovoljava EURO V standarde emisije.",
-      "Prostrana kabina sa klimatizacijom i ergonomskim komandama za komfor operatera.",
-      "Standardni 4×4 pogon koji obezbeđuje optimalne performanse na različitim terenima.",
-      "Kategorija II trotačka veza sa kapacitetom podizanja od 1.500 kg, pogodna za teške priključke.",
-      "Hidrostatičko upravljanje za precizno rukovanje.",
-      "Disk kočnice u ulju za pouzdano kočenje.",
-      "Mehanička transmisija sa 16 brzina napred i 16 nazad za fleksibilan rad.",
-      "Hidraulička pumpa velikog kapaciteta za zahtevne hidrauličke aplikacije."
+    "features": [
+      "<h2 class='mt-2 font-bold'>Snažan motor sa turbopunjačem</h2><p class='mt-4'>Koji zadovoljava EURO V standarde emisije.</p>",
+      "<h2 class='mt-2 font-bold'>Prostrana kabina</h2><p class='mt-4'>Sa klimatizacijom i ergonomskim komandama za komfor operatera.</p>",
+      "<h2 class='mt-2 font-bold'>Standardni 4×4 pogon</h2><p class='mt-4'>Koji obezbeđuje optimalne performanse na različitim terenima.</p>",
+      "<h2 class='mt-2 font-bold'>Kategorija II trotačka veza</h2><p class='mt-4'>Sa kapacitetom podizanja od 1.500 kg, pogodna za teške priključke.</p>",
+      "<h2 class='mt-2 font-bold'>Hidrostatičko upravljanje</h2><p class='mt-4'>Za precizno rukovanje.</p>",
+      "<h2 class='mt-2 font-bold'>Disk kočnice u ulju</h2><p class='mt-4'>Za pouzdano kočenje.</p>",
+      "<h2 class='mt-2 font-bold'>Mehanička transmisija</h2><p class='mt-4'>Sa 16 brzina napred i 16 nazad za fleksibilan rad.</p>",
+      "<h2 class='mt-2 font-bold'>Hidraulička pumpa velikog kapaciteta</h2><p class='mt-4'>Za zahtevne hidrauličke aplikacije.</p>"
+    ],   
+    "images": [
+      "./images/LS-MT3.60/LS-MT3.60_1.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_2.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_3.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_4.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_5.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_6.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_7.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_8.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_9.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_10.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_11.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_12.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_13.jpg"
     ],
-    "slike": [
-      "https://www.lstraktor.sk/images/mt3.50_1.jpg",
-      "https://www.lstraktor.sk/images/mt3.50_2.jpg",
-      "https://www.lstraktor.sk/images/mt3.50_3.jpg"
+    "feature_images": [
+      "./images/LS-MT3.60/LS-MT3.60_1_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_2_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_3_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_4_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_5_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_6_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_7_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_8_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_9_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_10_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_11_feature.jpg",
+      "./images/LS-MT3.60/LS-MT3.60_12_feature.jpg"
     ]
   },
   {
     "model": "LS XU6168",
-    "opis": "LS XU6168 je dizajniran za srednje i velike farme, kao i za komunalnu upotrebu. Sa motorom od 68 KS i prostranom kabinom opremljenom klimatizacijom i radiom, pruža odličan komfor tokom dugih i zahtevnih zadataka.",
-    "specifikacije": {
-      "motor": {
-        "proizvođač": "LS Mtron",
-        "tip": "Vodeno hlađeni dizel sa 4 cilindra, turbopunjač, direktno ubrizgavanje",
+    "description": "LS XU6168 je dizajniran za srednje i velike farme, kao i za komunalnu upotrebu. Sa motorom od 68 KS i prostranom kabinom opremljenom klimatizacijom i radiom, pruža odličan komfor tokom dugih i zahtevnih zadataka.",
+    "specifications": {
+      "engine": {
+        "manufacturer": "LS Mtron",
+        "type": "Vodeno hlađeni dizel sa 4 cilindra, turbopunjač, direktno ubrizgavanje",
         "model": "L4CRV-T4",
-        "snaga": "50,7 kW / 68 KS",
-        "cilindri": 4,
-        "zapremina": "2.505 cm³",
-        "kapacitet_rezervoara": "80 litara",
-        "baterija": "12V",
-        "maksimalni_obrtaji_i_obrtni_moment": "2.500 obrtaja/min / 236 Nm",
-        "klasa_emisije": "EURO V"
+        "power": "50,7 kW / 68 KS",
+        "cylinders": 4,
+        "displacement": "2.505 cm³",
+        "fuel_tank_capacity": "80 litara",
+        "battery": "12V",
+        "max_rpm_and_torque": "2.500 obrtaja/min / 236 Nm",
+        "emission_class": "EURO V"
       },
-      "transmisija": {
-        "tip": "Mehanička (16 napred / 16 nazad)",
-        "blokada_diferencijala": "Da",
-        "pogonski_sistem": "4×4",
-        "upravljanje": "Hidrostatičko",
-        "maksimalna_brzina": "35 km/h",
-        "kočnice": "Disk kočnice u ulju"
+      "transmission": {
+        "type": "Mehanička (16 napred / 16 nazad)",
+        "differential_lock": "Da",
+        "drive": "4×4",
+        "steering": "Hidrostatičko",
+        "max_speed": "35 km/h",
+        "brakes": "Disk kočnice u ulju"
       },
-      "tbz_i_pto": {
-        "zadnji_pto": "540 / 540E obrtaja/min",
-        "tbz_kategorija": "II",
-        "kapacitet_podižnog_mehanizma": "2.200 kg",
-        "kapacitet_hidrauličke_pumpe": "44,5 l/min"
+      "tbz_and_pto": {
+        "rear_pto": "540 / 540E obrtaja/min",
+        "tbz_category": "II",
+        "rear_hydraulic_lift_capacity": "2.200 kg",
+        "hydraulic_pump_capacity": "44,5 l/min"
       },
-      "dimenzije_i_tezina": {
-        "dužina": "4.000 mm",
-        "širina": "2.000 mm",
-        "visina": "2.650 mm",
-        "međusovinsko_rastojanje": "2.150 mm",
-        "razmak_od_tla": "430 mm",
-        "radijus_okretanja": "4.200 mm",
-        "maksimalni_ugao_upravljanja": "55°",
-        "težina": "2.700 kg",
-        "gume_prednje_zadnje": "12.4-24 / 16.9-30"
+      "dimensions_and_weight": {
+        "length": "4.000 mm",
+        "width": "2.000 mm",
+        "height": "2.650 mm",
+        "wheelbase": "2.150 mm",
+        "ground_clearance": "430 mm",
+        "turning_radius": "4.200 mm",
+        "max_steering_angle": "55°",
+        "weight": "2.700 kg",
+        "tires_front_rear": "12.4-24 / 16.9-30"
       },
-      "cena": "Od 39.999,00 € sa PDV-om"
+      "price": "Od 39.999,00 € sa PDV-om"
     },
-    "funkcije": [
-      "Visokoperformansni motor od 68 KS sa turbopunjačem i EURO V standardom.",
-      "Prostrana kabina sa ergonomskim komandama, klimatizacijom i ugrađenim radiom za komfor operatera.",
-      "Standardni 4×4 pogon koji pruža odličnu vuču u izazovnim uslovima.",
-      "Kategorija II trotačka veza sa kapacitetom podizanja od 2.200 kg, pogodna za teške priključke.",
-      "Hidrostatičko upravljanje za preciznu kontrolu i manevrisanje.",
-      "Disk kočnice u ulju za pouzdano zaustavljanje.",
-      "Mehanička transmisija sa 16 brzina napred i 16 nazad za univerzalne performanse.",
-      "Veliki rezervoar (80 litara) za duge radne sate."
+    "features": [
+      "<h2 class='mt-2 font-bold'>Visokoperformansni motor od 68 KS</h2><p class='mt-4'>Sa turbopunjačem i EURO V standardom.</p>",
+      "<h2 class='mt-2 font-bold'>Prostrana kabina</h2><p class='mt-4'>Sa ergonomskim komandama, klimatizacijom i ugrađenim radiom za komfor operatera.</p>",
+      "<h2 class='mt-2 font-bold'>Standardni 4×4 pogon</h2><p class='mt-4'>Koji pruža odličnu vuču u izazovnim uslovima.</p>",
+      "<h2 class='mt-2 font-bold'>Kategorija II trotačka veza</h2><p class='mt-4'>Sa kapacitetom podizanja od 2.200 kg, pogodna za teške priključke.</p>",
+      "<h2 class='mt-2 font-bold'>Hidrostatičko upravljanje</h2><p class='mt-4'>Za preciznu kontrolu i manevrisanje.</p>",
+      "<h2 class='mt-2 font-bold'>Disk kočnice u ulju</h2><p class='mt-4'>Za pouzdano zaustavljanje.</p>",
+      "<h2 class='mt-2 font-bold'>Mehanička transmisija</h2><p class='mt-4'>Sa 16 brzina napred i 16 nazad za univerzalne performanse.</p>",
+      "<h2 class='mt-2 font-bold'>Veliki rezervoar (80 litara)</h2><p class='mt-4'>Za duge radne sate.</p>"
+    ],    
+    "video_url": "https://youtu.be/d69_eHe3NUk",
+    "images": [
+      "./images/LS-XU6168/LS-XU6168_1.jpg",
+      "./images/LS-XU6168/LS-XU6168_2.jpg",
+      "./images/LS-XU6168/LS-XU6168_3.jpg",
+      "./images/LS-XU6168/LS-XU6168_4.jpg",
+      "./images/LS-XU6168/LS-XU6168_5.jpg",
+      "./images/LS-XU6168/LS-XU6168_6.jpg",
+      "./images/LS-XU6168/LS-XU6168_7.jpg",
+      "./images/LS-XU6168/LS-XU6168_8.jpg",
+      "./images/LS-XU6168/LS-XU6168_9.jpg",
+      "./images/LS-XU6168/LS-XU6168_10.jpg",
+      "./images/LS-XU6168/LS-XU6168_11.jpg",
+      "./images/LS-XU6168/LS-XU6168_12.jpg"
     ],
-    "slike": [
-      "https://www.lstraktor.sk/images/xu6168_1.jpg",
-      "https://www.lstraktor.sk/images/xu6168_2.jpg",
-      "https://www.lstraktor.sk/images/xu6168_3.jpg"
+    "feature_images": [
+      "./images/LS-XU6168/LS-XU6168_1_feature.jpg",
+      "./images/LS-XU6168/LS-XU6168_2_feature.jpg",
+      "./images/LS-XU6168/LS-XU6168_3_feature.jpg",
+      "./images/LS-XU6168/LS-XU6168_4_feature.jpg",
+      "./images/LS-XU6168/LS-XU6168_5_feature.jpg",
+      "./images/LS-XU6168/LS-XU6168_6_feature.jpg",
+      "./images/LS-XU6168/LS-XU6168_7_feature.jpg",
+      "./images/LS-XU6168/LS-XU6168_8_feature.jpg",
+      "./images/LS-XU6168/LS-XU6168_9_feature.jpg",
+      "./images/LS-XU6168/LS-XU6168_10_feature.jpg"
     ]
   },
   {
     "model": "LS MT5.73",
-    "engine": {
-      "manufacturer": "LS MTRON",
-      "type": "Vodeno hlađeni četvorocilindrični turbo-dizel",
-      "model": "L4CRV-T1A",
-      "power_kW": 54.4,
-      "power_HP": 73,
-      "displacement_cm3": 2505,
-      "max_torque_Nm": 276,
-      "rpm": 2500,
-      "emission_class": "EURO V"
+    "description": "LS MT5.73 je dizajniran za rad na zahtevnim terenima, pružajući izdržljivost, udobnost i svestranost. Sa motorom od 73 KS i naprednim opcijama menjača, nudi odlične performanse u svim radnim uslovima.",
+    "specifications": {
+      "engine": {
+        "manufacturer": "LS Mtron",
+        "type": "Vodeno hlađeni dizel sa 4 cilindra, turbopunjač, direktno ubrizgavanje",
+        "model": "L4CRV-T1A",
+        "power": "54,4 kW / 73 KS",
+        "cylinders": 4,
+        "displacement": "2.505 cm³",
+        "fuel_tank_capacity": "100 litara",
+        "battery": "12V",
+        "max_rpm_and_torque": "2.500 obrtaja/min / 276 Nm",
+        "emission_class": "EURO V"
+      },
+      "transmission": {
+        "type": "Mehanička (12 napred / 12 nazad ili 24 napred / 24 nazad) ili PS (Power Shuttle) verzija",
+        "differential_lock": "Da",
+        "drive": "4×4",
+        "steering": "Hidrostatičko",
+        "max_speed": "33 km/h",
+        "brakes": "Disk kočnice u ulju"
+      },
+      "tbz_and_pto": {
+        "rear_pto": "540 / 750 / 1000 obrtaja/min",
+        "tbz_category": "II",
+        "rear_hydraulic_lift_capacity": "3.000 kg",
+        "hydraulic_pump_capacity": "50 l/min"
+      },
+      "dimensions_and_weight": {
+        "length": "3.977 mm",
+        "width": "1.890–2.291 mm",
+        "height": "2.652 mm",
+        "wheelbase": "2.150 mm",
+        "ground_clearance": "459 mm",
+        "turning_radius": "4.100 mm",
+        "max_steering_angle": "55°",
+        "weight": "2.900 kg",
+        "tires_front_rear": "12.4-24 / 16.9-30"
+      },
+      "price": "Od 42.999,00 € sa PDV-om"
     },
-    "transmission": {
-      "type": "Mehanički (12/12 ili 24/24) ili Power Shuttle",
-      "drive": "4×4",
-      "max_speed_kmh": 33
-    },
-    "hydraulics": {
-      "category": "II",
-      "lifting_capacity_kg": 3000,
-      "pump_flow_lpm": 50,
-      "hydraulic_valves": {
-        "front": "4/6",
-        "rear": "4/6"
-      }
-    },
-    "dimensions": {
-      "length_mm": 3977,
-      "width_mm": "1890-2291",
-      "height_mm": 2652,
-      "wheelbase_mm": 2150
-    },
-    "fuel_tank_capacity_l": 100,
-    "cabin": {
-      "seat": "GRAMMER® sedište sa rotacijom od 20°"
-    }
-  },
+    "features": [
+      "<h2 class='mt-2 font-bold'>Motor od 73 KS</h2><p class='mt-4'>Sa turbopunjačem i EURO V standardom za efikasne performanse.</p>",
+      "<h2 class='mt-2 font-bold'>Kabina opremljena EHR hidraulikom</h2><p class='mt-4'>I elektrohidrauličkim inverterom za veću preciznost rada.</p>",
+      "<h2 class='mt-2 font-bold'>Dostupan u varijantama sa mehaničkim ili Power Shuttle menjačem</h2><p class='mt-4'></p>",
+      "<h2 class='mt-2 font-bold'>TBZ kategorije II</h2><p class='mt-4'>Sa kapacitetom podizanja do 3.000 kg za teške priključke.</p>",
+      "<h2 class='mt-2 font-bold'>Hidrostatičko upravljanje</h2><p class='mt-4'>Omogućava preciznu kontrolu i manevrisanje.</p>",
+      "<h2 class='mt-2 font-bold'>Disk kočnice u ulju</h2><p class='mt-4'>Osiguravaju sigurnost i pouzdano zaustavljanje.</p>",
+      "<h2 class='mt-2 font-bold'>PST menjač (opciono)</h2><p class='mt-4'>Omogućava promenu smera vožnje bez korišćenja kvačila.</p>",
+      "<h2 class='mt-2 font-bold'>Premium GRAMMER® sedište</h2><p class='mt-4'>Sa mogućnošću rotacije za veću udobnost.</p>",
+      "<h2 class='mt-2 font-bold'>Veliki rezervoar goriva (100 litara)</h2><p class='mt-4'>Omogućava duge radne sate.</p>",
+      "<h2 class='mt-2 font-bold'>Ergonomski dizajniran elektrohidraulički kontrolni panel</h2><p class='mt-4'></p>",
+      "<h2 class='mt-2 font-bold'>Tempomat</h2><p class='mt-4'>Za preciznu kontrolu broja obrtaja motora.</p>",
+      "<h2 class='mt-2 font-bold'>Dvostruki brisači</h2><p class='mt-4'>Za bolju vidljivost tokom kišnih uslova.</p>",
+      "<h2 class='mt-2 font-bold'>Klizna vučna kuka SCHARMÜLLER</h2><p class='mt-4'>Za lako povezivanje prikolica.</p>"
+    ],   
+    "video_url": "https://youtu.be/Yfl1xktZdo8",
+    "images": [
+      "./images/LS-MT5.73/LS-MT5.73_1.jpg",
+      "./images/LS-MT5.73/LS-MT5.73_2.jpg",
+      "./images/LS-MT5.73/LS-MT5.73_3.jpg",
+      "./images/LS-MT5.73/LS-MT5.73_4.jpg",
+      "./images/LS-MT5.73/LS-MT5.73_5.jpg",
+      "./images/LS-MT5.73/LS-MT5.73_6.jpg"
+    ],
+    "feature_images": [
+      "./images/LS-MT5.73/LS-MT5.73_1_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_2_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_3_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_4_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_5_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_6_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_7_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_8_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_9_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_10_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_11_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_12_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_13_feature.webp",
+      "./images/LS-MT5.73/LS-MT5.73_14_feature.jgp"
+    ]
+  },  
   {
     "model": "LS MT7.101",
-    "engine": {
-      "manufacturer": "FIAT",
-      "type": "Vodeno hlađeni četvorocilindrični turbo-dizel sa direktnim ubrizgavanjem",
-      "model": "FPT F36",
-      "power_kW": 75,
-      "power_HP": 101,
-      "displacement_cm3": 3595,
-      "max_torque_Nm": 430,
-      "rpm": 2200,
-      "emission_class": "EURO V"
+    "description": "Seria LS traktora MT7 je jedinstvena svojom modernošću i svestranošću.<br>LS traktor MT7.101 se odlikuje izuzetnim performansama i pouzdanošću.<br>Jedna od glavnih karakteristika je njegov visokoperformansni četvorocilindrični turbo-dizel motor snage 101 KS, koji može da generiše impresivnu snagu, a istovremeno je veoma ekonomičan, što se odražava na niže operativne troškove.<br><br>Širok opseg radnih brzina (20/20) omogućava pronalaženje optimalne brzine za vaš rad.<br>Traktori LS serije MT7.101 su dostupni u dve varijante:<br>– potpuno mehanički traktor, tj. sa potpuno mehaničkim menjačem,<br>– ili PS (Power Shuttle) varijanta sa mehaničkim menjačem i elektrohidrauličnim inverterom ispod volana, koji omogućava promenu pravca vožnje bez upotrebe kvačila, čime se olakšava nesmetan rad traktora uprkos njegovim velikim dimenzijama.<br>Podizna snaga zadnje hidraulike iznosi 3800 kg, što mu omogućava rad sa širokim spektrom poljoprivrednih mašina.<br><br>Kod modela MT7, LS Tractor je stavio poseban akcenat na visoki radni komfor, zbog čega vreli letnji dani ili zimske hladnoće ne predstavljaju nikakav problem.<br>Vrlo prostrana kabina opremljena je klimatizacijom, grejanjem i premium GRAMMER® sedištem sa vazdušnim oslanjanjem i mogućnošću rotacije od 20°.",
+    "specifications": {
+      "engine": {
+        "manufacturer": "FIAT",
+        "type": "Vodeno hlađeni dizel sa 4 cilindra, turbopunjač, direktno ubrizgavanje",
+        "model": "FPT F36",
+        "power": "75 kW / 101 KS",
+        "cylinders": 4,
+        "displacement": "3.595 cm³",
+        "fuel_tank_capacity": "115 litara",
+        "battery": "12V",
+        "max_rpm_and_torque": "2.200 obrtaja/min / 430 Nm",
+        "emission_class": "EURO V"
+      },
+      "transmission": {
+        "type": "Mehanička (12 napred / 12 nazad ili 24/24) ili Power Shuttle",
+        "differential_lock": "Da",
+        "drive": "4×4",
+        "steering": "Hidrostatičko",
+        "max_speed": "36 km/h",
+        "brakes": "Disk kočnice u ulju"
+      },
+      "tbz_and_pto": {
+        "rear_pto": "540 / 540E obrtaja/min",
+        "tbz_category": "II",
+        "rear_hydraulic_lift_capacity": "3.800 kg",
+        "hydraulic_pump_capacity": "59,4 l/min"
+      },
+      "dimensions_and_weight": {
+        "length": "4.228 mm",
+        "width": "1.967 - 2.312 mm",
+        "height": "2.679 mm",
+        "wheelbase": "2.287 mm",
+        "ground_clearance": "464 mm",
+        "turning_radius": "3.150 mm",
+        "max_steering_angle": "55°",
+        "weight": "3.509 kg",
+        "tires_front_rear": "Opcione dimenzije dostupne"
+      },
+      "price": "Na upit"
     },
-    "transmission": {
-      "type": "Mehanički (12/12 ili 24/24) ili Power Shuttle",
-      "drive": "4×4",
-      "max_speed_kmh": 36
-    },
-    "hydraulics": {
-      "category": "II",
-      "lifting_capacity_kg": 3800,
-      "pump_flow_lpm": 59.4,
-      "hydraulic_valves": {
-        "front": 4,
-        "rear": 6
+    "features": [
+      "<h2 class='mt-2 font-bold'>Emisiona klasa EURO V</h2><p class='mt-4'>Motor zadovoljava najnovije emisijske zahteve, a istovremeno je ekonomičan i tih.</p>",
+      "<h2 class='mt-2 font-bold'>Novo dizajnirana svetla</h2><p class='mt-4'>Visokoperformansna svetla osvetljavaju čak i najtamnije noći.</p>",
+      "<h2 class='mt-2 font-bold'>Hidraulika EHR i AUTO LEVELING</h2><p class='mt-4'>Verzija sa elektro-invertorom standardno je opremljena EHR hidraulikom – elektro-hidrauličnim podizanjem i automatskim nivelisanjem kvačila, što je posebno korisno na nagibima.</p>",
+      "<h2 class='mt-2 font-bold'>Prevodnica PST (opciono)</h2><p class='mt-4'>Jednostavno promenite smer vožnje napred ili unazad pomeranjem poluge bez korišćenja kvačila.</p>",
+      "<h2 class='mt-2 font-bold'>Multiplikator brzine</h2><p class='mt-4'>Veći izbor brzina sa polugama u verziji sa elektro-hidrauličnim invertorom omogućava vozaču preciznije i udobnije upravljanje traktorom.</p>",
+      "<h2 class='mt-2 font-bold'>Elektronska instrument tabla</h2><p class='mt-4'>Potpuno digitalni instrument panel olakšava praćenje performansi čak i pri jakom sunčevom svetlu.</p>",
+      "<h2 class='mt-2 font-bold'>Premijum sedište GRAMMER®</h2><p class='mt-4'>Udobno vazdušno suspendovano sedište renomiranog proizvođača GRAMMER® može se okretati do 20° kako bi se smanjilo naprezanje pri gledanju unazad.</p>",
+      "<h2 class='mt-2 font-bold'>Visoka podizna snaga</h2><p class='mt-4'>Podizna snaga zadnje hidraulike iznosi 3800 kg.</p>",
+      "<h2 class='mt-2 font-bold'>Pomerni priključak SCHARMÜLLER</h2><p class='mt-4'>Traktor je standardno opremljen pomernim priključkom SCHARMÜLLER.</p>"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=c2YSfciK3TU",
+    "images": [
+      "./images/LS-MT7.101/LS-MT7.101_1.jpg",
+      "./images/LS-MT7.101/LS-MT7.101_2.jpg",
+      "./images/LS-MT7.101/LS-MT7.101_3.jpg",
+      "./images/LS-MT7.101/LS-MT7.101_4.jpg",
+      "./images/LS-MT7.101/LS-MT7.101_5.jpg",
+      "./images/LS-MT7.101/LS-MT7.101_6.jpg",
+      "./images/LS-MT7.101/LS-MT7.101_7.jpg",
+      "./images/LS-MT7.101/LS-MT7.101_8.jpg",
+      "./images/LS-MT7.101/LS-MT7.101_9.jpg",
+      "./images/LS-MT7.101/LS-MT7.101_10.jpg"
+    ],
+    "feature_images": [
+      "./images/LS-MT7.101/LS-MT7.101_1_feature.jpg",
+      "./images/LS-MT7.101/LS-MT7.101_2_feature.jpg",
+      "./images/LS-MT7.101/LS-MT7.101_3_feature.jpg",
+      "./images/LS-MT7.101/LS-MT7.101_4_feature.jpg",
+      "./images/LS-MT7.101/LS-MT7.101_5_feature.jpg",
+      "./images/LS-MT7.101/LS-MT7.101_6_feature.jpg",
+      "./images/LS-MT7.101/LS-MT7.101_7_feature.jpg",
+      "./images/LS-MT7.101/LS-MT7.101_8_feature.jpg",
+      "./images/LS-MT7.101/LS-MT7.101_9_feature.jpg"
+    ]
+  },  
+  {
+    "model": "Čeoni utovarivači",
+    "description": "Svaki LS traktor iz naše ponude može biti opremljen čeonim utovarivačem.",
+    "features": [
+      "<h2 class='mt-2 font-bold'>Sigurnosni ventil</h2><p class='mt-4'>U slučaju preopterećenja utovarivača tokom rada, hidraulični sistem se automatski prilagođava kako bi sprečio potencijalne nezgode.</p>",
+      "<h2 class='mt-2 font-bold'>Jednostavno povezivanje/odvajanje</h2><p class='mt-4'>Utovarivač se može lako povezati i odvojiti pomoću dva pričvrsna klina na traktoru, bez upotrebe alata.</p>",
+      "<h2 class='mt-2 font-bold'>Brza spojka</h2><p class='mt-4'>Za lako povezivanje hidraulike.</p>",
+      "<h2 class='mt-2 font-bold'>Funkcija lebdenja</h2><p class='mt-4'>Kada je utovarivač spušten i poluga pritisnuta, aktivira se funkcija lebdenja za zaštitu utovarivača. Kada kašika udari u prepreku, nastavak se automatski povlači kako bi zaštitio i utovarivač i traktor.</p>",
+      "<h2 class='mt-2 font-bold'>Automatsko nivelisanje utovarivača</h2><p class='mt-4'>Automatsko nivelisanje je dizajnirano da poboljša izravnavanje kašike podešavanjem paralelnih spojeva prilikom pomeranja ruke utovarivača.</p>",
+      "<h2 class='mt-2 font-bold'>Čvrsti stalak</h2><p class='mt-4'>Utovarivač se može bezbedno stabilizovati pomoću čvrstog, visinski podesivog stalka.</p>"
+    ],
+    "specifications": [
+      {
+        "tractor_model": "MT1.25",
+        "quick_attach": "bobcat",
+        "max_lift_height_attachment_point_mm": 1850,
+        "max_lift_height_bucket_horizontal_mm": 1675,
+        "max_lift_height_bucket_down_mm": 1305,
+        "distance_from_tractor_front_lifted_loader_mm": 719,
+        "max_bucket_angle_away_degrees": 44,
+        "distance_from_tractor_front_lowered_loader_mm": 1421,
+        "max_bucket_angle_towards_degrees": 38,
+        "digging_depth_bucket_horizontal_mm": 42,
+        "loader_height_when_lowered_mm": 1128,
+        "bucket_width_mm": 1220,
+        "bucket_volume_m3": 0.21,
+        "lift_capacity_kg": 527,
+        "lift_time_to_full_height_no_load_seconds": 2.7,
+        "lowering_time_from_full_height_seconds": 1.5,
+        "bucket_dump_time_seconds": 1.8,
+        "bucket_curl_time_seconds": 1.2
+      },
+      {
+        "tractor_model": "XJ 25",
+        "quick_attach": "bobcat",
+        "max_lift_height_attachment_point_mm": 2132,
+        "max_lift_height_bucket_horizontal_mm": 1945,
+        "max_lift_height_bucket_down_mm": 1585,
+        "distance_from_tractor_front_lifted_loader_mm": 500,
+        "max_bucket_angle_away_degrees": 44,
+        "distance_from_tractor_front_lowered_loader_mm": 1550,
+        "max_bucket_angle_towards_degrees": 36,
+        "digging_depth_bucket_horizontal_mm": 196,
+        "loader_height_when_lowered_mm": 1194,
+        "bucket_width_mm": 1270,
+        "bucket_volume_m3": 0.22,
+        "lift_capacity_kg": 798,
+        "lift_time_to_full_height_no_load_seconds": 3.2,
+        "lowering_time_from_full_height_seconds": 2.1,
+        "bucket_dump_time_seconds": 1.9,
+        "bucket_curl_time_seconds": 1.5
+      },
+      {
+        "tractor_model": "XU6168",
+        "quick_attach": "bobcat",
+        "max_lift_height_attachment_point_mm": 2600,
+        "max_lift_height_bucket_horizontal_mm": 2390,
+        "max_lift_height_bucket_down_mm": 2000,
+        "distance_from_tractor_front_lifted_loader_mm": 720,
+        "max_bucket_angle_away_degrees": 45,
+        "distance_from_tractor_front_lowered_loader_mm": 1700,
+        "max_bucket_angle_towards_degrees": 40,
+        "digging_depth_bucket_horizontal_mm": 200,
+        "loader_height_when_lowered_mm": 1300,
+        "bucket_width_mm": 1800,
+        "bucket_volume_m3": 0.34,
+        "lift_capacity_kg": 1250,
+        "lift_time_to_full_height_no_load_seconds": 4.0,
+        "lowering_time_from_full_height_seconds": 2.5,
+        "bucket_dump_time_seconds": 2.2,
+        "bucket_curl_time_seconds": 1.8
       }
-    },
-    "dimensions": {
-      "length_mm": 4228,
-      "width_mm": "1967-2312",
-      "height_mm": 2679,
-      "wheelbase_mm": 2287,
-      "ground_clearance_mm": 464,
-      "turning_radius_mm": 3150,
-      "wheel_turning_angle_deg": 55
-    },
-    "fuel_tank_capacity_l": 115,
-    "weight_kg": 3509,
-    "cabin": {
-      "seat": "GRAMMER® sedište sa vazdušnim oslanjanjem i rotacijom od 20°",
-      "features": [
-        "klimatizacija",
-        "grejanje"
-      ]
-    }
+    ],
+    "images": [
+      "./images/Front-loader/front-loader-1.jpg",
+      "./images/Front-loader/front-loader-2.jpg"
+    ],
+    "feature_images": [
+      "./images/Front-loader/front-loader-1_feature.jpg",
+      "./images/Front-loader/front-loader-2_feature.jpg",
+      "./images/Front-loader/front-loader-3_feature.jpg",
+      "./images/Front-loader/front-loader-4_feature.jpg",
+      "./images/Front-loader/front-loader-5_feature.jpg",
+      "./images/Front-loader/front-loader-6_feature.jpg"
+    ]
   }
 ]

@@ -1,5 +1,61 @@
 [
     {
+        "model": "LS R60 MT CAB 60 HP",
+        "description": "LS R60 MT CAB 60 HP je voćarski traktor opremljen Mitsubishi motorom, dizajniran za svestranost i efikasnost. Poseduje sinhronizovani šatl menjač sa 16 brzina napred i 16 unazad, pogon na 4 točka, hidrostatički upravljački sistem i nezavisni zadnji PTO.",
+        "specifications": {
+            "engine": {
+                "manufacturer": "Mitsubishi",
+                "type": "Tier III motor",
+                "power": "60 KS",
+                "fuel_tank_capacity": "47 litara"
+            },
+            "transmission": {
+                "type": "Sinhronizovani šatl",
+                "gears": "16 napred / 16 unazad"
+            },
+            "drive": {
+                "type": "4WD",
+                "steering": "Hidrostatički"
+            },
+            "pto": {
+                "rear": "Nezavisan, 3-brzinski"
+            },
+            "dimensions_and_weight": {
+                "weight": "1.950 kg"
+            },
+            "cabin": {
+                "features": [
+                    "Originalna LS fabrička kabina",
+                    "Zaptivena i filtrirana",
+                    "Zvučno izolovana",
+                    "Opremljena klima uređajem i audio sistemom"
+                ]
+            },
+            "price": "51.000,00 лв. (bez PDV-a)"
+        },
+        "features": [
+            "Ispunjava EU Tier III standarde emisije sa niskim nivoom buke i vibracija.",
+            "Stilizovan prednji dizajn sa hromiranim detaljima.",
+            "Ergonomski dizajnirane kontrole trotačke spojnice i džojstik na blatobranu za maksimalnu udobnost i praktičnost.",
+            "Veliki rezervoar goriva od 47 litara za produženo vreme rada.",
+            "Nezavisan PTO sa 3 brzine, jednostavan za rukovanje pomoću prekidača na kontrolnoj tabli.",
+            "Vodootporna i nehrđajuća prednja osovina, pruža odlične performanse u poplavljenim poljima.",
+            "Jednostavna i praktična kontrolna tabla sa prekidačima."
+        ],
+        "images": [
+            "./images/LS-R65/LS-R65_1.webp",
+            "./images/LS-R65/LS-R65_2.webp",
+            "./images/LS-R65/LS-R65_3.webp",
+            "./images/LS-R65/LS-R65_4.webp",
+            "./images/LS-R65/LS-R65_5.webp",
+            "./images/LS-R65/LS-R65_6.webp",
+            "./images/LS-R65/LS-R65_7.webp",
+            "./images/LS-R65/LS-R65_8.webp",
+            "./images/LS-R65/LS-R65_9.webp",
+            "./images/LS-R65/LS-R65_10.webp"
+        ]
+    },        
+    {
         "model": "LS XR50 MT CAB (50 HP)",
         "description": "Voćarski traktor sa kabinom od 50 KS; Mitsubishi motor; sinhrona šatl transmisija 16x16; pogon na sva četiri točka; hidrostatički upravljački sistem; zadnji nezavisni PTO.",
         "specifications": {
@@ -29,9 +85,13 @@
             ]
         },
         "images": [
-            "https://lstractor.bg/image/cache/catalog/Products/Tractors/XR50%20MT%20CAB/LS%20XR50%20MT%20CAB%20(50%20HP)%201-500x500.jpg",
-            "https://lstractor.bg/image/cache/catalog/Products/Tractors/XR50%20MT%20CAB/LS%20XR50%20MT%20CAB%20(50%20HP)%202-500x500.jpg",
-            "https://lstractor.bg/image/cache/catalog/Products/Tractors/XR50%20MT%20CAB/LS%20XR50%20MT%20CAB%20(50%20HP)%203-500x500.jpg"
+            "./images/LS-XR50/LS-XR50_1.jpg",
+            "./images/LS-XR50/LS-XR50_2.jpg",
+            "./images/LS-XR50/LS-XR50_3.jpg",
+            "./images/LS-XR50/LS-XR50_4.jpg",
+            "./images/LS-XR50/LS-XR50_5.jpg",
+            "./images/LS-XR50/LS-XR50_6.jpg",
+            "./images/LS-XR50/LS-XR50_7.jpg"
         ],
         "price": "47,000.00 лв. bez PDV-a"
     },
@@ -65,9 +125,15 @@
             ]
         },
         "images": [
-            "https://lstractor.bg/image/cache/catalog/Products/Tractors/U60%20MT%20CAB/LS%20U60%20MT%20CAB%20(60%20HP)%201-500x500.jpg",
-            "https://lstractor.bg/image/cache/catalog/Products/Tractors/U60%20MT%20CAB/LS%20U60%20MT%20CAB%20(60%20HP)%202-500x500.jpg",
-            "https://lstractor.bg/image/cache/catalog/Products/Tractors/U60%20MT%20CAB/LS%20U60%20MT%20CAB%20(60%20HP)%203-500x500.jpg"
+            "./images/LS-U60/LS-U60_1.jpg",
+            "./images/LS-U60/LS-U60_2.jpg",
+            "./images/LS-U60/LS-U60_3.jpg",
+            "./images/LS-U60/LS-U60_4.jpg",
+            "./images/LS-U60/LS-U60_5.jpg",
+            "./images/LS-U60/LS-U60_6.jpg",
+            "./images/LS-U60/LS-U60_7.jpg",
+            "./images/LS-U60/LS-U60_8.jpg",
+            "./images/LS-U60/LS-U60_9.jpg"
         ],
         "price": "Cena na upit"
     },
@@ -120,7 +186,12 @@
             "Snažan motor od 100 KS za zahtevne zadatke."
         ],
         "images": [
-            "https://lstractor.bg/image/cache/catalog/PLUS100-500x500.jpg"
+            "./images/LS-PLUS100/LS-PLUS100_1.jpg",
+            "./images/LS-PLUS100/LS-PLUS100_2.jpg",
+            "./images/LS-PLUS100/LS-PLUS100_3.jpg",
+            "./images/LS-PLUS100/LS-PLUS100_4.jpg",
+            "./images/LS-PLUS100/LS-PLUS100_5.jpg",
+            "./images/LS-PLUS100/LS-PLUS100_6.jpg"
         ]
     },
     {
@@ -177,7 +248,16 @@
             "Maksimalno 2 para daljinskih ventila za praktičnu upotrebu sa različitim priključcima."
         ],
         "images": [
-            "https://lstractor.bg/image/cache/catalog/R36i-500x500.jpg"
+            "./images/LS-R36i/LS-R36i_1.webp",
+            "./images/LS-R36i/LS-R36i_2.webp",
+            "./images/LS-R36i/LS-R36i_3.webp",
+            "./images/LS-R36i/LS-R36i_4.webp",
+            "./images/LS-R36i/LS-R36i_5.webp",
+            "./images/LS-R36i/LS-R36i_6.webp",
+            "./images/LS-R36i/LS-R36i_7.webp",
+            "./images/LS-R36i/LS-R36i_8.webp",
+            "./images/LS-R36i/LS-R36i_9.webp",
+            "./images/LS-R36i/LS-R36i_10.webp"
         ]
     },
     {
@@ -234,7 +314,16 @@
             "ROPS zaštita za bezbednost operatera."
         ],
         "images": [
-            "https://lstractor.bg/image/cache/catalog/R60-500x500.jpg"
+            "./images/LS-R60/LS-R60_1.webp",
+            "./images/LS-R60/LS-R60_2.webp",
+            "./images/LS-R60/LS-R60_3.webp",
+            "./images/LS-R60/LS-R60_4.webp",
+            "./images/LS-R60/LS-R60_5.webp",
+            "./images/LS-R60/LS-R60_6.webp",
+            "./images/LS-R60/LS-R60_7.webp",
+            "./images/LS-R60/LS-R60_8.webp",
+            "./images/LS-R60/LS-R60_9.webp",
+            "./images/LS-R60/LS-R60_10.webp"
         ]
     }
 ]
