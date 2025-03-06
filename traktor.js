@@ -1,7 +1,4 @@
-// tractori.js
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('DOM loaded - starting data fetch');
-    
     Promise.all([
         fetch('tractors_data.json').then(res => res.json()),
         fetch('tractors_older_data.json').then(res => res.json())
@@ -37,7 +34,6 @@ document.addEventListener('DOMContentLoaded', function() {
     .catch(error => console.error('Error loading data:', error));
 
     function populateTractorData(tractor) {
-        // Update basic info
         const titleElement = document.querySelector('h1');
         if (titleElement) {
             titleElement.textContent = tractor.model;
@@ -55,8 +51,7 @@ document.addEventListener('DOMContentLoaded', function() {
             descriptionElement.innerHTML = tractor.description;
             console.log('Updated description');
         }
-
-        // Update images
+        
         const mainImage = document.querySelector('section.bg-gray-100 .grid-cols-1 img');
         if (mainImage) {
             mainImage.src = tractor.images[0];
@@ -65,37 +60,36 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         const thumbnailsContainer = document.querySelector('section.bg-gray-100 .grid.grid-cols-2.md\\:grid-cols-4');
+
         if (thumbnailsContainer) {
-            // Clear existing thumbnails
             thumbnailsContainer.innerHTML = '';
+
             tractor.images.forEach((img, index) => {
-                if (index === 0) { // Skip the first image since it's already displayed
+                if (index === 0) {
                     return;
                 }
-            
-                // Create anchor element
+
                 const anchorElement = document.createElement('a');
-                anchorElement.href = img; // Link to the full image
-                anchorElement.target = "_blank"; // Open in a new tab (optional)
-                anchorElement.setAttribute("data-pswp-width", "800"); // Set PhotoSwipe width
-                anchorElement.setAttribute("data-pswp-height", "600"); // Set PhotoSwipe height
-            
-                // Create image element
+                anchorElement.href = img; 
+                anchorElement.target = "_blank"; 
+
                 const imgElement = document.createElement('img');
                 imgElement.className = "w-full aspect-[4/3] object-cover rounded-lg cursor-pointer";
                 imgElement.src = img;
                 imgElement.alt = `${tractor.model} - Image ${index + 1}`;
-            
-                // Append image inside the anchor
+
+                imgElement.onload = function () {
+                    anchorElement.setAttribute("data-pswp-width", imgElement.naturalWidth);
+                    anchorElement.setAttribute("data-pswp-height", imgElement.naturalHeight);
+                };
+
                 anchorElement.appendChild(imgElement);
-            
-                // Append the anchor inside the thumbnails container
                 thumbnailsContainer.appendChild(anchorElement);
-            });            
+            });
+
             console.log('Updated thumbnails with new images');
         }
         
-        // Update features
         const featureContainer = document.querySelector('section.bg-gray-100 .grid-cols-1.sm\\:grid-cols-2');
         if (featureContainer) {
             featureContainer.innerHTML = tractor.features.map((feature, index) => `
@@ -110,8 +104,6 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log('Updated feature images');
         }
         
-
-        // Update specifications
         const specs = tractor.specifications;
         const specMappings = {
             engine: {
@@ -121,33 +113,33 @@ document.addEventListener('DOMContentLoaded', function() {
                     type: 'Tip',
                     model: 'Model',
                     power: 'Snaga',
-                    cylinders: 'Broj cilindra',  // Changed from 'Cilindri'
-                    displacement: 'Zapremina cilindra (cm³)',  // Changed from 'Zapremina'
-                    fuel_tank_capacity: 'Kapacitet rezervoara za gorivo (l)',  // Changed
-                    battery: 'Baterija (V)',  // Added (V)
-                    max_rpm_and_torque: 'Max. brzina i obrtni moment motora (ot./min./Nm)',  // Full match
-                    emission_class: 'Emisiona klasa'  // Changed from 'Klasa emisije'
+                    cylinders: 'Broj cilindra',  
+                    displacement: 'Zapremina cilindra (cm³)',  
+                    fuel_tank_capacity: 'Kapacitet rezervoara za gorivo (l)', 
+                    battery: 'Baterija (V)',  
+                    max_rpm_and_torque: 'Max. brzina i obrtni moment motora (ot./min./Nm)', 
+                    emission_class: 'Emisiona klasa'  
                 }
             },
             transmission: {
                 section: 'Menjač',
                 keys: {
                     type: 'Tip',
-                    differential_lock: 'Blokada diferencijala',  // Changed from 'Diferencijalna brava'
+                    differential_lock: 'Blokada diferencijala',  
                     drive: 'Pogon',
                     steering: 'Upravljanje',
-                    max_speed: 'Maksimalna brzina (km/h)',  // Added units
+                    max_speed: 'Maksimalna brzina (km/h)',
                     brakes: 'Kočnice'
                 }
             },
             tbz_and_pto: {
                 section: 'TBZ i PTO',
                 keys: {
-                    rear_pto: 'Zadnji PTO (ot./min.)',  // Added units
-                    mid_pto: 'Srednji PTO (ot./min.)',  // Added units
-                    tbz_category: 'TBZ kategorija',  // Changed label
-                    rear_hydraulic_lift_capacity: 'Sila podizanja zadnje hidraulike (kg)',  // Full match
-                    hydraulic_pump_capacity: 'Performanse hidraulične pumpe (l/min.)'  // Changed label
+                    rear_pto: 'Zadnji PTO (ot./min.)',  
+                    mid_pto: 'Srednji PTO (ot./min.)', 
+                    tbz_category: 'TBZ kategorija',  
+                    rear_hydraulic_lift_capacity: 'Sila podizanja zadnje hidraulike (kg)',  
+                    hydraulic_pump_capacity: 'Performanse hidraulične pumpe (l/min.)'  
                 }
             },
             dimensions_and_weight: {
@@ -157,16 +149,15 @@ document.addEventListener('DOMContentLoaded', function() {
                     width: 'Širina (mm)',
                     height: 'Visina (mm)',
                     wheelbase: 'Međuosovinsko rastojanje (mm)',
-                    ground_clearance: 'Visina prelaza (mm)',  // Changed from 'Prohodnost'
-                    turning_radius: 'Prečnik rotacije - unutrašnji (mm)',  // Changed label
-                    max_steering_angle: 'Najveći ugao okretanja točkova (°)',  // Changed label
+                    ground_clearance: 'Visina prelaza (mm)', 
+                    turning_radius: 'Prečnik rotacije - unutrašnji (mm)',  
+                    max_steering_angle: 'Najveći ugao okretanja točkova (°)', 
                     weight: 'Težina (kg)',
                     tires_front_rear: 'Gume (prednje / zadnje)'
                 }
             }
         };
 
-        // Update specifications using mappings
         Object.entries(specMappings).forEach(([category, mapping]) => {
             const sectionHeader = Array.from(document.querySelectorAll('tr')).find(tr => 
                 tr.querySelector('td')?.textContent.trim() === mapping.section
@@ -183,11 +174,9 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-
     function updateRow(label, value, section) {
         const rows = document.querySelectorAll('tbody tr');
         
-        // Find the section header row
         const sectionHeader = Array.from(rows).find(tr => {
             const td = tr.querySelector('td:first-child');
             return td && td.textContent.trim() === section;
@@ -198,7 +187,6 @@ document.addEventListener('DOMContentLoaded', function() {
             return;
         }
 
-        // Find all rows after the section header until next section
         let currentRow = sectionHeader.nextElementSibling;
         while (currentRow && !currentRow.querySelector('td[colspan]')) {
             const firstTd = currentRow.querySelector('td:first-child');
@@ -223,9 +211,7 @@ document.addEventListener('DOMContentLoaded', function() {
         pswpModule: PhotoSwipe 
       });
       lightbox.init();
-});
 
-document.addEventListener("DOMContentLoaded", function () {
     const dropdownButton = document.getElementById("mega-menu-full-dropdown-button");
     const dropdownMenu = document.getElementById("mega-menu-full-dropdown");
 
@@ -233,7 +219,6 @@ document.addEventListener("DOMContentLoaded", function () {
         dropdownMenu.classList.toggle("hidden");
     });
 
-    // Close dropdown when clicking outside
     document.addEventListener("click", function (event) {
         if (!dropdownButton.contains(event.target) && !dropdownMenu.contains(event.target)) {
             dropdownMenu.classList.add("hidden");
