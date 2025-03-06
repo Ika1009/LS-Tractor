@@ -224,3 +224,19 @@ document.addEventListener('DOMContentLoaded', function() {
       });
       lightbox.init();
 });
+
+document.addEventListener("DOMContentLoaded", function () {
+    const dropdownButton = document.getElementById("mega-menu-full-dropdown-button");
+    const dropdownMenu = document.getElementById("mega-menu-full-dropdown");
+
+    dropdownButton.addEventListener("click", function () {
+        dropdownMenu.classList.toggle("hidden");
+    });
+
+    // Close dropdown when clicking outside
+    document.addEventListener("click", function (event) {
+        if (!dropdownButton.contains(event.target) && !dropdownMenu.contains(event.target)) {
+            dropdownMenu.classList.add("hidden");
+        }
+    });
+});
