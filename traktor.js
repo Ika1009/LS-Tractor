@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 anchorElement.target = "_blank"; 
 
                 const imgElement = document.createElement('img');
-                imgElement.className = "w-full aspect-[4/3] object-cover rounded-lg cursor-pointer";
+                imgElement.className = "w-full aspect-[4/3] object-contain rounded-lg cursor-pointer";
                 imgElement.src = img;
                 imgElement.alt = `${tractor.model} - Image ${index + 1}`;
 
