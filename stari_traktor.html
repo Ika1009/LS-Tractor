@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="LS XJ25 mini traktor">
+    <title>LS XJ25 mini traktor</title>
+
+    <!-- App favicon -->
+    <link rel="shortcut icon" href="assets/img/logo/logo.svg">
+
+    <!-- Icon CSS -->
+    <link rel="stylesheet" href="assets/css/vendor/remixicon.css">
+
+    <!-- Tailwind CSS -->
+    <script src="assets/js/vendor/tailwindcss3.4.5.js"></script>
+
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/color-3.css" id="add_class">
+</head>
+
+<body>
+    <script src="./photoswipe.umd.min.js"></script>
+    <script src="./photoswipe-lightbox.umd.min.js"></script>
+    
+    <link rel="stylesheet" href="./photoswipe.css">
+    
+    <!-- Header -->
+    <header>
+        <nav class="bg-[#0A1E5A] px-4 lg:px-6 py-5">
+            <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
+                <a href="index.html" class="flex items-center">
+                    <img src="assets/img/logo/logo2.svg" class="mr-3 h-6 sm:h-9" alt="LS Tractor Logo" />
+                </a>
+                <button data-collapse-toggle="mega-menu-full" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="mega-menu-full" aria-expanded="false">
+                    <span class="sr-only">Open main menu</span>
+                    <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
+                        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 1h15M1 7h15M1 13h15"/>
+                    </svg>
+                </button>
+                <div id="mega-menu-full" class="items-center justify-between hidden w-full lg:flex lg:w-auto lg:order-1">
+                    <ul class="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
+                        <li>
+                            <a href="index.html" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">Elegantni i kompaktni traktori</a>
+                        </li>
+                        <li>
+                            <button id="mega-menu-full-dropdown-button" data-collapse-toggle="mega-menu-full-dropdown" class="flex items-center justify-between w-full py-2 px-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">
+                                Mašine 
+                                <svg class="w-2.5 h-2.5 ms-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
+                                </svg>
+                            </button>
+                        </li>
+                        <li>
+                            <a href="traktori.html" class="block py-2 pr-4 pl-3 text-[#D71E33] rounded bg-primary-700 lg:bg-transparent lg:text-primary-700 lg:p-0" aria-current="page">Traktori</a>
+                        </li>
+                        <li>
+                            <a href="o-nama.html" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">O nama</a>
+                        </li>
+                        <li>
+                            <a href="kontakt.html" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">Kontakt</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div id="mega-menu-full-dropdown" class="mt-4 shadow-xs bg-[#0A1E5A] hidden">
+                <div class="grid max-w-screen-xl px-4 py-5 mx-auto text-white sm:grid-cols-6 md:px-6">
+                    <ul>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%B5%CE%B1%CF%82-%CE%BC%CE%B5-%CF%83%CF%86%CF%85%CF%81%CE%B9%CE%B1-%CE%B3%CE%B9%CE%B1-%CE%BA%CE%BB%CE%B1%CE%B4%CE%B9%CE%B1.webp" alt="Destroyers" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Destroyers</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2024/09/kladotemaxistes-thrimmatistes-gia-trakter-times.webp" alt="Wood chippers - Bio-Shredders" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Wood chippers - Bio-Shredders</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CF%81%CE%B1%CE%BD%CF%84%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%B1-%CF%84%CE%BF%CF%85%CF%81%CE%BC%CF%80%CE%B9%CE%BD%CE%B5%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Sprinkles - Turbines" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Sprinkles - Turbines</div>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CE%B5%CF%80%CE%B9%CE%BA%CE%BB%CE%B9%CE%BD%CE%B7%CF%82-%CF%80%CE%BB%CE%B1%CE%B9%CE%BD%CE%BF%CF%82-%CF%80%CE%BB%CE%B5%CF%85%CF%81%CE%B9%CE%BA%CE%BF%CF%82-%CF%84%CE%B7%CE%BB%CE%B5%CF%83%CE%BA%CE%BF%CF%80%CE%B9%CE%BA%CE%BF%CF%82-%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%B5%CE%B1%CF%82-%CE%BC%CE%B5-%CF%83%CF%86%CF%85%CF%81%CE%B9%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Inclined Destroyers" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Inclined Destroyers</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2024/09/%CE%B1%CE%BD%CF%85%CF%88%CF%89%CF%84%CE%B9%CE%BA%CE%B1-%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B7%CE%BC%CE%B1%CF%84%CE%B1-%CE%BC%CE%B5%CF%84%CE%B1%CF%86%CE%BF%CF%81%CE%B1%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81-%CF%84%CE%B9%CE%BC%CE%B7.webp" alt="Lifting - Transport Machinery" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Lifting - Transport Machinery</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CE%BB%CE%B9%CF%80%CE%B1%CF%83%CE%BC%CE%B1%CF%84%CE%BF%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%B5%CE%B1%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Fertilizer Distributors" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Fertilizer Distributors</div>
+                                </div>
+                            </a>
+                        </li>
+                    </ul> 
+                    <ul>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2024/09/mini-dumper-kai-peronofora-stin-kaliteri-timi-tis-agoras.webp" alt="Mini Dumper - Forklift" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Mini Dumper - Forklift</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CF%87%CE%BF%CF%81%CF%84%CE%BF%CE%BA%CE%BF%CF%80%CF%84%CE%B9%CE%BA%CE%B1-%CE%B3%CE%B9%CE%B1-%CE%BF%CE%BB%CE%B1-%CF%84%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81-%CF%84%CE%B9%CE%BC%CE%B5%CF%82.webp" alt="Brushcutters - Lawn Mowers" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Brushcutters - Lawn Mowers</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CF%80%CE%B1%CF%81%CE%B5%CE%BB%CE%BA%CE%BF%CE%BC%CE%B5%CE%BD%CE%B1-%CE%B4%CE%BF%CE%BC%CE%B9%CE%BA%CF%89%CE%BD-%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B7%CE%BC%CE%B1%CF%84%CF%89%CE%BD.webp" alt="Constuction Machinery Accessories" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Constuction Machinery Accessories</div>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CF%86%CF%81%CE%B5%CE%B6%CE%B5%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Mills - Pellet Mills" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Mills - Pellet Mills</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CF%84%CF%83%CE%B1%CF%80%CE%B1%CE%BA%CE%B9%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81-%CE%BC%CE%B9%CE%BD%CE%B9-%CE%B5%CE%BA%CF%83%CE%BA%CE%B1%CF%86%CE%B5%CE%B9%CF%82.webp" alt="Tractor Shovels - Mini Excavators" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Tractor Shovels - Mini Excavators</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CE%B4%CE%B9%CE%B1%CF%86%CE%BF%CF%81%CE%B1-%CE%B3%CE%B5%CF%89%CF%81%CE%B3%CE%B9%CE%BA%CE%B1-%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B7%CE%BC%CE%B1%CF%84%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Various Agricultural Machinery" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Various Agricultural Machinery</div>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B7%CE%BC%CE%B1%CF%84%CE%B1-%CE%BA%CE%B1%CE%BB%CE%BB%CE%B9%CE%B5%CF%81%CE%B3%CE%B5%CE%B9%CE%B1%CF%821.webp" alt="Farming Machinery" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Farming Machinery</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CE%BC%CE%B5%CF%84%CE%B1%CF%87%CE%B5%CE%B9%CF%81%CE%B9%CF%83%CE%BC%CE%B5%CE%BD%CE%B1-%CE%B3%CE%B5%CF%89%CF%81%CE%B3%CE%B9%CE%BA%CE%B1-%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B7%CE%BC%CE%B1%CF%84%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Used Agricultural Machinery" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Used Agricultural Machinery</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CE%B3%CE%BA%CF%81%CE%B5%CE%B9%CE%BD%CF%84%CE%B5%CF%81-%CE%B5%CE%BA%CE%B9%CE%BF%CE%BD%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Graders - Snowplows" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Graders - Snowplows</div>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CF%83%CE%BA%CE%B1%CF%80%CF%84%CE%B9%CE%BA%CE%B1-%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B7%CE%BC%CE%B1%CF%84%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Drills - Chains" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Drills - Chains</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CF%86%CF%85%CF%84%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%B1-%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B7%CE%BC%CE%B1%CF%84%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Planting Machines - Potato Exctractors" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Planting Machines - Potato Exctractors</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CE%B1%CE%BD%CF%84%CE%B1%CE%BB%CE%BB%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CE%B1-%CF%80%CE%B1%CF%81%CE%B5%CE%BB%CE%BA%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Agricultural Machinery Spare Parts" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Agricultural Machinery Spare Parts</div>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Product details -->
+    <section class="bg-gray-100 py-12 antialiased md:py-20">
+        <div class="bg-white mx-auto max-w-screen-xl px-4 2xl:px-0">
+            <div class="mx-auto pt-10 pb-20 max-w-5xl">
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+                    <div>
+                        <h2 class="text-2xl font-semibold text-gray-900 sm:text-3xl"></h2>
+                        <p class="mt-6 text-base text-gray-600"></p>
+                    </div>
+                    <div class="flex justify-center">
+                        <img class="max-w-full rounded-lg" src="https://www.lstraktor.sk/media/LS-XJ25_a.jpg" alt="LS XJ25 mini traktor" />
+                    </div>
+                </div>
+                <div class="mt-6 grid grid-cols-2 md:grid-cols-4 gap-4 gallery">
+                    <img class="w-full aspect-[4/3] object-contain rounded-lg cursor-pointer" src="https://www.lstraktor.sk/media/LS-XJ25_a.jpg" alt="LS XJ25 mini traktor" />
+                    <img class="w-full aspect-[4/3] object-contain rounded-lg cursor-pointer" src="https://www.lstraktor.eu/media/LS-XJ25_b.jpg" alt="LS XJ25 mini traktor" />
+                    <img class="w-full aspect-[4/3] object-contain rounded-lg cursor-pointer" src="https://www.lstraktor.sk/media/LS-XJ25_d.jpg" alt="LS XJ25 mini traktor" />
+                    <img class="w-full aspect-[4/3] object-contain rounded-lg cursor-pointer" src="https://www.lstraktor.sk/media/LS-XJ25_c.jpg" alt="LS XJ25 mini traktor" />
+                </div>
+                <div class="my-8 md:my-16">
+                    <iframe class="h-[260px] md:h-[540px] w-full rounded-lg" src="https://www.youtube.com/embed/BLXCC8x-OYE?si=AIaqP37rR367wz3i" title="Mini ciągnik LS Tractor XJ25 :: LS-Traktor.pl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+                <div class="bg-gray-100 p-4 rounded-lg shadow-md">
+                    <ul class="list-disc pl-5 space-y-2 text-gray-700">
+                        <li>Moćan dizel motor sa niskom potrošnjom goriva</li>
+                        <li>Kompaktan i elegantan dizajn</li>
+                        <li>Hydrostat ili mehanički menjač</li>
+                        <li>Pogon na sva četiri točka</li>
+                        <li>Ergonomska kabina za udobnost vozača</li>
+                    </ul>
+                </div>
+                <h1 class="mt-12 font-bold text-lg">Tehnički podaci</h1>
+                <table class="mt-4 w-full text-left text-sm text-gray-600">
+                    <thead>
+                        <tr class="bg-white">
+                            <th class="p-3 font-bold text-gray-800">Tip – LS</th>
+                            <th class="p-3 font-bold text-gray-800 text-center">XJ25<br>(mehanički menjač)</th>
+                            <th class="p-3 font-bold text-gray-800 text-center">XJ25<br>(hidrostatični menjač)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="odd:bg-gray-100 even:bg-white border-t-[3px] border-solid border-black">
+                            <td class="p-3 font-bold text-gray-800">Motor</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Proizvođač</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Tip</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Model</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Snaga</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Broj cilindra</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Zapremina cilindra (cm³)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Kapacitet rezervoara za gorivo (l)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Baterija (V)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Max. brzina i obrtni moment motora (ot./min./Nm)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Emisiona klasa</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-bold text-gray-800">Menjač</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Tip</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Blokada diferencijala</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Pogon</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Upravljanje</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Maksimalna brzina (km/h)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Kočnice</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-bold text-gray-800">TBZ i PTO</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Zadnji PTO (ot./min.)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Srednji PTO (ot./min.)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">TBZ kategorija</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Sila podizanja zadnje hidraulike (kg)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Performanse hidraulične pumpe (l/min.)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-bold text-gray-800">Dimenzije i težina</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Dužina (mm)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Širina (mm)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Visina (mm)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Međuosovinsko rastojanje (mm)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Visina prelaza (mm)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Prečnik rotacije - unutrašnji (mm)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Najveći ugao okretanja točkova (°)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Težina (kg)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Gume (prednje / zadnje)</td>
+                            <td class="p-3 text-center"></td>
+                            <td class="p-3 text-center"></td>
+                        </tr>
+                    </tbody>
+                </table>              
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer pt-[100px] max-[1199px]:pt-[70px] bg-off-white bg-[#0A1E5A] relative border-t-[1px] border-solid border-[#e9e9e9]">
+        <div class="footer-container flex flex-wrap justify-between relative items-center mx-auto min-[1600px]:max-w-[1500px] min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
+            <div class="flex flex-wrap w-full footer-top pb-[100px] max-[1199px]:pb-[70px]">
+                <div class="min-[1200px]:w-[33.33%] min-[992px]:w-[50%] min-[576px]:w-full w-full px-[12px] cr-footer-border">
+                    <div class="cr-footer-logo max-w-[400px] mb-[15px] pb-[0]">
+                        <div class="image pb-[15px]">
+                            <img src="assets/img/logo/logo2.svg" alt="logo" class="logo w-[100px] block">
+                        </div>
+                        <p class="font-Poppins text-[14px] text-[#fff] mb-[0] leading-[1.75]">Mi smo generalni uvoznik premium brenda LS Tractor za srpsko tržište.</p>
+                    </div>
+                    <div class="cr-footer">
+                        <h4 class="cr-sub-title cr-title-hidden relative hidden max-[991px]:block font-Manrope text-[18px] max-[991px]:text-[15px] font-bold leading-[1.3] text-[#fff] mb-[15px] max-[991px]:py-[15px] max-[991px]:mb-[0] max-[991px]:border-b-[1px] max-[991px]:border-solid max-[991px]:border-[#e9e9e9]">
+                            Kontaktiraj nas
+                            <span class="cr-heading-res hidden"></span>
+                        </h4>
+                        <ul class="cr-footer-links max-[991px]:hidden cr-footer-dropdown max-[1199px]:max-w-[500px] max-[991px]:mt-[24px]">
+                            <li class="mail-icon mb-[12px] font-Poppins text-[14px] leading-[26px] text-[#fff] relative pl-[30px] max-[1399px]:mt-[20px] max-[991px]:mt-[15px]">
+                                <a href="javascript:void(0)" class="transition-all duration-[0.3s] ease-in-out relative font-Poppins text-[14px] leading-[26px] text-[#fff]">nikolagrar@gmail.com</a>
+                            </li>
+                            <li class="phone-icon font-Poppins text-[14px] leading-[26px] text-[#fff] relative pl-[30px] mb-[0] max-[1399px]:mt-[20px] max-[991px]:mt-[15px]">
+                                <a href="javascript:void(0)" class="transition-all duration-[0.3s] ease-in-out relative font-Poppins text-[14px] leading-[26px] text-[#fff]">+381 63 7707 471</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="min-[1200px]:w-[16.66%] min-[992px]:w-[25%] min-[576px]:w-full w-full px-[12px] cr-footer-border">
+                    <div class="cr-footer">
+                        <h4 class="cr-sub-title font-Manrope relative text-[18px] font-bold leading-[1.3] text-[#fff] mb-[15px] max-[991px]:py-[15px] max-[991px]:mb-[0] max-[991px]:text-[15px] max-[991px]:border-b-[1px] max-[991px]:border-solid max-[991px]:border-[#e9e9e9]">
+                            Radno vreme
+                            <span class="cr-heading-res hidden"></span>
+                        </h4>
+                        <ul class="cr-footer-links max-[991px]:hidden cr-footer-dropdown max-[991px]:mt-[24px]">
+                            <li class="mb-[12px] font-Poppins text-[14px] leading-[26px] text-[#fff] relative max-[991px]:my-[12px]"><a href="track-order.html" class="transition-all duration-[0.3s] ease-in-out relative font-Poppins text-[14px] leading-[26px] text-[#fff]">Ponedeljak: 08:00 - 16:00</a></li>
+                            <li class="mb-[12px] font-Poppins text-[14px] leading-[26px] text-[#fff] relative max-[991px]:my-[12px]"><a href="policy.html" class="transition-all duration-[0.3s] ease-in-out relative font-Poppins text-[14px] leading-[26px] text-[#fff]">Utorak: 08:00 - 16:00</a></li>
+                            <li class="mb-[12px] font-Poppins text-[14px] leading-[26px] text-[#fff] relative max-[991px]:my-[12px]"><a href="terms.html" class="transition-all duration-[0.3s] ease-in-out relative font-Poppins text-[14px] leading-[26px] text-[#fff]">Sreda: 08:00 - 16:00</a></li>
+                            <li class="mb-[12px] font-Poppins text-[14px] leading-[26px] text-[#fff] relative max-[991px]:my-[12px]"><a href="terms.html" class="transition-all duration-[0.3s] ease-in-out relative font-Poppins text-[14px] leading-[26px] text-[#fff]">Četvrtak: 08:00 - 16:00</a></li>
+                            <li class="mb-[12px] font-Poppins text-[14px] leading-[26px] text-[#fff] relative max-[991px]:my-[12px]"><a href="terms.html" class="transition-all duration-[0.3s] ease-in-out relative font-Poppins text-[14px] leading-[26px] text-[#fff]">Petak: 08:00 - 16:00</a></li>
+                            <li class="mb-[12px] font-Poppins text-[14px] leading-[26px] text-[#fff] relative max-[991px]:my-[12px]"><a href="terms.html" class="transition-all duration-[0.3s] ease-in-out relative font-Poppins text-[14px] leading-[26px] text-[#fff]">Subota: 08:00 - 12:00</a></li>
+                            <li class="mb-[12px] font-Poppins text-[14px] leading-[26px] text-[#fff] relative max-[991px]:my-[12px]"><a href="terms.html" class="transition-all duration-[0.3s] ease-in-out relative font-Poppins text-[14px] leading-[26px] text-[#fff]">Nedelja i praznici: zatvoreno</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="min-[1200px]:w-[16.66%] min-[992px]:w-[25%] min-[576px]:w-full w-full px-[12px] cr-footer-border">
+                    <div class="cr-footer">
+                        <h4 class="cr-sub-title font-Manrope relative text-[18px] font-bold leading-[1.3] text-[#fff] mb-[15px] max-[991px]:py-[15px] max-[991px]:mb-[0] max-[991px]:text-[15px] max-[991px]:border-b-[1px] max-[991px]:border-solid max-[991px]:border-[#e9e9e9]">
+                            Traktori
+                            <span class="cr-heading-res hidden"></span>
+                        </h4>
+                        <ul class="cr-footer-links max-[991px]:hidden cr-footer-dropdown max-[991px]:mt-[24px]">
+                            <li class="mb-[12px] font-Poppins text-[14px] leading-[26px] text-[#777] relative max-[991px]:my-[12px] max-[991px]:mt-[-5px]"><a href="index.html" class="transition-all duration-[0.3s] ease-in-out relative font-Poppins text-[14px] leading-[26px] text-[#fff]">MT7.101</a></li>
+                            <li class="mb-[12px] font-Poppins text-[14px] leading-[26px] text-[#777] relative max-[991px]:my-[12px]"><a href="shop-full-width.php" class="transition-all duration-[0.3s] ease-in-out relative font-Poppins text-[14px] leading-[26px] text-[#fff]">MT5.73</a></li>
+                            <li class="mb-[12px] font-Poppins text-[14px] leading-[26px] text-[#777] relative max-[991px]:my-[12px]"><a href="contact-us.html" class="transition-all duration-[0.3s] ease-in-out relative font-Poppins text-[14px] leading-[26px] text-[#fff]">XU6168</a></li>
+                            <li class="mb-[12px] font-Poppins text-[14px] leading-[26px] text-[#777] relative max-[991px]:my-[12px] max-[991px]:mt-[-5px]"><a href="index.html" class="transition-all duration-[0.3s] ease-in-out relative font-Poppins text-[14px] leading-[26px] text-[#fff]">MT3.50 / MT3.60</a></li>
+                            <li class="mb-[12px] font-Poppins text-[14px] leading-[26px] text-[#777] relative max-[991px]:my-[12px]"><a href="shop-full-width.php" class="transition-all duration-[0.3s] ease-in-out relative font-Poppins text-[14px] leading-[26px] text-[#fff]">MT3.35 / MT3.40</a></li>
+                            <li class="mb-[12px] font-Poppins text-[14px] leading-[26px] text-[#777] relative max-[991px]:my-[12px]"><a href="contact-us.html" class="transition-all duration-[0.3s] ease-in-out relative font-Poppins text-[14px] leading-[26px] text-[#fff]">XJ 25</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="cr-last-footer w-full py-[20px] border-t-[1px] border-solid border-[#e9e9e9] text-center">
+                <p class="font-Poppins text-[14px] text-[#fff] leading-[1.2] ">&copy; <span id="copyright_year"></span> <a href="index.html" class="text-[#fff]">LS Tractor</a>, Sva prava zadržana.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Tab to top -->
+    <a href="#Top" class="back-to-top result-placeholder h-[38px] w-[38px] hidden fixed right-[15px] bottom-[15px] z-[10] cursor-pointer rounded-[20px] bg-[#fff] text-[#64b496] border-[1px] border-solid border-[#64b496] text-center text-[22px] leading-[1.6] hover:transition-all hover:duration-[0.3s] hover:ease-in-out">
+        <i class="ri-arrow-up-line text-[20px]"></i>
+        <div class="back-to-top-wrap">
+            <svg viewBox="-1 -1 102 102" class="w-[36px] h-[36px] fixed right-[16px] bottom-[16px]">
+                <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" class="fill-transparent stroke-[#64b496] stroke-[5px]" />
+            </svg>
+        </div>
+    </a>
+
+    <!-- Vendor Custom -->
+    <script src="assets/js/vendor/jquery-3.6.4.min.js"></script>
+
+    <!-- Main Custom -->
+    <script src="assets/js/main.js"></script>
+    <script src="traktor.js"></script>
+</body>
+
+</html>
