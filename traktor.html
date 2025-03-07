@@ -30,31 +30,198 @@
     
     <!-- Header -->
     <header>
-        <nav class="bg-[#0A1E5A] border-gray-200 px-4 lg:px-6 py-5">
+        <nav class="bg-[#0A1E5A] px-4 lg:px-6 py-5">
             <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
-                <a href="" class="flex items-center">
+                <a href="index.html" class="flex items-center">
                     <img src="assets/img/logo/logo2.svg" class="mr-3 h-6 sm:h-9" alt="LS Tractor Logo" />
                 </a>
-                <div class="flex items-center lg:order-1">
-                    <button data-collapse-toggle="mobile-menu-2" type="button" class="inline-flex items-center p-2 ml-1 text-sm text-gray-500 rounded-lg lg:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="mobile-menu-2" aria-expanded="false">
-                        <span class="sr-only">Open main menu</span>
-                        <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
-                        <svg class="hidden w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
-                    </button>
-                </div>
-                <div class="hidden justify-between items-center w-full lg:flex lg:w-auto lg:order-1" id="mobile-menu-2">
+                <button data-collapse-toggle="mega-menu-full" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="mega-menu-full" aria-expanded="false">
+                    <span class="sr-only">Open main menu</span>
+                    <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
+                        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 1h15M1 7h15M1 13h15"/>
+                    </svg>
+                </button>
+                <div id="mega-menu-full" class="items-center justify-between hidden w-full lg:flex lg:w-auto lg:order-1">
                     <ul class="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
                         <li>
-                            <a href="#" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">Elegantni i kompaktni traktori</a>
+                            <a href="index.html" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">Elegantni i kompaktni traktori</a>
                         </li>
                         <li>
-                            <a href="#" class="block py-2 pr-4 pl-3 text-[#D71E33] rounded bg-primary-700 lg:bg-transparent lg:text-primary-700 lg:p-0" aria-current="page">Proizvodi</a>
+                            <button id="mega-menu-full-dropdown-button" data-collapse-toggle="mega-menu-full-dropdown" class="flex items-center justify-between w-full py-2 px-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">
+                                Mašine 
+                                <svg class="w-2.5 h-2.5 ms-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
+                                </svg>
+                            </button>
                         </li>
                         <li>
-                            <a href="#" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">O nama</a>
+                            <a href="traktori.html" class="block py-2 pr-4 pl-3 text-[#D71E33] rounded bg-primary-700 lg:bg-transparent lg:text-primary-700 lg:p-0" aria-current="page">Traktori</a>
                         </li>
                         <li>
-                            <a href="#" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">Kontakt</a>
+                            <a href="o-nama.html" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">O nama</a>
+                        </li>
+                        <li>
+                            <a href="kontakt.html" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">Kontakt</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div id="mega-menu-full-dropdown" class="mt-4 shadow-xs bg-[#0A1E5A] hidden">
+                <div class="grid max-w-screen-xl px-4 py-5 mx-auto text-white sm:grid-cols-6 md:px-6">
+                    <ul>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%B5%CE%B1%CF%82-%CE%BC%CE%B5-%CF%83%CF%86%CF%85%CF%81%CE%B9%CE%B1-%CE%B3%CE%B9%CE%B1-%CE%BA%CE%BB%CE%B1%CE%B4%CE%B9%CE%B1.webp" alt="Destroyers" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Destroyers</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2024/09/kladotemaxistes-thrimmatistes-gia-trakter-times.webp" alt="Wood chippers - Bio-Shredders" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Wood chippers - Bio-Shredders</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CF%81%CE%B1%CE%BD%CF%84%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%B1-%CF%84%CE%BF%CF%85%CF%81%CE%BC%CF%80%CE%B9%CE%BD%CE%B5%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Sprinkles - Turbines" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Sprinkles - Turbines</div>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CE%B5%CF%80%CE%B9%CE%BA%CE%BB%CE%B9%CE%BD%CE%B7%CF%82-%CF%80%CE%BB%CE%B1%CE%B9%CE%BD%CE%BF%CF%82-%CF%80%CE%BB%CE%B5%CF%85%CF%81%CE%B9%CE%BA%CE%BF%CF%82-%CF%84%CE%B7%CE%BB%CE%B5%CF%83%CE%BA%CE%BF%CF%80%CE%B9%CE%BA%CE%BF%CF%82-%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%B5%CE%B1%CF%82-%CE%BC%CE%B5-%CF%83%CF%86%CF%85%CF%81%CE%B9%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Inclined Destroyers" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Inclined Destroyers</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2024/09/%CE%B1%CE%BD%CF%85%CF%88%CF%89%CF%84%CE%B9%CE%BA%CE%B1-%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B7%CE%BC%CE%B1%CF%84%CE%B1-%CE%BC%CE%B5%CF%84%CE%B1%CF%86%CE%BF%CF%81%CE%B1%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81-%CF%84%CE%B9%CE%BC%CE%B7.webp" alt="Lifting - Transport Machinery" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Lifting - Transport Machinery</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CE%BB%CE%B9%CF%80%CE%B1%CF%83%CE%BC%CE%B1%CF%84%CE%BF%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%B5%CE%B1%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Fertilizer Distributors" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Fertilizer Distributors</div>
+                                </div>
+                            </a>
+                        </li>
+                    </ul> 
+                    <ul>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2024/09/mini-dumper-kai-peronofora-stin-kaliteri-timi-tis-agoras.webp" alt="Mini Dumper - Forklift" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Mini Dumper - Forklift</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CF%87%CE%BF%CF%81%CF%84%CE%BF%CE%BA%CE%BF%CF%80%CF%84%CE%B9%CE%BA%CE%B1-%CE%B3%CE%B9%CE%B1-%CE%BF%CE%BB%CE%B1-%CF%84%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81-%CF%84%CE%B9%CE%BC%CE%B5%CF%82.webp" alt="Brushcutters - Lawn Mowers" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Brushcutters - Lawn Mowers</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CF%80%CE%B1%CF%81%CE%B5%CE%BB%CE%BA%CE%BF%CE%BC%CE%B5%CE%BD%CE%B1-%CE%B4%CE%BF%CE%BC%CE%B9%CE%BA%CF%89%CE%BD-%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B7%CE%BC%CE%B1%CF%84%CF%89%CE%BD.webp" alt="Constuction Machinery Accessories" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Constuction Machinery Accessories</div>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CF%86%CF%81%CE%B5%CE%B6%CE%B5%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Mills - Pellet Mills" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Mills - Pellet Mills</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CF%84%CF%83%CE%B1%CF%80%CE%B1%CE%BA%CE%B9%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81-%CE%BC%CE%B9%CE%BD%CE%B9-%CE%B5%CE%BA%CF%83%CE%BA%CE%B1%CF%86%CE%B5%CE%B9%CF%82.webp" alt="Tractor Shovels - Mini Excavators" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Tractor Shovels - Mini Excavators</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CE%B4%CE%B9%CE%B1%CF%86%CE%BF%CF%81%CE%B1-%CE%B3%CE%B5%CF%89%CF%81%CE%B3%CE%B9%CE%BA%CE%B1-%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B7%CE%BC%CE%B1%CF%84%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Various Agricultural Machinery" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Various Agricultural Machinery</div>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B7%CE%BC%CE%B1%CF%84%CE%B1-%CE%BA%CE%B1%CE%BB%CE%BB%CE%B9%CE%B5%CF%81%CE%B3%CE%B5%CE%B9%CE%B1%CF%821.webp" alt="Farming Machinery" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Farming Machinery</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CE%BC%CE%B5%CF%84%CE%B1%CF%87%CE%B5%CE%B9%CF%81%CE%B9%CF%83%CE%BC%CE%B5%CE%BD%CE%B1-%CE%B3%CE%B5%CF%89%CF%81%CE%B3%CE%B9%CE%BA%CE%B1-%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B7%CE%BC%CE%B1%CF%84%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Used Agricultural Machinery" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Used Agricultural Machinery</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CE%B3%CE%BA%CF%81%CE%B5%CE%B9%CE%BD%CF%84%CE%B5%CF%81-%CE%B5%CE%BA%CE%B9%CE%BF%CE%BD%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Graders - Snowplows" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Graders - Snowplows</div>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CF%83%CE%BA%CE%B1%CF%80%CF%84%CE%B9%CE%BA%CE%B1-%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B7%CE%BC%CE%B1%CF%84%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Drills - Chains" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Drills - Chains</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CF%86%CF%85%CF%84%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%B1-%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B7%CE%BC%CE%B1%CF%84%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Planting Machines - Potato Exctractors" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Planting Machines - Potato Exctractors</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                                <img src="https://agrimac.gr/wp-content/uploads/2022/06/%CE%B1%CE%BD%CF%84%CE%B1%CE%BB%CE%BB%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CE%B1-%CF%80%CE%B1%CF%81%CE%B5%CE%BB%CE%BA%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.webp" alt="Agricultural Machinery Spare Parts" class="w-30 h-30 rounded-md">
+                                <div class="text-center">
+                                    <div class="font-normal">Agricultural Machinery Spare Parts</div>
+                                </div>
+                            </a>
                         </li>
                     </ul>
                 </div>
@@ -357,6 +524,7 @@
     <script src="assets/js/vendor/jquery-3.6.4.min.js"></script>
 
     <!-- Main Custom -->
+    <script src="script.js"></script>
     <script src="assets/js/main.js"></script>
     <script src="traktor.js"></script>
 </body>
