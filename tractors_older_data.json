@@ -1,46 +1,56 @@
 [
     {
-        "model": "LS R60 MT CAB 60 HP",
-        "description": "LS R60 MT CAB 60 HP je voćarski traktor opremljen Mitsubishi motorom, dizajniran za svestranost i efikasnost. Poseduje sinhronizovani šatl menjač sa 16 brzina napred i 16 unazad, pogon na 4 točka, hidrostatički upravljački sistem i nezavisni zadnji PTO.",
+        "model": "LS R60 MT CAB 60 KS",
+        "description": "Voćarski traktor sa kabinom od 60 KS; opremljen Mitsubishi motorom; sinhronizovana šatl transmisija 16x16; pogon na sva četiri točka; hidrostatički upravljački sistem; nezavisan zadnji PTO. Ima Tier III motor koji ispunjava najstrože EU standarde emisije, moderan prednji dizajn sa hromiranim detaljima, ergonomične kontrole sa džojstikom i veliki rezervoar za gorivo od 47 litara za duži rad.",
         "specifications": {
             "engine": {
                 "manufacturer": "Mitsubishi",
-                "type": "Tier III motor",
+                "type": "4-takta, vertikalni, hlađen vodom",
+                "model": "L4AL",
                 "power": "60 KS",
-                "fuel_tank_capacity": "47 litara"
+                "cylinders": 4,
+                "displacement": "2505 cc",
+                "fuel_tank_capacity": "47 litara",
+                "max_rpm_and_torque": "209 Nm okretnog momenta",
+                "emission_class": "EU Tier III"
             },
             "transmission": {
-                "type": "Sinhronizovani šatl",
-                "gears": "16 napred / 16 unazad"
+                "type": "Sinhronizovana šatl transmisija",
+                "differential_lock": "Mehanički, na pedalu",
+                "drive": "4WD",
+                "steering": "Hidrostatički",
+                "max_speed": "Nije navedeno",
+                "brakes": "Nije navedeno"
             },
-            "drive": {
-                "type": "4WD",
-                "steering": "Hidrostatički"
-            },
-            "pto": {
-                "rear": "Nezavisan, 3-brzinski"
+            "tbz_and_pto": {
+                "rear_pto": "540, 750 (540E), 1000 obrtaja/min",
+                "mid_pto": "Nije primenjivo",
+                "tbz_category": "CAT1",
+                "rear_hydraulic_lift_capacity": "1250 kgf",
+                "hydraulic_pump_capacity": "31.2 LPM"
             },
             "dimensions_and_weight": {
-                "weight": "1.950 kg"
-            },
-            "cabin": {
-                "features": [
-                    "Originalna LS fabrička kabina",
-                    "Zaptivena i filtrirana",
-                    "Zvučno izolovana",
-                    "Opremljena klima uređajem i audio sistemom"
-                ]
-            },
-            "price": "51.000,00 лв. (bez PDV-a)"
+                "length": "3620 mm",
+                "width": "1458-1858 mm",
+                "height": "2305 mm",
+                "wheelbase": "Nije navedeno",
+                "ground_clearance": "Nije navedeno",
+                "turning_radius": "2750 mm",
+                "max_steering_angle": "Nije navedeno",
+                "weight": "1950 kg",
+                "tires_front_rear": "Prednje: 9.5-16 (4PR), Zadnje: 13.6-24 (8PR)"
+            }
         },
+        "price": "51.000,00 лв. (bez PDV-a)",
         "features": [
-            "Ispunjava EU Tier III standarde emisije sa niskim nivoom buke i vibracija.",
-            "Stilizovan prednji dizajn sa hromiranim detaljima.",
-            "Ergonomski dizajnirane kontrole trotačke spojnice i džojstik na blatobranu za maksimalnu udobnost i praktičnost.",
-            "Veliki rezervoar goriva od 47 litara za produženo vreme rada.",
-            "Nezavisan PTO sa 3 brzine, jednostavan za rukovanje pomoću prekidača na kontrolnoj tabli.",
-            "Vodootporna i nehrđajuća prednja osovina, pruža odlične performanse u poplavljenim poljima.",
-            "Jednostavna i praktična kontrolna tabla sa prekidačima."
+            "<h2 class='mt-2 font-bold'>Robustan motor</h2><p class='mt-4'>Opremljen Mitsubishi L4AL motorom, 4-takt, hlađen vodom, koji isporučuje 65 KS i 209 Nm okretnog momenta.</p>",
+            "<h2 class='mt-2 font-bold'>Napredna transmisija</h2><p class='mt-4'>Sinhronizovana šatl transmisija sa 16 brzina unapred i 16 unazad za svestrane performanse.</p>",
+            "<h2 class='mt-2 font-bold'>Efikasan PTO sistem</h2><p class='mt-4'>Nezavisni zadnji PTO sa 3 brzine (540, 750 (540E), 1000 obrtaja/min) za različite radne zadatke.</p>",
+            "<h2 class='mt-2 font-bold'>Snažna hidraulika</h2><p class='mt-4'>Sistem trotočke veze (CAT1) sa kapacitetom podizanja od 1250 kg i pumpom od 31.2 LPM.</p>",
+            "<h2 class='mt-2 font-bold'>Izvanredna upravljivost</h2><p class='mt-4'>Hidrostatičko upravljanje sa mogućnošću nagiba i ergonomičnom kontrolnom tablom za lak rad.</p>",
+            "<h2 class='mt-2 font-bold'>Izdržljiva konstrukcija</h2><p class='mt-4'>Vodootporna i nehrđajuća prednja osovina dizajnirana za zahtevne uslove rada.</p>",
+            "<h2 class='mt-2 font-bold'>Prostrana kabina</h2><p class='mt-4'>Originalna LS kabina sa klimatizacijom, filtracijom i odličnom izolacijom buke za komfor vozača.</p>",
+            "<h2 class='mt-2 font-bold'>Optimizovane dimenzije</h2><p class='mt-4'>Dužina 3620 mm, širina 1458-1858 mm i visina 2305 mm obezbeđuju stabilnost i upravljivost.</p>"
         ],
         "images": [
             "./images/LS-R65/LS-R65_1.webp",
@@ -54,36 +64,65 @@
             "./images/LS-R65/LS-R65_9.webp",
             "./images/LS-R65/LS-R65_10.webp"
         ]
-    },        
+    },
     {
-        "model": "LS XR50 MT CAB (50 HP)",
-        "description": "Voćarski traktor sa kabinom od 50 KS; Mitsubishi motor; sinhrona šatl transmisija 16x16; pogon na sva četiri točka; hidrostatički upravljački sistem; zadnji nezavisni PTO.",
+        "model": "LS XR50 MT CAB 50 KS",
+        "description": "Voćarski traktor sa kabinom od 50 KS; opremljen Mitsubishi motorom; sinhronizovana šatl transmisija 16x16; pogon na sva četiri točka; hidrostatički upravljački sistem; nezavisan zadnji PTO. Ima Tier III motor koji zadovoljava najstrože EU standarde emisije, moderan prednji dizajn sa hromiranim detaljima, ergonomične kontrole sa džojstikom i veliki rezervoar za gorivo od 47 litara za produženi rad.",
         "specifications": {
             "engine": {
                 "manufacturer": "Mitsubishi",
-                "type": "Tier III motor",
+                "type": "4-takt, vertikalni, hlađen vodom",
+                "model": "S4QL",
                 "power": "50 KS",
-                "fuel_tank_capacity": "47 litara"
+                "cylinders": 4,
+                "displacement": "2505 cc",
+                "fuel_tank_capacity": "47 litara",
+                "max_rpm_and_torque": "170 Nm okretnog momenta",
+                "emission_class": "EU Tier III"
             },
             "transmission": {
-                "type": "Sinhrona šatl transmisija 16x16",
-                "drive": "4WD"
+                "type": "Sinhronizovana šatl transmisija",
+                "drive": "4WD",
+                "clutch": "Jednostavni suvi disk",
+                "reverse": "Da",
+                "differential_lock": "Mehanički, na pedalu",
+                "gears": "16 brzina unapred i 16 unazad"
             },
             "steering": "Hidrostatički",
             "pto": {
-                "type": "Nezavisni PTO sa 3 brzine",
+                "type": "Nezavisni zadnji PTO",
+                "speeds": "540, 750 (540E), 1000 obrtaja/min",
                 "control": "Prekidač na kontrolnoj tabli"
             },
             "hydraulics": {
-                "remote_valves": "Maksimalno 2 para daljinskih ventila"
+                "remote_valves": "Maksimalno 2 para daljinskih ventila",
+                "system": "Sistem trotočke veze (CAT1)",
+                "lift_capacity": "1250 kgf",
+                "pump_capacity": "31.2 LPM",
+                "oil_pressure": "16.7 MPa"
             },
-            "features": [
-                "Novi prednji dizajn sa hromiranim detaljima",
-                "Ergonomski dizajnirane kontrole hidraulike i džojstik na blatobranu",
-                "Vodootporna prednja osovina pogodna za rad u vlažnim uslovima",
-                "Jednostavna i praktična kontrolna tabla sa prekidačima"
-            ]
+            "dimensions_and_weight": {
+                "length": "3607 mm",
+                "width": "1458-1858 mm",
+                "height": "2330 mm",
+                "weight": "1950 kg",
+                "tires_front_rear": "Prednje: 9.5-16 (4PR), Zadnje: 13.6-24 (8PR)",
+                "turning_radius": "2750 mm",
+                "steering_turns": "2.8 obrtaja (od zaključane do zaključane pozicije)"
+            },
+            "electrical": {
+                "voltage": "12V",
+                "alternator": "12V-70A",
+                "starter": "12V - 2.2KW, električni solenoid"
+            }
         },
+        "price": "48.000,00 лв. (bez PDV-a)",
+        "features": [
+            "<h2 class='mt-2 font-bold'>Moderan dizajn</h2><p class='mt-4'>Novi prednji dizajn sa hromiranim detaljima.</p>",
+            "<h2 class='mt-2 font-bold'>Ergonomske kontrole</h2><p class='mt-4'>Ergonomski dizajnirane kontrole hidraulike i džojstik na blatobranu za maksimalnu udobnost.</p>",
+            "<h2 class='mt-2 font-bold'>Vodootporna osovina</h2><p class='mt-4'>Vodootporna prednja osovina pogodna za rad u vlažnim uslovima.</p>",
+            "<h2 class='mt-2 font-bold'>Praktična kontrolna tabla</h2><p class='mt-4'>Jednostavna i praktična kontrolna tabla sa prekidačima za lak rad.</p>"
+        ],
         "images": [
             "./images/LS-XR50/LS-XR50_1.jpg",
             "./images/LS-XR50/LS-XR50_2.jpg",
@@ -92,21 +131,20 @@
             "./images/LS-XR50/LS-XR50_5.jpg",
             "./images/LS-XR50/LS-XR50_6.jpg",
             "./images/LS-XR50/LS-XR50_7.jpg"
-        ],
-        "price": "47,000.00 лв. bez PDV-a"
+        ]
     },
     {
-        "model": "LS U60 MT CAB (60 HP)",
-        "description": "Traktor sa kabinom od 60 KS; Mitsubishi motor; sinhrona šatl transmisija 16x16; pogon na sva četiri točka; hidrostatički upravljački sistem; zadnji nezavisni PTO.",
+        "model": "LS U60 MT CAB 60 KS",
+        "description": "Traktor sa kabinom od 60 KS; Mitsubishi motor; sinhronizovana šatl transmisija 16x16; pogon na sva četiri točka; hidrostatički upravljački sistem; zadnji nezavisni PTO.",
         "specifications": {
             "engine": {
                 "manufacturer": "Mitsubishi",
                 "type": "Tier III motor",
                 "power": "60 KS",
-                "fuel_tank_capacity": "N/A"
+                "fuel_tank_capacity": "Nije navedeno"
             },
             "transmission": {
-                "type": "Sinhrona šatl transmisija 16x16",
+                "type": "Sinhronizovana šatl transmisija 16x16",
                 "drive": "4WD"
             },
             "steering": "Hidrostatički",
@@ -138,7 +176,7 @@
         "price": "Cena na upit"
     },
     {
-        "model": "LS PLUS100 PS CAB (100 HP)",
+        "model": "LS PLUS100 PS CAB 100 KS",
         "description": "Traktor sa kabinom, snage 100 KS, pogodan za razne poljoprivredne zadatke.",
         "specifications": {
             "engine": {
@@ -195,7 +233,7 @@
         ]
     },
     {
-        "model": "LS R36i MT RR (38 HP)",
+        "model": "LS R36i MT RR (38 KS)",
         "description": "Voćarski traktor snage 38 KS sa ROPS zaštitom; Mitsubishi motor; sinhroni menjač 12x12; 4WD; hidrostatički upravljački sistem; zadnji nezavisni PTO.",
         "specifications": {
             "engine": {
@@ -261,7 +299,7 @@
         ]
     },
     {
-        "model": "LS R60 MT FR (60 HP)",
+        "model": "LS R60 MT FR (60 KS)",
         "description": "Voćarski traktor snage 60 KS sa ROPS zaštitom; Mitsubishi motor; sinhroni menjač 16x16; 4WD; hidrostatički upravljački sistem; zadnji nezavisni PTO.",
         "specifications": {
             "engine": {

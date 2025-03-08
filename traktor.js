@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
             titleElement.textContent = tractor.model;
             console.log('Updated title:', tractor.model);
         }
-
+    
         const titleElement2 = document.querySelector('h2');
         if (titleElement2) {
             titleElement2.textContent = tractor.model;
@@ -58,38 +58,39 @@ document.addEventListener('DOMContentLoaded', function() {
             mainImage.alt = tractor.model;
             console.log('Updated main image:', tractor.images[0]);
         }
-
+    
         const thumbnailsContainer = document.querySelector('section.bg-gray-100 .grid.grid-cols-2.md\\:grid-cols-4');
-
         if (thumbnailsContainer) {
             thumbnailsContainer.innerHTML = '';
-
+    
             tractor.images.forEach((img, index) => {
                 if (index === 0) {
                     return;
                 }
-
+    
                 const anchorElement = document.createElement('a');
                 anchorElement.href = img; 
                 anchorElement.target = "_blank"; 
-
+    
                 const imgElement = document.createElement('img');
                 imgElement.className = "w-full aspect-[4/3] object-contain rounded-lg cursor-pointer";
                 imgElement.src = img;
                 imgElement.alt = `${tractor.model} - Image ${index + 1}`;
-
+    
                 imgElement.onload = function () {
                     anchorElement.setAttribute("data-pswp-width", imgElement.naturalWidth);
                     anchorElement.setAttribute("data-pswp-height", imgElement.naturalHeight);
                 };
-
+    
                 anchorElement.appendChild(imgElement);
                 thumbnailsContainer.appendChild(anchorElement);
             });
-
+    
             console.log('Updated thumbnails with new images');
         }
-        
+    // Check if the tractor has feature images (new/current tractor)
+    if (tractor.feature_images && tractor.feature_images.length > 0) {
+        // New tractor: fill the container with a grid of features (using images)
         const featureContainer = document.querySelector('section.bg-gray-100 .grid-cols-1.sm\\:grid-cols-2');
         if (featureContainer) {
             featureContainer.innerHTML = tractor.features.map((feature, index) => `
@@ -101,79 +102,93 @@ document.addEventListener('DOMContentLoaded', function() {
                     <p class="mt-4">${feature.split(':')[1] || ''}</p>
                 </div>
             `).join('');
-            console.log('Updated feature images');
+            console.log('Updated feature images for new tractor');
         }
-        
-        const specs = tractor.specifications;
-        const specMappings = {
-            engine: {
-                section: 'Motor',
-                keys: {
-                    manufacturer: 'Proizvođač',
-                    type: 'Tip',
-                    model: 'Model',
-                    power: 'Snaga',
-                    cylinders: 'Broj cilindra',  
-                    displacement: 'Zapremina cilindra (cm³)',  
-                    fuel_tank_capacity: 'Kapacitet rezervoara za gorivo (l)', 
-                    battery: 'Baterija (V)',  
-                    max_rpm_and_torque: 'Max. brzina i obrtni moment motora (ot./min./Nm)', 
-                    emission_class: 'Emisiona klasa'  
-                }
-            },
-            transmission: {
-                section: 'Menjač',
-                keys: {
-                    type: 'Tip',
-                    differential_lock: 'Blokada diferencijala',  
-                    drive: 'Pogon',
-                    steering: 'Upravljanje',
-                    max_speed: 'Maksimalna brzina (km/h)',
-                    brakes: 'Kočnice'
-                }
-            },
-            tbz_and_pto: {
-                section: 'TBZ i PTO',
-                keys: {
-                    rear_pto: 'Zadnji PTO (ot./min.)',  
-                    mid_pto: 'Srednji PTO (ot./min.)', 
-                    tbz_category: 'TBZ kategorija',  
-                    rear_hydraulic_lift_capacity: 'Sila podizanja zadnje hidraulike (kg)',  
-                    hydraulic_pump_capacity: 'Performanse hidraulične pumpe (l/min.)'  
-                }
-            },
-            dimensions_and_weight: {
-                section: 'Dimenzije i težina',
-                keys: {
-                    length: 'Dužina (mm)',
-                    width: 'Širina (mm)',
-                    height: 'Visina (mm)',
-                    wheelbase: 'Međuosovinsko rastojanje (mm)',
-                    ground_clearance: 'Visina prelaza (mm)', 
-                    turning_radius: 'Prečnik rotacije - unutrašnji (mm)',  
-                    max_steering_angle: 'Najveći ugao okretanja točkova (°)', 
-                    weight: 'Težina (kg)',
-                    tires_front_rear: 'Gume (prednje / zadnje)'
-                }
-            }
-        };
-
-        Object.entries(specMappings).forEach(([category, mapping]) => {
-            const sectionHeader = Array.from(document.querySelectorAll('tr')).find(tr => 
-                tr.querySelector('td')?.textContent.trim() === mapping.section
-            );
-            
-            if (sectionHeader && specs[category]) {
-                console.log(`Updating ${mapping.section} specs`);
-                Object.entries(mapping.keys).forEach(([jsonKey, label]) => {
-                    if (specs[category][jsonKey]) {
-                        updateRow(label, specs[category][jsonKey], mapping.section);
-                    }
-                });
-            }
-        });
+    } else {
+        // Older tractor: remove the new feature container and update the old feature container
+        const newFeatureContainer = document.querySelector('section.bg-gray-100 .grid-cols-1.sm\\:grid-cols-2');
+        if (newFeatureContainer) {
+            newFeatureContainer.remove();
+        }
+        const oldFeatureContainer = document.getElementById('old-feature-container');
+        if (oldFeatureContainer) {
+            oldFeatureContainer.innerHTML = `<ul class="list-disc pl-5 space-y-2 text-gray-700">`
+                + tractor.features.map(feature => `<li>${feature}</li>`).join('')
+                + `</ul>`;
+            console.log('Updated feature list for older tractor');
+        }
     }
+    // --- End Modified Feature Section ---
 
+    const specs = tractor.specifications;
+    const specMappings = {
+        engine: {
+            section: 'Motor',
+            keys: {
+                manufacturer: 'Proizvođač',
+                type: 'Tip',
+                model: 'Model',
+                power: 'Snaga',
+                cylinders: 'Broj cilindra',  
+                displacement: 'Zapremina cilindra (cm³)',  
+                fuel_tank_capacity: 'Kapacitet rezervoara za gorivo (l)', 
+                battery: 'Baterija (V)',  
+                max_rpm_and_torque: 'Max. brzina i obrtni moment motora (ot./min./Nm)', 
+                emission_class: 'Emisiona klasa'  
+            }
+        },
+        transmission: {
+            section: 'Menjač',
+            keys: {
+                type: 'Tip',
+                differential_lock: 'Blokada diferencijala',  
+                drive: 'Pogon',
+                steering: 'Upravljanje',
+                max_speed: 'Maksimalna brzina (km/h)',
+                brakes: 'Kočnice'
+            }
+        },
+        tbz_and_pto: {
+            section: 'TBZ i PTO',
+            keys: {
+                rear_pto: 'Zadnji PTO (ot./min.)',  
+                mid_pto: 'Srednji PTO (ot./min.)', 
+                tbz_category: 'TBZ kategorija',  
+                rear_hydraulic_lift_capacity: 'Sila podizanja zadnje hidraulike (kg)',  
+                hydraulic_pump_capacity: 'Performanse hidraulične pumpe (l/min.)'  
+            }
+        },
+        dimensions_and_weight: {
+            section: 'Dimenzije i težina',
+            keys: {
+                length: 'Dužina (mm)',
+                width: 'Širina (mm)',
+                height: 'Visina (mm)',
+                wheelbase: 'Međuosovinsko rastojanje (mm)',
+                ground_clearance: 'Visina prelaza (mm)', 
+                turning_radius: 'Prečnik rotacije - unutrašnji (mm)',  
+                max_steering_angle: 'Najveći ugao okretanja točkova (°)', 
+                weight: 'Težina (kg)',
+                tires_front_rear: 'Gume (prednje / zadnje)'
+            }
+        }
+    };
+
+    Object.entries(specMappings).forEach(([category, mapping]) => {
+        const sectionHeader = Array.from(document.querySelectorAll('tr')).find(tr => 
+            tr.querySelector('td')?.textContent.trim() === mapping.section
+        );
+        
+        if (sectionHeader && specs[category]) {
+            console.log(`Updating ${mapping.section} specs`);
+            Object.entries(mapping.keys).forEach(([jsonKey, label]) => {
+                if (specs[category][jsonKey]) {
+                    updateRow(label, specs[category][jsonKey], mapping.section);
+                }
+            });
+        }
+    });
+}
     function updateRow(label, value, section) {
         const rows = document.querySelectorAll('tbody tr');
         
