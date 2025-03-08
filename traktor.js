@@ -64,10 +64,6 @@ document.addEventListener('DOMContentLoaded', function() {
             thumbnailsContainer.innerHTML = '';
     
             tractor.images.forEach((img, index) => {
-                if (index === 0) {
-                    return;
-                }
-    
                 const anchorElement = document.createElement('a');
                 anchorElement.href = img; 
                 anchorElement.target = "_blank"; 
