@@ -154,14 +154,14 @@
             },
             "hydraulics": {
                 "remote_valves": "Maksimalno 2 para daljinskih ventila"
-            },
-            "features": [
-                "Novi prednji dizajn sa hromiranim detaljima",
-                "Ergonomski dizajnirane kontrole hidraulike i džojstik na blatobranu",
-                "Vodootporna prednja osovina pogodna za rad u vlažnim uslovima",
-                "Jednostavna i praktična kontrolna tabla sa prekidačima"
-            ]
+            }
         },
+        "features": [
+            "Novi prednji dizajn sa hromiranim detaljima",
+            "Ergonomski dizajnirane kontrole hidraulike i džojstik na blatobranu",
+            "Vodootporna prednja osovina pogodna za rad u vlažnim uslovima",
+            "Jednostavna i praktična kontrolna tabla sa prekidačima"
+        ],
         "images": [
             "./images/LS-U60/LS-U60_1.jpg",
             "./images/LS-U60/LS-U60_2.jpg",
@@ -174,7 +174,7 @@
             "./images/LS-U60/LS-U60_9.jpg"
         ],
         "price": "Cena na upit"
-    },
+    },    
     {
         "model": "LS PLUS100 PS CAB 100 KS",
         "description": "Traktor sa kabinom, snage 100 KS, pogodan za razne poljoprivredne zadatke.",
@@ -216,7 +216,7 @@
                 "weight": "Nije navedeno",
                 "tires_front_rear": "Nije navedeno"
             },
-            "price": "Nije navedeno"
+            "price": "Cena na upit"
         },
         "features": [
             "Kabina sa klima uređajem za udobnost operatera.",
@@ -233,7 +233,7 @@
         ]
     },
     {
-        "model": "LS R36i MT RR (38 KS)",
+        "model": "LS R36i MT RR 38 KS",
         "description": "Voćarski traktor snage 38 KS sa ROPS zaštitom; Mitsubishi motor; sinhroni menjač 12x12; 4WD; hidrostatički upravljački sistem; zadnji nezavisni PTO.",
         "specifications": {
             "engine": {
@@ -299,7 +299,7 @@
         ]
     },
     {
-        "model": "LS R60 MT FR (60 KS)",
+        "model": "LS R60 MT FR 60 KS",
         "description": "Voćarski traktor snage 60 KS sa ROPS zaštitom; Mitsubishi motor; sinhroni menjač 16x16; 4WD; hidrostatički upravljački sistem; zadnji nezavisni PTO.",
         "specifications": {
             "engine": {
@@ -312,7 +312,7 @@
                 "fuel_tank_capacity": "47 litara",
                 "battery": "Nije navedeno",
                 "max_rpm_and_torque": "Nije navedeno",
-                "emission_class": "Stage III"
+                "emission_class": "EU Tier III"
             },
             "transmission": {
                 "type": "Sinhroni menjač 16 napred / 16 nazad sa super puzećim brzinama",
