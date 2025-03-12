@@ -84,9 +84,8 @@ document.addEventListener('DOMContentLoaded', function() {
     
             console.log('Updated thumbnails with new images');
         }
-    // Check if the tractor has feature images (new/current tractor)
+    
     if (tractor.feature_images && tractor.feature_images.length > 0) {
-        // New tractor: fill the container with a grid of features (using images)
         const featureContainer = document.querySelector('section.bg-gray-100 .grid-cols-1.sm\\:grid-cols-2');
         if (featureContainer) {
             featureContainer.innerHTML = tractor.features.map((feature, index) => `
@@ -101,7 +100,6 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log('Updated feature images for new tractor');
         }
     } else {
-        // Older tractor: remove the new feature container and update the old feature container
         const newFeatureContainer = document.querySelector('section.bg-gray-100 .grid-cols-1.sm\\:grid-cols-2');
         if (newFeatureContainer) {
             newFeatureContainer.remove();
@@ -114,7 +112,6 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log('Updated feature list for older tractor');
         }
     }
-    // --- End Modified Feature Section ---
 
     const specs = tractor.specifications;
     const specMappings = {
