@@ -11,7 +11,7 @@
             "Plug": "2 kom.",
             "Prečnik pluga": "780 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_0_0.jpg",
             "images/slika_0_1.jpg",
             "images/slika_0_2.jpg",
@@ -36,7 +36,7 @@
             "Plug": "3 kom.",
             "Prečnik pluga": "780 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_1_0.jpg",
             "images/slika_1_1.jpg",
             "images/slika_1_2.jpg",
@@ -62,7 +62,7 @@
             "Plug": "2 kom.",
             "Prečnik pluga": "580 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_2_0.jpg",
             "images/slika_2_1.jpg",
             "images/slika_2_2.jpg",
@@ -87,7 +87,7 @@
             "Plug": "3 kom.",
             "Prečnik pluga": "580 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_3_0.jpg",
             "images/slika_3_1.jpg",
             "images/slika_3_2.jpg",
@@ -113,7 +113,7 @@
             "Plug": "3 kom.",
             "Prečnik pluga": "700 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_4_0.jpg",
             "images/slika_4_1.jpg",
             "images/slika_4_2.jpg",
@@ -139,7 +139,7 @@
             "Ving thickness": "8 mm",
             "Debljina pluga": "8 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_5_0.jpg",
             "images/slika_5_1.jpg",
             "images/slika_5_2.jpg",
@@ -159,7 +159,7 @@
             "Plug": "1 kom.",
             "Prečnik pluga": "1050 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_6_0.jpg",
             "images/slika_6_1.jpg",
             "images/slika_6_2.jpg",
@@ -181,7 +181,7 @@
             "Plug": "1 kom.",
             "Prečnik pluga": "840 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_7_0.jpg",
             "images/slika_7_1.jpg",
             "images/slika_7_2.jpg",
@@ -205,7 +205,7 @@
             "Plug": "2 kom.",
             "Prečnik pluga": "700 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_8_0.jpg",
             "images/slika_8_1.jpg",
             "images/slika_8_2.jpg",
@@ -230,7 +230,7 @@
             "Plug": "2 kom.",
             "Prečnik pluga": "750 mm"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Levi hidraulični točak za kosilicu sa povratnom oprugom podesivom osetljivošću. CHIMERA TROKSOS60-L - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
@@ -244,7 +244,7 @@
             "Rekuired hidraulic flov": "30 – 50 L/min",
             "Offset (left – right)": "← mm 1750/1300 ||"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Leva vinogradarska motika 36cm sa senzorom i elektrohidrauličnim ventilom. CHIMERA LAMA36-L - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
@@ -255,7 +255,7 @@
             "Rekuired hidraulic flov": "10 L/min",
             "Offset": "← mm 1650/1200 ||"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "6\" jednobrazdni plug sa podešavanjem nagiba MOA6-M - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
@@ -269,7 +269,7 @@
             "Plug": "1 kom.",
             "Prečnik pluga": "770 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_12_0.jpg",
             "images/slika_12_1.jpg",
             "images/slika_12_2.jpg",
@@ -291,7 +291,7 @@
             "Visina": "900 mm",
             "Vork Surface": "420-650 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_13_0.jpg",
             "images/slika_13_1.jpg",
             "images/slika_13_2.jpg",
@@ -312,7 +312,7 @@
             "Težina": "30 kg",
             "Vidth adjustment": "390 – 650 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_14_0.jpg",
             "images/slika_14_1.jpg",
             "images/slika_14_2.jpg",
@@ -326,7 +326,7 @@
             "Konji": "15 – 100 KS",
             "Arid": "Φ 230"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_15_0.jpg",
             "images/slika_15_1.jpg",
             "images/slika_15_2.jpg",
@@ -343,7 +343,7 @@
             "Konji": "15 – 100 KS",
             "Arida": "Φ 300"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_16_0.jpg",
             "images/slika_16_1.jpg",
             "images/slika_16_2.jpg",
@@ -360,7 +360,7 @@
             "Konji": "15 – 100 KS",
             "Arid": "Φ380"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_17_0.jpg",
             "images/slika_17_1.jpg",
             "images/slika_17_2.jpg",
@@ -377,7 +377,7 @@
             "Konji": "15 – 100 KS",
             "Arida": "Φ 450"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_18_0.jpg",
             "images/slika_18_1.jpg",
             "images/slika_18_2.jpg",
@@ -394,7 +394,7 @@
             "Konji": "15 – 100 KS",
             "Arida": "Φ 150"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_19_0.jpg",
             "images/slika_19_1.jpg",
             "images/slika_19_2.jpg",
@@ -409,7 +409,7 @@
         "specifikacije": {
             "Težina": "6 kg"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Snivač za teške nagibe IBPK240 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
@@ -427,7 +427,7 @@
             "Spirala": "160*10",
             "Kaiševi": "5 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_21_0.jpg",
             "images/slika_21_1.jpg",
             "images/slika_21_2.jpg",
@@ -483,7 +483,7 @@
             "Spirala": "160*10",
             "Kaiševi": "5 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_22_0.jpg",
             "images/slika_22_1.jpg",
             "images/slika_22_2.jpg",
@@ -542,7 +542,7 @@
             "Strofeio": "127*8",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_23_0.jpg",
             "images/slika_23_1.jpg",
             "images/slika_23_2.jpg",
@@ -575,7 +575,7 @@
             "Ubod": "32",
             "Citting height": "20 – 80 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_24_0.jpg",
             "images/slika_24_1.jpg",
             "images/slika_24_2.jpg",
@@ -613,7 +613,7 @@
             "Čekići": "20",
             "Citting height": "20 – 80 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_25_0.jpg",
             "images/slika_25_1.jpg"
         ]
@@ -633,7 +633,7 @@
             "Noževi": "40",
             "Citting height": "20 – 80 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_26_0.jpg",
             "images/slika_26_1.jpg",
             "images/slika_26_2.jpg",
@@ -663,7 +663,7 @@
             "Čekići": "20",
             "Citting height": "20 – 80 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_27_0.jpg",
             "images/slika_27_1.jpg",
             "images/slika_27_2.jpg",
@@ -689,7 +689,7 @@
             "Noževi": "46",
             "Citting height": "20 – 80 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_28_0.jpg",
             "images/slika_28_1.jpg",
             "images/slika_28_2.jpg",
@@ -726,7 +726,7 @@
             "Noževi": "56",
             "Citting height": "10 – 60 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_29_0.jpg",
             "images/slika_29_1.jpg",
             "images/slika_29_2.jpg",
@@ -762,7 +762,7 @@
             "Nominal speed": "1500 o/min",
             "Nominalna frekvencija": "50 Hz"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_30_0.jpg",
             "images/slika_30_1.jpg",
             "images/slika_30_2.jpg"
@@ -822,7 +822,7 @@
                 "Koeficijent": "0,8"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_31_0.jpg",
             "images/slika_31_1.jpg",
             "images/slika_31_2.jpg",
@@ -900,7 +900,7 @@
                 "Koeficijent": "0,8"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_32_0.jpg",
             "images/slika_32_1.jpg",
             "images/slika_32_2.jpg",
@@ -978,7 +978,7 @@
                 "Koeficijent": "0,8"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_33_0.jpg",
             "images/slika_33_1.jpg",
             "images/slika_33_2.jpg",
@@ -1056,7 +1056,7 @@
                 "Koeficijent": "0,8"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_34_0.jpg",
             "images/slika_34_1.jpg",
             "images/slika_34_2.jpg",
@@ -1134,7 +1134,7 @@
                 "Koeficijent": "0,8"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_35_0.jpg",
             "images/slika_35_1.jpg",
             "images/slika_35_2.jpg",
@@ -1212,7 +1212,7 @@
                 "Koeficijent": "0,8"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_36_0.jpg",
             "images/slika_36_1.jpg",
             "images/slika_36_2.jpg",
@@ -1290,7 +1290,7 @@
                 "Koeficijent": "0,8"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_37_0.jpg",
             "images/slika_37_1.jpg",
             "images/slika_37_2.jpg",
@@ -1368,7 +1368,7 @@
                 "Koeficijent": "0,8"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_38_0.jpg",
             "images/slika_38_1.jpg",
             "images/slika_38_2.jpg",
@@ -1405,7 +1405,7 @@
             "Blade height": "125 mm",
             "Blade thickness": "10 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_39_0.jpg",
             "images/slika_39_1.jpg",
             "images/slika_39_2.jpg",
@@ -1433,7 +1433,7 @@
             "Blade height": "125 mm",
             "Blade thickness": "10 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_40_0.jpg",
             "images/slika_40_1.jpg",
             "images/slika_40_2.jpg",
@@ -1461,7 +1461,7 @@
             "Blade height": "125 mm",
             "Blade thickness": "10 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_41_0.jpg",
             "images/slika_41_1.jpg",
             "images/slika_41_2.jpg",
@@ -1489,7 +1489,7 @@
             "Blade height": "125 mm",
             "Blade thickness": "10 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_42_0.jpg",
             "images/slika_42_1.jpg",
             "images/slika_42_2.jpg",
@@ -1516,7 +1516,7 @@
             "visina noža": "360 mm",
             "Oštrica": "150*10 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_43_0.jpg",
             "images/slika_43_1.jpg",
             "images/slika_43_2.jpg",
@@ -1543,7 +1543,7 @@
             "visina noža": "550 mm",
             "Oštrica": "150*15 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_44_0.jpg",
             "images/slika_44_1.jpg",
             "images/slika_44_2.jpg",
@@ -1571,7 +1571,7 @@
             "visina noža": "550 mm",
             "Oštrica": "150*15 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_45_0.jpg",
             "images/slika_45_1.jpg",
             "images/slika_45_2.jpg",
@@ -1599,7 +1599,7 @@
             "visina noža": "530 mm",
             "Oštrica": "150*15 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_46_0.jpg",
             "images/slika_46_1.jpg",
             "images/slika_46_2.jpg",
@@ -1628,7 +1628,7 @@
             "visina noža": "530 mm",
             "Oštrica": "150*15 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_47_0.jpg",
             "images/slika_47_1.jpg",
             "images/slika_47_2.jpg",
@@ -1654,7 +1654,7 @@
             "visina noža": "450 mm",
             "Oštrica": "150*15 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_48_0.jpg",
             "images/slika_48_1.jpg",
             "images/slika_48_2.jpg",
@@ -1675,7 +1675,7 @@
         "specifikacije": {
             "Težina": "8 kg"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_49_0.jpg",
             "images/slika_49_1.jpg",
             "images/slika_49_2.jpg",
@@ -1696,7 +1696,7 @@
             "Imperator": "220*15 mm",
             "Kaiševi": "6 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_50_0.jpg",
             "images/slika_50_1.jpg",
             "images/slika_50_2.jpg",
@@ -1730,7 +1730,7 @@
             "Imperator": "220*15 mm",
             "Kaiševi": "6 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_51_0.jpg",
             "images/slika_51_1.jpg",
             "images/slika_51_2.jpg",
@@ -1764,7 +1764,7 @@
             "Imperator": "220*15 mm",
             "Kaiševi": "6 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_52_0.jpg",
             "images/slika_52_1.jpg",
             "images/slika_52_2.jpg",
@@ -1798,7 +1798,7 @@
             "Radno kolo": "273*20 mm",
             "Kaiševi": "5+5 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_53_0.jpg",
             "images/slika_53_1.jpg",
             "images/slika_53_2.jpg",
@@ -1834,7 +1834,7 @@
             "Radno kolo": "219*20 mm",
             "Kaiševi": "7 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_54_0.jpg",
             "images/slika_54_1.jpg",
             "images/slika_54_2.jpg",
@@ -1866,7 +1866,7 @@
             "Radno kolo": "219*20 mm",
             "Kaiševi": "7 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_55_0.jpg",
             "images/slika_55_1.jpg",
             "images/slika_55_2.jpg",
@@ -1896,7 +1896,7 @@
             "Radni domet": "50 m",
             "Brzina vuče": "0,9 m/s"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_56_0.jpg",
             "images/slika_56_1.jpg",
             "images/slika_56_2.jpg",
@@ -1919,7 +1919,7 @@
             "Rekuired hidraulic flov": "10 L/min",
             "Pomeranje": "|| 1200/1650 mm →"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Desni hidraulični zatezač vodova sa povratnom oprugom podesivom osetljivošću. CHIMERA MESINEZA60-R - TRAKTORSKE GUME ZA POLjOPRIVREDNU MAŠINU",
@@ -1932,7 +1932,7 @@
             "Rekuired hidraulic flov": "30-50 L/min",
             "Pomeraj": "|| 1750/2200 mm →"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "1,5m V-tip traktorska tanjirača VD150 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
@@ -1946,7 +1946,7 @@
             "Vorking vidth": "1500 mm",
             "Disc diameter": "460 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_59_0.jpg",
             "images/slika_59_1.jpg",
             "images/slika_59_2.jpg",
@@ -1968,7 +1968,7 @@
             "Vorking vidth": "1300 mm",
             "Disc diameter": "460 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_60_0.jpg",
             "images/slika_60_1.jpg",
             "images/slika_60_2.jpg",
@@ -1990,7 +1990,7 @@
             "Vorking vidth": "1700 mm",
             "Disc diameter": "460 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_61_0.jpg",
             "images/slika_61_1.jpg",
             "images/slika_61_2.jpg",
@@ -2012,7 +2012,7 @@
             "Vorking vidth": "2000 mm",
             "Disc diameter": "460 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_62_0.jpg",
             "images/slika_62_1.jpg",
             "images/slika_62_2.jpg",
@@ -2034,7 +2034,7 @@
             "Vorking vidth": "1600 mm",
             "Disc diameter": "460 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_63_0.jpg",
             "images/slika_63_1.jpg",
             "images/slika_63_2.jpg",
@@ -2060,7 +2060,7 @@
             "Vorking vidth": "1800 mm",
             "Disc diameter": "510 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_64_0.jpg",
             "images/slika_64_1.jpg",
             "images/slika_64_2.jpg",
@@ -2084,7 +2084,7 @@
             "Vorking vidth": "2000 mm",
             "Disc diameter": "510 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_65_0.jpg",
             "images/slika_65_1.jpg",
             "images/slika_65_2.jpg",
@@ -2108,7 +2108,7 @@
             "visina noža": "525 mm",
             "Guma": {}
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_66_0.jpg",
             "images/slika_66_1.jpg",
             "images/slika_66_2.jpg",
@@ -2135,7 +2135,7 @@
             "visina noža": "525 mm",
             "Guma": {}
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_67_0.jpg",
             "images/slika_67_1.jpg",
             "images/slika_67_2.jpg",
@@ -2162,7 +2162,7 @@
             "visina noža": "700 mm",
             "Guma": "16 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_68_0.jpg",
             "images/slika_68_1.jpg",
             "images/slika_68_2.jpg",
@@ -2188,7 +2188,7 @@
             "visina noža": "700 mm",
             "Guma": "16 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_69_0.jpg",
             "images/slika_69_1.jpg",
             "images/slika_69_2.jpg",
@@ -2214,7 +2214,7 @@
             "visina noža": "700 mm",
             "Guma": "16 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_70_0.jpg",
             "images/slika_70_1.jpg",
             "images/slika_70_2.jpg",
@@ -2240,7 +2240,7 @@
             "visina noža": "700 mm",
             "Guma (debljina)": "16 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_71_0.jpg",
             "images/slika_71_1.jpg",
             "images/slika_71_2.jpg",
@@ -2267,7 +2267,7 @@
             "visina noža": "920 mm",
             "Oštrica": "265*50 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_72_0.jpg",
             "images/slika_72_1.jpg",
             "images/slika_72_2.jpg",
@@ -2296,7 +2296,7 @@
             "visina noža": "920 mm",
             "Oštrica": "265*50 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_73_0.jpg",
             "images/slika_73_1.jpg",
             "images/slika_73_2.jpg",
@@ -2324,7 +2324,7 @@
             "visina noža": "525 mm",
             "Guma": {}
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_74_0.jpg",
             "images/slika_74_1.jpg",
             "images/slika_74_2.jpg",
@@ -2349,7 +2349,7 @@
             "Visina": "–",
             "Vorking Vidth": "1460 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_75_0.jpg",
             "images/slika_75_1.jpg",
             "images/slika_75_2.jpg",
@@ -2361,7 +2361,7 @@
         "specifikacije": {
             "Proleće": "20 k 20 mm"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "K150E Električna samohodna građevinsko-baštenska kolica 150Kg, snaga motora 24V DC, baterija 500V, kapacitet baterije 288Vh - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORE",
@@ -2374,7 +2374,7 @@
             "Vorking Speed": "7 km/h",
             "Nosivost": "150 kg"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Električni paletni viličar 1.5T | električni lift Duplek 3200mm | sa platformom za vožnju - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
@@ -2390,7 +2390,7 @@
             "Kapacitet podizanja na maksimalnoj visini": "1350 kg",
             "Fork length": "1150 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_78_0.jpg",
             "images/slika_78_1.jpg",
             "images/slika_78_2.jpg",
@@ -2418,7 +2418,7 @@
             "Kapacitet podizanja": "1200 kg",
             "Fork length": "1150 mm"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Električni paletar 1,5T| DUPLEKS 3000mm| električni pogon 4,2 km/h| pešačka mašina VFE15 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
@@ -2433,7 +2433,7 @@
             "Kapacitet podizanja": "1500 kg",
             "Fork length": "1150 mm"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Električni paletar 2.0T| električni lift 200mm| električni pogon 4.5 km/h| pešačka mašina VFE20 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
@@ -2448,7 +2448,7 @@
             "Kapacitet podizanja": "2000 kg",
             "Fork length": "1150 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_81_0.jpg",
             "images/slika_81_1.jpg",
             "images/slika_81_2.jpg",
@@ -2484,7 +2484,7 @@
             "Vorking Depth": "400 mm",
             "Stems": "11 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_82_0.jpg",
             "images/slika_82_1.jpg",
             "images/slika_82_2.jpg",
@@ -2509,7 +2509,7 @@
             "Vorking Depth": "350 mm",
             "Stems": "11 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_83_0.jpg",
             "images/slika_83_1.jpg",
             "images/slika_83_2.jpg",
@@ -2535,7 +2535,7 @@
             "Vorking Depth": "400 mm",
             "Stems": "13 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_84_0.jpg",
             "images/slika_84_1.jpg",
             "images/slika_84_2.jpg",
@@ -2560,7 +2560,7 @@
             "Vorking Depth": "400 mm",
             "Stabla": "5 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_85_0.jpg",
             "images/slika_85_1.jpg",
             "images/slika_85_2.jpg",
@@ -2585,7 +2585,7 @@
             "Vorking Depth": "400 mm",
             "Stabla": "7 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_86_0.jpg",
             "images/slika_86_1.jpg",
             "images/slika_86_2.jpg",
@@ -2610,7 +2610,7 @@
             "Vorking Depth": "350 mm",
             "Stabla": "5 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_87_0.jpg",
             "images/slika_87_1.jpg",
             "images/slika_87_2.jpg",
@@ -2636,7 +2636,7 @@
             "Vorking Depth": "350 mm",
             "Stabla": "7 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_88_0.jpg",
             "images/slika_88_1.jpg",
             "images/slika_88_2.jpg",
@@ -2662,7 +2662,7 @@
             "Vorking Depth": "400 mm",
             "Stabla": "7 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_89_0.jpg",
             "images/slika_89_1.jpg",
             "images/slika_89_2.jpg",
@@ -2687,7 +2687,7 @@
             "Vorking Depth": "400 mm",
             "Stabla": "9 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_90_0.jpg",
             "images/slika_90_1.jpg",
             "images/slika_90_2.jpg",
@@ -2712,7 +2712,7 @@
             "Vorking Depth": "350 mm",
             "Stabla": "9 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_91_0.jpg",
             "images/slika_91_1.jpg",
             "images/slika_91_2.jpg",
@@ -2738,7 +2738,7 @@
             "Vorking Depth": "350 mm",
             "Stabla": "7 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_92_0.jpg",
             "images/slika_92_1.jpg",
             "images/slika_92_2.jpg",
@@ -2767,7 +2767,7 @@
             "Radno kolo": "203*10 mm",
             "Kaiševi": "5 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_93_0.jpg",
             "images/slika_93_1.jpg",
             "images/slika_93_2.jpg",
@@ -2794,7 +2794,7 @@
             "Radno kolo": "203*10 mm",
             "Kaiševi": "5 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_94_0.jpg",
             "images/slika_94_1.jpg",
             "images/slika_94_2.jpg",
@@ -2821,7 +2821,7 @@
             "Radno kolo": "203*10 mm",
             "Kaiševi": "5 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_95_0.jpg",
             "images/slika_95_1.jpg",
             "images/slika_95_2.jpg",
@@ -2849,7 +2849,7 @@
             "Rear cilinder diameter": "Ø 152*6",
             "Kaiševi": "5"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_96_0.jpg",
             "images/slika_96_1.jpg",
             "images/slika_96_2.jpg"
@@ -2871,7 +2871,7 @@
             "Rear cilinder diameter": "Ø 152*6",
             "Kaiševi": "5"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_97_0.jpg",
             "images/slika_97_1.jpg",
             "images/slika_97_2.jpg"
@@ -2893,7 +2893,7 @@
             "Rear cilinder diameter": "Ø 152*6",
             "Kaiševi": "5"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_98_0.jpg",
             "images/slika_98_1.jpg",
             "images/slika_98_2.jpg"
@@ -2915,7 +2915,7 @@
             "Rear cilinder diameter": "Ø 152*6",
             "Kaiševi": "5"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_99_0.jpg",
             "images/slika_99_1.jpg",
             "images/slika_99_2.jpg"
@@ -2937,7 +2937,7 @@
             "Rear cilinder diameter": "Ø 152*6",
             "Kaiševi": "5"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_100_0.jpg",
             "images/slika_100_1.jpg",
             "images/slika_100_2.jpg"
@@ -2959,7 +2959,7 @@
             "Rear cilinder diameter": "Ø 152*6",
             "Kaiševi": "5"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_101_0.jpg",
             "images/slika_101_1.jpg",
             "images/slika_101_2.jpg",
@@ -2993,7 +2993,7 @@
             "Radno kolo": "127*8 mm",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_102_0.jpg",
             "images/slika_102_1.jpg",
             "images/slika_102_2.jpg",
@@ -3028,7 +3028,7 @@
             "Rear cilinder diameter": "Ø 152*6",
             "Kaiševi": "5"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_103_0.jpg",
             "images/slika_103_1.jpg",
             "images/slika_103_2.jpg",
@@ -3063,7 +3063,7 @@
             "Rear cilinder diameter": "Ø 152*6",
             "Kaiševi": "5"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_104_0.jpg",
             "images/slika_104_1.jpg",
             "images/slika_104_2.jpg",
@@ -3098,7 +3098,7 @@
             "Rear cilinder diameter": "Ø 152*6",
             "Kaiševi": "5"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_105_0.jpg",
             "images/slika_105_1.jpg",
             "images/slika_105_2.jpg",
@@ -3132,7 +3132,7 @@
             "Imperator": "170*10 mm",
             "Kaiševi": "5 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_106_0.jpg",
             "images/slika_106_1.jpg",
             "images/slika_106_2.jpg",
@@ -3166,7 +3166,7 @@
             "Imperator": "170*10 mm",
             "Kaiševi": "5 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_107_0.jpg",
             "images/slika_107_1.jpg",
             "images/slika_107_2.jpg",
@@ -3200,7 +3200,7 @@
             "Radno kolo": "76*10 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_108_0.jpg",
             "images/slika_108_1.jpg",
             "images/slika_108_2.jpg",
@@ -3233,7 +3233,7 @@
             "Radno kolo": "76*10 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_109_0.jpg",
             "images/slika_109_1.jpg",
             "images/slika_109_2.jpg",
@@ -3266,7 +3266,7 @@
             "Radno kolo": "76*10 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_110_0.jpg",
             "images/slika_110_1.jpg",
             "images/slika_110_2.jpg",
@@ -3299,7 +3299,7 @@
             "Radno kolo": "76*10 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_111_0.jpg",
             "images/slika_111_1.jpg",
             "images/slika_111_2.jpg",
@@ -3332,7 +3332,7 @@
             "Radno kolo": "76*10 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_112_0.jpg",
             "images/slika_112_1.jpg",
             "images/slika_112_2.jpg",
@@ -3365,7 +3365,7 @@
             "Radno kolo": "76*10 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_113_0.jpg",
             "images/slika_113_1.jpg",
             "images/slika_113_2.jpg",
@@ -3399,7 +3399,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_114_0.jpg",
             "images/slika_114_1.jpg",
             "images/slika_114_2.jpg",
@@ -3429,7 +3429,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_115_0.jpg",
             "images/slika_115_1.jpg",
             "images/slika_115_2.jpg",
@@ -3459,7 +3459,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_116_0.jpg",
             "images/slika_116_1.jpg",
             "images/slika_116_2.jpg",
@@ -3488,7 +3488,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_117_0.jpg",
             "images/slika_117_1.jpg",
             "images/slika_117_2.jpg",
@@ -3522,7 +3522,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_118_0.jpg",
             "images/slika_118_1.jpg",
             "images/slika_118_2.jpg",
@@ -3556,7 +3556,7 @@
             "Radno kolo": "127*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_119_0.jpg",
             "images/slika_119_1.jpg",
             "images/slika_119_2.jpg",
@@ -3585,7 +3585,7 @@
             "Radno kolo": "127*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_120_0.jpg",
             "images/slika_120_1.jpg",
             "images/slika_120_2.jpg",
@@ -3614,7 +3614,7 @@
             "Radno kolo": "108*12 mm",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_121_0.jpg",
             "images/slika_121_1.jpg",
             "images/slika_121_2.jpg",
@@ -3647,7 +3647,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_122_0.jpg",
             "images/slika_122_1.jpg",
             "images/slika_122_2.jpg",
@@ -3680,7 +3680,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_123_0.jpg",
             "images/slika_123_1.jpg",
             "images/slika_123_2.jpg",
@@ -3711,7 +3711,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_124_0.jpg",
             "images/slika_124_1.jpg",
             "images/slika_124_2.jpg",
@@ -3744,7 +3744,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_125_0.jpg",
             "images/slika_125_1.jpg",
             "images/slika_125_2.jpg",
@@ -3777,7 +3777,7 @@
             "Radno kolo": "108*12 mm",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_126_0.jpg",
             "images/slika_126_1.jpg",
             "images/slika_126_2.jpg",
@@ -3810,7 +3810,7 @@
             "Radno kolo": "108*12 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_127_0.jpg",
             "images/slika_127_1.jpg",
             "images/slika_127_2.jpg",
@@ -3839,7 +3839,7 @@
             "Vorking vidth": "560 mm",
             "Noževi": "8"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_128_0.jpg",
             "images/slika_128_1.jpg",
             "images/slika_128_2.jpg",
@@ -3868,7 +3868,7 @@
             "Vorking vidth": "610 mm",
             "Noževi": "34"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_129_0.jpg",
             "images/slika_129_1.jpg",
             "images/slika_129_2.jpg",
@@ -3893,7 +3893,7 @@
             "Vorking vidth": "610 mm",
             "Noževi": "16"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_130_0.jpg",
             "images/slika_130_1.jpg",
             "images/slika_130_2.jpg",
@@ -3923,7 +3923,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_131_0.jpg",
             "images/slika_131_1.jpg",
             "images/slika_131_2.jpg",
@@ -3952,7 +3952,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_132_0.jpg",
             "images/slika_132_1.jpg",
             "images/slika_132_2.jpg",
@@ -3981,7 +3981,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_133_0.jpg",
             "images/slika_133_1.jpg",
             "images/slika_133_2.jpg",
@@ -4010,7 +4010,7 @@
             "Radno kolo": "108*12 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_134_0.jpg",
             "images/slika_134_1.jpg",
             "images/slika_134_2.jpg",
@@ -4039,7 +4039,7 @@
             "Radno kolo": "108*12 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_135_0.jpg",
             "images/slika_135_1.jpg",
             "images/slika_135_2.jpg",
@@ -4068,7 +4068,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_136_0.jpg",
             "images/slika_136_1.jpg",
             "images/slika_136_2.jpg",
@@ -4097,7 +4097,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_137_0.jpg",
             "images/slika_137_1.jpg",
             "images/slika_137_2.jpg",
@@ -4131,7 +4131,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_138_0.jpg",
             "images/slika_138_1.jpg",
             "images/slika_138_2.jpg",
@@ -4165,7 +4165,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_139_0.jpg",
             "images/slika_139_1.jpg",
             "images/slika_139_2.jpg",
@@ -4187,7 +4187,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_140_0.jpg",
             "images/slika_140_1.jpg",
             "images/slika_140_2.jpg",
@@ -4219,7 +4219,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_141_0.jpg",
             "images/slika_141_1.jpg",
             "images/slika_141_2.jpg",
@@ -4253,7 +4253,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_142_0.jpg",
             "images/slika_142_1.jpg",
             "images/slika_142_2.jpg",
@@ -4284,7 +4284,7 @@
             "Radno kolo": "108*12 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_143_0.jpg",
             "images/slika_143_1.jpg",
             "images/slika_143_2.jpg",
@@ -4315,7 +4315,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "3"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_144_0.jpg",
             "images/slika_144_1.jpg",
             "images/slika_144_2.jpg",
@@ -4353,7 +4353,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "3"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_145_0.jpg",
             "images/slika_145_1.jpg",
             "images/slika_145_2.jpg",
@@ -4388,7 +4388,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "3"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_146_0.jpg",
             "images/slika_146_1.jpg",
             "images/slika_146_2.jpg",
@@ -4426,7 +4426,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "3"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_147_0.jpg",
             "images/slika_147_1.jpg",
             "images/slika_147_2.jpg",
@@ -4465,7 +4465,7 @@
             "Radno kolo": "127*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_148_0.jpg",
             "images/slika_148_1.jpg",
             "images/slika_148_2.jpg",
@@ -4492,7 +4492,7 @@
             "Radno kolo": "127*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_149_0.jpg",
             "images/slika_149_1.jpg",
             "images/slika_149_2.jpg",
@@ -4519,7 +4519,7 @@
             "Radno kolo": "127*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_150_0.jpg",
             "images/slika_150_1.jpg",
             "images/slika_150_2.jpg",
@@ -4546,7 +4546,7 @@
             "Radno kolo": "90*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_151_0.jpg",
             "images/slika_151_1.jpg",
             "images/slika_151_2.jpg",
@@ -4574,7 +4574,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_152_0.jpg",
             "images/slika_152_1.jpg",
             "images/slika_152_2.jpg",
@@ -4610,7 +4610,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_153_0.jpg",
             "images/slika_153_1.jpg",
             "images/slika_153_2.jpg",
@@ -4646,7 +4646,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_154_0.jpg",
             "images/slika_154_1.jpg",
             "images/slika_154_2.jpg",
@@ -4682,7 +4682,7 @@
             "Kaiševi": "3",
             "Kapacitet": "0,41 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_155_0.jpg",
             "images/slika_155_1.jpg",
             "images/slika_155_2.jpg",
@@ -4723,7 +4723,7 @@
             "Kaiševi": "3 kom.",
             "Kapacitet": "0,55 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_156_0.jpg",
             "images/slika_156_1.jpg",
             "images/slika_156_2.jpg",
@@ -4764,7 +4764,7 @@
             "Kaiševi": "3 kom.",
             "Kapacitet": "0,70 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_157_0.jpg",
             "images/slika_157_1.jpg",
             "images/slika_157_2.jpg",
@@ -4803,7 +4803,7 @@
             "Radno kolo": "168*10 mm",
             "Kaiševi": "5 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_158_0.jpg",
             "images/slika_158_1.jpg",
             "images/slika_158_2.jpg",
@@ -4846,7 +4846,7 @@
             "Radno kolo": "168*10 mm",
             "Kaiševi": "5 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_159_0.jpg",
             "images/slika_159_1.jpg",
             "images/slika_159_2.jpg",
@@ -4889,7 +4889,7 @@
             "Radno kolo": "168*10 mm",
             "Kaiševi": "5 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_160_0.jpg",
             "images/slika_160_1.jpg",
             "images/slika_160_2.jpg",
@@ -4931,7 +4931,7 @@
             "Radno kolo": "168*10 mm",
             "Kaiševi": "5 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_161_0.jpg",
             "images/slika_161_1.jpg",
             "images/slika_161_2.jpg",
@@ -4978,7 +4978,7 @@
             "Hidraulic oil line": "32MPa",
             "Guma": "600-9"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_162_0.jpg",
             "images/slika_162_1.jpg",
             "images/slika_162_2.jpg",
@@ -5001,7 +5001,7 @@
         "specifikacije": {
             "Težina": "6 kg"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_163_0.jpg",
             "images/slika_163_1.jpg"
         ]
@@ -5019,7 +5019,7 @@
             "Kapacitet podizanja": "1500 kg",
             "Fork length": "1150 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_164_0.jpg",
             "images/slika_164_1.jpg",
             "images/slika_164_2.jpg",
@@ -5057,7 +5057,7 @@
             "Fork length": "1220 mm",
             "Veb-sajt": "dupleks lift 3000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_165_0.jpg",
             "images/slika_165_1.jpg",
             "images/slika_165_2.jpg",
@@ -5085,7 +5085,7 @@
             "Fork length": "1220 mm",
             "Veb-sajt": "dupleks lift 3000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_166_0.jpg",
             "images/slika_166_1.jpg",
             "images/slika_166_2.jpg",
@@ -5125,7 +5125,7 @@
             "Fork length": "1220 mm",
             "Veb-sajt": "dupleks lift 3000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_167_0.jpg",
             "images/slika_167_1.jpg",
             "images/slika_167_2.jpg",
@@ -5153,7 +5153,7 @@
             "Fork length": "1220 mm",
             "Veb-sajt": "triplek 4500 free-lift"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_168_0.jpg",
             "images/slika_168_1.jpg",
             "images/slika_168_2.jpg",
@@ -5181,7 +5181,7 @@
             "Fork length": "1220 mm",
             "Veb-sajt": "triplek lift 4500 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_169_0.jpg",
             "images/slika_169_1.jpg",
             "images/slika_169_2.jpg",
@@ -5209,7 +5209,7 @@
             "Fork length": "1220 mm",
             "Veb-sajt": "dupleks lift 3000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_170_0.jpg",
             "images/slika_170_1.jpg",
             "images/slika_170_2.jpg",
@@ -5237,7 +5237,7 @@
             "Fork length": "1220 mm",
             "Veb-sajt": "dupleks lift 3000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_171_0.jpg",
             "images/slika_171_1.jpg",
             "images/slika_171_2.jpg",
@@ -5274,7 +5274,7 @@
             "Fork length": "1220 mm",
             "Veb-sajt": "dupleks lift 3000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_172_0.jpg",
             "images/slika_172_1.jpg",
             "images/slika_172_2.jpg",
@@ -5311,7 +5311,7 @@
             "Fork length": "1220 mm",
             "Veb-sajt": "triplek lift 4500 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_173_0.jpg",
             "images/slika_173_1.jpg",
             "images/slika_173_2.jpg",
@@ -5345,7 +5345,7 @@
             "Fork length": "1220 mm",
             "Veb-sajt": "triplek lift 4500 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_174_0.jpg",
             "images/slika_174_1.jpg",
             "images/slika_174_2.jpg",
@@ -5379,7 +5379,7 @@
             "Fork length": "1220 mm",
             "Veb-sajt": "dupleks lift 3000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_175_0.jpg",
             "images/slika_175_1.jpg",
             "images/slika_175_2.jpg",
@@ -5412,7 +5412,7 @@
             "Fork length": "1220 mm",
             "Veb-sajt": "triplek lift 4500 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_176_0.jpg",
             "images/slika_176_1.jpg",
             "images/slika_176_2.jpg",
@@ -5446,7 +5446,7 @@
             "Fork length": "1220 mm",
             "Veb-sajt": "dupleks lift 3000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_177_0.jpg",
             "images/slika_177_1.jpg",
             "images/slika_177_2.jpg",
@@ -5479,7 +5479,7 @@
             "Fork length": "1220 mm",
             "Veb-sajt": "triplek lift 4500 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_178_0.jpg",
             "images/slika_178_1.jpg",
             "images/slika_178_2.jpg",
@@ -5513,7 +5513,7 @@
             "Fork length": "1220 mm",
             "Veb-sajt": "dupleks lift 3000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_179_0.jpg",
             "images/slika_179_1.jpg",
             "images/slika_179_2.jpg",
@@ -5542,7 +5542,7 @@
             "Visina": "900 mm",
             "Vorking vidth": "1300 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_180_0.jpg",
             "images/slika_180_1.jpg",
             "images/slika_180_2.jpg",
@@ -5574,7 +5574,7 @@
             "Visina": "900 mm",
             "Vorking vidth": "1700 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_181_0.jpg",
             "images/slika_181_1.jpg",
             "images/slika_181_2.jpg",
@@ -5606,7 +5606,7 @@
             "Visina": "900 mm",
             "Vorking vidth": "2100 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_182_0.jpg",
             "images/slika_182_1.jpg",
             "images/slika_182_2.jpg",
@@ -5648,7 +5648,7 @@
             "Potrošnja goriva": "1 L/h",
             "Starting method": "Električni starter"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_183_0.jpg",
             "images/slika_183_1.jpg",
             "images/slika_183_2.jpg",
@@ -5683,7 +5683,7 @@
             "Potrošnja goriva": "0,8 L/h",
             "Start mode": "Dodir"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_184_0.jpg",
             "images/slika_184_1.jpg",
             "images/slika_184_2.jpg",
@@ -5720,7 +5720,7 @@
             "Potrošnja goriva": "0,8 L/h",
             "Start mode": "rukovanje"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_185_0.jpg",
             "images/slika_185_1.jpg",
             "images/slika_185_2.jpg",
@@ -5758,7 +5758,7 @@
             "Starting method": "Električni starter",
             "Vučna brzina": "80km/h"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_186_0.jpg",
             "images/slika_186_1.jpg",
             "images/slika_186_2.jpg",
@@ -5792,7 +5792,7 @@
             "Vučna brzina": "80km/h",
             "Tire size": "Guma bez zračnice 21 k 7,00-10"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_187_0.jpg",
             "images/slika_187_1.jpg",
             "images/slika_187_2.jpg",
@@ -5835,7 +5835,7 @@
             "Start mode": "Dodir",
             "Vučna brzina": "80km/h"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_188_0.jpg",
             "images/slika_188_1.jpg",
             "images/slika_188_2.jpg",
@@ -5872,7 +5872,7 @@
             "Starting method": "Električni starter",
             "Vučna brzina": "80km/h"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_189_0.jpg",
             "images/slika_189_1.jpg",
             "images/slika_189_2.jpg",
@@ -5905,7 +5905,7 @@
             "Noževi": "4 + 1 kom.",
             "Veličina čipa": "5 – 15 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_190_0.jpg",
             "images/slika_190_1.jpg",
             "images/slika_190_2.jpg",
@@ -5941,7 +5941,7 @@
             "Noževi": "4 + 1 kom.",
             "Chip size": "– mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_191_0.jpg",
             "images/slika_191_1.jpg",
             "images/slika_191_2.jpg",
@@ -5980,7 +5980,7 @@
             "Noževi": "4 + 1 kom.",
             "Veličina čipa": "5 – 15 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_192_0.jpg",
             "images/slika_192_1.jpg",
             "images/slika_192_2.jpg",
@@ -6016,7 +6016,7 @@
             "Noževi": "2 + 8 kom.",
             "Veličina čipa": "5 – 10 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_193_0.jpg",
             "images/slika_193_1.jpg",
             "images/slika_193_2.jpg",
@@ -6059,7 +6059,7 @@
             "Noževi": "4 + 1 kom.",
             "Veličina čipa": "5 – 15 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_194_0.jpg",
             "images/slika_194_1.jpg",
             "images/slika_194_2.jpg",
@@ -6090,7 +6090,7 @@
             "Noževi": "4 + 1 kom.",
             "Veličina čipa": "5 – 10 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_195_0.jpg",
             "images/slika_195_1.jpg",
             "images/slika_195_2.jpg",
@@ -6116,7 +6116,7 @@
             "Mast height": "1600 mm",
             "Cilindri": "1"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "2-stepeni traktorski kran sa dizanjem tegova 800kg i visinom 220cm, hidrauličnim bočnim pomakom, hidrauličnim podešavanjem i kontrolom strele. - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
@@ -6130,7 +6130,7 @@
             "Mast height": "1800 mm",
             "Cilindri": "1"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "2-stepeni traktorski kran sa 800kg dizanja tegova i visinom 250cm, hidrauličnim bočnim pomeranjem, hidrauličnim podešavanjem i kontrolom strele. - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
@@ -6144,7 +6144,7 @@
             "Mast height": "1950 mm",
             "Cilindri": "1"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "3-stepeni traktorski kran sa 1500kg dizanja tegova i visinom 250cm, hidrauličnim bočnim pomeranjem, hidrauličnim podešavanjem i kontrolom grane. - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
@@ -6158,7 +6158,7 @@
             "Mast height": "1470 mm",
             "Cilindri": "2"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_199_0.jpg",
             "images/slika_199_1.jpg",
             "images/slika_199_2.jpg",
@@ -6177,7 +6177,7 @@
             "Mast height": "1710 mm",
             "Cilindri": "2"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_200_0.jpg",
             "images/slika_200_1.jpg",
             "images/slika_200_2.jpg",
@@ -6196,7 +6196,7 @@
             "Mast height": "1470 mm",
             "Cilindri": "2"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_201_0.jpg",
             "images/slika_201_1.jpg",
             "images/slika_201_2.jpg",
@@ -6215,7 +6215,7 @@
             "Mast height": "1710 mm",
             "Cilindri": "2"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_202_0.jpg",
             "images/slika_202_1.jpg",
             "images/slika_202_2.jpg",
@@ -6229,7 +6229,7 @@
             "Dužina": "750 mm",
             "Visina": "750 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_203_0.jpg",
             "images/slika_203_1.jpg",
             "images/slika_203_2.jpg"
@@ -6242,7 +6242,7 @@
             "Dužina": "750 mm",
             "Visina": "750 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_204_0.jpg",
             "images/slika_204_1.jpg"
         ]
@@ -6261,7 +6261,7 @@
             "Visina (unutrašnjost)": "450 mm",
             "Kapacitet": "0,50 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_205_0.jpg",
             "images/slika_205_1.jpg",
             "images/slika_205_2.jpg",
@@ -6291,7 +6291,7 @@
             "Visina (unutrašnja)": "520 mm",
             "Kapacitet": "0,62 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_206_0.jpg",
             "images/slika_206_1.jpg",
             "images/slika_206_2.jpg",
@@ -6317,7 +6317,7 @@
             "Visina (unutrašnja)": "520 mm",
             "Kapacitet": "0,56 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_207_0.jpg",
             "images/slika_207_1.jpg",
             "images/slika_207_2.jpg",
@@ -6344,7 +6344,7 @@
             "Visina (unutrašnja)": "380 mm",
             "Kapacitet": "0,20 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_208_0.jpg",
             "images/slika_208_1.jpg",
             "images/slika_208_2.jpg",
@@ -6375,7 +6375,7 @@
             "Visina (unutrašnja prednja strana)": "260 mm",
             "Kapacitet": "0,34 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_209_0.jpg",
             "images/slika_209_1.jpg",
             "images/slika_209_2.jpg",
@@ -6407,7 +6407,7 @@
             "Visina (unutrašnja prednja strana)": "260 mm",
             "Kapacitet": "0,40 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_210_0.jpg",
             "images/slika_210_1.jpg",
             "images/slika_210_2.jpg",
@@ -6443,7 +6443,7 @@
             "Visina (unutrašnja prednja strana)": "260 mm",
             "Kapacitet": "0,46 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_211_0.jpg",
             "images/slika_211_1.jpg",
             "images/slika_211_2.jpg",
@@ -6478,7 +6478,7 @@
             "Visina (unutrašnja)": "380 mm",
             "Kapacitet": "0,29 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_212_0.jpg",
             "images/slika_212_1.jpg",
             "images/slika_212_2.jpg",
@@ -6506,7 +6506,7 @@
             "Visina (unutrašnjost)": "450 mm",
             "Kapacitet": "0,50 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_213_0.jpg",
             "images/slika_213_1.jpg",
             "images/slika_213_2.jpg",
@@ -6533,7 +6533,7 @@
             "Visina (unutrašnja)": "440 mm",
             "Kapacitet": "0,41 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_214_0.jpg",
             "images/slika_214_1.jpg",
             "images/slika_214_2.jpg",
@@ -6570,7 +6570,7 @@
             "Visina (unutrašnjost)": "460 mm",
             "Kapacitet": "0,62 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_215_0.jpg",
             "images/slika_215_1.jpg",
             "images/slika_215_2.jpg",
@@ -6607,7 +6607,7 @@
             "Visina (unutrašnjost)": "460 mm",
             "Kapacitet": "0,70 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_216_0.jpg",
             "images/slika_216_1.jpg",
             "images/slika_216_2.jpg",
@@ -6644,7 +6644,7 @@
             "Visina (unutrašnjost)": "460 mm",
             "Kapacitet": "0,79 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_217_0.jpg",
             "images/slika_217_1.jpg",
             "images/slika_217_2.jpg",
@@ -6673,7 +6673,7 @@
             "Težina": "70 kg",
             "Vorking Vidth": "1400 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_218_0.jpg",
             "images/slika_218_1.jpg",
             "images/slika_218_2.jpg"
@@ -6685,7 +6685,7 @@
             "Težina": "77 kg",
             "Vorking Vidth": "1600 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_219_0.jpg",
             "images/slika_219_1.jpg",
             "images/slika_219_2.jpg"
@@ -6697,7 +6697,7 @@
             "Težina": "61 kg",
             "Vorking Vidth": "1200 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_220_0.jpg",
             "images/slika_220_1.jpg",
             "images/slika_220_2.jpg"
@@ -6709,7 +6709,7 @@
             "Težina": "50 – 130 kg",
             "Vorking Vidth": "1600 mm"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Rasipač đubriva sa duplim linearnim L300 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
@@ -6723,7 +6723,7 @@
             "Distribution distance": "5 – 15 m",
             "Radna brzina": "5 – 15 km/h"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_222_0.jpg",
             "images/slika_222_1.jpg",
             "images/slika_222_2.jpg",
@@ -6744,7 +6744,7 @@
             "Distribution distance": "5 – 15 m",
             "Radna brzina": "5 – 15 km/h"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_223_0.jpg",
             "images/slika_223_1.jpg",
             "images/slika_223_2.jpg",
@@ -6765,7 +6765,7 @@
             "Distribution distance": "18 – 20 m",
             "Diskovi": "2"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_224_0.jpg",
             "images/slika_224_1.jpg",
             "images/slika_224_2.jpg",
@@ -6797,7 +6797,7 @@
             "Distribution distance": "18 – 20 m",
             "Diskovi": "2"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_225_0.jpg",
             "images/slika_225_1.jpg",
             "images/slika_225_2.jpg",
@@ -6829,7 +6829,7 @@
             "Distribution distance": "18 – 20 m",
             "Diskovi": "2"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_226_0.jpg",
             "images/slika_226_1.jpg",
             "images/slika_226_2.jpg",
@@ -6863,7 +6863,7 @@
             "Distribution distance": "18 – 20 m",
             "Diskovi": "2"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_227_0.jpg",
             "images/slika_227_1.jpg",
             "images/slika_227_2.jpg",
@@ -6897,7 +6897,7 @@
             "Distribution distance": "18 – 20 m",
             "Diskovi": "2"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_228_0.jpg",
             "images/slika_228_1.jpg",
             "images/slika_228_2.jpg",
@@ -6929,7 +6929,7 @@
             "Distribution distance": "5 – 15 m",
             "Radna brzina": "5 – 15 km/h"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_229_0.jpg",
             "images/slika_229_1.jpg",
             "images/slika_229_2.jpg",
@@ -6950,7 +6950,7 @@
             "Distribution distance": "5 – 15 m",
             "Radna brzina": "5 – 15 km/h"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_230_0.jpg",
             "images/slika_230_1.jpg",
             "images/slika_230_2.jpg",
@@ -6971,7 +6971,7 @@
             "Distribution distance": "18 – 20 m",
             "Diskovi": "1"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_231_0.jpg",
             "images/slika_231_1.jpg",
             "images/slika_231_2.jpg",
@@ -6999,7 +6999,7 @@
             "Distribution distance": "18 – 20 m",
             "Diskovi": "1"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_232_0.jpg",
             "images/slika_232_1.jpg",
             "images/slika_232_2.jpg",
@@ -7028,7 +7028,7 @@
             "Distribution distance": "5 – 15 m",
             "Radna brzina": "5 – 15 km/h"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_233_0.jpg",
             "images/slika_233_1.jpg",
             "images/slika_233_2.jpg",
@@ -7049,7 +7049,7 @@
             "Distribution distance": "18 – 20 m",
             "Diskovi": "1"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_234_0.jpg",
             "images/slika_234_1.jpg",
             "images/slika_234_2.jpg",
@@ -7077,7 +7077,7 @@
             "Distribution distance": "18 – 20 m",
             "Diskovi": "1"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_235_0.jpg",
             "images/slika_235_1.jpg",
             "images/slika_235_2.jpg",
@@ -7106,7 +7106,7 @@
             "Distribution distance": "18 – 20 m",
             "Diskovi": "1"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_236_0.jpg",
             "images/slika_236_1.jpg",
             "images/slika_236_2.jpg",
@@ -7133,7 +7133,7 @@
             "Distribution distance": "18 – 20 m",
             "Diskovi": "1"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_237_0.jpg",
             "images/slika_237_1.jpg",
             "images/slika_237_2.jpg",
@@ -7159,7 +7159,7 @@
             "Distribution distance": "18 – 20 m",
             "Diskovi": "1"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_238_0.jpg",
             "images/slika_238_1.jpg",
             "images/slika_238_2.jpg",
@@ -7184,7 +7184,7 @@
             "Distribution distance": "18 – 20 m",
             "Diskovi": "1"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_239_0.jpg",
             "images/slika_239_1.jpg",
             "images/slika_239_2.jpg",
@@ -7218,7 +7218,7 @@
             "Nosivost": "300 kg",
             "Internal dimensions (vidth/long/height)": "635(860)/910(1010)/210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_240_0.jpg",
             "images/slika_240_1.jpg",
             "images/slika_240_2.jpg",
@@ -7253,7 +7253,7 @@
             "Travel speed": "18 km/h",
             "Maksimalno podizanje (na pin)": "2550 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_241_0.jpg",
             "images/slika_241_1.jpg",
             "images/slika_241_2.jpg",
@@ -7289,7 +7289,7 @@
             "Travel speed": "18 km/h",
             "Maksimalno podizanje (na pin)": "2550 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_242_0.jpg",
             "images/slika_242_1.jpg",
             "images/slika_242_2.jpg",
@@ -7329,7 +7329,7 @@
             "Travel speed": "18 km/h",
             "Maksimalno podizanje (na pin)": "3184 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_243_0.jpg",
             "images/slika_243_1.jpg",
             "images/slika_243_2.jpg",
@@ -7366,7 +7366,7 @@
             "Travel speed": "18 km/h",
             "Maksimalno podizanje (na pin)": "3184 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_244_0.jpg",
             "images/slika_244_1.jpg",
             "images/slika_244_2.jpg",
@@ -7414,7 +7414,7 @@
             "Makimum ekcavation depth of ekcavator": "2490 mm",
             "Ugao nagiba bagera (levo/desno°)": "52/59"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_245_0.jpg",
             "images/slika_245_1.jpg",
             "images/slika_245_2.jpg",
@@ -7490,7 +7490,7 @@
                 "Težina": "54 kg"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_246_0.jpg",
             "images/slika_246_1.jpg",
             "images/slika_246_2.jpg",
@@ -7562,7 +7562,7 @@
                 "Težina": "54 kg"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_247_0.jpg",
             "images/slika_247_1.jpg",
             "images/slika_247_2.jpg",
@@ -7590,7 +7590,7 @@
             "B": "520 mm",
             "C": "600 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_248_0.jpg",
             "images/slika_248_1.jpg",
             "images/slika_248_2.jpg",
@@ -7658,7 +7658,7 @@
                 "Težina": "54 kg"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_249_0.jpg",
             "images/slika_249_1.jpg",
             "images/slika_249_2.jpg",
@@ -7714,7 +7714,7 @@
             "J": "2485",
             "K": "1550"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_250_0.jpg",
             "images/slika_250_1.jpg",
             "images/slika_250_2.jpg",
@@ -7785,7 +7785,7 @@
                 "Težina": "21 kg"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_251_0.jpg",
             "images/slika_251_1.jpg",
             "images/slika_251_2.jpg",
@@ -7859,7 +7859,7 @@
                 "Težina": "21 kg"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_252_0.jpg",
             "images/slika_252_1.jpg",
             "images/slika_252_2.jpg",
@@ -7934,7 +7934,7 @@
                 "Težina": "21 kg"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_253_0.jpg",
             "images/slika_253_1.jpg",
             "images/slika_253_2.jpg",
@@ -8004,7 +8004,7 @@
                 "Težina": "21 kg"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_254_0.jpg",
             "images/slika_254_1.jpg",
             "images/slika_254_2.jpg",
@@ -8087,7 +8087,7 @@
                 "Težina": "21 kg"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_255_0.jpg",
             "images/slika_255_1.jpg",
             "images/slika_255_2.jpg",
@@ -8163,7 +8163,7 @@
                 "Težina": "21 kg"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_256_0.jpg",
             "images/slika_256_1.jpg",
             "images/slika_256_2.jpg",
@@ -8237,7 +8237,7 @@
                 "Težina": "37 kg"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_257_0.jpg",
             "images/slika_257_1.jpg",
             "images/slika_257_2.jpg",
@@ -8306,7 +8306,7 @@
                 "Težina": "21 kg"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_258_0.jpg",
             "images/slika_258_1.jpg",
             "images/slika_258_2.jpg",
@@ -8389,7 +8389,7 @@
                 "Težina": "21 kg"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_259_0.jpg",
             "images/slika_259_1.jpg",
             "images/slika_259_2.jpg",
@@ -8460,7 +8460,7 @@
                 "Težina": "37 kg"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_260_0.jpg",
             "images/slika_260_1.jpg",
             "images/slika_260_2.jpg",
@@ -8509,7 +8509,7 @@
             "J": "2485",
             "K": "1550"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_261_0.jpg",
             "images/slika_261_1.jpg",
             "images/slika_261_2.jpg",
@@ -8542,7 +8542,7 @@
             "Nosivost": "800 kg",
             "Internal dimensions (vidth/long/height)": "815/1315/300 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_262_0.jpg",
             "images/slika_262_1.jpg",
             "images/slika_262_2.jpg",
@@ -8576,7 +8576,7 @@
             "Nosivost": "500 kg",
             "Internal dimensions (vidth/long/height)": "700/1000/450 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_263_0.jpg",
             "images/slika_263_1.jpg",
             "images/slika_263_2.jpg",
@@ -8611,7 +8611,7 @@
             "Vorking Speed": "napred 3,3 km/h / nazad 2,5 km/h",
             "Nosivost": "500 kg"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_264_0.jpg",
             "images/slika_264_1.jpg",
             "images/slika_264_2.jpg",
@@ -8635,7 +8635,7 @@
             "Vorking Speed": "napred 3,3 km/h / nazad 2,5 km/h",
             "Nosivost": "500 kg"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_265_0.jpg",
             "images/slika_265_1.jpg",
             "images/slika_265_2.jpg",
@@ -8667,7 +8667,7 @@
             "Nosivost": "500 kg",
             "Internal dimensions (vidth/long/height)": "700/980/450 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_266_0.jpg",
             "images/slika_266_1.jpg",
             "images/slika_266_2.jpg",
@@ -8700,7 +8700,7 @@
             "Nosivost": "500 kg",
             "Internal dimensions (vidth/long/height)": "700/980/450 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_267_0.jpg",
             "images/slika_267_1.jpg",
             "images/slika_267_2.jpg",
@@ -8733,7 +8733,7 @@
             "Nosivost": "500 kg",
             "Internal dimensions (vidth/long/height)": "700/980/450 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_268_0.jpg",
             "images/slika_268_1.jpg",
             "images/slika_268_2.jpg",
@@ -8765,7 +8765,7 @@
             "Nosivost": "300 kg",
             "Internal dimensions (vidth/long/height)": "570/788/457 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_269_0.jpg",
             "images/slika_269_1.jpg",
             "images/slika_269_2.jpg",
@@ -8794,7 +8794,7 @@
             "Nosivost": "500 kg",
             "Internal dimensions (vidth/long/height)": "700/1000/450 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_270_0.jpg",
             "images/slika_270_1.jpg"
         ]
@@ -8822,7 +8822,7 @@
             "Nosivost": "800 kg",
             "Bucket capaciti": "0,26m3"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_271_0.jpg",
             "images/slika_271_1.jpg",
             "images/slika_271_2.jpg",
@@ -8852,7 +8852,7 @@
             "Nosivost": "800 kg",
             "Bucket capaciti": "0,26m3"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_272_0.jpg",
             "images/slika_272_1.jpg",
             "images/slika_272_2.jpg",
@@ -8882,7 +8882,7 @@
             "Nosivost": "800 kg",
             "Bucket capaciti": "0,26m3"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_273_0.jpg",
             "images/slika_273_1.jpg",
             "images/slika_273_2.jpg",
@@ -8928,7 +8928,7 @@
             "Nosivost": "800 kg",
             "Bucket capaciti": "0,26m3"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_274_0.jpg",
             "images/slika_274_1.jpg",
             "images/slika_274_2.jpg",
@@ -8967,7 +8967,7 @@
             "Nosivost": "500 kg",
             "Internal dimensions (vidth/long/height)": "620/1050/330 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_275_0.jpg",
             "images/slika_275_1.jpg",
             "images/slika_275_2.jpg",
@@ -8993,7 +8993,7 @@
             "Makimum height": "2340 mm",
             "Kapacitet podizanja": "1300 -> 350 kg"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_276_0.jpg",
             "images/slika_276_1.jpg",
             "images/slika_276_2.jpg",
@@ -9023,7 +9023,7 @@
             "Kapacitet podizanja": "1300 -> 350 kg",
             "Radius of turn": "36° + 36°"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_277_0.jpg",
             "images/slika_277_1.jpg",
             "images/slika_277_2.jpg",
@@ -9049,7 +9049,7 @@
             "Creva": "1500,0 mm / brze spojnice G1/2, VP-400 bar",
             "Hidraulic bottle ø": "50,0 – 25,0 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_278_0.jpg",
             "images/slika_278_1.jpg"
         ]
@@ -9065,7 +9065,7 @@
             "Makimum height": "2668 mm",
             "Kapacitet podizanja": "500 – 350 – 200 kg"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_279_0.jpg",
             "images/slika_279_1.jpg",
             "images/slika_279_2.jpg",
@@ -9082,7 +9082,7 @@
         "specifikacije": {
             "Težina": "23 kg"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Kopač krompira sa podešavanjem nagiba za traktore MOE - POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
@@ -9094,7 +9094,7 @@
             "Visina": "950 mm",
             "Vorking vidth": "420 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_281_0.jpg",
             "images/slika_281_1.jpg",
             "images/slika_281_2.jpg",
@@ -9120,7 +9120,7 @@
             "Visina": "1400 mm",
             "Vorking vidth": "630 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_282_0.jpg",
             "images/slika_282_1.jpg",
             "images/slika_282_2.jpg",
@@ -9140,7 +9140,7 @@
             "Visina": "830 mm",
             "Vorking vidth": "500 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_283_0.jpg",
             "images/slika_283_1.jpg",
             "images/slika_283_2.jpg",
@@ -9169,7 +9169,7 @@
             "Kapacitet": "180 litara",
             "Rov distance": "625 / 675 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_284_0.jpg",
             "images/slika_284_1.jpg",
             "images/slika_284_2.jpg",
@@ -9194,7 +9194,7 @@
             "Visina": "1400 mm",
             "Kapacitet": "300 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_285_0.jpg",
             "images/slika_285_1.jpg",
             "images/slika_285_2.jpg",
@@ -9221,7 +9221,7 @@
             "Visina": "1400 mm",
             "Kapacitet": "90 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_286_0.jpg",
             "images/slika_286_1.jpg",
             "images/slika_286_2.jpg",
@@ -9247,7 +9247,7 @@
             "Staple gap": "120 mm",
             "Usable height of the stack": "400 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_287_0.jpg",
             "images/slika_287_1.jpg"
         ]
@@ -9265,7 +9265,7 @@
             "Staple gap": "120 mm",
             "Usable height of the stack": "400 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_288_0.jpg",
             "images/slika_288_1.jpg"
         ]
@@ -9283,7 +9283,7 @@
             "Staple gap": "120 mm",
             "Usable height of the stack": "400 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_289_0.jpg",
             "images/slika_289_1.jpg"
         ]
@@ -9301,7 +9301,7 @@
             "Staple gap": "120 mm",
             "Usable height of the stack": "400 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_290_0.jpg",
             "images/slika_290_1.jpg"
         ]
@@ -9319,7 +9319,7 @@
             "Staple gap": "120 mm",
             "Usable height of the stack": "400 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_291_0.jpg",
             "images/slika_291_1.jpg"
         ]
@@ -9331,7 +9331,7 @@
             "Fork length": "930 mm",
             "Kapacitet podizanja": "800 kg"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Vile za bale za traktore THF800 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
@@ -9346,7 +9346,7 @@
             "Fork length": "1165 mm",
             "Kapacitet podizanja": "800 kg"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Viljuške za bale za utovarivač EHB800 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
@@ -9361,7 +9361,7 @@
             "Fork length": "1165 mm",
             "Kapacitet podizanja": "800 kg"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Clark viljuške za traktore TPF1200 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
@@ -9376,7 +9376,7 @@
             "Fork length": "950 mm",
             "Kapacitet podizanja": "1200 kg"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_295_0.jpg",
             "images/slika_295_1.jpg",
             "images/slika_295_2.jpg",
@@ -9401,7 +9401,7 @@
             "Fork length": "750 mm",
             "Kapacitet podizanja": "300 kg"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_296_0.jpg",
             "images/slika_296_1.jpg",
             "images/slika_296_2.jpg",
@@ -9424,7 +9424,7 @@
             "Fork length": "950 mm",
             "Kapacitet podizanja": "700 kg"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_297_0.jpg",
             "images/slika_297_1.jpg",
             "images/slika_297_2.jpg",
@@ -9451,7 +9451,7 @@
             "Fork length": "950 mm",
             "Kapacitet podizanja": "700 kg"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_298_0.jpg",
             "images/slika_298_1.jpg",
             "images/slika_298_2.jpg",
@@ -9476,7 +9476,7 @@
             "Fork length": "950 mm",
             "Kapacitet podizanja": "700 kg"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_299_0.jpg",
             "images/slika_299_1.jpg",
             "images/slika_299_2.jpg",
@@ -9495,7 +9495,7 @@
             "Vorking Vidth": "1400 mm",
             "Grada stubova": "70 k 70 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_300_0.jpg",
             "images/slika_300_1.jpg",
             "images/slika_300_2.jpg",
@@ -9510,7 +9510,7 @@
             "Vorking Vidth": "1600 mm",
             "Grada stubova": "70 k 70 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_301_0.jpg",
             "images/slika_301_1.jpg",
             "images/slika_301_2.jpg",
@@ -9525,7 +9525,7 @@
             "Vorking Vidth": "1200 mm",
             "Grada stubova": "70 k 70 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_302_0.jpg",
             "images/slika_302_1.jpg",
             "images/slika_302_2.jpg",
@@ -9543,7 +9543,7 @@
             "Visina": "1050 mm",
             "Offset (left – right)": "← mm 900/581 || 581/900 mm →"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Višenamenska mašina sa hidraulički sklopivom rukom i mogućnošću obostranog prebacivanja CHIMERA BRATSO SH120 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
@@ -9555,7 +9555,7 @@
             "Visina": "1120 mm",
             "Shift (left or right)": "← mm 1200/732 || 732/1200 mm →"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Višenamenska mašina sa 2 hidraulične sklopive ruke CHIMERA BRATSO DH90 - TRAKTORSKE GUME ZA POLjOPRIVREDNU MAŠINU",
@@ -9567,7 +9567,7 @@
             "Visina": "1050 mm",
             "Offset (left – right)": "← mm 900/581 || 581/900 mm →"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Višenamenska mašina sa 2 hidraulične sklopive ruke i autonomnim hidrauličnim sistemom CHIMERA BRATSO HID120 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
@@ -9580,7 +9580,7 @@
             "Visina": "1120 mm",
             "Offset (left – right)": "← mm 1200/732 || 732/1200 mm →"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_306_0.jpg",
             "images/slika_306_1.jpg"
         ]
@@ -9595,7 +9595,7 @@
             "Visina": "1120 mm",
             "Offset (left – right)": "← mm 1200/732 || 732/1200 mm →"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Mala balirka za traktore ZEA PRESA 850 - POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
@@ -9609,7 +9609,7 @@
             "Space betveen the 2 bottom points": "410 – 660 mm",
             "Vheel sizes": "16 k 6,50-8-4PR"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_308_0.jpg",
             "images/slika_308_1.jpg",
             "images/slika_308_2.jpg",
@@ -9644,7 +9644,7 @@
             "Space betveen the 2 bottom points": "410 – 660 mm",
             "Vheel sizes": "16 k 6,50-8-4PR"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_309_0.jpg",
             "images/slika_309_1.jpg",
             "images/slika_309_2.jpg",
@@ -9688,7 +9688,7 @@
             "Hidraulic oil line": "32MPa",
             "Guma": "600-9"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_310_0.jpg",
             "images/slika_310_1.jpg",
             "images/slika_310_2.jpg",
@@ -9717,7 +9717,7 @@
             "Vorking Depth": "500 mm",
             "Prečnik gume": "50 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_311_0.jpg",
             "images/slika_311_1.jpg",
             "images/slika_311_2.jpg",
@@ -9748,7 +9748,7 @@
             "Vorking Depth": "600 mm",
             "Prečnik gume": "80 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_312_0.jpg",
             "images/slika_312_1.jpg",
             "images/slika_312_2.jpg",
@@ -9780,7 +9780,7 @@
             "Pumpa": "COMET BP110",
             "Kapacitet": "700 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_313_0.jpg",
             "images/slika_313_1.jpg",
             "images/slika_313_2.jpg",
@@ -9803,7 +9803,7 @@
             "Pumpa": "COMET BP110",
             "Kapacitet": "700 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_314_0.jpg",
             "images/slika_314_1.jpg",
             "images/slika_314_2.jpg",
@@ -9833,7 +9833,7 @@
             "Visina (unutrašnja prednja strana)": "260 mm",
             "Kapacitet": "0,51 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_315_0.jpg",
             "images/slika_315_1.jpg",
             "images/slika_315_2.jpg",
@@ -9868,7 +9868,7 @@
             "Visina (unutrašnjost)": "450 mm",
             "Kapacitet": "0,35 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_316_0.jpg",
             "images/slika_316_1.jpg",
             "images/slika_316_2.jpg",
@@ -9899,7 +9899,7 @@
             "Visina (unutrašnjost)": "450 mm",
             "Kapacitet": "0,35 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_317_0.jpg",
             "images/slika_317_1.jpg",
             "images/slika_317_2.jpg",
@@ -9936,7 +9936,7 @@
             "Visina (unutrašnjost)": "450 mm",
             "Kapacitet": "0,50 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_318_0.jpg",
             "images/slika_318_1.jpg",
             "images/slika_318_2.jpg",
@@ -9973,7 +9973,7 @@
             "Visina (unutrašnja prednja strana)": "260 mm",
             "Kapacitet": "0,28 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_319_0.jpg",
             "images/slika_319_1.jpg",
             "images/slika_319_2.jpg",
@@ -9999,7 +9999,7 @@
             "Visina (unutrašnja prednja strana)": "260 mm",
             "Kapacitet": "0,34 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_320_0.jpg",
             "images/slika_320_1.jpg",
             "images/slika_320_2.jpg",
@@ -10029,7 +10029,7 @@
             "Visina (unutrašnja prednja strana)": "260 mm",
             "Kapacitet": "0,40 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_321_0.jpg",
             "images/slika_321_1.jpg",
             "images/slika_321_2.jpg",
@@ -10061,7 +10061,7 @@
             "Visina (unutrašnja prednja strana)": "260 mm",
             "Kapacitet": "0,46 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_322_0.jpg",
             "images/slika_322_1.jpg",
             "images/slika_322_2.jpg",
@@ -10093,7 +10093,7 @@
             "Visina (unutrašnja)": "380 mm",
             "Kapacitet": "0,29 m³"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_323_0.jpg",
             "images/slika_323_1.jpg",
             "images/slika_323_2.jpg",
@@ -10121,7 +10121,7 @@
             "Težina": "139 kg",
             "Konji": "40 – 120 KS"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_324_0.jpg",
             "images/slika_324_1.jpg",
             "images/slika_324_2.jpg",
@@ -10137,7 +10137,7 @@
             "Težina": "113 kg",
             "Konji": "15 – 100 KS"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_325_0.jpg",
             "images/slika_325_1.jpg",
             "images/slika_325_2.jpg",
@@ -10159,7 +10159,7 @@
             "100 – 300 m/h": "100 – 300 m/h",
             "from 17 Hp": "od 25 KS"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_326_0.jpg",
             "images/slika_326_1.jpg",
             "images/slika_326_2.jpg",
@@ -10191,7 +10191,7 @@
             "Vorking vidth": "100 mm",
             "Noževi": "27"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_327_0.jpg",
             "images/slika_327_1.jpg",
             "images/slika_327_2.jpg",
@@ -10221,7 +10221,7 @@
             "100 – 300 m/h": "100 – 300 m/h",
             "from 45 Hp": "od 60 KS"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_328_0.jpg",
             "images/slika_328_1.jpg",
             "images/slika_328_2.jpg",
@@ -10254,7 +10254,7 @@
             "Težina": "10 kg",
             "Vorking Depth": "450 mm"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Nosač podzemnog drenažnog kanala za ram više mašina HIDRA APOSTRAGISTIS - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
@@ -10262,7 +10262,7 @@
             "Težina": "60 kg",
             "Radna Dubina": "400 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_330_0.jpg",
             "images/slika_330_1.jpg",
             "images/slika_330_2.jpg"
@@ -10281,7 +10281,7 @@
             "Lanci": "3 k 10 mm",
             "Citting height": "30-90 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_331_0.jpg",
             "images/slika_331_1.jpg",
             "images/slika_331_2.jpg",
@@ -10313,7 +10313,7 @@
             "Lanci": "3 k 10 mm",
             "Citting height": "30-90 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_332_0.jpg",
             "images/slika_332_1.jpg",
             "images/slika_332_2.jpg",
@@ -10343,7 +10343,7 @@
             "Lanci": "3 k 10 mm",
             "Citting height": "30-90 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_333_0.jpg",
             "images/slika_333_1.jpg",
             "images/slika_333_2.jpg",
@@ -10370,7 +10370,7 @@
             "Lanci": "3 k 10 mm",
             "Citting height": "30-90 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_334_0.jpg",
             "images/slika_334_1.jpg",
             "images/slika_334_2.jpg",
@@ -10400,7 +10400,7 @@
             "Noževi": "2 k 10 mm",
             "Citting height": "30-90 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_335_0.jpg",
             "images/slika_335_1.jpg",
             "images/slika_335_2.jpg",
@@ -10427,7 +10427,7 @@
             "Lanci": "3 k 10 mm",
             "Citting height": "30-90 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_336_0.jpg",
             "images/slika_336_1.jpg",
             "images/slika_336_2.jpg",
@@ -10458,7 +10458,7 @@
             "Lanci": "3 k 10 mm",
             "Citting height": "30-90 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_337_0.jpg",
             "images/slika_337_1.jpg",
             "images/slika_337_2.jpg",
@@ -10482,7 +10482,7 @@
             "Noževi": "2 k 10 mm",
             "Citting height": "30-90 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_338_0.jpg",
             "images/slika_338_1.jpg",
             "images/slika_338_2.jpg",
@@ -10504,7 +10504,7 @@
             "Noževi": "10 kom.",
             "Prirubnice": "5"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_339_0.jpg",
             "images/slika_339_1.jpg",
             "images/slika_339_2.jpg",
@@ -10540,7 +10540,7 @@
             "Noževi": "2 k 10 mm",
             "Citting height": "30-90 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_340_0.jpg",
             "images/slika_340_1.jpg",
             "images/slika_340_2.jpg",
@@ -10570,7 +10570,7 @@
             "Noževi": "2 k 10 mm",
             "Citting height": "30-90 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_341_0.jpg",
             "images/slika_341_1.jpg",
             "images/slika_341_2.jpg",
@@ -10602,7 +10602,7 @@
             "Noževi": "2 k 10 mm",
             "Citting height": "30-90 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_342_0.jpg",
             "images/slika_342_1.jpg",
             "images/slika_342_2.jpg",
@@ -10632,7 +10632,7 @@
             "Noževi": "2 k 10 mm",
             "Citting height": "30-90 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_343_0.jpg",
             "images/slika_343_1.jpg",
             "images/slika_343_2.jpg",
@@ -10665,7 +10665,7 @@
             "Prečnik turbine": "900 mm",
             "Kapacitet": "1000 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_344_0.jpg",
             "images/slika_344_1.jpg",
             "images/slika_344_2.jpg",
@@ -10696,7 +10696,7 @@
             "Prečnik turbine": "900 mm",
             "Kapacitet": "1500 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_345_0.jpg",
             "images/slika_345_1.jpg",
             "images/slika_345_2.jpg",
@@ -10733,7 +10733,7 @@
             "Prečnik turbine": "900 mm",
             "Kapacitet": "2000 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_346_0.jpg",
             "images/slika_346_1.jpg",
             "images/slika_346_2.jpg",
@@ -10763,7 +10763,7 @@
             "Prečnik turbine": "750 mm",
             "Kapacitet": "600 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_347_0.jpg",
             "images/slika_347_1.jpg",
             "images/slika_347_2.jpg",
@@ -10792,7 +10792,7 @@
             "Prečnik turbine": "750 mm",
             "Kapacitet": "800 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_348_0.jpg",
             "images/slika_348_1.jpg",
             "images/slika_348_2.jpg",
@@ -10822,7 +10822,7 @@
             "Hole center vith base (E1)": "55 mm",
             "Hole center vith base (E2)": "60 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_349_0.jpg",
             "images/slika_349_1.jpg"
         ]
@@ -10842,7 +10842,7 @@
             "dimenzija centra otvora sa osnovom (E1)": "–",
             "Centar otvora sa osnovom (E2)": "–"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_350_0.jpg",
             "images/slika_350_1.jpg"
         ]
@@ -10861,7 +10861,7 @@
             "Ekternal plate dimension (D)": "108 mm",
             "Hole center vith base (E)": "45 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_351_0.jpg",
             "images/slika_351_1.jpg",
             "images/slika_351_2.jpg"
@@ -10882,7 +10882,7 @@
             "Hole center vith base (E1)": "100 mm",
             "Hole center vith base (E2)": "100 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_352_0.jpg",
             "images/slika_352_1.jpg"
         ]
@@ -10902,7 +10902,7 @@
             "Čekići": "26",
             "Citting height": "20 – 80 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_353_0.jpg",
             "images/slika_353_1.jpg",
             "images/slika_353_2.jpg",
@@ -10932,7 +10932,7 @@
             "Imperator": "Ø 127 mm sa debljinom od 10 mm",
             "Rear roller": "Ø 102mm sa debljinom od 4mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_354_0.jpg",
             "images/slika_354_1.jpg",
             "images/slika_354_2.jpg",
@@ -10968,7 +10968,7 @@
             "Radno kolo": "Ø 110 mm sa debljinom od 8 mm",
             "Rear roller": "Ø 102mm sa debljinom od 4mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_355_0.jpg",
             "images/slika_355_1.jpg",
             "images/slika_355_2.jpg",
@@ -10999,7 +10999,7 @@
             "Radno kolo": "Ø 110 mm sa debljinom od 8 mm",
             "Rear roller": "Ø 102mm sa debljinom od 4mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_356_0.jpg",
             "images/slika_356_1.jpg",
             "images/slika_356_2.jpg",
@@ -11030,7 +11030,7 @@
             "Imperator": "Ø 127 mm sa debljinom od 10 mm",
             "Rear roller": "Ø 102mm sa debljinom od 4mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_357_0.jpg",
             "images/slika_357_1.jpg",
             "images/slika_357_2.jpg",
@@ -11062,7 +11062,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "3"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_358_0.jpg",
             "images/slika_358_1.jpg",
             "images/slika_358_2.jpg",
@@ -11100,7 +11100,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "3"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_359_0.jpg",
             "images/slika_359_1.jpg",
             "images/slika_359_2.jpg",
@@ -11140,7 +11140,7 @@
             "Noževi (opciono)": "40 kom.",
             "Spirala": "80*6"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_360_0.jpg",
             "images/slika_360_1.jpg",
             "images/slika_360_2.jpg",
@@ -11166,7 +11166,7 @@
             "Travel speed": "18 km/h",
             "Maksimalno podizanje (na pin)": "3442 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_361_0.jpg",
             "images/slika_361_1.jpg",
             "images/slika_361_2.jpg",
@@ -11209,7 +11209,7 @@
             "Travel speed": "28 km/h",
             "Maksimalno podizanje (na pin)": "4129 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_362_0.jpg",
             "images/slika_362_1.jpg",
             "images/slika_362_2.jpg",
@@ -11267,7 +11267,7 @@
             "Travel speed": "28 km/h",
             "Makimum lift (at pin)": "4210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_363_0.jpg",
             "images/slika_363_1.jpg",
             "images/slika_363_2.jpg",
@@ -11325,7 +11325,7 @@
             "Travel speed": "19 km/h",
             "Maksimalno podizanje (na pin)": "3446 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_364_0.jpg",
             "images/slika_364_1.jpg",
             "images/slika_364_2.jpg",
@@ -11380,7 +11380,7 @@
             "C1": "2800 mm",
             "C2": "1000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_365_0.jpg",
             "images/slika_365_1.jpg",
             "images/slika_365_2.jpg",
@@ -11424,7 +11424,7 @@
             "C1": "2800 mm",
             "C2": "1000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_366_0.jpg",
             "images/slika_366_1.jpg",
             "images/slika_366_2.jpg",
@@ -11468,7 +11468,7 @@
             "C1": "2800 mm",
             "C2": "1000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_367_0.jpg",
             "images/slika_367_1.jpg",
             "images/slika_367_2.jpg",
@@ -11504,7 +11504,7 @@
             "C1": "2800 mm",
             "C2": "1000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_368_0.jpg",
             "images/slika_368_1.jpg",
             "images/slika_368_2.jpg",
@@ -11540,7 +11540,7 @@
             "C1": "2800 mm",
             "C2": "1000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_369_0.jpg",
             "images/slika_369_1.jpg",
             "images/slika_369_2.jpg",
@@ -11576,7 +11576,7 @@
             "C1": "2800 mm",
             "C2": "1000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_370_0.jpg",
             "images/slika_370_1.jpg",
             "images/slika_370_2.jpg",
@@ -11620,7 +11620,7 @@
             "C1": "2800 mm",
             "C2": "1000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_371_0.jpg",
             "images/slika_371_1.jpg",
             "images/slika_371_2.jpg",
@@ -11664,7 +11664,7 @@
             "C1": "2800 mm",
             "C2": "1000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_372_0.jpg",
             "images/slika_372_1.jpg",
             "images/slika_372_2.jpg",
@@ -11708,7 +11708,7 @@
             "C1": "2800 mm",
             "C2": "1000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_373_0.jpg",
             "images/slika_373_1.jpg",
             "images/slika_373_2.jpg",
@@ -11744,7 +11744,7 @@
             "C1": "2800 mm",
             "C2": "1000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_374_0.jpg",
             "images/slika_374_1.jpg",
             "images/slika_374_2.jpg",
@@ -11777,7 +11777,7 @@
             "C1": "2800 mm",
             "C2": "1000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_375_0.jpg",
             "images/slika_375_1.jpg",
             "images/slika_375_2.jpg",
@@ -11813,7 +11813,7 @@
             "C1": "2800 mm",
             "C2": "1000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_376_0.jpg",
             "images/slika_376_1.jpg",
             "images/slika_376_2.jpg",
@@ -11846,7 +11846,7 @@
             "C1": "2800 mm",
             "C2": "1000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_377_0.jpg",
             "images/slika_377_1.jpg",
             "images/slika_377_2.jpg",
@@ -11879,7 +11879,7 @@
             "C1": "2800 mm",
             "C2": "1000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_378_0.jpg",
             "images/slika_378_1.jpg",
             "images/slika_378_2.jpg",
@@ -11912,7 +11912,7 @@
             "C1": "2800 mm",
             "C2": "1000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_379_0.jpg",
             "images/slika_379_1.jpg",
             "images/slika_379_2.jpg",
@@ -11938,7 +11938,7 @@
             "Prečnik turbine": "700 mm",
             "Kapacitet": "220 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_380_0.jpg",
             "images/slika_380_1.jpg",
             "images/slika_380_2.jpg",
@@ -11968,7 +11968,7 @@
             "Prečnik turbine": "900 mm",
             "Kapacitet": "350 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_381_0.jpg",
             "images/slika_381_1.jpg",
             "images/slika_381_2.jpg",
@@ -11997,7 +11997,7 @@
             "Prečnik turbine": "900 mm",
             "Kapacitet": "500 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_382_0.jpg",
             "images/slika_382_1.jpg",
             "images/slika_382_2.jpg",
@@ -12028,7 +12028,7 @@
             "Prečnik turbine": "700 mm",
             "Kapacitet": "220 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_383_0.jpg",
             "images/slika_383_1.jpg",
             "images/slika_383_2.jpg",
@@ -12062,7 +12062,7 @@
             "Prečnik turbine": "900 mm",
             "Kapacitet": "350 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_384_0.jpg",
             "images/slika_384_1.jpg",
             "images/slika_384_2.jpg",
@@ -12096,7 +12096,7 @@
             "Prečnik turbine": "900 mm",
             "Kapacitet": "500 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_385_0.jpg",
             "images/slika_385_1.jpg",
             "images/slika_385_2.jpg",
@@ -12131,7 +12131,7 @@
             "Prečnik turbine": "900 mm",
             "Kapacitet": "700 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_386_0.jpg",
             "images/slika_386_1.jpg",
             "images/slika_386_2.jpg",
@@ -12163,7 +12163,7 @@
             "Prečnik turbine": "900 mm",
             "Kapacitet": "500 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_387_0.jpg",
             "images/slika_387_1.jpg",
             "images/slika_387_2.jpg",
@@ -12197,7 +12197,7 @@
             "Prečnik turbine": "900 mm",
             "Kapacitet": "350 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_388_0.jpg",
             "images/slika_388_1.jpg",
             "images/slika_388_2.jpg",
@@ -12278,7 +12278,7 @@
                 "Razmak prednja osovina (mm)": "310"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_389_0.jpg",
             "images/slika_389_1.jpg",
             "images/slika_389_2.jpg",
@@ -12354,7 +12354,7 @@
                 "Razmak prednja osovina (mm)": "310"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_390_0.jpg",
             "images/slika_390_1.jpg",
             "images/slika_390_2.jpg",
@@ -12435,7 +12435,7 @@
                 "Broj brzih linkova": "4 pozadi"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_391_0.jpg",
             "images/slika_391_1.jpg",
             "images/slika_391_2.jpg",
@@ -12511,7 +12511,7 @@
                 "Broj brzih linkova": "4 pozadi"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_392_0.jpg",
             "images/slika_392_1.jpg",
             "images/slika_392_2.jpg",
@@ -12592,7 +12592,7 @@
                 "G2": "Razmak od tla zadnje osovine (mm)"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_393_0.jpg",
             "images/slika_393_1.jpg",
             "images/slika_393_2.jpg",
@@ -12677,7 +12677,7 @@
                 "G2": "Razmak od tla zadnje osovine (mm)"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_394_0.jpg",
             "images/slika_394_1.jpg",
             "images/slika_394_2.jpg",
@@ -12756,7 +12756,7 @@
                 "G2": "Razmak od tla zadnje osovine (mm)"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_395_0.jpg",
             "images/slika_395_1.jpg",
             "images/slika_395_2.jpg",
@@ -12839,7 +12839,7 @@
                 "G2": "Razmak od tla zadnje osovine (mm)"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_396_0.jpg",
             "images/slika_396_1.jpg",
             "images/slika_396_2.jpg",
@@ -12919,7 +12919,7 @@
                 "G2": "Razmak od tla zadnje osovine (mm)"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_397_0.jpg",
             "images/slika_397_1.jpg",
             "images/slika_397_2.jpg",
@@ -13005,7 +13005,7 @@
                 "G2": "Razmak od tla zadnje osovine (mm)"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_398_0.jpg",
             "images/slika_398_1.jpg",
             "images/slika_398_2.jpg",
@@ -13043,7 +13043,7 @@
             "I": "440 mm",
             "J": "– mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_399_0.jpg",
             "images/slika_399_1.jpg",
             "images/slika_399_2.jpg",
@@ -13080,7 +13080,7 @@
             "H": "491 mm",
             "I": "400 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_400_0.jpg",
             "images/slika_400_1.jpg",
             "images/slika_400_2.jpg",
@@ -13106,7 +13106,7 @@
             "H": "491 mm",
             "I": "400 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_401_0.jpg",
             "images/slika_401_1.jpg",
             "images/slika_401_2.jpg",
@@ -13144,7 +13144,7 @@
             "I": "400 mm",
             "J": "1500 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_402_0.jpg",
             "images/slika_402_1.jpg",
             "images/slika_402_2.jpg",
@@ -13173,7 +13173,7 @@
             "I": "400 mm",
             "J": "800 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_403_0.jpg",
             "images/slika_403_1.jpg",
             "images/slika_403_2.jpg",
@@ -13206,7 +13206,7 @@
             "I": "400 mm",
             "J": "850 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_404_0.jpg",
             "images/slika_404_1.jpg",
             "images/slika_404_2.jpg",
@@ -13237,7 +13237,7 @@
             "I": "400 mm",
             "J": "800 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_405_0.jpg",
             "images/slika_405_1.jpg",
             "images/slika_405_2.jpg",
@@ -13260,7 +13260,7 @@
             "Konji": "40 – 120 KS",
             "Arid": "Φ 230"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_406_0.jpg",
             "images/slika_406_1.jpg",
             "images/slika_406_2.jpg",
@@ -13277,7 +13277,7 @@
             "Konji": "40 – 120 KS",
             "Arida": "Φ 300"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_407_0.jpg",
             "images/slika_407_1.jpg",
             "images/slika_407_2.jpg",
@@ -13294,7 +13294,7 @@
             "Konji": "40 – 120 KS",
             "Arid": "Φ380"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_408_0.jpg",
             "images/slika_408_1.jpg",
             "images/slika_408_2.jpg",
@@ -13311,7 +13311,7 @@
             "Konji": "40 – 120 KS",
             "Arida": "Φ 450"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_409_0.jpg",
             "images/slika_409_1.jpg",
             "images/slika_409_2.jpg",
@@ -13328,7 +13328,7 @@
             "Konji": "40 – 120 KS",
             "Arida": "Φ 150"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_410_0.jpg",
             "images/slika_410_1.jpg",
             "images/slika_410_2.jpg",
@@ -13349,7 +13349,7 @@
             "D": "2440 mm",
             "Bucket digging force": "312 kg"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Traktorska guma HADES TA330 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
@@ -13362,7 +13362,7 @@
             "D": "3300 mm",
             "Bucket digging force": "1700 kg"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Lopata sa mehaničkim pomeranjem ruke za traktor HADES TA250 PRO - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
@@ -13375,7 +13375,7 @@
             "D": "2440 mm",
             "Bucket digging force": "312"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_413_0.jpg",
             "images/slika_413_1.jpg",
             "images/slika_413_2.jpg",
@@ -13400,7 +13400,7 @@
             "D": "2900 mm",
             "Bucket digging force": "1350 kg"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Kupica sa hidrauličnim krakom za traktor HADES TA290 PRO - GUME ZA POLjOPRIVREDNE MAŠINE TRACTOR",
@@ -13414,7 +13414,7 @@
             "E": "2400 mm",
             "Bucket digging force": "1350 kg"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_415_0.jpg",
             "images/slika_415_1.jpg",
             "images/slika_415_2.jpg",
@@ -13439,7 +13439,7 @@
             "D": "3300 mm",
             "Bucket digging force": "1700 kg"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_416_0.jpg",
             "images/slika_416_1.jpg",
             "images/slika_416_2.jpg",
@@ -13473,7 +13473,7 @@
             "Rekuired hidraulic flov": "18 – 30 L/min",
             "Hidraulic pressure (bar)": "140 – 210"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_417_0.jpg",
             "images/slika_417_1.jpg",
             "images/slika_417_2.jpg",
@@ -13498,7 +13498,7 @@
             "Rekuired hidraulic flov": "18 – 30 L/min",
             "Hidraulic pressure (bar)": "140 – 210"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_418_0.jpg",
             "images/slika_418_1.jpg",
             "images/slika_418_2.jpg",
@@ -13522,7 +13522,7 @@
             "Rekuired hidraulic flov": "30-50 L/min",
             "Offset": "← mm 2200/1750 ||"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Hidraulična dvospojna metla za čišćenje sa dodatnom bočnom povratnom četkom i kašikom HIGIEIA H180-P (13% PDV) - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
@@ -13536,7 +13536,7 @@
             "Rekuired hidraulic flov": "18 – 30 L/min",
             "Hidraulic pressure (bar)": "140 – 210"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_420_0.jpg",
             "images/slika_420_1.jpg",
             "images/slika_420_2.jpg",
@@ -13561,7 +13561,7 @@
             "Rekuired hidraulic flov": "18 – 30 L/min",
             "Hidraulic pressure (bar)": "140 – 210"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_421_0.jpg",
             "images/slika_421_1.jpg",
             "images/slika_421_2.jpg",
@@ -13586,7 +13586,7 @@
             "Rekuired hidraulic flov": "18 – 30 L/min",
             "Hidraulic pressure (bar)": "140 – 210"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_422_0.jpg",
             "images/slika_422_1.jpg",
             "images/slika_422_2.jpg",
@@ -13611,7 +13611,7 @@
             "Rekuired hidraulic flov": "18 – 30 L/min",
             "Hidraulic pressure (bar)": "140 – 210"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_423_0.jpg",
             "images/slika_423_1.jpg",
             "images/slika_423_2.jpg",
@@ -13641,7 +13641,7 @@
             "Makimum cutting thickness": "120 mm",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_424_0.jpg",
             "images/slika_424_1.jpg",
             "images/slika_424_2.jpg",
@@ -13670,7 +13670,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_425_0.jpg",
             "images/slika_425_1.jpg",
             "images/slika_425_2.jpg",
@@ -13695,7 +13695,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_426_0.jpg",
             "images/slika_426_1.jpg",
             "images/slika_426_2.jpg",
@@ -13720,7 +13720,7 @@
             "Radno kolo": "127*10 mm",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_427_0.jpg",
             "images/slika_427_1.jpg",
             "images/slika_427_2.jpg",
@@ -13749,7 +13749,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_428_0.jpg",
             "images/slika_428_1.jpg",
             "images/slika_428_2.jpg",
@@ -13774,7 +13774,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_429_0.jpg",
             "images/slika_429_1.jpg",
             "images/slika_429_2.jpg",
@@ -13799,7 +13799,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_430_0.jpg",
             "images/slika_430_1.jpg",
             "images/slika_430_2.jpg",
@@ -13824,7 +13824,7 @@
             "Strofeio": "108*8",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_431_0.jpg",
             "images/slika_431_1.jpg",
             "images/slika_431_2.jpg",
@@ -13846,7 +13846,7 @@
             "Rekuired hidraulic flov": "30 – 50 L/min",
             "Pomeranje (levo – desno)": "|| 1300/1750 mm →"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Hidrostatički utovarivač točkaš LD10 HST - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
@@ -13863,7 +13863,7 @@
             "Travel speed": "12 km/h",
             "Maksimalno podizanje (na pin)": "2678 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_433_0.jpg",
             "images/slika_433_1.jpg",
             "images/slika_433_2.jpg",
@@ -13896,7 +13896,7 @@
             "Visina": "1250 mm",
             "Vork Surface": "80 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_434_0.jpg",
             "images/slika_434_1.jpg",
             "images/slika_434_2.jpg",
@@ -13914,7 +13914,7 @@
             "Visina": "1250 mm",
             "Vork Surface": "80 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_435_0.jpg",
             "images/slika_435_1.jpg",
             "images/slika_435_2.jpg",
@@ -13934,7 +13934,7 @@
             "Visina": "1050 mm",
             "Vork Surface": "1300 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_436_0.jpg",
             "images/slika_436_1.jpg",
             "images/slika_436_2.jpg",
@@ -13957,7 +13957,7 @@
             "Visina": "1050 mm",
             "Vork Surface": "1300 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_437_0.jpg",
             "images/slika_437_1.jpg",
             "images/slika_437_2.jpg",
@@ -13982,7 +13982,7 @@
             "Dubina kopanja": "119 mm",
             "Kapacitet podizanja": "459 kg"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_438_0.jpg",
             "images/slika_438_1.jpg"
         ]
@@ -13996,7 +13996,7 @@
             "Kapacitet podizanja": "576 kg",
             "Bucket vidth": "1300 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_439_0.jpg",
             "images/slika_439_1.jpg"
         ]
@@ -14010,7 +14010,7 @@
             "Kapacitet podizanja": "988 kg",
             "Bucket vidth": "1600 mm"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Traktorski utovarivač LS LL4104 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
@@ -14021,7 +14021,7 @@
             "Kapacitet podizanja": "1231 kg",
             "Bucket vidth": "1800 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_441_0.jpg",
             "images/slika_441_1.jpg",
             "images/slika_441_2.jpg",
@@ -14038,7 +14038,7 @@
             "Kapacitet podizanja": "1200 kg",
             "Bucket vidth": "2000 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_442_0.jpg",
             "images/slika_442_1.jpg"
         ]
@@ -14051,7 +14051,7 @@
             "Dubina kopanja": "177 mm",
             "Kapacitet podizanja": "1644 kg"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Traktorski utovarivač LS LL8100 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
@@ -14061,7 +14061,7 @@
             "Dubina kopanja": "116 mm",
             "Kapacitet podizanja": "2409 kg"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Hidraulični deplasman rotaciona freza za teške uslove rada BF125-H - GUME ZA TRAKTOR ZA POLjOPRIVREDNU MAŠINU",
@@ -14077,7 +14077,7 @@
             "Knife rovs": "6 kom.",
             "Radna depth": "100 – 200 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_445_0.jpg",
             "images/slika_445_1.jpg",
             "images/slika_445_2.jpg",
@@ -14106,7 +14106,7 @@
             "Knife rovs": "7",
             "Radna depth": "100 – 200 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_446_0.jpg",
             "images/slika_446_1.jpg",
             "images/slika_446_2.jpg",
@@ -14135,7 +14135,7 @@
             "Knife rovs": "7",
             "Radna depth": "100 – 200 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_447_0.jpg",
             "images/slika_447_1.jpg",
             "images/slika_447_2.jpg",
@@ -14164,7 +14164,7 @@
             "Knife rovs": "8",
             "Radna depth": "100 – 200 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_448_0.jpg",
             "images/slika_448_1.jpg",
             "images/slika_448_2.jpg",
@@ -14190,7 +14190,7 @@
             "Prirubnice": "7",
             "Radna depth": "100 – 200 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_449_0.jpg",
             "images/slika_449_1.jpg",
             "images/slika_449_2.jpg",
@@ -14218,7 +14218,7 @@
             "Prirubnice": "7",
             "Radna depth": "160 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_450_0.jpg",
             "images/slika_450_1.jpg",
             "images/slika_450_2.jpg",
@@ -14244,7 +14244,7 @@
             "Prirubnice": "9",
             "Radna depth": "100 – 200 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_451_0.jpg",
             "images/slika_451_1.jpg",
             "images/slika_451_2.jpg",
@@ -14272,7 +14272,7 @@
             "Prirubnice": "9",
             "Radna depth": "160 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_452_0.jpg",
             "images/slika_452_1.jpg",
             "images/slika_452_2.jpg",
@@ -14298,7 +14298,7 @@
             "Knife rovs": "10",
             "Radna depth": "100 – 200 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_453_0.jpg",
             "images/slika_453_1.jpg",
             "images/slika_453_2.jpg",
@@ -14326,7 +14326,7 @@
             "Knife rovs": "7",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_454_0.jpg",
             "images/slika_454_1.jpg",
             "images/slika_454_2.jpg",
@@ -14360,7 +14360,7 @@
             "Redovi noža": "5",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_455_0.jpg",
             "images/slika_455_1.jpg",
             "images/slika_455_2.jpg",
@@ -14394,7 +14394,7 @@
             "Knife rovs": "7",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_456_0.jpg",
             "images/slika_456_1.jpg",
             "images/slika_456_2.jpg",
@@ -14428,7 +14428,7 @@
             "Knife rovs": "7",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_457_0.jpg",
             "images/slika_457_1.jpg",
             "images/slika_457_2.jpg",
@@ -14462,7 +14462,7 @@
             "Knife rovs": "8",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_458_0.jpg",
             "images/slika_458_1.jpg",
             "images/slika_458_2.jpg",
@@ -14496,7 +14496,7 @@
             "Knife rovs": "8",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_459_0.jpg",
             "images/slika_459_1.jpg",
             "images/slika_459_2.jpg",
@@ -14524,7 +14524,7 @@
             "Redovi noža": "9",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_460_0.jpg",
             "images/slika_460_1.jpg",
             "images/slika_460_2.jpg",
@@ -14552,7 +14552,7 @@
             "Knife rovs": "11",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_461_0.jpg",
             "images/slika_461_1.jpg"
         ]
@@ -14571,7 +14571,7 @@
             "Knife rovs": "12",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_462_0.jpg",
             "images/slika_462_1.jpg"
         ]
@@ -14590,7 +14590,7 @@
             "Knife rovs": "4",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_463_0.jpg",
             "images/slika_463_1.jpg",
             "images/slika_463_2.jpg",
@@ -14620,7 +14620,7 @@
             "Noževi": "21 kom.",
             "Knife rovs": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_464_0.jpg",
             "images/slika_464_1.jpg",
             "images/slika_464_2.jpg",
@@ -14653,7 +14653,7 @@
             "Noževi": "27 kom.",
             "Knife rovs": "6"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_465_0.jpg",
             "images/slika_465_1.jpg",
             "images/slika_465_2.jpg",
@@ -14683,7 +14683,7 @@
             "Noževi": "27 kom.",
             "Knife rovs": "5 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_466_0.jpg",
             "images/slika_466_1.jpg",
             "images/slika_466_2.jpg",
@@ -14714,7 +14714,7 @@
             "Knife rovs": "4",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_467_0.jpg",
             "images/slika_467_1.jpg",
             "images/slika_467_2.jpg",
@@ -14742,7 +14742,7 @@
             "Knife rovs": "7",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_468_0.jpg",
             "images/slika_468_1.jpg",
             "images/slika_468_2.jpg",
@@ -14769,7 +14769,7 @@
             "Knife rovs": "4",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_469_0.jpg",
             "images/slika_469_1.jpg",
             "images/slika_469_2.jpg",
@@ -14797,7 +14797,7 @@
             "Redovi noža": "6",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_470_0.jpg",
             "images/slika_470_1.jpg",
             "images/slika_470_2.jpg",
@@ -14831,7 +14831,7 @@
             "Knife rovs": "4",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_471_0.jpg",
             "images/slika_471_1.jpg",
             "images/slika_471_2.jpg",
@@ -14856,7 +14856,7 @@
             "Knife rovs": "11",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_472_0.jpg",
             "images/slika_472_1.jpg",
             "images/slika_472_2.jpg",
@@ -14879,7 +14879,7 @@
             "Dužina": "1400 mm",
             "Visina": "1080 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_473_0.jpg",
             "images/slika_473_1.jpg",
             "images/slika_473_2.jpg",
@@ -14901,7 +14901,7 @@
             "Kaiševi": "2 kom",
             "Citting height": "30-80 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_474_0.jpg",
             "images/slika_474_1.jpg",
             "images/slika_474_2.jpg",
@@ -14930,7 +14930,7 @@
             "Kaiševi": "2 kom",
             "Citting height": "30-80 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_475_0.jpg",
             "images/slika_475_1.jpg",
             "images/slika_475_2.jpg",
@@ -14959,7 +14959,7 @@
             "Kaiševi": "2 kom",
             "Citting height": "30-80 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_476_0.jpg",
             "images/slika_476_1.jpg",
             "images/slika_476_2.jpg",
@@ -14987,7 +14987,7 @@
             "Noževi": "10 kom.",
             "Prirubnice": "5"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_477_0.jpg",
             "images/slika_477_1.jpg",
             "images/slika_477_2.jpg",
@@ -15027,7 +15027,7 @@
             "Noževi": "6 kom.",
             "Radna brzina": "15 km/h"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_478_0.jpg",
             "images/slika_478_1.jpg",
             "images/slika_478_2.jpg",
@@ -15070,7 +15070,7 @@
             "C": "620 mm",
             "D": "980 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_479_0.jpg",
             "images/slika_479_1.jpg"
         ]
@@ -15092,7 +15092,7 @@
             "C": "620 mm",
             "D": "1280 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_480_0.jpg",
             "images/slika_480_1.jpg"
         ]
@@ -15114,7 +15114,7 @@
             "C": "620 mm",
             "D": "1480 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_481_0.jpg",
             "images/slika_481_1.jpg"
         ]
@@ -15132,7 +15132,7 @@
             "Noževi": "6 kom.",
             "Radna brzina": "15 km/h"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_482_0.jpg",
             "images/slika_482_1.jpg",
             "images/slika_482_2.jpg",
@@ -15161,7 +15161,7 @@
             "Vorking Vidth": "3000 mm",
             "Daisies": "4 kom."
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Sakupljač trave sa 5 tratinčica MAR350 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
@@ -15171,7 +15171,7 @@
             "Vorking Vidth": "3500 mm",
             "Daisies": "5 kom."
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "220L montirana turbina za prskanje TPA220 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
@@ -15187,7 +15187,7 @@
             "Prečnik turbine": "700 mm",
             "Kapacitet": "220 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_485_0.jpg",
             "images/slika_485_1.jpg",
             "images/slika_485_2.jpg",
@@ -15219,7 +15219,7 @@
             "Prečnik turbine": "900 mm",
             "Kapacitet": "500 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_486_0.jpg",
             "images/slika_486_1.jpg",
             "images/slika_486_2.jpg",
@@ -15250,7 +15250,7 @@
             "Prečnik turbine": "900 mm",
             "Kapacitet": "500 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_487_0.jpg",
             "images/slika_487_1.jpg",
             "images/slika_487_2.jpg",
@@ -15279,7 +15279,7 @@
             "Vorking vidth": "1100 mm",
             "Disc diameter": "460 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_488_0.jpg",
             "images/slika_488_1.jpg",
             "images/slika_488_2.jpg",
@@ -15298,7 +15298,7 @@
             "Visina": "70 mm",
             "Nosivost": "1000 kg"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "2 aluminijumske rampe dužine 2000 mm za mašinu koja se montira na gumu ili guseničara sa težinom tare 2000 kg – GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE MAŠINE",
@@ -15309,7 +15309,7 @@
             "Visina": "82 mm",
             "Nosivost": "2000 kg"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "2 aluminijumske rampe dužine 2500 mm za mašinu koja se montira na gumu ili guseničara sa težinom tare od 3000 kg – GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE MAŠINE",
@@ -15320,7 +15320,7 @@
             "Visina": "92 mm",
             "Nosivost": "3000 kg"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "2 aluminijumske rampe dužine 3000 mm za gumu ili guseničarsku mašinu sa težinom tare od 4000 kg – GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE MAŠINE",
@@ -15331,7 +15331,7 @@
             "Visina": "142 mm",
             "Nosivost": "4000 kg"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "2 aluminijumske rampe dužine 3500mm za gumu ili guseničarsku mašinu sa tara težine 5000kg - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
@@ -15342,7 +15342,7 @@
             "Visina": "152 mm",
             "Nosivost": "5000 kg"
         },
-        "sviđa mi se": []
+        "slike": []
     },
     {
         "model": "Pskalica visokog pritiska 220L PAA220 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
@@ -15356,7 +15356,7 @@
             "Pumpa": "MERTSAN MTS 496",
             "Kapacitet": "220 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_494_0.jpg",
             "images/slika_494_1.jpg",
             "images/slika_494_2.jpg",
@@ -15388,7 +15388,7 @@
             "Radno kolo": "127*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_495_0.jpg",
             "images/slika_495_1.jpg",
             "images/slika_495_2.jpg",
@@ -15417,7 +15417,7 @@
             "Radno kolo": "127*8 mm",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_496_0.jpg",
             "images/slika_496_1.jpg",
             "images/slika_496_2.jpg",
@@ -15443,7 +15443,7 @@
             "Distribution distance": "5 – 15 m",
             "Radna brzina": "5 – 15 km/h"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_497_0.jpg",
             "images/slika_497_1.jpg",
             "images/slika_497_2.jpg",
@@ -15464,7 +15464,7 @@
             "Pumpa": "MERTSAN MTS 496",
             "Kapacitet": "350 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_498_0.jpg",
             "images/slika_498_1.jpg",
             "images/slika_498_2.jpg",
@@ -15490,7 +15490,7 @@
             "Pumpa": "MERTSAN MTS 496",
             "Kapacitet": "500 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_499_0.jpg",
             "images/slika_499_1.jpg",
             "images/slika_499_2.jpg",
@@ -15518,7 +15518,7 @@
             "Prečnik turbine": "900 mm",
             "Kapacitet": "500 litara"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_500_0.jpg",
             "images/slika_500_1.jpg",
             "images/slika_500_2.jpg",
@@ -15549,7 +15549,7 @@
             "Redovi noža": "6",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_501_0.jpg",
             "images/slika_501_1.jpg",
             "images/slika_501_2.jpg",
@@ -15575,7 +15575,7 @@
             "Knife rovs": "7",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_502_0.jpg",
             "images/slika_502_1.jpg",
             "images/slika_502_2.jpg",
@@ -15601,7 +15601,7 @@
             "Knife rovs": "7",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_503_0.jpg",
             "images/slika_503_1.jpg",
             "images/slika_503_2.jpg",
@@ -15627,7 +15627,7 @@
             "Knife rovs": "8",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_504_0.jpg",
             "images/slika_504_1.jpg",
             "images/slika_504_2.jpg",
@@ -15653,7 +15653,7 @@
             "Redovi noža": "5",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_505_0.jpg",
             "images/slika_505_1.jpg",
             "images/slika_505_2.jpg",
@@ -15680,7 +15680,7 @@
             "Radno kolo": "127*8 mm",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_506_0.jpg",
             "images/slika_506_1.jpg",
             "images/slika_506_2.jpg",
@@ -15714,7 +15714,7 @@
             "Radno kolo": "127*8 mm",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_507_0.jpg",
             "images/slika_507_1.jpg",
             "images/slika_507_2.jpg",
@@ -15748,7 +15748,7 @@
             "Radno kolo": "127*8 mm",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_508_0.jpg",
             "images/slika_508_1.jpg",
             "images/slika_508_2.jpg",
@@ -15783,7 +15783,7 @@
             "Strofeio": "127*8",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_509_0.jpg",
             "images/slika_509_1.jpg",
             "images/slika_509_2.jpg",
@@ -15817,7 +15817,7 @@
             "Strofeio": "127*8",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_510_0.jpg",
             "images/slika_510_1.jpg",
             "images/slika_510_2.jpg",
@@ -15848,7 +15848,7 @@
             "Noževi": "6 kom.",
             "Radna brzina": "15 km/h"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_511_0.jpg",
             "images/slika_511_1.jpg",
             "images/slika_511_2.jpg",
@@ -15882,7 +15882,7 @@
             "Redovi noža": "6",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_512_0.jpg",
             "images/slika_512_1.jpg",
             "images/slika_512_2.jpg",
@@ -15910,7 +15910,7 @@
             "Knife rovs": "7",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_513_0.jpg",
             "images/slika_513_1.jpg",
             "images/slika_513_2.jpg",
@@ -15935,7 +15935,7 @@
             "Redovi noža": "5",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_514_0.jpg",
             "images/slika_514_1.jpg",
             "images/slika_514_2.jpg",
@@ -15965,7 +15965,7 @@
             "Rear cilinder diameter": "Ø 152*6",
             "Kaiševi": "5"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_515_0.jpg",
             "images/slika_515_1.jpg",
             "images/slika_515_2.jpg",
@@ -15998,7 +15998,7 @@
             "Noževi": "4 + 1 kom.",
             "Chip size": "5 – 20 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_516_0.jpg",
             "images/slika_516_1.jpg",
             "images/slika_516_2.jpg",
@@ -16070,7 +16070,7 @@
                 "# brzih linkova": "2"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_517_0.jpg",
             "images/slika_517_1.jpg",
             "images/slika_517_2.jpg",
@@ -16147,7 +16147,7 @@
                 "# brzih linkova": "2"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_518_0.jpg",
             "images/slika_518_1.jpg",
             "images/slika_518_2.jpg",
@@ -16217,7 +16217,7 @@
                 "Makimum steer angle": "54,5 °"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_519_0.jpg",
             "images/slika_519_1.jpg",
             "images/slika_519_2.jpg",
@@ -16284,7 +16284,7 @@
                 "# brzih linkova": "4"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_520_0.jpg",
             "images/slika_520_1.jpg",
             "images/slika_520_2.jpg",
@@ -16367,7 +16367,7 @@
                 "# brzih linkova": "4"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_521_0.jpg",
             "images/slika_521_1.jpg",
             "images/slika_521_2.jpg",
@@ -16448,7 +16448,7 @@
                 "# brzih linkova": "4"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_522_0.jpg",
             "images/slika_522_1.jpg",
             "images/slika_522_2.jpg",
@@ -16539,7 +16539,7 @@
                 "# brzih linkova": "4"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_523_0.jpg",
             "images/slika_523_1.jpg",
             "images/slika_523_2.jpg",
@@ -16622,7 +16622,7 @@
                 "Loader Kuick Couplings": "Brze spojnice džojstika i kašike"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_524_0.jpg",
             "images/slika_524_1.jpg",
             "images/slika_524_2.jpg",
@@ -16700,7 +16700,7 @@
                 "Loader Kuick Couplings": "Hidraulic_Hook"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_525_0.jpg",
             "images/slika_525_1.jpg",
             "images/slika_525_2.jpg",
@@ -16786,7 +16786,7 @@
                 "Loader Kuick Couplings": "Brze spojnice džojstika i kašike"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_526_0.jpg",
             "images/slika_526_1.jpg",
             "images/slika_526_2.jpg",
@@ -16868,7 +16868,7 @@
                 "Loader Kuick Couplings": "Hidraulic_Hook"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_527_0.jpg",
             "images/slika_527_1.jpg",
             "images/slika_527_2.jpg",
@@ -16944,7 +16944,7 @@
                 "Radna brzina km/h": "0,2 ~ 33"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_528_0.jpg",
             "images/slika_528_1.jpg",
             "images/slika_528_2.jpg",
@@ -17029,7 +17029,7 @@
                 "Radna brzina km/h": "1,0 ~ 26,2"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_529_0.jpg",
             "images/slika_529_1.jpg",
             "images/slika_529_2.jpg",
@@ -17100,7 +17100,7 @@
                 "Kuick couplers for loader": "Jojstik kašika i hidraulični blok sa brzim spojnicama"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_530_0.jpg",
             "images/slika_530_1.jpg",
             "images/slika_530_2.jpg",
@@ -17193,7 +17193,7 @@
                 "Loader Kuick Couplings": "Jojstik korpe i hidraulični blok"
             }
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_531_0.jpg",
             "images/slika_531_1.jpg",
             "images/slika_531_2.jpg",
@@ -17227,7 +17227,7 @@
             "Knife rovs": "4",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_532_0.jpg",
             "images/slika_532_1.jpg",
             "images/slika_532_2.jpg",
@@ -17253,7 +17253,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_533_0.jpg",
             "images/slika_533_1.jpg",
             "images/slika_533_2.jpg"
@@ -17274,7 +17274,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_534_0.jpg",
             "images/slika_534_1.jpg",
             "images/slika_534_2.jpg",
@@ -17306,7 +17306,7 @@
             "Radno kolo": "108*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_535_0.jpg",
             "images/slika_535_1.jpg",
             "images/slika_535_2.jpg",
@@ -17340,7 +17340,7 @@
             "Radna depth": "200 mm",
             "Vind diameter": "305 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_536_0.jpg",
             "images/slika_536_1.jpg",
             "images/slika_536_2.jpg",
@@ -17367,7 +17367,7 @@
             "Radna depth": "200 mm",
             "Vind diameter": "305 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_537_0.jpg",
             "images/slika_537_1.jpg",
             "images/slika_537_2.jpg",
@@ -17397,7 +17397,7 @@
             "Radna depth": "200 mm",
             "Vind diameter": "305 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_538_0.jpg",
             "images/slika_538_1.jpg",
             "images/slika_538_2.jpg",
@@ -17423,7 +17423,7 @@
             "visina noža": "360 mm",
             "Oštrica": "150*10 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_539_0.jpg",
             "images/slika_539_1.jpg",
             "images/slika_539_2.jpg",
@@ -17450,7 +17450,7 @@
             "visina noža": "360 mm",
             "Oštrica": "150*10 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_540_0.jpg",
             "images/slika_540_1.jpg",
             "images/slika_540_2.jpg",
@@ -17484,7 +17484,7 @@
             "visina noža": "360 mm",
             "Oštrica": "150*10 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_541_0.jpg",
             "images/slika_541_1.jpg",
             "images/slika_541_2.jpg",
@@ -17507,7 +17507,7 @@
             "Noževi": "6 kom.",
             "Radna brzina": "15 km/h"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_542_0.jpg",
             "images/slika_542_1.jpg",
             "images/slika_542_2.jpg",
@@ -17544,7 +17544,7 @@
             "Oil pressure range": "80 – 240 bara",
             "Speed range": "36 – 100 o/min"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_543_0.jpg",
             "images/slika_543_1.jpg",
             "images/slika_543_2.jpg",
@@ -17566,7 +17566,7 @@
             "Oil pressure range": "80 – 240 bara",
             "Speed range": "43 – 81 o/min"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_544_0.jpg",
             "images/slika_544_1.jpg",
             "images/slika_544_2.jpg",
@@ -17588,7 +17588,7 @@
             "Knife rovs": "8",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_545_0.jpg",
             "images/slika_545_1.jpg",
             "images/slika_545_2.jpg",
@@ -17615,7 +17615,7 @@
             "Redovi noža": "9",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_546_0.jpg",
             "images/slika_546_1.jpg",
             "images/slika_546_2.jpg",
@@ -17643,7 +17643,7 @@
             "Knife rovs": "10",
             "Radna dubina": "100 – 210 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_547_0.jpg",
             "images/slika_547_1.jpg",
             "images/slika_547_2.jpg",
@@ -17672,7 +17672,7 @@
             "Strofeio": "159*8",
             "Kaiševi": "5"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_548_0.jpg",
             "images/slika_548_1.jpg",
             "images/slika_548_2.jpg",
@@ -17697,7 +17697,7 @@
             "visina noža": "360 mm",
             "Oštrica": "150*10 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_549_0.jpg",
             "images/slika_549_1.jpg",
             "images/slika_549_2.jpg",
@@ -17725,7 +17725,7 @@
             "visina noža": "360 mm",
             "Oštrica": "150*10 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_550_0.jpg",
             "images/slika_550_1.jpg",
             "images/slika_550_2.jpg",
@@ -17746,7 +17746,7 @@
             "visina noža": "360 mm",
             "Oštrica": "150*10 mm"
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_551_0.jpg",
             "images/slika_551_1.jpg",
             "images/slika_551_2.jpg",
@@ -17776,7 +17776,7 @@
             "Spirala": "160*10",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_552_0.jpg",
             "images/slika_552_1.jpg",
             "images/slika_552_2.jpg",
@@ -17835,7 +17835,7 @@
             "Spirala": "160*10",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_553_0.jpg",
             "images/slika_553_1.jpg",
             "images/slika_553_2.jpg",
@@ -17894,7 +17894,7 @@
             "Spirala": "160*10",
             "Kaiševi": "4 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_554_0.jpg",
             "images/slika_554_1.jpg",
             "images/slika_554_2.jpg",
@@ -17953,7 +17953,7 @@
             "Radno kolo": "90*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_555_0.jpg",
             "images/slika_555_1.jpg",
             "images/slika_555_2.jpg",
@@ -17980,7 +17980,7 @@
             "Radno kolo": "90*6 mm",
             "Kaiševi": "0 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_556_0.jpg",
             "images/slika_556_1.jpg",
             "images/slika_556_2.jpg",
@@ -18005,7 +18005,7 @@
             "Radno kolo": "90*8 mm",
             "Kaiševi": "3 kom."
         },
-        "sviđa mi se": [
+        "slike": [
             "images/slika_557_0.jpg",
             "images/slika_557_1.jpg",
             "images/slika_557_2.jpg",
