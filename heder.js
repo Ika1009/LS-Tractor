@@ -5,11 +5,17 @@ document.addEventListener("DOMContentLoaded", function () {
     const menu = document.querySelector("#mega-menu-full");
 
     dropdownButton.addEventListener("mouseenter", function () {
-        dropdownMenu.classList.remove("hidden");
+        if (window.innerWidth >= 1024) { 
+            dropdownMenu.classList.remove("hidden");
+        } else {
+            window.location.href = "/masine.html"; 
+        }
     });
 
     dropdownMenu.addEventListener("mouseleave", function () {
-        dropdownMenu.classList.add("hidden");
+        if (window.innerWidth >= 1024) {
+            dropdownMenu.classList.add("hidden");
+        }
     });
 
     menuToggle.addEventListener("click", function () {
