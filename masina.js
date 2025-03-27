@@ -8,7 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     fetchMachines()
       .then(machines => {
-        const machine = machines.find(m => m.model.toLowerCase() === machineId.toLowerCase());
+        console.log('Fetched machines:', machines[0].vrsta);
+        const machine = machines.find(m => m?.vrsta?.toLowerCase() === machineId.toLowerCase());
         if (!machine) {
           console.error("Machine not found.");
           return;
