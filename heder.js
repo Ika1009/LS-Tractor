@@ -7,13 +7,15 @@ document.addEventListener("DOMContentLoaded", function () {
     dropdownButton.addEventListener("mouseenter", function () {
         if (window.innerWidth >= 1024) { 
             dropdownMenu.classList.remove("hidden");
+            dropdownMenu.classList.add("block");
         } else {
-            window.location.href = "/masine.html"; 
+            window.location.href = "/masine.html";
         }
     });
 
     dropdownMenu.addEventListener("mouseleave", function () {
         if (window.innerWidth >= 1024) {
+            dropdownMenu.classList.remove("block");
             dropdownMenu.classList.add("hidden");
         }
     });
