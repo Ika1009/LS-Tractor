@@ -15,7 +15,7 @@ function fetchMachines(url = 'masine.json') {
 function filterMachines(machines, kategorija) {
   if (!kategorija) return machines;
   return machines.filter(machine =>
-    machine.model.toLowerCase().includes(kategorija.toLowerCase())
+    machine.vrsta.toLowerCase().includes(kategorija.toLowerCase())
   );
 }
 
@@ -75,7 +75,7 @@ function initMachinesDisplay() {
     gridContainer.className = 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8';
     machinesSection.appendChild(gridContainer);
   }
-  const kategorija = getQueryParam('kategorija');
+  const kategorija = getQueryParam('vrsta');
   fetchMachines()
     .then(machinesData => {
       const filteredMachines = filterMachines(machinesData, kategorija);
@@ -86,4 +86,6 @@ function initMachinesDisplay() {
     });
 }
 
-document.addEventListener('DOMContentLoaded', initMachinesDisplay);
+
+console.log("MASINE")
+initMachinesDisplay();
