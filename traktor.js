@@ -52,7 +52,12 @@ document.addEventListener('DOMContentLoaded', function() {
             mainImage.alt = tractor.model;
             console.log('Updated main image:', tractor.images[0]);
         }
-    
+
+        const youtubeFrame = document.getElementById('youtube_frame');
+        if (youtubeFrame && tractor.youtube_url) {
+            youtubeFrame.src = tractor.youtube_url.replace("watch?v=", "embed/");
+            console.log('Updated YouTube video:', tractor.youtube_url);
+        }
         const thumbnailsContainer = document.querySelector('section.bg-gray-100 .grid.grid-cols-2.md\\:grid-cols-4');
         if (thumbnailsContainer) {
             thumbnailsContainer.innerHTML = '';
