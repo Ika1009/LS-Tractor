@@ -603,7 +603,7 @@
         "model": "Seckalica za benzin GK65 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "155 kg",
-            "Motor": "Loncin 252cc 8 ks",
+            "Motor": "Loncin 252cc 8 KS",
             "Širina": "732 mm",
             "Dužina": "1795 mm",
             "Visina": "1154 mm",
@@ -643,7 +643,7 @@
         "model": "Seckalica za benzin GK80pro - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "249 kg",
-            "Motor": "Loncin 420cc 15 ks",
+            "Motor": "Loncin 420cc 15 KS",
             "Širina": "890 mm",
             "Dužina": "1830 mm",
             "Visina": "1180 mm",
@@ -684,7 +684,7 @@
         "model": "Seckalica za benzin GK80 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "224 kg",
-            "Motor": "Loncin 420cc 15 ks",
+            "Motor": "Loncin 420cc 15 KS",
             "Širina": "890 mm",
             "Dužina": "1830 mm",
             "Visina": "1180 mm",
@@ -716,7 +716,7 @@
         "model": "Seckalica za benzin GK90pro - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "335 kg",
-            "Motor": "Loncin 420cc 15 ks",
+            "Motor": "Loncin 420cc 15 KS",
             "Širina": "1000 mm",
             "Dužina": "1760 mm",
             "Visina": "1200 mm",
@@ -744,7 +744,7 @@
         "model": "Seckalica za benzin GK90 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "310 kg",
-            "Motor": "Loncin 420cc 15 ks",
+            "Motor": "Loncin 420cc 15 KS",
             "Širina": "1000 mm",
             "Dužina": "1760 mm",
             "Visina": "1200 mm",
@@ -784,7 +784,7 @@
         "model": "Prikolica za drobljenje na benzin sa vratima SGK120 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "250 kg",
-            "Motor": "Loncin 420cc 15 ks",
+            "Motor": "Loncin 420cc 15 KS",
             "Potrošnja goriva": "1 L/h",
             "Širina": "1760 mm",
             "Dužina": "1720 mm",
@@ -823,7 +823,7 @@
             "Širina": "1268 mm",
             "Dužina": "800 mm",
             "Visina": "1015 mm",
-            "Glavna snaga": "32 Kva",
+            "Glavna snaga": "32 kVA",
             "Nominalni napon": "220/380 V",
             "Nominalna brzina": "1500 o/min",
             "Nominalna frekvencija": "50 Hz"
@@ -839,7 +839,7 @@
         "vrsta": "Razne poljoprivredne masine",
         "model": "Trofazni dizel generator zatvorenog tipa sa bazom, vodeno hlađen sa automatskom razvodnom tablom GD23 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
-            "Snaga": "23 Kva",
+            "Snaga": "23 kVA",
             "Nominalni napon": "220/380 V",
             "Nazivna struja": "36 A",
             "Nominalna frekvencija": "50 Hz",
@@ -863,7 +863,7 @@
                 "Brend": "ITO",
                 "Model": "ISD490D",
                 "Cilindri": "4",
-                "Snaga motora": "28 ks",
+                "Snaga motora": "28 KS",
                 "Odnos hoda/prečnika (cilindrični odnos)": "90*100",
                 "Raspremina": "2,54 L",
                 "Način pokretanja": "Električni start",
@@ -919,7 +919,7 @@
         "vrsta": "Razne poljoprivredne masine",
         "model": "Trofazni dizel generator zatvorenog tipa sa bazom, vodeno hlađen sa automatskom razvodnom tablom GD28 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
-            "Snaga": "28 Kva",
+            "Snaga": "28 kVA",
             "Nominalni napon": "220/380 V",
             "Nazivna struja": "36 A",
             "Nominalna frekvencija": "50 Hz",
@@ -943,7 +943,7 @@
                 "Brend": "ITO",
                 "Model": "I490D",
                 "Cilindri": "4",
-                "Snaga motora": "32 ks",
+                "Snaga motora": "32 KS",
                 "Odnos hoda/prečnika (cilindrični odnos)": "90*105",
                 "Raspremina": "2,67 L",
                 "Način pokretanja": "Električni start",
@@ -999,7 +999,7 @@
         "vrsta": "Razne poljoprivredne masine",
         "model": "Trofazni dizel generator zatvorenog tipa sa bazom, vodeno hlađen sa automatskom razvodnom tablom GD36 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
-            "Snaga": "36 Kva",
+            "Snaga": "36 kVA",
             "Nominalni napon": "220/380 V",
             "Nazivna struja": "50 A",
             "Nominalna frekvencija": "50 Hz",
@@ -1023,7 +1023,7 @@
                 "Brend": "ITO",
                 "Model": "I4102D",
                 "Cilindri": "4",
-                "Snaga motora": "44 ks",
+                "Snaga motora": "44 KS",
                 "Odnos hoda/prečnika (cilindrični odnos)": "102*118",
                 "Zapremina": "3,875 L",
                 "Način pokretanja": "Električni start",
@@ -1079,7 +1079,7 @@
         "vrsta": "Razne poljoprivredne masine",
         "model": "Trofazni dizel generator zatvorenog tipa sa bazom, vodeno hlađen sa automatskom razvodnom tablom GD47 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
-            "Snaga": "47 Kva",
+            "Snaga": "47 kVA",
             "Nominalni napon": "220/380 V",
             "Nazivna struja": "62 A",
             "Nominalna frekvencija": "50 Hz",
@@ -1103,7 +1103,7 @@
                 "Brend": "ITO",
                 "Model": "I4110D",
                 "Cilindri": "4",
-                "Snaga motora": "58 ks",
+                "Snaga motora": "58 KS",
                 "Odnos hoda/prečnika (cilindrični odnos)": "110*118",
                 "Raspremina": "4,4 L",
                 "Način pokretanja": "Električni start",
@@ -1159,7 +1159,7 @@
         "vrsta": "Razne poljoprivredne masine",
         "model": "Trofazni dizel agregat zatvorenog tipa sa bazom, vodeno hlađen sa automatskom razvodnom tablom GD55 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
-            "Snaga": "55 Kva",
+            "Snaga": "55 kVA",
             "Nominalni napon": "220/380 V",
             "Nazivna struja": "72 A",
             "Nominalna frekvencija": "50 Hz",
@@ -1183,7 +1183,7 @@
                 "Brend": "ITO",
                 "Model": "I4102ZLD",
                 "Cilindri": "4",
-                "Snaga motora": "64 ks",
+                "Snaga motora": "64 KS",
                 "Odnos hoda/prečnika (cilindrični odnos)": "102*118",
                 "Zapremina": "3,875 L",
                 "Način pokretanja": "Električni start",
@@ -1239,7 +1239,7 @@
         "vrsta": "Razne poljoprivredne masine",
         "model": "Trofazni dizel agregat zatvorenog tipa sa bazom, vodeno hlađen sa automatskom razvodnom tablom GD65 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
-            "Snaga": "65 Kva",
+            "Snaga": "65 kVA",
             "Nominalni napon": "220/380 V",
             "Nazivna struja": "84 A",
             "Nominalna frekvencija": "50 Hz",
@@ -1263,7 +1263,7 @@
                 "Brend": "ITO",
                 "Model": "I4105ZLD",
                 "Cilindri": "4",
-                "Snaga motora": "74 ks",
+                "Snaga motora": "74 KS",
                 "Odnos hoda/prečnika (cilindrični odnos)": "105*118",
                 "Raspolik": "4,1 L",
                 "Način pokretanja": "Električni start",
@@ -1319,7 +1319,7 @@
         "vrsta": "Razne poljoprivredne masine",
         "model": "Trofazni dizel agregat zatvorenog tipa sa bazom, vodeno hlađen sa automatskom razvodnom tablom GD15 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
-            "Snaga": "15 Kva",
+            "Snaga": "15 kVA",
             "Nominalni napon": "220/380 V",
             "Nazivna struja": "20 A",
             "Nominalna frekvencija": "50 Hz",
@@ -1343,7 +1343,7 @@
                 "Brend": "ITO",
                 "Model": "ID480D",
                 "Cilindri": "4",
-                "Snaga motora": "19 ks",
+                "Snaga motora": "19 KS",
                 "Odnos hoda/prečnika (cilindrični odnos)": "80*90",
                 "Zapremina": "1.809 L",
                 "Način pokretanja": "Električni start",
@@ -4098,7 +4098,7 @@
         "model": "Cepač trupaca na benzin | Loncin 15hp RB56 - GUME ZA TRAKTORSKE MAŠINE ZA POLjOPRIVREDU",
         "specifikacije": {
             "Težina": "125 kg",
-            "Motor": "Loncin 15 ks",
+            "Motor": "Loncin 15 KS",
             "Potrošnja goriva": "1 L/h",
             "Širina": "1800 mm",
             "Dužina": "800 mm",
@@ -5999,8 +5999,8 @@
         "model": "Gusenična benzinska seckalica za drva | Loncin 15hp KBD12 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "325 kg",
-            "Chipper motor": "Loncin 420cc 15 ks",
-            "Motor dampera": "Loncin 196cc 6,5 ks",
+            "Chipper motor": "Loncin 420cc 15 KS",
+            "Motor dampera": "Loncin 196cc 6,5 KS",
             "Širina": "640 mm",
             "Dužina": "1900 mm",
             "Visina": "1600 mm",
@@ -6039,7 +6039,7 @@
         "model": "benzinska drobilica za drva | Loncin 6,5hp KB10 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "97 kg",
-            "Motor": "Lifan 196cc 6,5 ks",
+            "Motor": "Lifan 196cc 6,5 KS",
             "Širina": "550 mm",
             "Dužina": "1750 mm",
             "Visina": "1050 mm",
@@ -6079,7 +6079,7 @@
         "model": "benzinska seckalica za drva | Loncin 6,5hp KB05 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "55 kg",
-            "Motor": "Loncin 196cc 6,5 ks",
+            "Motor": "Loncin 196cc 6,5 KS",
             "Širina": "660 mm",
             "Dužina": "570 mm",
             "Visina": "640 mm",
@@ -6117,7 +6117,7 @@
         "model": "benzinska seckalica za drva | Loncin 15hp KBT12 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "260 kg",
-            "Chipper motor": "Loncin 420cc 15 ks",
+            "Chipper motor": "Loncin 420cc 15 KS",
             "Širina": "1000 mm",
             "Dužina": "2270 mm",
             "Visina": "1655 mm",
@@ -6198,7 +6198,7 @@
         "model": "benzinska drobilica za drva | Loncin 6,5hp KBT10 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "103 kg",
-            "Chipper motor": "Loncin 196cc 6,5 ks",
+            "Chipper motor": "Loncin 196cc 6,5 KS",
             "Širina": "1750 mm",
             "Dužina": "550 mm",
             "Visina": "1050 mm",
@@ -6237,7 +6237,7 @@
         "model": "Ciper sa starterom | Loncin 15hp KB15 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "260 kg",
-            "Motor": "Loncin 420cc 15 ks",
+            "Motor": "Loncin 420cc 15 KS",
             "Širina": "1218 mm",
             "Dužina": "2700 mm",
             "Visina": "1424 mm",
@@ -7742,7 +7742,7 @@
         "model": "D300 damper guseničar sa mehaničkim kiperom - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "178 kg",
-            "Motor": "Loncin 196 cc 6,5 ks",
+            "Motor": "Loncin 196 cc 6,5 KS",
             "Potrošnja goriva": "0,8 L/h",
             "Širina": "700 mm",
             "Dužina": "1595 mm",
@@ -8005,7 +8005,7 @@
             },
             "Motor": {
                 "Motor": "DIESEL KUBOTA D1105 trocilindrični",
-                "Konjska snaga (maksimalna kontinuirana snaga)": "19 ks – 2200 o/min",
+                "Konjska snaga (maksimalna kontinuirana snaga)": "19 KS – 2200 o/min",
                 "Hlađenje motora": "Vodeno hlađenje",
                 "Potrošnja goriva": "3 L/h",
                 "Kapacitet rezervoara za gorivo": "22 L"
@@ -8079,7 +8079,7 @@
             },
             "Motor": {
                 "Motor": "DIESEL KUBOTA D1703 četvorocilindrični",
-                "Konjska snaga (maksimalna kontinuirana snaga)": "34 ks – 2800 o/min",
+                "Konjska snaga (maksimalna kontinuirana snaga)": "34 KS – 2800 o/min",
                 "Hlađenje motora": "Vodeno hlađenje",
                 "Potrošnja goriva": "4 L/h",
                 "Kapacitet rezervoara za gorivo": "60 L"
@@ -8179,7 +8179,7 @@
             },
             "Motor": {
                 "Motor": "DIESEL KUBOTA D1105 trocilindrični",
-                "Konjska snaga (maksimalna kontinuirana snaga)": "19 ks – 2200 o/min",
+                "Konjska snaga (maksimalna kontinuirana snaga)": "19 KS – 2200 o/min",
                 "Hlađenje motora": "Vodeno hlađenje",
                 "Potrošnja goriva": "3 L/h",
                 "Kapacitet rezervoara za gorivo": "22 L"
@@ -8266,7 +8266,7 @@
             },
             "Motor": {
                 "Motor": "DIESEL KOOP KD192 jednocilindar",
-                "Konjska snaga (maksimalna kontinuirana snaga)": "10 ks – 3000 o/min",
+                "Konjska snaga (maksimalna kontinuirana snaga)": "10 KS – 3000 o/min",
                 "Hlađenje motora": "Vazdušno hlađenje",
                 "Potrošnja goriva": "2,8 L/h",
                 "Kapacitet rezervoara za gorivo": "11 L"
@@ -8342,7 +8342,7 @@
             },
             "Motor": {
                 "Motor": "DIESEL KOOP KD192 jednocilindar",
-                "Konjska snaga (maksimalna kontinuirana snaga)": "10 ks – 3000 o/min",
+                "Konjska snaga (maksimalna kontinuirana snaga)": "10 KS – 3000 o/min",
                 "Hlađenje motora": "Vazdušno hlađenje",
                 "Potrošnja goriva": "2,8 L/h",
                 "Kapacitet rezervoara za gorivo": "11 L"
@@ -8419,7 +8419,7 @@
             },
             "Motor": {
                 "Motor": "DIESEL KOOP KD192 jednocilindar",
-                "Konjska snaga (maksimalna kontinuirana snaga)": "10 ks – 3000 o/min",
+                "Konjska snaga (maksimalna kontinuirana snaga)": "10 KS – 3000 o/min",
                 "Hlađenje motora": "Vazdušno hlađenje",
                 "Potrošnja goriva": "2,8 L/h",
                 "Kapacitet rezervoara za gorivo": "11 L"
@@ -8801,7 +8801,7 @@
             },
             "Motor": {
                 "Motor": "DIESEL KOOP KD192 jednocilindar",
-                "Konjska snaga (maksimalna kontinuirana snaga)": "10 ks – 3000 o/min",
+                "Konjska snaga (maksimalna kontinuirana snaga)": "10 KS – 3000 o/min",
                 "Hlađenje motora": "Vazdušno hlađenje",
                 "Potrošnja goriva": "2,8 L/h",
                 "Kapacitet rezervoara za gorivo": "11 L"
@@ -8886,7 +8886,7 @@
             },
             "Motor": {
                 "Motor": "DIESEL KOOP KD192 jednocilindar",
-                "Konjska snaga (maksimalna kontinuirana snaga)": "10 ks – 3000 o/min",
+                "Konjska snaga (maksimalna kontinuirana snaga)": "10 KS – 3000 o/min",
                 "Hlađenje motora": "Vazdušno hlađenje",
                 "Potrošnja goriva": "2,8 L/h",
                 "Kapacitet rezervoara za gorivo": "11 L"
@@ -9027,7 +9027,7 @@
         "model": "Mini freza 3.5T, Kubota Diesel, sa rotacijom strele, bočnim komandnim polugama i čekić linijom EB35-PRO - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "3300 kg",
-            "Konjska snaga (maksimalni kontinuirani izlaz)": "34/2800 ks/rpm",
+            "Konjska snaga (maksimalni kontinuirani izlaz)": "34/2800 KS/rpm",
             "Radna širina": "550 mm",
             "Rotacija": "360°",
             "Hidraulični protok": "99 L/min",
@@ -9066,7 +9066,7 @@
         "model": "Gusenični damper sa hidrauličnim kiperom D800H - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "440 kg",
-            "Motor": "Loncin 389 cc 13 ks",
+            "Motor": "Loncin 389 cc 13 KS",
             "Potrošnja goriva": "1 L/h",
             "Širina": "815 mm",
             "Dužina": "2150 mm",
@@ -9102,7 +9102,7 @@
         "model": "D500H damper guseničar sa hidrauličnim kiperom - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "290 kg",
-            "Motor": "Loncin 270 cc 9 ks",
+            "Motor": "Loncin 270 cc 9 KS",
             "Potrošnja goriva": "0,9 L/h",
             "Širina": "750 mm",
             "Dužina": "1850 mm",
@@ -9198,7 +9198,7 @@
         "model": "High Kipping Dumper T500 - POLjOPRIVREDNE MAŠINE TRAKTOR GUME",
         "specifikacije": {
             "Težina": "446 kg",
-            "Motor": "Loncin 270 cc 9 ks",
+            "Motor": "Loncin 270 cc 9 KS",
             "Potrošnja goriva": "0,9 L/h",
             "Širina": "710 mm",
             "Dužina": "2400 mm",
@@ -9233,7 +9233,7 @@
         "model": "Kiper sa utovarivačem i visokim kiperom T500FL - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "446 kg",
-            "Motor": "Loncin 270 cc 9 ks",
+            "Motor": "Loncin 270 cc 9 KS",
             "Potrošnja goriva": "0,9 L/h",
             "Širina": "710 mm",
             "Dužina": "2400 mm",
@@ -9267,7 +9267,7 @@
         "model": "D300R damper na točkovima sa mehaničkim kiperom - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "143 kg",
-            "Motor": "Loncin 196 cc 6,5 ks",
+            "Motor": "Loncin 196 cc 6,5 KS",
             "Potrošnja goriva": "0,8 L/h",
             "Širina": "1000 mm",
             "Dužina": "1350 mm",
@@ -9299,7 +9299,7 @@
         "model": "Hidrostatički kiper sa hidrauličnim kiperom H500 - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "380 kg",
-            "Motor": "Loncin 192 cc 6,5 ks",
+            "Motor": "Loncin 192 cc 6,5 KS",
             "Širina": "715 mm",
             "Dužina": "1900 mm",
             "Visina": "1193 mm",
@@ -9321,7 +9321,7 @@
         "specifikacije": {
             "Težina": "630 kg",
             "Motor": "DIESEL KUBOTA D722 jednocilindar",
-            "Konjska snaga (maksimalna kontinuirana snaga)": "14 ks – 3600 o/min",
+            "Konjska snaga (maksimalna kontinuirana snaga)": "14 KS – 3600 o/min",
             "Maksimalni obrtni moment motora": "23,8 Nm/3000 o/min",
             "Potrošnja goriva": "3 L/h",
             "Kapacitet rezervoara za gorivo": "5,5 L",
@@ -9353,7 +9353,7 @@
         "specifikacije": {
             "Težina": "630 kg",
             "Motor": "DIESEL KOOP KD195 jednocilindar",
-            "Konjska snaga (maksimalna kontinuirana snaga)": "10 ks – 3000 o/min",
+            "Konjska snaga (maksimalna kontinuirana snaga)": "10 KS – 3000 o/min",
             "Maksimalni obrtni moment motora": "23,8 Nm/3000 o/min",
             "Potrošnja goriva": "2,8 L/h",
             "Kapacitet rezervoara za gorivo": "5,5 L",
@@ -9385,7 +9385,7 @@
         "specifikacije": {
             "Težina": "630 kg",
             "Motor": "DIESEL KOOP KD195 jednocilindar",
-            "Konjska snaga (maksimalna kontinuirana snaga)": "10 ks – 3000 o/min",
+            "Konjska snaga (maksimalna kontinuirana snaga)": "10 KS – 3000 o/min",
             "Maksimalni obrtni moment motora": "23,8 Nm/3000 o/min",
             "Potrošnja goriva": "2,8 L/h",
             "Kapacitet rezervoara za gorivo": "5,5 L",
@@ -9433,7 +9433,7 @@
         "specifikacije": {
             "Težina": "630 kg",
             "Motor": "DIESEL KUBOTA D722 trocilindrični",
-            "Konjska snaga (maksimalna kontinuirana snaga)": "14 ks – 3600 o/min",
+            "Konjska snaga (maksimalna kontinuirana snaga)": "14 KS – 3600 o/min",
             "Maksimalni obrtni moment motora": "45,8 Nm / 2600",
             "Potrošnja goriva": "3 L/h",
             "Kapacitet rezervoara za gorivo": "5,5 L",
@@ -9481,7 +9481,7 @@
         "model": "D500 damper guseničar sa mehaničkim kiperom - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "245 kg",
-            "Motor": "Loncin 196 cc 6,5 ks",
+            "Motor": "Loncin 196 cc 6,5 KS",
             "Potrošnja goriva": "0,8 L/h",
             "Širina": "700 mm",
             "Dužina": "1595 mm",
@@ -10839,7 +10839,7 @@
         "model": "Ručna benzinska motorna testera | Loncin 15hp SKKS60 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "188 kg",
-            "Motor": "Loncin 420cc 15 ks",
+            "Motor": "Loncin 420cc 15 KS",
             "Potrošnja goriva": "1 L/h",
             "Širina": "2172 mm",
             "Dužina": "950 mm",
@@ -11673,7 +11673,7 @@
         "model": "Daljinski upravljani razarač RGK90pro - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "280 kg",
-            "Motor": "Loncin 420cc 15 ks",
+            "Motor": "Loncin 420cc 15 KS",
             "Širina": "1000 mm",
             "Dužina": "1650 mm",
             "Visina": "868 mm",
@@ -11956,7 +11956,7 @@
             "Širina": "1520 mm",
             "Visina": "2434 mm",
             "Težina": "3000 kg",
-            "Konjska snaga (maksimalni kontinuirani izlaz)": "26/2400 ks/rpm",
+            "Konjska snaga (maksimalni kontinuirani izlaz)": "26/2400 KS/rpm",
             "Radna širina": "1600 mm",
             "Hidraulični protok": "48 L/min",
             "Hidraulični pritisak": "160 bara",
@@ -12001,7 +12001,7 @@
             "Širina": "1760 mm",
             "Visina": "2537 mm",
             "Težina": "3600 kg",
-            "Konjska snaga (maksimalni kontinuirani izlaz)": "51/2650 ks/rpm",
+            "Konjska snaga (maksimalni kontinuirani izlaz)": "51/2650 KS/rpm",
             "Radna širina": "1800 mm",
             "Hidraulični protok": "77 L/min",
             "Hidraulični pritisak": "160 bara",
@@ -12061,7 +12061,7 @@
             "Širina": "1760 mm",
             "Visina": "2537 mm",
             "Težina": "4000 kg",
-            "Konjska snaga (maksimalni kontinuirani izlaz)": "60/2400 ks/rpm",
+            "Konjska snaga (maksimalni kontinuirani izlaz)": "60/2400 KS/rpm",
             "Radna širina": "1800 mm",
             "Hidraulični protok": "77 L/min",
             "Hidraulični pritisak": "160 bara",
