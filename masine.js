@@ -48,6 +48,7 @@ function createMachineCard(machine) {
     card.appendChild(specParagraph);
   });
 
+  // Kreiramo link koji vodi na masina.html sa URL enkodovanim imenom modela
   const link = document.createElement('a');
   link.href = `masina.html?masina=${encodeURIComponent(machine.model)}`;
   link.appendChild(card);
@@ -86,6 +87,5 @@ function initMachinesDisplay() {
     });
 }
 
-
-console.log("MASINE")
+console.log("MASINE");
 initMachinesDisplay();
