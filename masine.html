@@ -25,188 +25,149 @@
 <body>
     <!-- Header -->
     <header>
-        <nav class="bg-[#0A1E5A] px-4 lg:px-6 py-5">
+        <nav class="relative bg-[#0A1E5A] px-4 lg:px-6 py-5">
             <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                 <a href="index.html" class="flex items-center">
                     <img src="assets/img/logo/logo2.svg" class="mr-3 h-6 sm:h-9" alt="LS Tractor Logo" />
                 </a>
+                <div class="flex items-center lg:order-1">
+                    <button data-collapse-toggle="mobile-menu-2" type="button" class="inline-flex items-center p-2 ml-1 text-sm text-white rounded-lg lg:hidden" aria-controls="mobile-menu-2" aria-expanded="false">
+                        <span class="sr-only">Open main menu</span>
+                        <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
+                        <svg class="hidden w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+                    </button>
+                </div>
                 <div id="mega-menu-full" class="items-center justify-between hidden w-full lg:flex lg:w-auto lg:order-1">
                     <ul class="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
                         <li>
-                            <a href="index.html" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">Elegantni i kompaktni traktori</a>
+                            <a href="index.html" class="block py-2 pr-4 pl-3 text-[#FF4A4A] border-b border-gray-100 lg:border-0 lg:p-0" aria-current="page">Elegantni i kompaktni traktori</a>
                         </li>
                         <li>
-                            <button id="mega-menu-full-dropdown-button" data-collapse-toggle="mega-menu-full-dropdown" class="flex items-center justify-between w-full py-2 px-3 text-[#D71E33] rounded bg-primary-700 lg:bg-transparent lg:text-primary-700 lg:p-0" aria-current="page"> 
+                            <button id="mega-menu-full-dropdown-button" data-collapse-toggle="mega-menu-full-dropdown" class="flex items-center justify-between w-full py-2 px-3 text-white border-b border-gray-100 lg:border-0 hover:text-[#FF4A4A] lg:p-0">
                                 Mašine 
-                                <svg class="w-2.5 h-2.5 ms-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                                <svg class="w-2.5 h-2.5 ms-2.5 hidden lg:flex" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
                                 </svg>
                             </button>
                         </li>
                         <li>
-                            <a href="traktori.html" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">Traktori</a>
+                            <a href="traktori.html" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 lg:border-0 hover:text-[#FF4A4A] lg:p-0">Traktori</a>
                         </li>
                         <li>
-                            <a href="o-nama.html" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">O nama</a>
+                            <a href="o-nama.html" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 lg:border-0 hover:text-[#FF4A4A] lg:p-0">O nama</a>
                         </li>
                         <li>
-                            <a href="kontakt.html" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-[#D71E33] lg:p-0">Kontakt</a>
+                            <a href="kontakt.html" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 lg:border-0 hover:text-[#FF4A4A] lg:p-0">Kontakt</a>
                         </li>
                     </ul>
                 </div>
             </div>
-            <div id="mega-menu-full-dropdown" class="mt-4 shadow-xs bg-[#0A1E5A] hidden">
-                <div class="grid max-w-screen-xl px-4 py-5 mx-auto text-white sm:grid-cols-6 md:px-6">
-                    <ul>
-                        <li>
-                            <a href="./masina.html?masina=nagnuti_unistivaci" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
-                                <img src="assets/img/header/inclined_destroyers.webp" alt="Nagnuti Uništivači" class="w-30 h-30 rounded-md" loading="lazy">
-                                <div class="text-center">
-                                    <div class="font-normal">Nagnuti Uništivači</div>
-                                </div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="./masina.html?masina=transportne_masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
-                                <img src="assets/img/header/transport_machinery.webp" alt="Dizalice - Transportne Mašine" class="w-30 h-30 rounded-md" loading="lazy">
-                                <div class="text-center">
-                                    <div class="font-normal">Dizalice - Transportne Mašine</div>
-                                </div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="./masina.html?masina=rasipaci_djubriva" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
-                                <img src="assets/img/header/fertilizer_distributors.webp" alt="Rasipači Đubriva" class="w-30 h-30 rounded-md" loading="lazy">
-                                <div class="text-center">
-                                    <div class="font-normal">Rasipači Đubriva</div>
-                                </div>
-                            </a>
-                        </li>
-                    </ul>
-                    <ul>
-                        <li>
-                            <a href="./masina.html?masina=mini_damper" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
-                                <img src="assets/img/header/mini_dumper.webp" alt="Mini Damper - Viljuškar" class="w-30 h-30 rounded-md" loading="lazy">
-                                <div class="text-center">
-                                    <div class="font-normal">Mini Damper - Viljuškar</div>
-                                </div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="./masina.html?masina=trimeri_kosacice" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
-                                <img src="assets/img/header/brushcutters.webp" alt="Trimeri - Kosilice" class="w-30 h-30 rounded-md" loading="lazy">
-                                <div class="text-center">
-                                    <div class="font-normal">Trimeri - Kosilice</div>
-                                </div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="./masina.html?masina=dodatna_oprema_gradjevinske_masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
-                                <img src="assets/img/header/construction_machinery_accessories.webp" alt="Dodatna Oprema za Građevinske Mašine" class="w-30 h-30 rounded-md" loading="lazy">
-                                <div class="text-center">
-                                    <div class="font-normal">Dodatna Oprema za Građevinske Mašine</div>
-                                </div>
-                            </a>
-                        </li>
-                    </ul>
-                    <ul>
-                        <li>
-                            <a href="./masina.html?masina=mlinovi" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
-                                <img src="assets/img/header/mills.webp" alt="Mlinovi - Peletirke" class="w-30 h-30 rounded-md" loading="lazy">
-                                <div class="text-center">
-                                    <div class="font-normal">Mlinovi - Peletirke</div>
-                                </div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="./masina.html?masina=traktorske_lopate" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
-                                <img src="assets/img/header/tractor_shovels.webp" alt="Traktorske Lopate - Mini Bageri" class="w-30 h-30 rounded-md" loading="lazy">
-                                <div class="text-center">
-                                    <div class="font-normal">Traktorske Lopate - Mini Bageri</div>
-                                </div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="./masina.html?masina=razne_poljoprivredne_masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
-                                <img src="assets/img/header/various_agricultural_machinery.webp" alt="Razne Poljoprivredne Mašine" class="w-30 h-30 rounded-md" loading="lazy">
-                                <div class="text-center">
-                                    <div class="font-normal">Razne Poljoprivredne Mašine</div>
-                                </div>
-                            </a>
-                        </li>
-                    </ul>  
-                    <ul>
-                      <li>
-                          <a href="./masina.html?masina=poljoprivredne_masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
-                              <img src="assets/img/header/farming_machinery.webp" alt="Poljoprivredne mašine" class="w-30 h-30 rounded-md" loading="lazy">
-                              <div class="text-center">
-                                  <div class="font-normal">Poljoprivredne mašine</div>
-                              </div>
-                          </a>
-                      </li>
-                      <li>
-                          <a href="./masina.html?masina=polovne_poljoprivredne_masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
-                              <img src="assets/img/header/used_agricultural_machinery.webp" alt="Polovne poljoprivredne mašine" class="w-30 h-30 rounded-md" loading="lazy">
-                              <div class="text-center">
-                                  <div class="font-normal">Polovne poljoprivredne mašine</div>
-                              </div>
-                          </a>
-                      </li>
-                      <li>
-                          <a href="./masina.html?masina=graderi" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
-                              <img src="assets/img/header/graders.webp" alt="Graderi - Snežni plugovi" class="w-30 h-30 rounded-md" loading="lazy">
-                              <div class="text-center">
-                                  <div class="font-normal">Graderi - Snežni plugovi</div>
-                              </div>
-                          </a>
-                      </li>
-                  </ul>
-                  <ul>
-                      <li>
-                          <a href="./masina.html?masina=busaci" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
-                              <img src="assets/img/header/drills.webp" alt="Bušači - Lanci" class="w-30 h-30 rounded-md" loading="lazy">
-                              <div class="text-center">
-                                  <div class="font-normal">Bušači - Lanci</div>
-                              </div>
-                          </a>
-                      </li>
-                      <li>
-                          <a href="./masina.html?masina=sadjalice" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
-                              <img src="assets/img/header/planting_machines.webp" alt="Sadilice - Vađači krompira" class="w-30 h-30 rounded-md" loading="lazy">
-                              <div class="text-center">
-                                  <div class="font-normal">Sadilice - Vađači krompira</div>
-                              </div>
-                          </a>
-                      </li>
-                      <li>
-                          <a href="./masina.html?masina=rezervni_delovi_poljoprivredne_masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
-                              <img src="assets/img/header/agricultural_machinery_spare_parts.webp" alt="Rezervni delovi za poljoprivredne mašine" class="w-30 h-30 rounded-md" loading="lazy">
-                              <div class="text-center">
-                                  <div class="font-normal">Rezervni delovi za poljoprivredne mašine</div>
-                              </div>
-                          </a>
-                      </li>
-                  </ul>
-                  <ul>
-                      <li>
-                          <a href="./masina.html?masina=unistivaci" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
-                              <img src="assets/img/header/destroyers.webp" alt="Uništivači" class="w-30 h-30 rounded-md" loading="lazy">
-                              <div class="text-center">
-                                  <div class="font-normal">Uništivači</div>
-                              </div>
-                          </a>
-                      </li>
-                      <li>
-                          <a href="./masina.html?masina=drobilice_drveta" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
-                              <img src="assets/img/header/wood_chippers.webp" alt="Drobilice drveta - Bio-seckalice" class="w-30 h-30 rounded-md" loading="lazy">
-                              <div class="text-center">
-                                  <div class="font-normal">Drobilice drveta - Bio-seckalice</div>
-                              </div>
-                          </a>
-                      </li>
-                  </ul>  
+            <div id="mega-menu-full-dropdown" class="absolute top-full left-0 w-full z-50 bg-[#0A1E5A] hidden opacity-0 translate-y-[-10px] transition-all duration-300 ease-in-out"> 
+                <div class="grid max-w-screen-xl px-4 py-5 mx-auto text-white sm:grid-cols-6 md:px-6"> 
+                  <a href="./masine.html?vrsta=Nagnuti%20Unistivaci" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/inclined_destroyers.webp" alt="Nagnuti Uništivači" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Nagnuti Uništivači</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Dizalice%20-%20Transportne%20Masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/transport_machinery.webp" alt="Dizalice - Transportne Mašine" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Dizalice - Transportne Mašine</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Rasipaci%20Djubriva" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/fertilizer_distributors.webp" alt="Rasipači Đubriva" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Rasipači Đubriva</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Mini%20Damperi%20-%20Viljuskari" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/mini_dumper.webp" alt="Mini Damper - Viljuškar" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Mini Damperi - Viljuškari</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Dodatna%20Oprema%20za%20Gradjevinske%20Masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/construction_machinery_accessories.webp" alt="Dodatna Oprema za Građevinske Mašine" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Dodatna Oprema za Građevinske Mašine</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Trimeri%20-%20Kosilice" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/brushcutters.webp" alt="Trimeri - Kosilice" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Trimeri - Kosilice</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Mlinovi%20-%20Peletirke" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/mills.webp" alt="Mlinovi - Peletirke" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Mlinovi - Peletirke</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Traktorske%20Lopate%20-%20Mini%20Bageri" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/tractor_shovels.webp" alt="Traktorske Lopate - Mini Bageri" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Traktorske Lopate - Mini Bageri</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Razne%20Poljoprivredne%20Masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/various_agricultural_machinery.webp" alt="Razne Poljoprivredne Mašine" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Razne Poljoprivredne Mašine</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Poljoprivredne%20masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/farming_machinery.webp" alt="Poljoprivredne mašine" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Poljoprivredne mašine</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Polovne%20poljoprivredne%20masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/used_agricultural_machinery.webp" alt="Polovne poljoprivredne mašine" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Polovne poljoprivredne mašine</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Graderi%20-%20Snezni%20plugovi" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/graders.webp" alt="Graderi - Snežni plugovi" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Graderi - Snežni plugovi</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Busaci%20-%20Lanci" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/drills.webp" alt="Bušači - Lanci" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Bušači - Lanci</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Sadilice%20-%20Vadjaci%20krompira" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/planting_machines.webp" alt="Sadilice - Vađači krompira" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Sadilice - Vađači krompira</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Rezervni%20delovi%20za%20poljoprivredne%20masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/agricultural_machinery_spare_parts.webp" alt="Rezervni delovi za poljoprivredne mašine" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Rezervni delovi za poljoprivredne mašine</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Unistivaci" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/destroyers.webp" alt="Uništivači" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Uništivači</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Drobilice%20drveta" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/wood_chippers.webp" alt="Drobilice drveta - Bio-seckalice" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Drobilice drveta - Bio-seckalice</div>
+                    </div>
+                  </a>             
                 </div>
-            </div>
+              </div>                        
         </nav>
     </header>
 
