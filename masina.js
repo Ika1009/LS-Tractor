@@ -53,14 +53,14 @@ function renderMachineDetails(machine) {
   const galleryContainer = document.querySelector('div.gallery');
   if (galleryContainer && machine.slike) {
     galleryContainer.innerHTML = '';
-    machine.slike.forEach(src => {
+    machine.slike.slice(1).forEach(src => { // Skips the first image
       const img = document.createElement('img');
       img.className = 'w-full aspect-[4/3] object-contain rounded-lg cursor-pointer';
       img.src = src;
       img.alt = machine.model;
       galleryContainer.appendChild(img);
     });
-  }
+  }  
 
   // Kreiranje tabele sa specifikacijama
   const table = document.querySelector('table');
