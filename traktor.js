@@ -34,12 +34,6 @@ document.addEventListener('DOMContentLoaded', function() {
     .catch(error => console.error('Error loading data:', error));
 
     function populateTractorData(tractor) {
-        const titleElement = document.querySelector('h1');
-        if (titleElement) {
-            titleElement.textContent = tractor.model;
-            console.log('Updated title:', tractor.model);
-        }
-    
         const titleElement2 = document.querySelector('h2');
         if (titleElement2) {
             titleElement2.textContent = tractor.model;

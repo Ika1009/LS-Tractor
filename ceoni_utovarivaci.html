@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="LS XJ25 mini traktor">
+    <title>LS XJ25 mini traktor</title>
+
+    <!-- App favicon -->
+    <link rel="shortcut icon" href="assets/img/logo/logo.svg">
+
+    <!-- Icon CSS -->
+    <link rel="stylesheet" href="assets/css/vendor/remixicon.css">
+
+    <!-- Tailwind CSS -->
+    <script src="assets/js/vendor/tailwindcss3.4.5.js"></script>
+
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/color-3.css" id="add_class">
+</head>
+
+<body>
+    <script src="./photoswipe.umd.min.js"></script>
+    <script src="./photoswipe-lightbox.umd.min.js"></script>
+    
+    <link rel="stylesheet" href="./photoswipe.css">
+    
+    <!-- Header -->
+    <header>
+        <nav class="relative bg-[#0A1E5A] px-4 lg:px-6 py-5">
+            <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
+                <a href="index.html" class="flex items-center">
+                    <img src="assets/img/logo/logo2.svg" class="mr-3 h-6 sm:h-9" alt="LS Tractor Logo" />
+                </a>
+                <div class="flex items-center lg:order-1">
+                    <button data-collapse-toggle="mobile-menu-2" type="button" class="inline-flex items-center p-2 ml-1 text-sm text-white rounded-lg lg:hidden" aria-controls="mobile-menu-2" aria-expanded="false">
+                        <span class="sr-only">Open main menu</span>
+                        <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
+                        <svg class="hidden w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+                    </button>
+                </div>
+                <div id="mega-menu-full" class="items-center justify-between hidden w-full lg:flex lg:w-auto lg:order-1">
+                    <ul class="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
+                        <li>
+                            <a href="index.html" class="block py-2 pr-4 pl-3 text-[#FF4A4A] border-b border-gray-100 lg:border-0 lg:p-0" aria-current="page">Elegantni i kompaktni traktori</a>
+                        </li>
+                        <li>
+                            <button id="mega-menu-full-dropdown-button" data-collapse-toggle="mega-menu-full-dropdown" class="flex items-center justify-between w-full py-2 px-3 text-white border-b border-gray-100 lg:border-0 hover:text-[#FF4A4A] lg:p-0">
+                                Mašine 
+                                <svg class="w-2.5 h-2.5 ms-2.5 hidden lg:flex" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
+                                </svg>
+                            </button>
+                        </li>
+                        <li>
+                            <a href="traktori.html" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 lg:border-0 hover:text-[#FF4A4A] lg:p-0">Traktori</a>
+                        </li>
+                        <li>
+                            <a href="o-nama.html" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 lg:border-0 hover:text-[#FF4A4A] lg:p-0">O nama</a>
+                        </li>
+                        <li>
+                            <a href="kontakt.html" class="block py-2 pr-4 pl-3 text-white border-b border-gray-100 lg:border-0 hover:text-[#FF4A4A] lg:p-0">Kontakt</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div id="mega-menu-full-dropdown" class="absolute top-full left-0 w-full z-50 bg-[#0A1E5A] hidden opacity-0 translate-y-[-10px] transition-all duration-300 ease-in-out"> 
+                <div class="grid max-w-screen-xl px-4 py-5 mx-auto text-white sm:grid-cols-6 md:px-6"> 
+                  <a href="./masine.html?vrsta=Nagnuti%20Unistivaci" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/inclined_destroyers.webp" alt="Nagnuti Uništivači" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Nagnuti Uništivači</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Dizalice%20-%20Transportne%20Masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/transport_machinery.webp" alt="Dizalice - Transportne Mašine" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Dizalice - Transportne Mašine</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Rasipaci%20Djubriva" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/fertilizer_distributors.webp" alt="Rasipači Đubriva" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Rasipači Đubriva</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Mini%20Damperi%20-%20Viljuskari" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/mini_dumper.webp" alt="Mini Damper - Viljuškar" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Mini Damperi - Viljuškari</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Dodatna%20Oprema%20za%20Gradjevinske%20Masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/construction_machinery_accessories.webp" alt="Dodatna Oprema za Građevinske Mašine" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Dodatna Oprema za Građevinske Mašine</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Trimeri%20-%20Kosilice" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/brushcutters.webp" alt="Trimeri - Kosilice" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Trimeri - Kosilice</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Mlinovi%20-%20Peletirke" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/mills.webp" alt="Mlinovi - Peletirke" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Mlinovi - Peletirke</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Traktorske%20Lopate%20-%20Mini%20Bageri" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/tractor_shovels.webp" alt="Traktorske Lopate - Mini Bageri" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Traktorske Lopate - Mini Bageri</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Razne%20Poljoprivredne%20Masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/various_agricultural_machinery.webp" alt="Razne Poljoprivredne Mašine" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Razne Poljoprivredne Mašine</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Poljoprivredne%20masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/farming_machinery.webp" alt="Poljoprivredne mašine" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Poljoprivredne mašine</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Polovne%20poljoprivredne%20masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/used_agricultural_machinery.webp" alt="Polovne poljoprivredne mašine" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Polovne poljoprivredne mašine</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Graderi%20-%20Snezni%20plugovi" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/graders.webp" alt="Graderi - Snežni plugovi" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Graderi - Snežni plugovi</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Busaci%20-%20Lanci" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/drills.webp" alt="Bušači - Lanci" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Bušači - Lanci</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Sadilice%20-%20Vadjaci%20krompira" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/planting_machines.webp" alt="Sadilice - Vađači krompira" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Sadilice - Vađači krompira</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Rezervni%20delovi%20za%20poljoprivredne%20masine" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/agricultural_machinery_spare_parts.webp" alt="Rezervni delovi za poljoprivredne mašine" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Rezervni delovi za poljoprivredne mašine</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Unistivaci" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/destroyers.webp" alt="Uništivači" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Uništivači</div>
+                    </div>
+                  </a>
+                  <a href="./masine.html?vrsta=Drobilice%20drveta" class="block p-3 rounded-lg hover:bg-gray-700 flex flex-col items-center">
+                    <img src="assets/img/header/wood_chippers.webp" alt="Drobilice drveta - Bio-seckalice" class="w-30 h-30 rounded-md" loading="lazy">
+                    <div class="text-center">
+                      <div class="font-normal">Drobilice drveta - Bio-seckalice</div>
+                    </div>
+                  </a>             
+                </div>
+              </div>                        
+        </nav>
+    </header>
+
+    <!-- Product details -->
+    <section class="bg-gray-100 py-12 antialiased md:py-20">
+        <div class="bg-white mx-auto max-w-screen-xl px-4 2xl:px-0">
+            <div class="mx-auto pt-10 pb-20 max-w-5xl">
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+                    <div>
+                        <h2 class="text-2xl font-semibold text-gray-900 sm:text-3xl"></h2>
+                        <p class="mt-6 text-base text-gray-600"></p>
+                    </div>
+                    <div class="flex justify-center">
+                        <img class="max-w-full rounded-lg" src="https://www.lstraktor.sk/media/LS-XJ25_a.jpg" alt="LS XJ25 mini traktor" />
+                    </div>
+                </div>
+                <div class="mt-6 grid grid-cols-2 md:grid-cols-4 gap-4 gallery">
+                    <img class="w-full aspect-[4/3] object-contain rounded-lg cursor-pointer" src="https://www.lstraktor.sk/media/LS-XJ25_a.jpg" alt="LS XJ25 mini traktor" />
+                    <img class="w-full aspect-[4/3] object-contain rounded-lg cursor-pointer" src="https://www.lstraktor.eu/media/LS-XJ25_b.jpg" alt="LS XJ25 mini traktor" />
+                    <img class="w-full aspect-[4/3] object-contain rounded-lg cursor-pointer" src="https://www.lstraktor.sk/media/LS-XJ25_d.jpg" alt="LS XJ25 mini traktor" />
+                    <img class="w-full aspect-[4/3] object-contain rounded-lg cursor-pointer" src="https://www.lstraktor.sk/media/LS-XJ25_c.jpg" alt="LS XJ25 mini traktor" />
+                </div>
+                <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-x-6 gap-y-12">
+                    <div>
+                        <img class="w-full cursor-pointer" src="https://www.lstraktor.eu/media/moderny-elegantny-dizajn.webp" alt="LS XJ25 mini traktor" />
+                        <h2 class="mt-2 font-bold"></h2>
+                        <p class="mt-4"></p>
+                    </div>
+                </div>              
+                <h1 class="mt-12 font-bold text-lg">Tehnički podaci</h1>
+                <table class="mt-4 w-full text-left text-sm text-gray-600">
+                    <thead>
+                        <tr class="bg-white">
+                            <th class="p-3 font-bold text-gray-800">Model traktora</th>
+                            <th class="p-3 font-bold text-gray-800 text-center">MT1.25</th>
+                            <th class="p-3 font-bold text-gray-800 text-center">XJ25</th>
+                            <th class="p-3 font-bold text-gray-800 text-center">MT3.35/3.40</th>
+                            <th class="p-3 font-bold text-gray-800 text-center">MT3.50/3.60</th>
+                            <th class="p-3 font-bold text-gray-800 text-center">XU6168</th>
+                            <th class="p-3 font-bold text-gray-800 text-center">MT5.73</th>
+                            <th class="p-3 font-bold text-gray-800 text-center">MT7.101</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="odd:bg-gray-100 even:bg-white border-t-[3px] border-solid border-black">
+                            <td class="p-3 font-normal text-gray-800">Brzo oslobađanje</td>
+                            <td class="p-3 text-center">bobcat</td>
+                            <td class="p-3 text-center">bobcat</td>
+                            <td class="p-3 text-center">EURO</td>
+                            <td class="p-3 text-center">EURO</td>
+                            <td class="p-3 text-center">EURO</td>
+                            <td class="p-3 text-center">EURO</td>
+                            <td class="p-3 text-center">EURO</td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">A – maksimalna visina podizanja – priključak (mm)</td>
+                            <td class="p-3 text-center">1,850</td>
+                            <td class="p-3 text-center">2,132</td>
+                            <td class="p-3 text-center">2,357</td>
+                            <td class="p-3 text-center">2,355</td>
+                            <td class="p-3 text-center">2,953</td>
+                            <td class="p-3 text-center">3,214</td>
+                            <td class="p-3 text-center">3,556</td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">B – maksimalna visina podizanja – kašika u horizontalnom položaju (mm)</td>
+                            <td class="p-3 text-center">1,675</td>
+                            <td class="p-3 text-center">1,945</td>
+                            <td class="p-3 text-center">2,067</td>
+                            <td class="p-3 text-center">2,065</td>
+                            <td class="p-3 text-center">2,666</td>
+                            <td class="p-3 text-center">2,925</td>
+                            <td class="p-3 text-center">3,265</td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">C – maksimalna visina podizanja – kašika potpuno spuštena (mm)</td>
+                            <td class="p-3 text-center">1,305</td>
+                            <td class="p-3 text-center">1,585</td>
+                            <td class="p-3 text-center">1,553</td>
+                            <td class="p-3 text-center">1,354</td>
+                            <td class="p-3 text-center">2,152</td>
+                            <td class="p-3 text-center">2,420</td>
+                            <td class="p-3 text-center">2,626</td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">D – rastojanje od početka traktora – podignut utovarivač (mm)</td>
+                            <td class="p-3 text-center">719</td>
+                            <td class="p-3 text-center">500</td>
+                            <td class="p-3 text-center">260</td>
+                            <td class="p-3 text-center">229</td>
+                            <td class="p-3 text-center">167</td>
+                            <td class="p-3 text-center">146</td>
+                            <td class="p-3 text-center">594</td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">E – maksimalni ugao razdvojenosti kašike</td>
+                            <td class="p-3 text-center">44°</td>
+                            <td class="p-3 text-center">44°</td>
+                            <td class="p-3 text-center">57°</td>
+                            <td class="p-3 text-center">58°</td>
+                            <td class="p-3 text-center">71°</td>
+                            <td class="p-3 text-center">64°</td>
+                            <td class="p-3 text-center">57°</td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">F – rastojanje od početka traktora – spušteni utovarivač (mm)</td>
+                            <td class="p-3 text-center">1,421</td>
+                            <td class="p-3 text-center">1,550</td>
+                            <td class="p-3 text-center">1,789</td>
+                            <td class="p-3 text-center">1,765</td>
+                            <td class="p-3 text-center">1,895</td>
+                            <td class="p-3 text-center">1,919</td>
+                            <td class="p-3 text-center">2,262</td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">G – maksimalni ugao korpe u odnosu na sebe</td>
+                            <td class="p-3 text-center">38°</td>
+                            <td class="p-3 text-center">36°</td>
+                            <td class="p-3 text-center">49°</td>
+                            <td class="p-3 text-center">43°</td>
+                            <td class="p-3 text-center">48°</td>
+                            <td class="p-3 text-center">38°</td>
+                            <td class="p-3 text-center">46°</td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">H – dubina kopanja – kašika u horizontalnom položaju (mm)</td>
+                            <td class="p-3 text-center">42</td>
+                            <td class="p-3 text-center">196</td>
+                            <td class="p-3 text-center">127</td>
+                            <td class="p-3 text-center">129</td>
+                            <td class="p-3 text-center">105</td>
+                            <td class="p-3 text-center">178</td>
+                            <td class="p-3 text-center">115</td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">J – visina utovarivača kada je spušten (mm)</td>
+                            <td class="p-3 text-center">1,128</td>
+                            <td class="p-3 text-center">1,194</td>
+                            <td class="p-3 text-center">1,246</td>
+                            <td class="p-3 text-center">1,359</td>
+                            <td class="p-3 text-center">1,718</td>
+                            <td class="p-3 text-center">1,630</td>
+                            <td class="p-3 text-center">1,750</td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Širina kašike (mm) / zapremina kašike (m3)</td>
+                            <td class="p-3 text-center">1220/0.21</td>
+                            <td class="p-3 text-center">1270/0.19</td>
+                            <td class="p-3 text-center">1676/0.34</td>
+                            <td class="p-3 text-center">1828/0.37</td>
+                            <td class="p-3 text-center">1980/0.49</td>
+                            <td class="p-3 text-center">1981/0.49</td>
+                            <td class="p-3 text-center">2108/0.71</td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Sila dizanja (kg)</td>
+                            <td class="p-3 text-center">527</td>
+                            <td class="p-3 text-center">500</td>
+                            <td class="p-3 text-center">990</td>
+                            <td class="p-3 text-center">1,233</td>
+                            <td class="p-3 text-center">1,245</td>
+                            <td class="p-3 text-center">1,648</td>
+                            <td class="p-3 text-center">2,336</td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Vreme podizanja do konačne visine (bez opterećenja)</td>
+                            <td class="p-3 text-center">2.7 sekundi</td>
+                            <td class="p-3 text-center">2.9 sekundi</td>
+                            <td class="p-3 text-center">3.7 sekundi</td>
+                            <td class="p-3 text-center">4.4 sekundi</td>
+                            <td class="p-3 text-center">5.0 sekundi</td>
+                            <td class="p-3 text-center">5.1 sekundi</td>
+                            <td class="p-3 text-center">5.2 sekundi</td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Vreme lansiranja sa konačne visine</td>
+                            <td class="p-3 text-center">1.5 sekundi</td>
+                            <td class="p-3 text-center">1.7 sekundi</td>
+                            <td class="p-3 text-center">3.7 sekundi</td>
+                            <td class="p-3 text-center">4.4 sekundi</td>
+                            <td class="p-3 text-center">3.3 sekundi</td>
+                            <td class="p-3 text-center">3.8 sekundi</td>
+                            <td class="p-3 text-center">3.9 sekundi</td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Vreme zastoja</td>
+                            <td class="p-3 text-center">1.8 sekundi</td>
+                            <td class="p-3 text-center">1.9 sekundi</td>
+                            <td class="p-3 text-center">2.3 sekundi</td>
+                            <td class="p-3 text-center">3.9 sekundi</td>
+                            <td class="p-3 text-center">3.8 sekundi</td>
+                            <td class="p-3 text-center">2.9 sekundi</td>
+                            <td class="p-3 text-center">3.1 sekundi</td>
+                        </tr>
+                        <tr class="odd:bg-gray-100 even:bg-white">
+                            <td class="p-3 font-normal text-gray-800">Vreme za skupljanje</td>
+                            <td class="p-3 text-center">1.2 sekundi</td>
+                            <td class="p-3 text-center">1.3 sekundi</td>
+                            <td class="p-3 text-center">3.2 sekundi</td>
+                            <td class="p-3 text-center">2.6 sekundi</td>
+                            <td class="p-3 text-center">2.7 sekundi</td>
+                            <td class="p-3 text-center">2.0 sekundi</td>
+                            <td class="p-3 text-center">2.1 sekundi</td>
+                        </tr>
+                    </tbody>
+                </table>              
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="w-full bg-[#0A1E5A]">
+        <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-6 gap-3 md:gap-8 py-10 max-sm:max-w-sm max-sm:mx-auto gap-y-8">
+                <div class="col-span-full mb-10 lg:col-span-2 lg:mb-0">
+                    <a href="index.html" class="flex justify-center lg:justify-start">
+                        <img src="assets/img/logo/logo2.svg" alt="logo" class="w-40 h-10">
+                    </a>
+                    <p class="py-8 text-sm text-white lg:max-w-xs text-center lg:text-left">Mi smo generalni uvoznik premium brenda LS Tractor za srpsko tržište.</p>
+                    <a href="javascript:;" class="py-2.5 px-5 h-9 block w-fit bg-indigo-600 rounded-full shadow-sm text-xs text-white mx-auto transition-all duration-500 hover:bg-indigo-700 lg:mx-0">
+                        Kontaktiraj nas
+                    </a>
+                </div>
+                <div class="lg:mx-auto text-left">
+                    <h3 class="text-lg text-white font-medium mb-7">Stranice</h3>
+                    <ul class="text-sm transition-all duration-500">
+                        <li class="mb-6"><a href="javascript:;" class="text-white hover:text-[#D71E33]">Početna</a></li>
+                        <li class="mb-6"><a href="javascript:;" class="text-white hover:text-[#D71E33]">Mašine</a></li>
+                        <li class="mb-6"><a href="javascript:;" class="text-white hover:text-[#D71E33]">Traktori</a></li>
+                        <li><a href="javascript:;" class="text-white hover:text-[#D71E33]">O nama</a></li>
+                    </ul>
+                </div>
+                <div class="lg:mx-auto text-left">
+                    <h3 class="text-lg text-white font-medium mb-7">EURO 3</h3>
+                    <ul class="text-sm transition-all duration-500">
+                        <li class="mb-6"><a href="javascript:;" class="text-white hover:text-[#D71E33]">LS R36i MT RR 38 KS</a></li>
+                        <li class="mb-6"><a href="javascript:;" class="text-white hover:text-[#D71E33]">LS R36i MT RR 38 KS</a></li>
+                        <li class="mb-6"><a href="javascript:;" class="text-white hover:text-[#D71E33]">LS R60 MT CAB 60 KS</a></li>
+                        <li><a href="javascript:;" class="text-white hover:text-[#D71E33]">LS XR50 MT CAB 50 KS</a></li>
+                    </ul>
+                </div>
+                <div class="lg:mx-auto text-left">
+                    <h3 class="text-lg text-white font-medium mb-7">EURO 5</h3>
+                    <ul class="text-sm transition-all duration-500">
+                        <li class="mb-6"><a href="javascript:;" class="text-white hover:text-[#D71E33]">Traktor LS MT3.50</a></li>
+                        <li class="mb-6"><a href="javascript:;" class="text-white hover:text-[#D71E33]">Traktor LS MT5.73</a></li>
+                        <li class="mb-6"><a href="javascript:;" class="text-white hover:text-[#D71E33]">Traktor LS XU6168</a></li>
+                        <li><a href="javascript:;" class="text-white hover:text-[#D71E33]">Traktor LS MT7.101</a></li>
+                    </ul>
+                </div>
+                <div class="lg:mx-auto text-left">
+                    <h3 class="text-lg text-white font-medium mb-7">Dodatne mašine</h3>
+                    <ul class="text-sm  transition-all duration-500">
+                        <li class="mb-6"><a href="javascript:;" class="text-white hover:text-[#D71E33]">Nagibne Drobilice</a></li>
+                        <li class="mb-6"><a href="javascript:;" class="text-white hover:text-[#D71E33]">Mini bager - Viljuškar</a></li>
+                        <li class="mb-6"><a href="javascript:;" class="text-white hover:text-[#D71E33]">Mlinovi - Peletirke</a></li>
+                        <li><a href="javascript:;" class="text-white hover:text-[#D71E33]">Poljoprivredne mašine</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="py-7 border-t border-gray-200">
+                <div class="flex items-center justify-center flex-col lg:justify-between lg:flex-row">
+                    <span class="text-sm text-white">© <span id="copyright_year"></span><a href="index.html"> Nikolagrar,</a> Sva prava zadržana.</span>
+                    <div class="flex mt-4 space-x-4 sm:justify-center lg:mt-0">
+                        <a href="https://www.instagram.com/nikolagrar/" class="w-9 h-9 rounded-full bg-gray-700 flex justify-center items-center hover:bg-indigo-600" aria-label="Visit our Instagram">
+                            <svg class="w-[1.25rem] h-[1.125rem] text-white" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M4.70975 7.93663C4.70975 6.65824 5.76102 5.62163 7.0582 5.62163C8.35537 5.62163 9.40721 6.65824 9.40721 7.93663C9.40721 9.21502 8.35537 10.2516 7.0582 10.2516C5.76102 10.2516 4.70975 9.21502 4.70975 7.93663ZM3.43991 7.93663C3.43991 9.90608 5.05982 11.5025 7.0582 11.5025C9.05658 11.5025 10.6765 9.90608 10.6765 7.93663C10.6765 5.96719 9.05658 4.37074 7.0582 4.37074C5.05982 4.37074 3.43991 5.96719 3.43991 7.93663ZM9.97414 4.22935C9.97408 4.39417 10.0236 4.55531 10.1165 4.69239C10.2093 4.82946 10.3413 4.93633 10.4958 4.99946C10.6503 5.06259 10.8203 5.07916 10.9844 5.04707C11.1484 5.01498 11.2991 4.93568 11.4174 4.81918C11.5357 4.70268 11.6163 4.55423 11.649 4.39259C11.6817 4.23095 11.665 4.06339 11.6011 3.91109C11.5371 3.7588 11.4288 3.6286 11.2898 3.53698C11.1508 3.44536 10.9873 3.39642 10.8201 3.39635H10.8197C10.5955 3.39646 10.3806 3.48424 10.222 3.64043C10.0635 3.79661 9.97434 4.00843 9.97414 4.22935ZM4.21142 13.5892C3.52442 13.5584 3.15101 13.4456 2.90286 13.3504C2.57387 13.2241 2.33914 13.0738 2.09235 12.8309C1.84555 12.588 1.69278 12.3569 1.56527 12.0327C1.46854 11.7882 1.3541 11.4201 1.32287 10.7431C1.28871 10.0111 1.28189 9.79119 1.28189 7.93669C1.28189 6.08219 1.28927 5.86291 1.32287 5.1303C1.35416 4.45324 1.46944 4.08585 1.56527 3.84069C1.69335 3.51647 1.84589 3.28513 2.09235 3.04191C2.3388 2.79869 2.57331 2.64813 2.90286 2.52247C3.1509 2.42713 3.52442 2.31435 4.21142 2.28358C4.95417 2.24991 5.17729 2.24319 7.0582 2.24319C8.9391 2.24319 9.16244 2.25047 9.90582 2.28358C10.5928 2.31441 10.9656 2.42802 11.2144 2.52247C11.5434 2.64813 11.7781 2.79902 12.0249 3.04191C12.2717 3.2848 12.4239 3.51647 12.552 3.84069C12.6487 4.08513 12.7631 4.45324 12.7944 5.1303C12.8285 5.86291 12.8354 6.08219 12.8354 7.93669C12.8354 9.79119 12.8285 10.0105 12.7944 10.7431C12.7631 11.4201 12.6481 11.7881 12.552 12.0327C12.4239 12.3569 12.2714 12.5882 12.0249 12.8309C11.7784 13.0736 11.5434 13.2241 11.2144 13.3504C10.9663 13.4457 10.5928 13.5585 9.90582 13.5892C9.16306 13.6229 8.93994 13.6296 7.0582 13.6296C5.17645 13.6296 4.95395 13.6229 4.21142 13.5892ZM4.15307 1.03424C3.40294 1.06791 2.89035 1.18513 2.4427 1.3568C1.9791 1.53408 1.58663 1.77191 1.19446 2.1578C0.802277 2.54369 0.56157 2.93108 0.381687 3.38797C0.207498 3.82941 0.0885535 4.3343 0.0543922 5.07358C0.0196672 5.81402 0.0117188 6.05074 0.0117188 7.93663C0.0117188 9.82252 0.0196672 10.0592 0.0543922 10.7997C0.0885535 11.539 0.207498 12.0439 0.381687 12.4853C0.56157 12.9419 0.802334 13.3297 1.19446 13.7155C1.58658 14.1012 1.9791 14.3387 2.4427 14.5165C2.89119 14.6881 3.40294 14.8054 4.15307 14.839C4.90479 14.8727 5.1446 14.8811 7.0582 14.8811C8.9718 14.8811 9.212 14.8732 9.96332 14.839C10.7135 14.8054 11.2258 14.6881 11.6737 14.5165C12.137 14.3387 12.5298 14.1014 12.9219 13.7155C13.3141 13.3296 13.5543 12.9419 13.7347 12.4853C13.9089 12.0439 14.0284 11.539 14.062 10.7997C14.0962 10.0587 14.1041 9.82252 14.1041 7.93663C14.1041 6.05074 14.0962 5.81402 14.062 5.07358C14.0278 4.33424 13.9089 3.82913 13.7347 3.38797C13.5543 2.93135 13.3135 2.5443 12.9219 2.1578C12.5304 1.7713 12.137 1.53408 11.6743 1.3568C11.2258 1.18513 10.7135 1.06735 9.96388 1.03424C9.21256 1.00058 8.97236 0.992188 7.05876 0.992188C5.14516 0.992188 4.90479 1.00002 4.15307 1.03424Z" fill="currentColor"/>
+                            </svg>    
+                        </a>
+                        <a href="https://www.instagram.com/nikolagrar/" class="w-9 h-9 rounded-full bg-gray-700 flex justify-center items-center hover:bg-indigo-600" aria-label="Visit our Youtube">
+                            <svg class="w-[1.25rem] h-[0.875rem] text-white" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M13.9346 1.13529C14.5684 1.30645 15.0665 1.80588 15.2349 2.43896C15.5413 3.58788 15.5413 5.98654 15.5413 5.98654C15.5413 5.98654 15.5413 8.3852 15.2349 9.53412C15.0642 10.1695 14.5661 10.669 13.9346 10.8378C12.7886 11.1449 8.19058 11.1449 8.19058 11.1449C8.19058 11.1449 3.59491 11.1449 2.44657 10.8378C1.81277 10.6666 1.31461 10.1672 1.14622 9.53412C0.839844 8.3852 0.839844 5.98654 0.839844 5.98654C0.839844 5.98654 0.839844 3.58788 1.14622 2.43896C1.31695 1.80353 1.81511 1.30411 2.44657 1.13529C3.59491 0.828125 8.19058 0.828125 8.19058 0.828125C8.19058 0.828125 12.7886 0.828125 13.9346 1.13529ZM10.541 5.98654L6.72178 8.19762V3.77545L10.541 5.98654Z" fill="currentColor"/>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Tab to top -->
+    <a href="#Top" class="back-to-top result-placeholder h-[38px] w-[38px] hidden fixed right-[15px] bottom-[15px] z-[10] cursor-pointer rounded-[20px] bg-[#fff] text-[#64b496] border-[1px] border-solid border-[#64b496] text-center text-[22px] leading-[1.6] hover:transition-all hover:duration-[0.3s] hover:ease-in-out">
+        <i class="ri-arrow-up-line text-[20px]"></i>
+        <div class="back-to-top-wrap">
+            <svg viewBox="-1 -1 102 102" class="w-[36px] h-[36px] fixed right-[16px] bottom-[16px]">
+                <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" class="fill-transparent stroke-[#64b496] stroke-[5px]" />
+            </svg>
+        </div>
+    </a>
+
+    <!-- Vendor Custom -->
+    <script src="assets/js/vendor/jquery-3.6.4.min.js"></script>
+
+    <!-- Main Custom -->
+    <script src="heder.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script src="traktor.js"></script>
+</body>
+
+</html>
