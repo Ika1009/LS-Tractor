@@ -230,7 +230,7 @@
         "slike": []
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Levi hidraulični točak za kosilicu sa povratnom oprugom podesivom osetljivošću. CHIMERA TROKSOS60-L - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "45 kg",
@@ -245,7 +245,7 @@
         "slike": []
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Leva vinogradarska motika 36cm sa senzorom i elektrohidrauličnim ventilom. CHIMERA LAMA36-L - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
         "specifikacije": {
             "Težina": "30 kg",
@@ -444,7 +444,7 @@
         "slike": []
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Snivač za teške nagibe IBPK240 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "895 kg",
@@ -502,7 +502,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Snivač za teške nagibe IBPK260 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "980 kg",
@@ -563,7 +563,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teška bočna seckalica BPK200 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "677 kg",
@@ -599,7 +599,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Seckalica za benzin GK65 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "155 kg",
@@ -639,7 +639,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Seckalica za benzin GK80pro - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "249 kg",
@@ -680,7 +680,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Seckalica za benzin GK80 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "224 kg",
@@ -712,7 +712,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Seckalica za benzin GK90pro - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "335 kg",
@@ -740,7 +740,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Seckalica za benzin GK90 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "310 kg",
@@ -780,7 +780,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Prikolica za drobljenje na benzin sa vratima SGK120 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "250 kg",
@@ -1396,7 +1396,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Grejder - Nivelir srednje veličine MG110 - TRAKTORSKE GUME ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "115 kg",
@@ -1426,7 +1426,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Grejder - Grejder srednje veličine MG130 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "121 kg",
@@ -1456,7 +1456,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Grejder - srednji tip nivelatora MG150 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "127 kg",
@@ -1486,7 +1486,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Grejder - Nivelir srednje veličine MG170 - TRAKTORSKE GUME ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "149 kg",
@@ -1516,7 +1516,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Grejder - Multi-split srednje veličine PMG120 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "115 kg",
@@ -1545,7 +1545,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Grejder-Nivelir super teški tip IBG180 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "220 kg",
@@ -1575,7 +1575,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Grejder- Nivelir super teškog tipa IBG200 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "244 kg",
@@ -1605,7 +1605,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Grejder- Nivelir super teški tip IBG225 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "378 kg",
@@ -1636,7 +1636,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Grejder- Nivelir super teškog tipa IBG250 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "414 kg",
@@ -1664,7 +1664,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Grejder- Nivelir super teškog tipa IBG160 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "175 kg",
@@ -1708,7 +1708,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Sredica šuma za traktore THOON OPEN165 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "890 kg",
@@ -1744,7 +1744,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Sredica šuma za traktore THOON OPEN200 - POLjOPRIVREDNA MAŠINA TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "980 kg",
@@ -1780,7 +1780,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Sredica šuma za traktore THOON OPEN230 - POLjOPRIVREDNA MAŠINA TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "1050 kg",
@@ -1816,7 +1816,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Sredica šuma za traktore THOON SHARK230 - POLjOPRIVREDNA MAŠINA TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "2622 kg",
@@ -1854,7 +1854,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Sredica šuma za traktore THOON VIDIA185 - POLjOPRIVREDNA MAŠINA TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "1400 kg",
@@ -1891,7 +1891,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Sredica šuma za traktore THOON VIDIA225 - POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "1590 kg",
@@ -1956,7 +1956,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Desna vinogradarska motika 36cm sa senzorom i elektrohidrauličnim ventilom. CHIMERA LAMA36-R - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
         "specifikacije": {
             "Težina": "30 kg",
@@ -1968,7 +1968,7 @@
         "slike": []
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Desni hidraulični zatezač vodova sa povratnom oprugom podesivom osetljivošću. CHIMERA MESINEZA60-R - TRAKTORSKE GUME ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "60 kg",
@@ -2158,7 +2158,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Snežni plug za traktor EKSS150 - TRAKTORSKI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "119 kg",
@@ -2186,7 +2186,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Snežni plug za traktor EKSS170 - TRAKTORSKI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "129 kg",
@@ -2214,7 +2214,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Snežni plug za traktor EKS175 - TRAKTORSKI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "265 kg",
@@ -2242,7 +2242,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Snežni plug za traktor EKS200 - TRAKTORSKI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "285 kg",
@@ -2270,7 +2270,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Snežni plug za traktor EKS220 - TRAKTORSKI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "300 kg",
@@ -2298,7 +2298,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Snežni plug za traktor EKS250 - TRAKTORSKI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "330 kg",
@@ -2326,7 +2326,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Razlivač za sneg za traktor EKSV250 - TRAKTORSKI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "370 kg",
@@ -2357,7 +2357,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Snežni plug za traktore EKSV300 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "410 kg",
@@ -2388,7 +2388,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Snežni plug za traktor EKSS130 - TRAKTORSKI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "109 kg",
@@ -2845,7 +2845,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "ARGUS F280 dvosklopna seckalica za teške uslove - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "1140 kg",
@@ -2874,7 +2874,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "ARGUS F250 dvospajalica za teške uslove rada - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "1060 kg",
@@ -2903,7 +2903,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Teška mašina za seckanje sa dvostrukom vučom ARGUS F300 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "1180 kg",
@@ -2932,7 +2932,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Drugač za teške uslove rada, sa dodatnim pomeranjem, vratima, sabirnim noževima i autonomnom seckalicom sa senzorom ARES STRONG160P - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "610 kg",
@@ -2977,7 +2977,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Drugač za teške uslove rada, sa dodatnim pomeranjem, vratima, sabirnim noževima i autonomnim sekačem sa ARES senzorom STRONG180P - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "650 kg",
@@ -3022,7 +3022,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Drugač za teške uslove rada, sa dodatnim pomeranjem, vratima, sabirnim noževima i autonomnom seckalicom sa senzorom ARES STRONG200P - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "680 kg",
@@ -3067,7 +3067,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Drugač za teške uslove rada, sa dodatnim pomeranjem, vratima, sabirnim noževima i autonomnom seckalicom sa senzorom ARES STRONG220P - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "720 kg",
@@ -3112,7 +3112,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Drugač za teške uslove rada, sa dodatnim pomeranjem, vratima, sabirnim noževima i autonomnom seckalicom sa senzorom ARES STRONG140P - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "570 kg",
@@ -3157,7 +3157,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Drugač za teške uslove rada, sa dodatnim pomeranjem, vratima i sabirnim noževima pozadi ARES STRONG220 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "650 kg",
@@ -3194,7 +3194,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Desač za teške uslove rada, sa ofsetnim, nazubljenim čekićima i zadnjim sabirnim noževima BK200 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "510 kg",
@@ -3230,7 +3230,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Drugač za teške uslove rada, sa dodatnim pomeranjem, vratima i sabirnim noževima pozadi ARES STRONG140 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "500 kg",
@@ -3267,7 +3267,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Desač za teške uslove rada, sa dodatnim pomeranjem, vratima i sabirnim noževima pozadi ARES STRONG180 – GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
         "specifikacije": {
             "Težina": "580 kg",
@@ -3304,7 +3304,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Desač za teške uslove rada, sa dodatnim pomeranjem, vratima i sabirnim noževima pozadi ARES STRONG200 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "610 kg",
@@ -3341,7 +3341,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Teška, deplasmanska seckalica CERBERUS HIPER200 (Demonstraciona mašina) - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "775 kg",
@@ -3377,7 +3377,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Teška seckalica sa prekomernim pomeranjem i hidrauličnim točkom CERBERUS HIPER200P (Demonstraciona mašina) - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "850 kg",
@@ -3413,7 +3413,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Drobilica laka sa zapreminom i čekićima 135cm za mali traktor - japanski traktor GRAECUS EKN135 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
         "specifikacije": {
             "Težina": "179 kg",
@@ -3448,7 +3448,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Lagani seckalica sa zapreminom i čekićima 85cm za mali traktor - japanski traktor GRAECUS EKN85 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "119 kg",
@@ -3483,7 +3483,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Lagani seckalica sa zapreminom i čekićima 95cm za mali traktor - japanski traktor GRAECUS EKN95 - TRAKTORSKE GUME ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "134 kg",
@@ -3518,7 +3518,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Drobilica laka sa zapreminom i čekićima 105cm za mali traktor - japanski traktor GRAECUS EKN105 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
         "specifikacije": {
             "Težina": "153 kg",
@@ -3553,7 +3553,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Lagani seckalica sa zapreminom i čekićima 115cm za mali traktor - japanski traktor GRAECUS EKN115 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
         "specifikacije": {
             "Težina": "159 kg",
@@ -3588,7 +3588,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Lagani seckalica sa zapreminom i čekićima 125cm za mali traktor - japanski traktor GRAECUS EKN125 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "171 kg",
@@ -3623,7 +3623,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Poluteška kosa drobilica sa čekićima HPK160 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "499 kg",
@@ -3655,7 +3655,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Poluteška kosa drobilica sa čekićima HPK180 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "530 kg",
@@ -3687,7 +3687,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Poluteška kosa drobilica sa čekićima HPK140 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "475 kg",
@@ -3719,7 +3719,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Maker drobilica srednje veličine MKP145 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "330 kg",
@@ -3755,7 +3755,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Maker drobilica srednje veličine MKP155 - TRAKTORSKI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "340 kg",
@@ -3791,7 +3791,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Poluteška dvosklopna seckalica 2HBK140 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "390 kg",
@@ -3822,7 +3822,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Poluteška dvosklopna seckalica 2HBK160 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "400 kg",
@@ -3853,7 +3853,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Poluteška drobilica sa čekićima HBP205 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "426 kg",
@@ -3888,7 +3888,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Poluteška drobilica sa čekićima HBP135 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "351 kg",
@@ -3923,7 +3923,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Srednji šreder sa vratima i hidrauličnim pomeranjem. Idealan za male i srednje traktore. GRAECUS MKD145-H - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "330 kg",
@@ -3956,7 +3956,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Poluteška drobilica sa čekićima HBP155 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "369 kg",
@@ -3991,7 +3991,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Poluteška drobilica sa čekićima HBP175 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "389 kg",
@@ -4026,7 +4026,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Poluteški tip lomljenja sa čekićima HBP195 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "416 kg",
@@ -4061,7 +4061,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Srednji rezač sa vratima i hidrauličnim pomeranjem. Idealan za male i srednje traktore. GRAECUS MKD175-H - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "360 kg",
@@ -4182,7 +4182,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Srednji rezač sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD135 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "276 kg",
@@ -4213,7 +4213,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Srednji rezač sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD145 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "288 kg",
@@ -4244,7 +4244,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Srednji rezač sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD155 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
         "specifikacije": {
             "Težina": "296 kg",
@@ -4275,7 +4275,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Srednji rezač sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD165 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "310 kg",
@@ -4306,7 +4306,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Srednji rezač sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD175 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "332 kg",
@@ -4337,7 +4337,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Srednji rezač sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD125 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "266 kg",
@@ -4368,7 +4368,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Srednji šreder sa vratima i hidrauličnim pomeranjem. Idealan za male i srednje traktore. GRAECUS MKD115-H - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "300 kg",
@@ -4404,7 +4404,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Srednji šreder sa vratima i hidrauličnim pomeranjem. Idealan za male i srednje traktore. GRAECUS MKD105-H - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "290 kg",
@@ -4440,7 +4440,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Srednji rezač sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD105 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "254 kg",
@@ -4464,7 +4464,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Maker drobilica srednje veličine MKP125 - TRAKTORSKI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "310 kg",
@@ -4498,7 +4498,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Srednji šreder sa vratima i hidrauličnim pomeranjem. Idealan za male i srednje traktore. GRAECUS MKD125-H - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "310 kg",
@@ -4534,7 +4534,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Srednji šreder sa vratima i hidrauličnim pomeranjem. Idealan za male i srednje traktore. GRAECUS MKD155-H - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "340 kg",
@@ -4567,7 +4567,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Srednji šreder sa vratima i hidrauličnim pomeranjem. Idealan za male i srednje traktore. GRAECUS MKD165-H - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "350 kg",
@@ -4600,7 +4600,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "ATK155-H razarač na točkovima - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "363 kg",
@@ -4640,7 +4640,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "ATK145-H razarač na točkovima - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "342 kg",
@@ -4677,7 +4677,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "ATK165-H razarač na točkovima - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "384 kg",
@@ -4717,7 +4717,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "ATK175-H razarač na točkovima - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "405 kg",
@@ -4874,7 +4874,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Hidraulična kosa drobilica sa čekićima EPK125 - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "250 kg",
@@ -4912,7 +4912,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Hidraulična kosa drobilica sa čekićima EPK145 - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "294 kg",
@@ -4950,7 +4950,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Hidraulična kosa drobilica sa čekićima EPK165 - TRAKTORSKI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "322 kg",
@@ -4988,7 +4988,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Hidraulična drobilica sa sakupljačem 0,90m MSK90 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "290 kg",
@@ -5031,7 +5031,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Hidraulična drobilica sa kolektorom 1,20m MSK120 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "325 kg",
@@ -5074,7 +5074,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Hidraulična drobilica sa kolektorom 1,60m MSK160 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "367 kg",
@@ -5116,7 +5116,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Teška seckalica sa nadstrešnicom koja se otvara i hidrauličnim pomeranjem CERBERUS OPEN150 - TRAKTORSKE GUME ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "666 kg",
@@ -5161,7 +5161,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Teška seckalica sa nadstrešnicom za otvaranje i hidrauličnim pomeranjem CERBERUS OPEN160 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "688 kg",
@@ -5206,7 +5206,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Teška seckalica sa nadstrešnicom za otvaranje i hidrauličnim pomeranjem CERBERUS OPEN200 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "754 kg",
@@ -5250,7 +5250,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Teška seckalica sa nadstrešnicom za otvaranje i hidrauličnim pomeranjem CERBERUS OPEN180 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "716 kg",
@@ -8128,7 +8128,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Automatski povratni vod, sklopivi, sa autonomnim hidrauličnim sistemom ERIS AM60 - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "290 kg",
@@ -9806,7 +9806,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Traktorski sakupljač kamenja, sa zavrtnjima Hardok 450 i rotacijom od 360º IBS200 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "370 kg",
@@ -9826,7 +9826,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Traktorski sakupljač kamenja, sa zavrtnjima Hardok 450 i rotacijom od 360º IBS225 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "400 kg",
@@ -9846,7 +9846,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Traktorski sakupljač kamenja, sa zavrtnjima Hardok 450 i rotacijom od 360º IBS180 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "320 kg",
@@ -9866,7 +9866,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Traktorski sakupljač kamenja, sa zavrtnjima Hardok 450 i rotacijom od 360º IBS160 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "270 kg",
@@ -9886,7 +9886,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Traktorski sakupljač kamenja, sa zavrtnjima Hardok 450 i rotacijom od 360º IBS250 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "430 kg",
@@ -10134,7 +10134,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Višenamenska mašina sa hidraulički sklopivom rukom i mogućnošću obostranog prebacivanja CHIMERA BRATSO SH90 – TRAKTORSKE GUME ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "140 kg",
@@ -10147,7 +10147,7 @@
         "slike": []
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Višenamenska mašina sa hidraulički sklopivom rukom i mogućnošću obostranog prebacivanja CHIMERA BRATSO SH120 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "155 kg",
@@ -10160,7 +10160,7 @@
         "slike": []
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Višenamenska mašina sa 2 hidraulične sklopive ruke CHIMERA BRATSO DH90 - TRAKTORSKE GUME ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "160 kg",
@@ -10173,7 +10173,7 @@
         "slike": []
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Višenamenska mašina sa 2 hidraulične sklopive ruke i autonomnim hidrauličnim sistemom CHIMERA BRATSO HID120 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "210 kg",
@@ -10191,7 +10191,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Višenamenska mašina sa 2 hidraulične sklopive ruke CHIMERA BRATSO DH120 – TRAKTORSKE GUME ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "175 kg",
@@ -11669,7 +11669,7 @@
         "slike": []
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Daljinski upravljani razarač RGK90pro - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "280 kg",
@@ -11700,7 +11700,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska drobilica sa granom, autonomna za traktore | za teške uslove rada | BTK150 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "1185 kg",
@@ -11738,7 +11738,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska drobilica sa granom, autonomna za traktore | srednji tip | MTK120 - GUME ZA TRAKTORSKE MAŠINE ZA POLjOPRIVREDU",
         "specifikacije": {
             "Težina": "640 kg",
@@ -11771,7 +11771,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska drobilica sa granom, džojstikom, autonomna za traktore | srednji tip | MTK120-Joistick - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "640 kg",
@@ -11804,7 +11804,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska drobilica sa granom, džojstikom, autonomna za traktore | za teške uslove rada | BTK150-Joistick - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
         "specifikacije": {
             "Težina": "1185 kg",
@@ -11839,7 +11839,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "ATK125-H razarač na točkovima - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "300 kg",
@@ -11879,7 +11879,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "ATK135-H razarač na točkovima - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "321 kg",
@@ -11919,7 +11919,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska drobilica TK100 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "315 kg",
@@ -12165,7 +12165,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska koplje - makaza sa reznom šipkom autonomna za traktor LK145 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
         "specifikacije": {
             "Težina": "270 kg",
@@ -12211,7 +12211,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska koplje - motorna kosa sa reznom šipkom autonomna za traktor LK175 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
         "specifikacije": {
             "Težina": "285 kg",
@@ -12257,7 +12257,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopsko koplje - makaza sa reznom šipkom za traktore, sa mogućnošću napredovanja na strani vozača LK145S - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "290 kg",
@@ -12295,7 +12295,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopsko koplje - makaza sa reznom šipkom za traktore, sa mogućnošću napredovanja na strani vozača LK160S - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "295 kg",
@@ -12333,7 +12333,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopsko koplje - makaza sa reznom šipkom za traktore, sa mogućnošću napredovanja na strani vozača LK175S - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "305 kg",
@@ -12371,7 +12371,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska koplje - motorna kosa sa reznom šipkom autonomna za traktor LK130 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
         "specifikacije": {
             "Težina": "265 kg",
@@ -12417,7 +12417,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska koplje - makaza sa reznom šipkom autonomna za traktor LK160 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
         "specifikacije": {
             "Težina": "275 kg",
@@ -12463,7 +12463,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska koplje - motorna kosa sa reznom šipkom autonomna za traktor LK190 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
         "specifikacije": {
             "Težina": "295 kg",
@@ -12509,7 +12509,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopsko koplje - makaza sa reznom šipkom za traktore, sa mogućnošću napredovanja na strani vozača LK190S - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "315 kg",
@@ -12547,7 +12547,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska grana sa reznom šipkom, džojstikom i pogonom na strani vozača LK130S-Joistick - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "285 kg",
@@ -12582,7 +12582,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopsko koplje - makaza sa reznom šipkom za traktore, sa mogućnošću napredovanja na strani vozača LK130S - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "285 kg",
@@ -12620,7 +12620,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska grana sa reznom šipkom, džojstikom i pogonom na strani vozača LK160S-Joistick - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "295 kg",
@@ -12655,7 +12655,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska grana sa reznom šipkom, džojstikom i pogonom na strani vozača LK175S-Joistick - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "305 kg",
@@ -12690,7 +12690,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska grana sa reznom šipkom, džojstikom i pogonom na strani vozača LK190S-Joistick - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "315 kg",
@@ -12725,7 +12725,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska grana sa reznom šipkom, džojstikom i pogonom na strani vozača LK145S-Joistick - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "290 kg",
@@ -14417,7 +14417,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Zatezač levog hidrauličnog voda sa povratnom oprugom podesive osetljivosti. CHIMERA MESINEZA60-L - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "60 kg",
@@ -14540,7 +14540,7 @@
     },
     {
         "vrsta": "Dodatna oprema za gradjevinske masine",
-        "model": "Hidraulični uništavač šuma - glava za građevinsku mehanizaciju (bager) THOON E800 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
+        "model": "Hidraulični Tarup šuma - glava za građevinsku mehanizaciju (bager) THOON E800 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "500 kg",
             "Kompatibilnost": "6 – 10 T",
@@ -15038,7 +15038,7 @@
         "slike": []
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Hidraulični deplasman rotaciona freza za teške uslove rada BF125-H - GUME ZA TRAKTOR ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "347 kg",
@@ -15069,7 +15069,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Hidraulični deplasman rotacione freze za teške uslove rada BF140-H – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "373 kg",
@@ -15100,7 +15100,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Hidraulični deplasman rotacione freze za teške uslove rada BF160-H – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "399 kg",
@@ -15131,7 +15131,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Hidraulični deplasman rotaciona freza za teške uslove rada BF180-H - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "420 kg",
@@ -15159,7 +15159,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Frelica za teške uslove rada BFP150 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "404 kg",
@@ -15189,7 +15189,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Frelica za teška opterećenja BFP150pro - GUME ZA POLjOPRIVREDNE MAŠINE ZA TRAKTOR",
         "specifikacije": {
             "Težina": "364 kg",
@@ -15217,7 +15217,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Frelica za teške uslove rada BFP180 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "435 kg",
@@ -15247,7 +15247,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Frelica za teška opterećenja BFP180pro - GUME ZA TRAKTORSKE MAŠINE ZA POLjOPRIVREDU",
         "specifikacije": {
             "Težina": "391 kg",
@@ -15275,7 +15275,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Frelica za teška opterećenja BFP200 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "487 kg",
@@ -15305,7 +15305,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Freza srednjeg tipa za male traktore Solis, LS, Kubota i dr. - sa mehaničkim pomeranjem - radna površina 145cm FREZA M145 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "256 kg",
@@ -15342,7 +15342,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Rotaciona freza srednje veličine sa ofsetom FREZA M105 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "175 kg",
@@ -15379,7 +15379,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Rotaciona freza srednje veličine sa ofsetom FREZA M125 - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "199 kg",
@@ -15416,7 +15416,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Freza srednjeg tipa za male traktore Solis, LS, Kubota i dr. - sa mehaničkim pomeranjem - radna površina 135cm FREZA M135 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
         "specifikacije": {
             "Težina": "208 kg",
@@ -15453,7 +15453,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Rotaciona freza srednje veličine sa ofsetom FREZA M155 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "267 kg",
@@ -15490,7 +15490,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Full za traktore za teške uslove rada BF160 - GUME ZA TRAKTORSKE MAŠINE ZA POLjOPRIVREDU",
         "specifikacije": {
             "Težina": "330 kg",
@@ -15520,7 +15520,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Full za traktore za teške uslove rada BF180 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "344 kg",
@@ -15550,7 +15550,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Freza za ultra tešku zupčanicu FREZA R280 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "928 kg",
@@ -15571,7 +15571,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Freza za ultra tešku zupčanicu FREZA R300 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "970 kg",
@@ -15592,7 +15592,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Rotaciona freza za laka opterećenja sa ofsetom EF95-M - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "134 kg",
@@ -15622,7 +15622,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Frelica za vinograde za traktore GRAECUS AF50 - POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "220 kg",
@@ -15657,7 +15657,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Aborikulturna freza za traktore GRAECUS AF70 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "250 kg",
@@ -15689,7 +15689,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Frelica za drvo za traktor AF70 (originalna mašina - u crvenoj boji) - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "250 kg",
@@ -15724,7 +15724,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Rotaciona freza za laka opterećenja sa pomakom, za levi PTO EF85-R - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "128 kg",
@@ -15754,7 +15754,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Rotaciona freza za laka opterećenja sa ofsetom EF125-M - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "154 kg",
@@ -15783,7 +15783,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Rotaciona freza za laka opterećenja sa ofsetom EF85-M - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "128 kg",
@@ -15813,7 +15813,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Freza srednjeg tipa za male traktore Solis, LS, Kubota i dr. - sa mehaničkim pomeranjem - radna površina 115cm FREZA M115 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "186 kg",
@@ -15850,7 +15850,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Full tipa zupčanika za ultra-teške uslove IBFS250 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "716 kg",
@@ -16432,7 +16432,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Poluteška dvosklopna seckalica 2HBK180 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "446 kg",
@@ -16463,7 +16463,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Poluteška dvosklopna seckalica 2HBK200 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "478 kg",
@@ -16606,7 +16606,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Model traktor sa zupčanikom BF105 – GUME ZA TRAKTORSKE MAŠINE ZA POLjOPRIVREDU",
         "specifikacije": {
             "Težina": "267 kg",
@@ -16634,7 +16634,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Freilica traktora sa zupčanicima za teške uslove rada BF125 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "298 kg",
@@ -16662,7 +16662,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Model traktor sa prenosnikom za teške uslove rada BF135 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "311 kg",
@@ -16690,7 +16690,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Freilica traktora sa zupčanicima za teške uslove rada BF150 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "321 kg",
@@ -16718,7 +16718,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Model traktor sa prenosnikom za teške uslove rada BF90 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "257 kg",
@@ -16746,7 +16746,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Desač za teške uslove rada, sa ofsetnim, nazubljenim čekićima i zadnjim sabirnim noževima BK150 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "449 kg",
@@ -16782,7 +16782,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Desač za teške uslove rada, sa ofsetnim, nazubljenim čekićima i zadnjim sabirnim noževima BK165 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "471 kg",
@@ -16818,7 +16818,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Desač za teške uslove rada, sa ofsetnim, nazubljenim čekićima i zadnjim sabirnim noževima BK180 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "492 kg",
@@ -16854,7 +16854,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teška bočna drobilica BPK160 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "590 kg",
@@ -16890,7 +16890,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teška bočna drobilica BPK180 - TRAKTORSKE GUME ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "620 kg",
@@ -16961,7 +16961,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Rotaciona freza za laka opterećenja sa ofsetom EF115-M - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "145 kg",
@@ -16991,7 +16991,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Rotaciona freza za laka opterećenja sa ofsetom EF135-M - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "176 kg",
@@ -17018,7 +17018,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Rotaciona freza za laka opterećenja sa ofsetom EF105-M - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "143 kg",
@@ -17048,7 +17048,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Drugač za teške uslove rada, sa dodatnim pomeranjem, vratima i sabirnim noževima pozadi ARES STRONG160 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "540 kg",
@@ -18703,7 +18703,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Rotaciona freza srednje veličine sa ofsetom MF95-M - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "161 kg",
@@ -18730,7 +18730,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Srednji rezač sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD115 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
         "specifikacije": {
             "Težina": "260 kg",
@@ -18753,7 +18753,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Maker drobilica srednje veličine MKP135 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "320 kg",
@@ -18787,7 +18787,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Srednji šreder sa vratima i hidrauličnim pomeranjem. Idealan za male i srednje traktore. GRAECUS MKD135-H - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "320 kg",
@@ -18823,7 +18823,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Traktorski malčer MS130 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "274 kg",
@@ -18852,7 +18852,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Traktorski malčer MS170 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
         "specifikacije": {
             "Težina": "330 kg",
@@ -18884,7 +18884,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Traktorski malčer MS210 - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "380 kg",
@@ -18915,7 +18915,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Grejder - Multi-split srednje veličine PMG140 - TRAKTORSKE GUME ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "130 kg",
@@ -18944,7 +18944,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Grejder - Multi-split srednje veličine PMG160 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "148 kg",
@@ -18980,7 +18980,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Grejder - srednji multi-split PMG180 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "166 kg",
@@ -19090,7 +19090,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Full tipa zupčanika za ultra teška opterećenja IBFS180 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "541 kg",
@@ -19119,7 +19119,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Fulica tipa zupčanika za ultra teška opterećenja IBFS200 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "588 kg",
@@ -19149,7 +19149,7 @@
         ]
     },
     {
-        "vrsta": "Mlinovi - peletirke",
+        "vrsta": "Fraze",
         "model": "Full tipa zupčanika za ultra-teške uslove IBFS230 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "677 kg",
@@ -19179,7 +19179,7 @@
         ]
     },
     {
-        "vrsta": "Unistivaci",
+        "vrsta": "Tarupi",
         "model": "Teška deplasirana seckalica IBK240 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "610 kg",
@@ -19209,7 +19209,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Grejder – Višestruki grejder za teške uslove rada PBG160 – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "173 kg",
@@ -19239,7 +19239,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Grejder - Teški višestruki grejder PBG175 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "193 kg",
@@ -19262,7 +19262,7 @@
         ]
     },
     {
-        "vrsta": "Graderi - snezni plugovi",
+        "vrsta": "Raonici - snezni plugovi",
         "model": "Grejder - Višestruki grejder za teške uslove rada PBG200 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "213 kg",
@@ -19290,7 +19290,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Snivač za teške nagibe IBPK180 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "815 kg",
@@ -19351,7 +19351,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Snivač za teške nagibe IBPK200 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "842 kg",
@@ -19412,7 +19412,7 @@
         ]
     },
     {
-        "vrsta": "Nagnuti Unistivaci",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Snivač za teške nagibe IBPK220 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "870 kg",
