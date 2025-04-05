@@ -1,7 +1,7 @@
 [
     {
-        "vrsta": "Farming machinery",
-        "model": "Plug-Plov 2-ton 10\" traktor sa točkom Φ280 DIA10 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
+        "vrsta": "Poljoprivredne masine",
+        "model": "Plug 2-ton 10\" traktor sa točkom Φ280 DIA10 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "135 kg",
             "Konji": "25 KS",
@@ -26,8 +26,8 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
-        "model": "Plough-Plov 3-inča 10\" traktor točkaš Φ280 TRA10 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
+        "vrsta": "Poljoprivredne masine",
+        "model": "Plug 3-inča 10\" traktor točkaš Φ280 TRA10 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "200 kg",
             "Konji": "35 KS",
@@ -53,7 +53,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Plug - Plug 6\" sa točkom Φ280 DIA6 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "70 kg",
@@ -79,7 +79,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Plug - Trostruki plug 6\" sa točkom Φ280 TRA6 - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "95 kg",
@@ -106,7 +106,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Plug - plug na 3 točka sa 8 točkova sa točkom Φ280 TRA8 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "120 kg",
@@ -133,7 +133,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "MOA12-M MOA12-M MOA12-M MOA12-M MOA12-M - GUME ZA TRAKTOR MONACO 12\" Plug",
         "specifikacije": {
             "Težina": "94 kg",
@@ -156,7 +156,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "MOA8-M MOA8-M MOA8-M MOA8-M MONA 8\" Plug - UMORNE TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "67 kg",
@@ -181,7 +181,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Plug - Plug 2k8 sa točkom Φ280 DIA8 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "85 kg",
@@ -207,7 +207,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "MOA10-RM MOA10-RM Reverzibilni 10-brzinski plug-plug sa jednim trupom sa mehaničkom rotacionom polugom za male traktore - TRAKTORI NA TOČKOVIMA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "80 kg",
@@ -224,7 +224,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Levi hidraulični točak za košnju sa povratnom oprugom podesivom osetljivošću. CHIMERA TROKSOS60-L - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "45 kg",
@@ -241,7 +241,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Leva motika vinograda 36cm sa senzorom i elektro-hidrauličnim ventilom. CHIMERA LAMA36-L - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "30 kg",
@@ -255,7 +255,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "MOA6-M MOA6-M MOA6-M MOA6-M - TRAKTOR GUME MONACO 6 plug",
         "specifikacije": {
             "Težina": "57 kg",
@@ -280,7 +280,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Jedna brazda sa podešavanjem brazde i nagiba MOP - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "55 kg",
@@ -306,7 +306,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Žljeb podesive širine za šasiju više mašina HIDRA AILAKOTIRAS - TRAKTORE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "30 kg",
@@ -320,7 +320,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "Arid sa bušilicom (Φ230) MT230 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "132,5 kg",
@@ -338,7 +338,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "Arid sa bušilicom (Φ300) MT300 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "138 kg",
@@ -356,7 +356,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "Arid sa bušilicom (Φ380) MT380 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "146 kg",
@@ -374,7 +374,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "Arid sa bušilicom (Φ450) MT450 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "153 kg",
@@ -392,7 +392,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "Arid sa bušilicom (Φ150) MT150 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "122 kg",
@@ -410,7 +410,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Podloga za šasiju više mašina HIDRA VASI – TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "6 kg"
@@ -420,8 +420,8 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
-        "model": "IBPK240 kosi razbijač za teške uslove - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Nagnuti Tarupi",
+        "model": "IBPK240 kosi tarup za teške uslove - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "895 kg",
             "Konji": "90 – 150 KS",
@@ -477,7 +477,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "IBPK260 Heavi Dumper - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "980 kg",
@@ -537,8 +537,8 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
-        "model": "BPK200 Teški bočni razarač - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
+        "vrsta": "Nagnuti Tarupi",
+        "model": "BPK200 Teški bočni tarup - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "677 kg",
             "Konji": "70 – 110 KS",
@@ -572,8 +572,8 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
-        "model": "GK65 Benzinski razarač - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Tarupi",
+        "model": "GK65 Benzinski tarup - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "155 kg",
             "Motor": "Loncin 252cc 8 KS",
@@ -611,7 +611,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Gasoline Destroier GK80pro - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "249 kg",
@@ -651,8 +651,8 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
-        "model": "GK80 Benzinski razarač - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Tarupi",
+        "model": "GK80 Benzinski tarup - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "224 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -682,7 +682,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Gasoline Destroier GK90pro - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "335 kg",
@@ -709,8 +709,8 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
-        "model": "GK90 Benzinski razarač - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Tarupi",
+        "model": "GK90 Benzinski tarup - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "310 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -748,8 +748,8 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
-        "model": "Benzinski vučeni razarač sa vratima – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Tarupi",
+        "model": "Benzinski vučeni tarup sa vratima – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "250 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -782,7 +782,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "Alternator za traktor trofazni, zatvorenog tipa sa postoljem, tablom i 3 utičnice GP32 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "340 kg",
@@ -802,7 +802,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "3-fazni dizel agregat zatvorenog tipa sa bazom, vodeno hlađen sa automatskom razvodnom tablom GD23 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Snaga": "23 Kva",
@@ -881,7 +881,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "3-fazni dizel agregat zatvorenog tipa sa bazom, vodeno hlađen sa automatskim prekidačem GD28 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Snaga": "28 Kva",
@@ -960,7 +960,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "3-fazni dizel generator zatvorenog tipa sa bazom, vodeno hlađen sa automatskim prekidačem GD36 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Snaga": "36 Kva",
@@ -1039,7 +1039,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "3-fazni dizel agregat zatvorenog tipa sa bazom, vodeno hlađen sa automatskom razvodnom tablom GD47 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Snaga": "47 Kva",
@@ -1118,7 +1118,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "3-fazni dizel agregat zatvorenog tipa sa bazom, vodeno hlađen sa automatskom razvodnom tablom GD55 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Snaga": "55 Kva",
@@ -1197,7 +1197,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "3-fazni dizel generator zatvorenog tipa sa bazom, vodeno hlađen sa automatskim prekidačem GD65 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Snaga": "65 Kva",
@@ -1276,7 +1276,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "Trofazni dizel agregat zatvorenog tipa sa bazom, vodeno hlađen sa automatskim prekidačem GD15 – TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Snaga": "15 Kva",
@@ -1355,7 +1355,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Grejder - Srednji grejder MG110 - TRAKTORI GUME ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "115 kg",
@@ -1383,7 +1383,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Grejder - srednji grejder MG130 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "121 kg",
@@ -1411,7 +1411,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Grejder - srednji grejder MG150 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "127 kg",
@@ -1439,7 +1439,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Grejder - Srednji grejder MG170 - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "149 kg",
@@ -1467,7 +1467,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Grejder - PMG120 Srednji Split grejder - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "115 kg",
@@ -1495,7 +1495,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "IBG180 Heavi Duti Grejder - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "220 kg",
@@ -1524,7 +1524,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "IBG200 Heavi Duti Grejder - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "244 kg",
@@ -1553,7 +1553,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "IBG225 Heavi Duti Grejder - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "378 kg",
@@ -1583,7 +1583,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "IBG250 Heavi Duti Grejder - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "414 kg",
@@ -1610,7 +1610,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "IBG160 Heavi Duti Grejder - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "175 kg",
@@ -1639,7 +1639,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Disk za šasiju više mašina HIDRA DISKOS - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "8 kg"
@@ -1652,7 +1652,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "THOON OPEN165 Traktor za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "890 kg",
@@ -1687,7 +1687,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "THOON OPEN200 Traktor za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "980 kg",
@@ -1722,7 +1722,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "THOON OPEN230 Traktor za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "1050 kg",
@@ -1757,7 +1757,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "THOON SHARK230 traktor za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "2622 kg",
@@ -1794,7 +1794,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "THOON VIDIA185 traktor za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "1400 kg",
@@ -1830,7 +1830,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "THOON VIDIA225 traktor za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "1590 kg",
@@ -1866,7 +1866,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "Vitlo za šumarstvo za traktor VAROULKO 43 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "218 kg",
@@ -1893,7 +1893,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Desna motika za vinograd 36cm sa senzorom i elektrohidrauličnim ventilom. CHIMERA LAMA36-R - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "30 kg",
@@ -1907,7 +1907,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Desni hidraulični nož sa povratnom oprugom podesive osetljivosti. CHIMERA MESINEZA60-R - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "60 kg",
@@ -2092,7 +2092,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Traktorski snežni plug EKSS150 - GUME ZA TRAKTORSKE MAŠINE ZA POLjOPRIVREDU",
         "specifikacije": {
             "Težina": "119 kg",
@@ -2119,7 +2119,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "EKSS170 Traktorski snežni plug - GUME ZA TRAKTORSKE MAŠINE ZA POLjOPRIVREDU",
         "specifikacije": {
             "Težina": "129 kg",
@@ -2146,7 +2146,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "EKS175 Traktor Snežni plug - GUME ZA TRAKTORSKE MAŠINE ZA POLjOPRIVREDU",
         "specifikacije": {
             "Težina": "265 kg",
@@ -2173,7 +2173,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "TRAKTOR EKS200 PUŠAČ SNEGA - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "285 kg",
@@ -2200,7 +2200,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "EKS220 Traktor Snežni plug - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "300 kg",
@@ -2227,7 +2227,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "EKS250 Traktor Snežni plug - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "330 kg",
@@ -2254,7 +2254,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Traktorski snežni plug EKSV250 - GUME ZA TRAKTORSKE MAŠINE ZA POLjOPRIVREDU",
         "specifikacije": {
             "Težina": "370 kg",
@@ -2284,7 +2284,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "TRAKTOR EKSV300 PUHAČ SNEGA - POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "410 kg",
@@ -2314,7 +2314,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "EKSS130 Traktorski snežni plug - GUME ZA TRAKTORSKE MAŠINE ZA POLjOPRIVREDU",
         "specifikacije": {
             "Težina": "109 kg",
@@ -2341,7 +2341,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "Traktorska drljača, glava drljače 1,46m, radio upravljanje, ruka 8,64m, uljana drljača nošena ATHENA OLEA145-PTO - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "856 kg",
@@ -2373,7 +2373,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Dvoredna opruga za ram više mašina HIDRA ELATIRIO - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Proleće": "20 k 20 mm"
@@ -2383,7 +2383,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "K150E Električna samohodna baštenska kolica 150Kg, 24V DC motor, 500V baterija, 288Vh kapacitet baterije - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "40 kg",
@@ -2399,7 +2399,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Električni paletni viličar 1.5T| Duplek Electric Lift 3200mm| sa Rider platformom - TRAKTORI GUME ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "740 kg",
@@ -2429,7 +2429,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Električni paletar 1,5T | DUPLEKS 3000mm | električni pogon 4,2 km/h | pokretna mašina VFE15 - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "495 kg",
@@ -2447,7 +2447,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Električni paletar 2.0T | električni lift 200mm | električni pogon 4.5 km/h | VFE20 mašina za hodanje - POLjOPRIVREDNA MAŠINA GUME TRAKTORI",
         "specifikacije": {
             "Težina": "150 kg",
@@ -2485,7 +2485,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Kultivator-Ripper Heavi Tipe 11ari BCS11i - GUME ZA TRAKTORE ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "375 kg",
@@ -2511,7 +2511,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Kultivator-Ripper Heavi Tipe CS11i - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "263 kg",
@@ -2538,7 +2538,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Kultivator-Ripper Heavi Tipe BCS13i - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "490 kg",
@@ -2564,7 +2564,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "BCS5i Heavi Duti Kultivator-Ripper - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "185 kg",
@@ -2590,7 +2590,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Kultivator-Ripper Heavi Tipe 7ari BCS7i/140 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "217 kg",
@@ -2616,7 +2616,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Kultivator-Ripper Heavi Tipe CS5i - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "134 kg",
@@ -2643,7 +2643,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Kultivator-Ripper Heavi Tipe CS7i/170 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "178 kg",
@@ -2670,7 +2670,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Kultivator-Ripper Heavi Tipe 7ari BCS7i/170 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "246 kg",
@@ -2696,7 +2696,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "BCS9i Heavi Duti Kultivator-Ripper - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "285 kg",
@@ -2722,7 +2722,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "CS9i Heavi Duti Kultivator-Ripper - GUME ZA POLjOPRIVREDNE MAŠINE ZA TRAKTOR",
         "specifikacije": {
             "Težina": "206 kg",
@@ -2749,7 +2749,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Kultivator-Ripper Heavi Tipe CS7i/140 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "157 kg",
@@ -2776,7 +2776,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ARGUS F280 Double Linkage Heavi Duti Vrecker - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "1140 kg",
@@ -2804,7 +2804,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ARGUS F250 Double Link Heavi Duti Vrecker - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "1060 kg",
@@ -2832,7 +2832,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ARGUS F300 Double Link Heavi Duti Vrecker - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "1180 kg",
@@ -2860,7 +2860,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ARES STRONG160P seckalica za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorskim senzorom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "610 kg",
@@ -2904,7 +2904,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ARES STRONG180P seckalica za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorskim senzorom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "650 kg",
@@ -2948,7 +2948,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ARES STRONG200P seckalica za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "680 kg",
@@ -2992,7 +2992,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ARES STRONG220P seckalica za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za prikupljanje i samostalnim senzorskim senzorom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "720 kg",
@@ -3036,7 +3036,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ARES STRONG140P seckalica za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "570 kg",
@@ -3080,7 +3080,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ARES STRONG220 Heavi Duti Vrecker, Ektra Displacement, Door and Rear Pick-Up Blades - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "650 kg",
@@ -3116,7 +3116,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "BK200 BK200 BK200 Heavi Duti Vrecker, Displacement, Touched Hammers and Rear Pick-up Blades - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "510 kg",
@@ -3151,7 +3151,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ARES STRONG140 Heavi Duti Vrecker, Ektra Displacement, Door and Rear Pick-up noži – POLjOPRIVREDNI MAŠINI TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "500 kg",
@@ -3187,7 +3187,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ARES STRONG180 Heavi Duti Vrecker, Ektra Displacement, Door and Rear Pick-up noževi - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "580 kg",
@@ -3223,7 +3223,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ARES STRONG200 Heavi Duti Vrecker, Ektra Displacement, Door and Rear Pick-Up Blades – POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "610 kg",
@@ -3259,7 +3259,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "CERBERUS HIPER200 Heavi-Duti Heavi Duti Destroier (Demo) - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "775 kg",
@@ -3294,8 +3294,8 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
-        "model": "CERBERUS HIPER200P Hidraulični razbijač točkova za teške uslove rada (demonstrator) - TRAKTORI POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Tarupi",
+        "model": "CERBERUS HIPER200P Hidraulični tarup točkova za teške uslove rada (demonstrator) - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "850 kg",
             "Konji": "65 – 120 KS",
@@ -3329,7 +3329,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Desplasment and Hammer Light Vrecker za mali traktor - japanski GRAECUS EKN135 traktor - POLjOPRIVREDNA MAŠINA GUME TRAKTORI",
         "specifikacije": {
             "Težina": "179 kg",
@@ -3363,7 +3363,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Desplasment and Hammer Light Vrecker za mali traktor – japanski traktor GRAECUS EKN85 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "119 kg",
@@ -3397,7 +3397,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Mali traktor sa pomeranjem 95 cm za mali traktor – japanski traktor GRAECUS EKN95 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "134 kg",
@@ -3431,7 +3431,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Desplasment and Hammer Light Vrecker za mali traktor - japanski GRAECUS EKN105 traktor - POLjOPRIVREDNA MAŠINA GUME TRAKTORI",
         "specifikacije": {
             "Težina": "153 kg",
@@ -3465,7 +3465,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "115cm deplasman i čekić lak za uništavanje malih traktora - japanski GRAECUS EKN115 traktor - POLjOPRIVREDNA MAŠINA GUME TRAKTORI",
         "specifikacije": {
             "Težina": "159 kg",
@@ -3499,7 +3499,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Desplasment and Hammer Light Vrecker za mali traktor - japanski GRAECUS EKN125 traktor - POLjOPRIVREDNA MAŠINA GUME TRAKTORI",
         "specifikacije": {
             "Težina": "171 kg",
@@ -3533,7 +3533,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Poluteški čekić HPK160 - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "499 kg",
@@ -3564,7 +3564,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Poluteški čekić HPK180 - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "530 kg",
@@ -3595,7 +3595,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Poluteški čekić HPK140 - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "475 kg",
@@ -3626,8 +3626,8 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
-        "model": "MKP145 Srednji čekić razarač - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Tarupi",
+        "model": "MKP145 Srednji čekić tarup - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "330 kg",
             "Konji": "30 – 60 KS",
@@ -3661,8 +3661,8 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
-        "model": "MKP155 Srednji razarač čekić - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Tarupi",
+        "model": "MKP155 Srednji tarup čekić - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "340 kg",
             "Konji": "35 – 60 KS",
@@ -3696,7 +3696,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "2HBK140 poluteški dvokapni stroj za uništavanje - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "390 kg",
@@ -3726,7 +3726,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "2HBK160 poluteški dvokapni stroj za uništavanje - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "400 kg",
@@ -3756,7 +3756,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Poluteški čekić HBP205 - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "426 kg",
@@ -3790,7 +3790,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Poluteški čekić HBP135 - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "351 kg",
@@ -3824,7 +3824,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD145-H - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "330 kg",
@@ -3856,7 +3856,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Poluteški čekić HBP155 - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "369 kg",
@@ -3890,7 +3890,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Poluteški čekić HBP175 - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "389 kg",
@@ -3924,7 +3924,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Poluteški čekić HBP195 - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "416 kg",
@@ -3958,7 +3958,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD175-H - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "360 kg",
@@ -3990,7 +3990,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "Binzinski cepač za drva | Loncin 15hp RB56 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "125 kg",
@@ -4021,7 +4021,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "VGALTIS 61 traktorska seckalica - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "200 kg",
@@ -4047,7 +4047,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "VGALTIS 61S hidraulični podizanje i okretanje trupaca - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "280 kg",
@@ -4075,7 +4075,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD135 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "276 kg",
@@ -4105,7 +4105,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD145 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "288 kg",
@@ -4135,7 +4135,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD155 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "296 kg",
@@ -4165,7 +4165,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Srednji tip seckalica za travu i granje sa vratima. Idealan za male i srednje traktore. GRAECUS MKD165 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "310 kg",
@@ -4195,7 +4195,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Srednji tip seckalica za travu i granje sa vratima. Idealan za male i srednje traktore. GRAECUS MKD175 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "332 kg",
@@ -4225,7 +4225,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD125 - TRAKTORI NA TOCKOVIMA ZA POLjOPRIVREDNU MASINU",
         "specifikacije": {
             "Težina": "266 kg",
@@ -4255,7 +4255,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD115-H - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "300 kg",
@@ -4290,7 +4290,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Srednji tip seckalica sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD105-H - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "290 kg",
@@ -4325,7 +4325,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD105 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "254 kg",
@@ -4348,8 +4348,8 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
-        "model": "MKP125 Srednji čekić razarač - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Tarupi",
+        "model": "MKP125 Srednji čekić tarup - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "310 kg",
             "Konji": "20 – 60 KS",
@@ -4381,7 +4381,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD125-H - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "310 kg",
@@ -4416,7 +4416,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Srednji tip seckalica sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD155-H - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "340 kg",
@@ -4448,7 +4448,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Srednji tip seckalica sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD165-H - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "350 kg",
@@ -4480,7 +4480,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ATK155-H Crazi Destroier - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "363 kg",
@@ -4519,7 +4519,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ATK145-H Crazi Destroier - GUME ZA POLjOPRIVREDNE MAŠINE ZA TRAKTOR",
         "specifikacije": {
             "Težina": "342 kg",
@@ -4555,7 +4555,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ATK165-H Crazi Destroier - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "384 kg",
@@ -4594,7 +4594,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ATK175-H Crazi Destroier - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "405 kg",
@@ -4633,8 +4633,8 @@
         ]
     },
     {
-        "vrsta": "Construction machinery accessories",
-        "model": "IEK80pro hidraulični bager/razbijač motike - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Dodatna Oprema za Gradjevinske Masine",
+        "model": "IEK80pro hidraulični bager/tarup motike - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "280 kg",
             "Kompatibilnost": "3 – 9 T",
@@ -4661,8 +4661,8 @@
         ]
     },
     {
-        "vrsta": "Construction machinery accessories",
-        "model": "IEK100pro hidraulični bager/razbijač motike - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Dodatna Oprema za Gradjevinske Masine",
+        "model": "IEK100pro hidraulični bager/tarup motike - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "300 kg",
             "Kompatibilnost": "3 – 9 T",
@@ -4689,8 +4689,8 @@
         ]
     },
     {
-        "vrsta": "Construction machinery accessories",
-        "model": "IEK120pro hidraulični bager/razbijač motike - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Dodatna Oprema za Gradjevinske Masine",
+        "model": "IEK120pro hidraulični bager/tarup motike - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "330 kg",
             "Kompatibilnost": "3 – 9 T",
@@ -4717,7 +4717,7 @@
         ]
     },
     {
-        "vrsta": "Construction machinery accessories",
+        "vrsta": "Dodatna Oprema za Gradjevinske Masine",
         "model": "IEK100 hidraulični bager/motika - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "288 kg",
@@ -4746,8 +4746,8 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
-        "model": "EPK125 hidraulični razbijač nagiba sa čekićima - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Nagnuti Tarupi",
+        "model": "EPK125 hidraulični tarup nagiba sa čekićima - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "250 kg",
             "Konji": "25 – 45 KS",
@@ -4783,8 +4783,8 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
-        "model": "EPK145 hidraulični razbijač nagiba sa čekićima - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Nagnuti Tarupi",
+        "model": "EPK145 hidraulični tarup nagiba sa čekićima - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "294 kg",
             "Konji": "30 – 50 KS",
@@ -4820,7 +4820,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "EPK165 hidraulični čekić sa čekićima - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "322 kg",
@@ -4857,7 +4857,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Hidraulična drobilica sa kolektorom 0,90m MSK90 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "290 kg",
@@ -4899,7 +4899,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Hidraulična drobilica sa kolektorom 1,20m MSK120 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "325 kg",
@@ -4941,7 +4941,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Hidraulična drobilica sa kolektorom 1,60m MSK160 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "367 kg",
@@ -4982,7 +4982,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "CERBERUS OPEN150 TEŠKI OMOTAJ SA OTVARANjEM NADAŠNICE I HIDRAULIČNIM SMJENjOM - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "666 kg",
@@ -5026,7 +5026,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "CERBERUS OPEN160 Hidraulic Shift Heavi-Duti Destroier - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "688 kg",
@@ -5070,7 +5070,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "CERBERUS OPEN200 Hidraulic Shift Heavi-Duti Destroier - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "754 kg",
@@ -5113,7 +5113,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "CERBERUS OPEN180 TEŠKI OMOTAJ SA OTVARANjEM NADAŠNICE I HIDRAULIČNIM SMJENjOM - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "716 kg",
@@ -5156,7 +5156,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "Mobilna rampa RAMP6T sa šinama koje se mogu brzo odvojiti (isključuje besplatnu dostavu) – TRAKTORI ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "2450 kg",
@@ -5195,7 +5195,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Komplet točkova za podešavanje dubine za HIDRA RODES - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "6 kg"
@@ -5206,7 +5206,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Električni paletni viličar 1.5T | električni lift 200mm | električni pogon 4.5 km/h | VFE15 mašina za hodanje - POLjOPRIVREDNA MAŠINA GUME TRAKTORI",
         "specifikacije": {
             "Težina": "144 kg",
@@ -5245,7 +5245,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Clark 2.0T dizel | Duplek 3000mm | hidraulični bočni pomak | viljuške 1220mm - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "3320 kg",
@@ -5274,7 +5274,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Clark 2.0T dizel | Dupleks 3000mm | hidraulični bočni pomak | grejana kabina | viljuške 1220mm - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "3420 kg",
@@ -5316,7 +5316,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Clark 2.0T STAGE V dizel | Duplek 3000mm | hidraulični bočni pomak | viljuške 1220mm - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "3600 kg",
@@ -5345,7 +5345,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Clark 2.5T dizel | Duplek 3000mm | jarbol zamah | hidraulični bočni pomak | viljuške 1220mm - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "3600 kg",
@@ -5386,7 +5386,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Clark 2.5T dizel | Duplek 3000mm | hidraulični bočni pomak | viljuške 1220mm - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "3600 kg",
@@ -5415,7 +5415,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Clark 2.5T dizel | Dupleks 3000mm | hidraulični bočni pomak | grejana kabina | viljuške 1220mm - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "3700 kg",
@@ -5457,7 +5457,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Clark 2.5T STAGE V dizel | Triplek 4500mm | hidraulični bočni pomak | viljuške 1220mm - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "3970 kg",
@@ -5486,7 +5486,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Clark 2.5T dizel | Triplek 4500mm | hidraulični bočni pomak | viljuške 1220mm - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "3600 kg",
@@ -5515,7 +5515,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Clark 2.5T Kubota STAGE V dizel | Dupleks 3000mm | hidraulični bočni pomak | viljuške 1220mm - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "3800 kg",
@@ -5535,7 +5535,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Clark 2.5T Kubota STAGE V dizel | Triplek 4500mm | hidraulični bočni pomak | viljuške 1220mm - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "3800 kg",
@@ -5555,7 +5555,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Clark 2.5T STAGE V dizel | Dupleks 3000mm | hidraulični bočni pomak | viljuške 1220mm - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "3600 kg",
@@ -5584,7 +5584,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Clark 3T dizel | Dupleks 3000mm | hidraulični bočni pomak | viljuške 1220mm - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "4140 kg",
@@ -5622,7 +5622,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Clark 3T STAGE V dizel | Dupleks 3000mm | hidraulični bočni pomak | viljuške 1220mm - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "4140 kg",
@@ -5660,7 +5660,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Clark 3T dizel | Duplek 3000mm | hidraulični bočni pomak | grejana kabina | viljuške 1220mm - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "4240 kg",
@@ -5702,7 +5702,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Clark 3T dizel | Triplek 4500mm | hidraulični bočni pomak | viljuške 1220mm - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "4140 kg",
@@ -5737,7 +5737,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "CROCO130 Harvester - POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "190 kg",
@@ -5770,7 +5770,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "CROCO170 Harvester - POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "230 kg",
@@ -5803,7 +5803,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "CROCO210 Harvester - POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "260 kg",
@@ -5836,7 +5836,7 @@
         ]
     },
     {
-        "vrsta": "Wood chippers - bio shredders",
+        "vrsta": "Drobilice drveta",
         "model": "Sekač guseničar na benzin | Loncin 15hp KBD12 - POLjOPRIVREDNE MAŠINE UMOREN TRAKTORI",
         "specifikacije": {
             "Težina": "325 kg",
@@ -5875,7 +5875,7 @@
         ]
     },
     {
-        "vrsta": "Wood chippers - bio shredders",
+        "vrsta": "Drobilice drveta",
         "model": "Benzinski rezač | Loncin 6,5hp KB10 - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "97 kg",
@@ -5914,7 +5914,7 @@
         ]
     },
     {
-        "vrsta": "Wood chippers - bio shredders",
+        "vrsta": "Drobilice drveta",
         "model": "Petroleumper sa benzinskim motorom i kantom za sakupljanje od 65 litara | Loncin 6,5hp | KB05 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "55 kg",
@@ -5951,7 +5951,7 @@
         ]
     },
     {
-        "vrsta": "Wood chippers - bio shredders",
+        "vrsta": "Drobilice drveta",
         "model": "Benzinski rezač | Loncin 15hp KBT12 - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "260 kg",
@@ -5982,7 +5982,7 @@
         ]
     },
     {
-        "vrsta": "Wood chippers - bio shredders",
+        "vrsta": "Drobilice drveta",
         "model": "Benzinski rezač | Loncin 27hp KBT15H - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "700 kg",
@@ -6030,7 +6030,7 @@
         ]
     },
     {
-        "vrsta": "Wood chippers - bio shredders",
+        "vrsta": "Drobilice drveta",
         "model": "Benzinski rezač | Loncin 6.5hp KBT10 - TRAKTORI ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "103 kg",
@@ -6068,7 +6068,7 @@
         ]
     },
     {
-        "vrsta": "Wood chippers - bio shredders",
+        "vrsta": "Drobilice drveta",
         "model": "elektromotor 2,8 kV i kanta za sakupljanje od 65 litara | KB05E - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "51 kg",
@@ -6093,7 +6093,7 @@
         ]
     },
     {
-        "vrsta": "Wood chippers - bio shredders",
+        "vrsta": "Drobilice drveta",
         "model": "Starter sekač | Loncin 15hp KB15 - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "260 kg",
@@ -6130,7 +6130,7 @@
         ]
     },
     {
-        "vrsta": "Wood chippers - bio shredders",
+        "vrsta": "Drobilice drveta",
         "model": "KT15S Hidraulična rezačica - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "448 kg",
@@ -6166,7 +6166,7 @@
         ]
     },
     {
-        "vrsta": "Wood chippers - bio shredders",
+        "vrsta": "Drobilice drveta",
         "model": "KT26R Hidraulična sekačica - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "920 kg",
@@ -6207,7 +6207,7 @@
         ]
     },
     {
-        "vrsta": "Wood chippers - bio shredders",
+        "vrsta": "Drobilice drveta",
         "model": "KT16R Hidraulična sekačica - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "695 kg",
@@ -6244,7 +6244,7 @@
         ]
     },
     {
-        "vrsta": "Wood chippers - bio shredders",
+        "vrsta": "Drobilice drveta",
         "model": "Traktorska sekačica KTA10R - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "225 kg",
@@ -6288,7 +6288,7 @@
         ]
     },
     {
-        "vrsta": "Wood chippers - bio shredders",
+        "vrsta": "Drobilice drveta",
         "model": "KT13R Hidraulična rezačica - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "457 kg",
@@ -6320,7 +6320,7 @@
         ]
     },
     {
-        "vrsta": "Wood chippers - bio shredders",
+        "vrsta": "Drobilice drveta",
         "model": "KT10 Pruner - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "196 kg",
@@ -6349,7 +6349,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Klark za 2-stepeni traktor sa težinom dizanja 800kg i visinom 180cm, hidrauličnim bočnim pomeranjem, hidrauličnim podešavanjem i kontrolom grane. - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "248 kg",
@@ -6386,7 +6386,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Klark za 2-stepeni traktor sa težinom dizanja 800kg i visinom 220cm, hidrauličnim bočnim pomeranjem, hidrauličnim podešavanjem i kontrolom grana. - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "258 kg",
@@ -6423,7 +6423,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Klark za 2-stepeni traktor sa težinom dizanja 800kg i visinom 250cm, hidraulični bočni pomak, hidraulično podešavanje i kontrola grana. - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "266 kg",
@@ -6460,7 +6460,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Clark za 3-stepeni traktor sa težinom dizanja 1500kg i visinom 250cm, hidrauličnim bočnim pomeranjem, hidrauličnim podešavanjem i kontrolom grana. - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "490 kg",
@@ -6480,7 +6480,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Klark za traktor 3 stepena sa težinom dizanja 1500kg i visinom 320cm, hidraulični bočni pomak, hidraulično podešavanje i kontrola strele. - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "502 kg",
@@ -6500,7 +6500,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Clark za 3-stepeni traktor sa težinom dizanja 1500kg i visinom 250cm, hidrauličnim bočnim pomeranjem, hidrauličnim podešavanjem grane i bežičnom kontrolom. - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "490 kg",
@@ -6520,7 +6520,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Klark za 3-stepeni traktor sa težinom dizanja 1500kg i visinom 320cm, hidrauličnim bočnim pomeranjem, hidrauličnim podešavanjem grane i bežičnom kontrolom. - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "502 kg",
@@ -6540,7 +6540,7 @@
         ]
     },
     {
-        "vrsta": "Agricultural machinery spare parts",
+        "vrsta": "Rezervni delovi za poljoprivredne masine",
         "model": "Kapa sa hidrauličnim otvaranjem 4u1 1600mm euro kuka za priključak na utovarivač, kolica, traktor sa utovarivačem EHB160 4u1 (13% PDV) - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Širina": "1500 mm",
@@ -6554,7 +6554,7 @@
         ]
     },
     {
-        "vrsta": "Agricultural machinery spare parts",
+        "vrsta": "Rezervni delovi za poljoprivredne masine",
         "model": "Kapa sa hidrauličnim otvaranjem 4u1 1800mm euro kuka za priključak na utovarivač, kolica, traktor sa utovarivačem EHB180 4u1 (13% PDV) - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Širina": "1700 mm",
@@ -6567,7 +6567,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Transportna kašika sa hidrauličnim nagibom BM200-H - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "276 kg",
@@ -6594,7 +6594,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Transportna kašika sa hidrauličnim nagibom BM180-H - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "250 kg",
@@ -6622,7 +6622,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Modelna transportna kašika BM100 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "85 kg",
@@ -6653,7 +6653,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "KM120-H ojačana kašika montirana sa hidrauličnim kiperom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "111 kg",
@@ -6686,7 +6686,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "KM140-H ojačana kašika montirana sa hidrauličnim kiperom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "128 kg",
@@ -6723,7 +6723,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "KM160-H ojačana kašika montirana sa hidrauličnim kiperom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "145 kg",
@@ -6760,7 +6760,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Transportna kašika sa hidrauličnim nagibom BM120-H - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "158 kg",
@@ -6789,7 +6789,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Transportna kašika sa hidrauličnim nagibom BM160-H - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "208 kg",
@@ -6817,7 +6817,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Transport bok mounted CM140 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "131 kg",
@@ -6855,7 +6855,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Transport bok mounted CM160 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "178 kg",
@@ -6893,7 +6893,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Transport mounted CM180 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "191 kg",
@@ -6931,7 +6931,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Transport bok mounted CM200 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "210 kg",
@@ -6969,8 +6969,8 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
-        "model": "Cilindarski razbijač zemlje za ram više mašina HIDRA RAOILO140 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Poljoprivredne masine",
+        "model": "Cilindarski tarup zemlje za ram više mašina HIDRA RAOILO140 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "70 kg",
             "Radna_širina": "1400 mm"
@@ -6982,8 +6982,8 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
-        "model": "Cilindarski razbijač zemlje za ram više mašina HIDRA RAOILO160 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Poljoprivredne masine",
+        "model": "Cilindarski tarup zemlje za ram više mašina HIDRA RAOILO160 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "77 kg",
             "Radna_širina": "1600 mm"
@@ -6995,8 +6995,8 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
-        "model": "Cilindarski razbijač zemlje za ram više mašina HIDRA RAOILO120 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Poljoprivredne masine",
+        "model": "Cilindarski tarup zemlje za ram više mašina HIDRA RAOILO120 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "61 kg",
             "Radna_širina": "1200 mm"
@@ -7008,7 +7008,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Cilindar za sabijanje tla za šasiju više mašina HIDRA KILINDROS - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "50 – 130 kg",
@@ -7019,7 +7019,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Rasipač đubriva sa duplim linearnim L300 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "52 kg",
@@ -7041,7 +7041,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Rasipač đubriva sa dvostrukim linearnim L400 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "65 kg",
@@ -7063,7 +7063,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Rasipač đubriva sa duplim radnim kolom 2L800H - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "176 kg",
@@ -7096,7 +7096,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Hidraulični rasipač đubriva sa duplim radnim kolom 2L1000H - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "185 kg",
@@ -7129,7 +7129,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Hidraulični rasipač đubriva sa duplim radnim kolom 2L1200H - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "210 kg",
@@ -7164,7 +7164,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Hidraulični rasipač đubriva sa duplim radnim kolom 2L1500H - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "245 kg",
@@ -7199,7 +7199,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Rasipač đubriva sa duplim radnim kolom 2L800M - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "176 kg",
@@ -7232,7 +7232,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Rasipač đubriva L300 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "47 kg",
@@ -7254,7 +7254,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Rasipač đubriva L400 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "58 kg",
@@ -7276,7 +7276,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Rasipač đubriva L1000H - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "150 kg",
@@ -7305,7 +7305,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Rasipač đubriva L1000M - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "150 kg",
@@ -7335,7 +7335,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Rasipač đubriva L500 - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "64 kg",
@@ -7357,7 +7357,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Rasipač đubriva hidraulični L600H - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "126 kg",
@@ -7386,7 +7386,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Rasipač đubriva L600M - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "126 kg",
@@ -7416,7 +7416,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Hidraulični rasipač đubriva sa dvostrukim linearnim L800GH - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "147 kg",
@@ -7444,7 +7444,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Rasipač đubriva sa dvostrukim linearnim L800GM - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "147 kg",
@@ -7471,7 +7471,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Rasipač đubriva hidraulični L800H - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "137 kg",
@@ -7497,7 +7497,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Rasipač đubriva L800M - GUME ZA TRAKTORE ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "137 kg",
@@ -7529,7 +7529,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "D300 Mehanički kiper guseničar - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "178 kg",
@@ -7565,7 +7565,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "4k4 4VD Mini Split Hidrostatički utovarivač na točkovima | LD07 HST Kabina - GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Dužina": "3325 mm",
@@ -7602,7 +7602,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Mini Split hidrostatički utovarivač na točkovima 4k4 4VD | LD07 HST - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Dužina": "3325 mm",
@@ -7643,7 +7643,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "4k4 4VD mini teleskopski hidrostatički utovarivač na točkovima | T-LD07 HST kabina - TRAKTORI GUME ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Dužina": "3325 mm",
@@ -7681,7 +7681,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Mini teleskopski hidrostatički utovarivač na točkovima 4k4 4VD | T-LD07 HST - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Dužina": "3325 mm",
@@ -7720,7 +7720,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "4k4 4VD bager mini utovarivač na točkovima | BLD6 - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Dužina": "4900 mm",
@@ -7774,7 +7774,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "2.7T Kubota Diesel Mini motika sa zamahom, sklopivim guseničarima, bočnim ručkama i čekić linijom EB27-PRO - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Oprema": {
@@ -7847,7 +7847,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Mini bager sa A/C kabinom 4T, Kubota Diesel, sa zamahom strele, bočnim ručkama i čekić linijom EB40C-PRO - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Oprema": {
@@ -7911,7 +7911,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Samouvlačeća, sklopiva samohidraulična drljača ERIS AM60 – TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "290 kg",
@@ -7945,7 +7945,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Mini bager sa A/C kabinom 2.7T, Kubota Diesel, okretna grana, sklopivi guseničari, bočne ručke i čekić linija – POLjOPRIVREDNA OPREMA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Oprema": {
@@ -8031,7 +8031,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Mini bager guseničar 1T, dizel, sa zamahnom granom i linijom čekića EB10-BOOM - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Oprema": {
@@ -8106,7 +8106,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Mini bager guseničar 1T, dizel, sa zamahom, sklopivim guseničarima i čekić linijom EB10-KSL – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Oprema": {
@@ -8182,7 +8182,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Mini bager guseničar 900kg, dizel, sa čekić linijom EB09 - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Oprema": {
@@ -8252,7 +8252,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Mini motika 1.2T, Dizel Kubota, sa zamahom, sklopivim gusjenicama, bočnim komandnim polugama i čekić linijom EB12-PRO - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Oprema": {
@@ -8336,7 +8336,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Mini bager guseničar 1.2T, dizel Kubota, okretna grana, sklopivi guseničari i čekić linija EB12-KSL – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Oprema": {
@@ -8413,7 +8413,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Mini bager guseničar 1.2T, Kubota dizel, okretna grana i linija čekića EB12-BOOM – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Oprema": {
@@ -8489,7 +8489,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Mini bager guseničar 1.5T, Kubota Diesel, sa linijom čekića EB15 - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Oprema": {
@@ -8559,7 +8559,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Mini bager guseničar 1T, dizel, sa zamahom, sklopivim guseničarima, bočnim ručicama i čekić linijom EB10-PRO – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Oprema": {
@@ -8643,7 +8643,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Mini bager guseničar 1000kg, dizel, sa linijom čekića EB10 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Oprema": {
@@ -8714,7 +8714,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Mini motika 2T, Kubota Diesel, sa zamahom, sklopivim gusjenicama, bočnim komandnim polugama i čekić linijom EB20-PRO - POLjOPRIVREDNE MAŠINE TRAKTORI TOČKOVI",
         "specifikacije": {
             "Oprema": {
@@ -8794,7 +8794,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "3.5T Kubota Diesel Mini motika sa zamahom, bočnim ručkama i čekić linijom EB35-PRO - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "3300 kg",
@@ -8832,7 +8832,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Damper guseničar D800H sa hidrauličnim kiperom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "440 kg",
@@ -8867,7 +8867,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Damper guseničar D500H sa hidrauličnim kiperom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "290 kg",
@@ -8906,7 +8906,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Električni kiper sa hidrauličnim kiperom E500H - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "208 kg",
@@ -8931,7 +8931,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Električni kiper sa mehaničkim kiperom E500 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "172 kg",
@@ -8960,7 +8960,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "T500 visokookretni kiper - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "446 kg",
@@ -8994,7 +8994,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "T500FL High Kipping Kiper - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "446 kg",
@@ -9027,7 +9027,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "D300R Mehanički kiper - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "143 kg",
@@ -9058,7 +9058,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Damper hidrostatički sa hidrauličnim kiperom H500 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "380 kg",
@@ -9078,7 +9078,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Damper, hidrostatički sa hidrauličnim bočnim pražnjenjem, platforma za vozača 800kg Dizel KUBOTA H800S PRO - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "630 kg",
@@ -9109,7 +9109,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Damper, hidrostatički sa hidrauličnim bočnim pražnjenjem, platforma za vozača 800kg Dizel KOOP H800S - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "630 kg",
@@ -9140,7 +9140,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Dizel kiper, hidrostatički sa utovarivačem i visokim kiperom 800kg HT800FL - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "630 kg",
@@ -9187,7 +9187,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Kubota Diesel Dumper Hidrostatički sa utovarivačem i visokim nagibom 800kg HT800FL-PRO - TRAKTORI GUME ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "630 kg",
@@ -9235,7 +9235,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "D500 mehanička kiper guseničara - POLjOPRIVREDNI MAŠINARI UMORNI TRAKTORI",
         "specifikacije": {
             "Težina": "245 kg",
@@ -9266,7 +9266,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Palago za traktor BP1300 - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "265 kg",
@@ -9296,7 +9296,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Palgo za traktor BP1300S - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "305 kg",
@@ -9322,7 +9322,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Platforma traktora PH200 - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "50 kg",
@@ -9341,7 +9341,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Platforma traktora PH500 - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "85 kg",
@@ -9365,7 +9365,7 @@
         ]
     },
     {
-        "vrsta": "Mini dumper - forklift",
+        "vrsta": "Mini damperi - viljuskari",
         "model": "Poluelektrični paletni viličar 1T| Dupleks električni lift 3000mm| Baterija 12V100AH - POLjOPRIVREDNA MAŠINA GUME TRAKTORI",
         "specifikacije": {
             "Težina": "380 kg",
@@ -9388,7 +9388,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Patataletro za brzo i jednostavno vađenje krompira za šasije sa više mašina HIDRA PATATALETRO - POLjOPRIVREDNE MAŠINE TRAKTORI SA GUMAMA",
         "specifikacije": {
             "Težina": "23 kg"
@@ -9398,7 +9398,7 @@
         ]
     },
     {
-        "vrsta": "Planting machines - potato extractors",
+        "vrsta": "Sadilice - Vadilice",
         "model": "MOE Traktor Nagibni vagač za krompir - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "52 kg",
@@ -9425,7 +9425,7 @@
         ]
     },
     {
-        "vrsta": "Planting machines - potato extractors",
+        "vrsta": "Sadilice - Vadilice",
         "model": "PE55 bočna vadilica za krompir - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "272 kg",
@@ -9446,7 +9446,7 @@
         ]
     },
     {
-        "vrsta": "Planting machines - potato extractors",
+        "vrsta": "Sadilice - Vadilice",
         "model": "DE50 traktor za vađenje krompira - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "175 kg",
@@ -9475,7 +9475,7 @@
         ]
     },
     {
-        "vrsta": "Planting machines - potato extractors",
+        "vrsta": "Sadilice - Vadilice",
         "model": "PF2 dvoredna sejalica za krompir - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "210 kg",
@@ -9502,7 +9502,7 @@
         ]
     },
     {
-        "vrsta": "Planting machines - potato extractors",
+        "vrsta": "Sadilice - Vadilice",
         "model": "Dvoredna sejalica za krompir + kutija za lekove PF2KSL - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "240 kg",
@@ -9530,7 +9530,7 @@
         ]
     },
     {
-        "vrsta": "Planting machines - potato extractors",
+        "vrsta": "Sadilice - Vadilice",
         "model": "Sejalica za krompir Monis serije PF1 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE MAŠINE",
         "specifikacije": {
             "Težina": "130 kg",
@@ -9554,7 +9554,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Sakupljač kamena za traktore, sa vijcima Hardok 450 i rotacijom 360º IBS200 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "370 kg",
@@ -9573,7 +9573,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Sakupljač kamena za traktore, sa vijcima Hardok 450 i rotacijom 360º IBS225 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "400 kg",
@@ -9592,7 +9592,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Sakupljač kamena za traktore, sa vijcima Hardok 450 i rotacijom 360º IBS180 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "320 kg",
@@ -9611,7 +9611,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Sakupljač kamena za traktore, sa vijcima Hardok 450 i rotacijom 360º IBS160 - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "270 kg",
@@ -9630,7 +9630,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Sakupljač kamena za traktore, sa vijcima Hardok 450 i rotacijom 360º IBS250 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "430 kg",
@@ -9649,7 +9649,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Tip 'A' okvir sa kugličnim viljuškama, za traktore AS800 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "55 kg",
@@ -9661,7 +9661,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Viljuške za traktorske bale THF800 - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "77 kg",
@@ -9679,7 +9679,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Vile za bale za utovarivač EHB800 - GUME ZA POLjOPRIVREDNU MAŠINU TRAKTORI",
         "specifikacije": {
             "Težina": "77 kg",
@@ -9697,7 +9697,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Traktorske viljuške Clark TPF1200 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "130 kg",
@@ -9723,7 +9723,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Clark Tractor Forks TPF300 - TRAKTORSKE GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "57 kg",
@@ -9747,7 +9747,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Traktorske viljuške Clark TPF700 - GUME ZA TRAKTORSKE MAŠINE ZA POLjOPRIVREDU",
         "specifikacije": {
             "Težina": "69 kg",
@@ -9775,7 +9775,7 @@
         ]
     },
     {
-        "vrsta": "Agricultural machinery spare parts",
+        "vrsta": "Rezervni delovi za poljoprivredne masine",
         "model": "Clark EHF700 viljuške za utovarivač traktora (13% PDV) - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "107 kg",
@@ -9801,7 +9801,7 @@
         ]
     },
     {
-        "vrsta": "Agricultural machinery spare parts",
+        "vrsta": "Rezervni delovi za poljoprivredne masine",
         "model": "Clark Forks for EHF700 Traktor Loader - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "107 kg",
@@ -9827,7 +9827,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Šasija višenamenske mašine za obradu tla Hidra140 – TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "57 kg",
@@ -9843,7 +9843,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Šasija višenamenske mašine za obradu tla HIDRA160 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "64 kg",
@@ -9859,7 +9859,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Šasija višenamenske mašine za obradu tla HIDRA120 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "50 kg",
@@ -9875,7 +9875,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Chimera BRATSO SH90 - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "140 kg",
@@ -9890,7 +9890,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Chimera BRATSO SH120 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "155 kg",
@@ -9905,7 +9905,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Multi mašina sa 2 hidraulične sklopive ruke CHIMERA BRATSO DH90 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "160 kg",
@@ -9920,7 +9920,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Multi mašina sa 2 hidrauličke sklopive ruke i nezavisnim hidrauličnim sistemom CHIMERA BRATSO HID120 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "210 kg",
@@ -9937,7 +9937,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Multi mašina sa 2 hidraulične sklopive ruke CHIMERA BRATSO DH120 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "175 kg",
@@ -9952,7 +9952,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "Mala traktorska presa ZEA PRESA 850 - POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "390 kg",
@@ -9988,7 +9988,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "Mala traktorska presa ZEA PRESA 870 - POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "440 kg",
@@ -10025,7 +10025,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "Mobilna rampa RAMP10T sa šinama koje se mogu brzo odvojiti (isključuje besplatnu dostavu) – TRAKTORI ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "2900 kg",
@@ -10064,7 +10064,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "ER Netvork Installation Ripper - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "58 kg",
@@ -10096,7 +10096,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "MR Netvork Installation Ripper - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "95 kg",
@@ -10193,7 +10193,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "KM180-H hidraulična korpa na kiperu ojačana - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "162 kg",
@@ -10230,7 +10230,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Transportna kašika sa hidrauličnim nagibom BM140-H - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "187 kg",
@@ -10262,7 +10262,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "BM140 na kantu - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "180 kg",
@@ -10300,7 +10300,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Transport sa korpom BM160 - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "200 kg",
@@ -10337,7 +10337,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Kafa viseća ojačana KM100 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "89 kg",
@@ -10364,7 +10364,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Kafa viseća ojačana KM120 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "105 kg",
@@ -10395,7 +10395,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Klica viseća ojačana KM140 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "122 kg",
@@ -10428,7 +10428,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Kafa viseća ojačana KM160 - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "139 kg",
@@ -10462,7 +10462,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Na korpi BM120 - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "96 kg",
@@ -10499,7 +10499,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "Arida bušilica (sa hidrauličnom bocom) MT-H - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "139 kg",
@@ -10516,7 +10516,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "Šasija za bušilicu Arida MT – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "113 kg",
@@ -10533,7 +10533,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "Lanac za kopanje 60-80cm - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "60": "80",
@@ -10564,7 +10564,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "Ručni lančani kopač za benzin | Loncin 15hp SKKS60 - TRAKTORI GUME ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "188 kg",
@@ -10597,7 +10597,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "Lanac za kopanje 100-120cm - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "100": "120",
@@ -10637,7 +10637,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Ram subkultivatora za drobljenje homogenog tla za ram više mašina HIDRA RIPUNTATORE - POLjOPRIVREDNE MAŠINE TRAKTORI SA GUMAMA",
         "specifikacije": {
             "Težina": "10 kg",
@@ -10648,7 +10648,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Podzemni drenažni regal za šasiju više mašina HIDRA APOSTRAGISTIS - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "60 kg",
@@ -10661,7 +10661,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "S120A sekač lanca - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "154 kg",
@@ -10694,7 +10694,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "S140A sekač lanca - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "191 kg",
@@ -10725,7 +10725,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "S160A sekač lanca - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "227 kg",
@@ -10753,7 +10753,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "S100A sekač lanca - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "129 kg",
@@ -10784,7 +10784,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "S160M nož za rezanje stabljika - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "231 kg",
@@ -10812,7 +10812,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "S180A Sekač lanca - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "283 kg",
@@ -10844,7 +10844,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "S200A Sekač lanca - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "336 kg",
@@ -10869,7 +10869,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "Sečivo S200M - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "343 kg",
@@ -10893,7 +10893,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "DTS170 Sekač sa dva lančanika - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "393 kg",
@@ -10929,7 +10929,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "Sečivo S100M - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "132 kg",
@@ -10960,7 +10960,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "S120M nož za rezanje stabljika - GUME ZA POLjOPRIVREDNE MAŠINE ZA TRAKTOR",
         "specifikacije": {
             "Težina": "157 kg",
@@ -10993,7 +10993,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "Sečivo S140M - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "195 kg",
@@ -11024,7 +11024,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "S180M nož za rezanje stabljika - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "288 kg",
@@ -11224,7 +11224,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Dodatna oprema brza spojnica za bager EB15/EB16/EB17/EB20, EB15KUICK - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "16 kg",
@@ -11245,7 +11245,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Dodatna brza spojnica za bager EB24/EB27, EB27KUICK - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "18 kg",
@@ -11266,7 +11266,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Dodatna oprema brza spojnica za bager EB09/EB10/EB12, EB10KUICK - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "5 kg",
@@ -11287,7 +11287,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Hidraulični priključak brza spojnica za bager EB35, EB35KUICK-H - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "20 kg",
@@ -11307,7 +11307,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Hidraulični pribor brza spojnica za bager EB40, EB40KUICK-H - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "27 kg",
@@ -11327,8 +11327,8 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
-        "model": "RGK90pro RC razarač - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
+        "vrsta": "Tarupi",
+        "model": "RGK90pro RC tarup - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "280 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -11357,8 +11357,8 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
-        "model": "Teleskopska ruka razarač, samostalna za traktore | Heavi Duti | BTK150 - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
+        "vrsta": "Nagnuti Tarupi",
+        "model": "Teleskopska ruka tarup, samostalna za traktore | Heavi Duti | BTK150 - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "1185 kg",
             "Konji": "85 KS",
@@ -11394,8 +11394,8 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
-        "model": "Teleskopski ručni razarač, samostalni za traktore | srednji tip | MTK120 - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Nagnuti Tarupi",
+        "model": "Teleskopski ručni tarup, samostalni za traktore | srednji tip | MTK120 - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "640 kg",
             "Konji": "65 – 100 KS",
@@ -11426,7 +11426,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopski džojstik samostalni traktor traktor | srednji tip | MTK120-Joistick - POLjOPRIVREDNA MAŠINA GUME TRAKTORI",
         "specifikacije": {
             "Težina": "640 kg",
@@ -11458,7 +11458,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopski džojstik džojstik samostalni traktor traktor | teške uslove | BTK150-Joistick - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "1185 kg",
@@ -11492,7 +11492,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ATK125-H Crazi Destroier - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "300 kg",
@@ -11531,7 +11531,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ATK135-H Crazi Destroier - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "321 kg",
@@ -11570,8 +11570,8 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
-        "model": "TK100 Teleskopski razarač - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Nagnuti Tarupi",
+        "model": "TK100 Teleskopski tarup - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "315 kg",
             "Konji": "25 – 60 KS",
@@ -11599,7 +11599,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Teleskopski utovarivač na točkovima 4k4 4VD | T-LD11 - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Dužina": "4827 mm",
@@ -11643,7 +11643,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Teleskopski utovarivač na točkovima 4k4 4VD | T-LD13 - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Dužina": "5437 mm",
@@ -11702,7 +11702,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Teleskopski utovarivač na točkovima 4k4 4VD | T-LD16 - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Dužina": "5437 mm",
@@ -11761,7 +11761,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Teleskopski hidrostatički utovarivač na točkovima 4k4 4VD | T-LD10 HST - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Dužina": "4537 mm",
@@ -11811,7 +11811,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska koplje - motorna kosa sa reznom šipkom samostalna za traktore LK145 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "270 kg",
@@ -11856,7 +11856,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopsko koplje - motorna kosa sa reznom šipkom samostalna za traktore LK175 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "285 kg",
@@ -11901,7 +11901,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopsko koplje - motorna kosa sa rezačem za traktore, sa mogućnošću napredovanja na strani vozača LK145S - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "290 kg",
@@ -11938,7 +11938,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopsko koplje – motorne motorne kose LK160S sa strane vozača – TRAKTORI NA TOČKOVIMA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "295 kg",
@@ -11975,7 +11975,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopsko koplje - motorna kosa sa rezačem za traktore, sa mogućnošću napredovanja na strani vozača LK175S - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "305 kg",
@@ -12012,7 +12012,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopsko koplje - samostalna motorna kosa sa reznom šipkom za traktore LK130 - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "265 kg",
@@ -12057,7 +12057,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska koplje - motorna kosa sa reznom šipkom samostalna za traktore LK160 - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "275 kg",
@@ -12102,7 +12102,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopska koplje - samostalna motorna kosa sa reznom šipkom za traktore LK190 - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "295 kg",
@@ -12147,7 +12147,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopsko koplje - motorna kosa sa reznom šipkom za traktore, sa mogućnošću napredovanja na strani vozača LK190S - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "315 kg",
@@ -12184,7 +12184,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopsko koplje sa reznom šipkom, džojstikom i mogućnošću napredovanja na strani vozača LK130S-Joistick - TRAKTORI GUME POLjOPRIVREDNIH MAŠINA",
         "specifikacije": {
             "Težina": "285 kg",
@@ -12218,7 +12218,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopsko koplje - motorna kosa sa reznom šipkom za traktore, sa mogućnošću napredovanja na strani vozača LK130S - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "285 kg",
@@ -12255,7 +12255,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK160S-Joistick – TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "295 kg",
@@ -12289,7 +12289,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK175S-Joistick – TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "305 kg",
@@ -12323,7 +12323,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK190S-Joistick – TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "315 kg",
@@ -12357,7 +12357,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK145S-Joistick - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "290 kg",
@@ -13528,7 +13528,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "MT600-M 600kg mehanička kiper traktorska prikolica sa pocinkovanim parapetom - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "170 kg",
@@ -13566,7 +13566,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Traktorska prikolica sa trostrukim hidrauličnim kiperom 4000kg MT4000-3H - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "750 kg",
@@ -13594,7 +13594,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Traktorska prikolica sa tri hidraulike 3000kg MT3000-3H - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "600 kg",
@@ -13631,7 +13631,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Prikolica za traktor sa hidrauličnim kiperom 5000kg MT5000-H - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "960 kg",
@@ -13662,7 +13662,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Traktorska prikolica sa mehaničkim kiperom 1000kg i pocinkovanim parapetom MT1000-M - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "190 kg",
@@ -13696,7 +13696,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Traktorska prikolica sa hidrauličnim kiperom 2500kg DT2500-H - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "400 kg",
@@ -13728,7 +13728,7 @@
         ]
     },
     {
-        "vrsta": "Lifting - transport machinery",
+        "vrsta": "Dizalice - Transportne Masine",
         "model": "Prikolica za traktor sa hidrauličnim kiperom 1500kg MT1500-H - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "320 kg",
@@ -13761,7 +13761,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "Bušilica sa hidrauličnom bocom i Φ230 | MT230-H - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "158,5 kg",
@@ -13779,7 +13779,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "Hidraulična bušilica i bušilica Φ300 | MT300-H - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "164 kg",
@@ -13797,7 +13797,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "Bušilica sa hidrauličnom bocom i pužem Φ380 | MT380-H - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "172 kg",
@@ -13815,7 +13815,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "Bušilica sa hidrauličnom bocom i Φ450 | MT450-H - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "179 kg",
@@ -13833,7 +13833,7 @@
         ]
     },
     {
-        "vrsta": "Drills - chains",
+        "vrsta": "Busilice - lanci",
         "model": "Bušilica sa hidrauličnom bocom i Φ150 | MT150-H - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "150,5 kg",
@@ -13851,7 +13851,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "HADES TA250 kapa za traktor - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "270 kg",
@@ -13867,7 +13867,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "HADES TA330 kapa za traktor - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "700 kg",
@@ -13883,7 +13883,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "HADES TA250 PRO mjenjač ruke traktora - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "270 kg",
@@ -13909,7 +13909,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "HADES TA290 kapa za traktor - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "540 kg",
@@ -13925,7 +13925,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "HADES TA290 PRO traktor hidraulični mjenjač - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "600 kg",
@@ -13952,7 +13952,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Hades TA330 PRO traktor hidraulični menjač - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "840 kg",
@@ -13986,7 +13986,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "Hidraulični dvovezni usisivač sa dodatnom bočnom povratnom četkom i kašikom HIGIEIA H225-P - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "450 kg",
@@ -14012,7 +14012,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "Hidraulični dvovezni usisivač sa dodatnom bočnom povratnom četkom i kašikom HIGIEIA H180-P – TRAKTORI GUME ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "400 kg",
@@ -14038,7 +14038,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Levi hidraulični nož sa povratnom oprugom podesivom osetljivošću. CHIMERA MESINEZA60-L - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "60 kg",
@@ -14054,7 +14054,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "Hidraulični dvovezni usisivač sa dodatnom bočnom povratnom četkom i kašikom HIGIEIA H180-P (13% PDV) - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "400 kg",
@@ -14080,7 +14080,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "Hidraulični dvovezni usisivač sa dodatnom bočnom povratnom četkom i kašikom HIGIEIA H225-P (13% PDV) - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "450 kg",
@@ -14106,7 +14106,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "Hidraulični dvovezni usisivač sa dodatnom bočnom povratnom četkom i kašikom HIGIEIA H150-P (13% PDV) - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "350 kg",
@@ -14132,7 +14132,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "Hidraulični dvovezni usisivač sa dodatnom bočnom povratnom četkom i kašikom HIGIEIA H150-P - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "350 kg",
@@ -14158,7 +14158,7 @@
         ]
     },
     {
-        "vrsta": "Construction machinery accessories",
+        "vrsta": "Dodatna Oprema za Gradjevinske Masine",
         "model": "Hidraulična drobilica šuma - glava za građevinsku mehanizaciju (bager) THOON E800 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "500 kg",
@@ -14190,7 +14190,7 @@
         ]
     },
     {
-        "vrsta": "Construction machinery accessories",
+        "vrsta": "Dodatna Oprema za Gradjevinske Masine",
         "model": "Hidraulični čekić pogodan za upotrebu na građevinskim mašinama IK155 - Bobcat sistem spojnice - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "308 kg",
@@ -14216,7 +14216,7 @@
         ]
     },
     {
-        "vrsta": "Construction machinery accessories",
+        "vrsta": "Dodatna Oprema za Gradjevinske Masine",
         "model": "Hidraulični čekić pogodan za upotrebu na građevinskim mašinama IK175 - Bobcat sistem spojnice - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "328 kg",
@@ -14242,7 +14242,7 @@
         ]
     },
     {
-        "vrsta": "Construction machinery accessories",
+        "vrsta": "Dodatna Oprema za Gradjevinske Masine",
         "model": "Hidraulični čekić pogodan za upotrebu na građevinskim mašinama IK200-H - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "700 kg",
@@ -14272,7 +14272,7 @@
         ]
     },
     {
-        "vrsta": "Construction machinery accessories",
+        "vrsta": "Dodatna Oprema za Gradjevinske Masine",
         "model": "Hidraulični čekić pogodan za upotrebu na građevinskim mašinama IK155 - Eurohitch sistem spojnice - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "308 kg",
@@ -14298,7 +14298,7 @@
         ]
     },
     {
-        "vrsta": "Construction machinery accessories",
+        "vrsta": "Dodatna Oprema za Gradjevinske Masine",
         "model": "Hidraulični čekić pogodan za upotrebu na građevinskim mašinama IK175 - Eurohitch sistem spojke - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "328 kg",
@@ -14324,7 +14324,7 @@
         ]
     },
     {
-        "vrsta": "Construction machinery accessories",
+        "vrsta": "Dodatna Oprema za Gradjevinske Masine",
         "model": "Hidraulični čekić pogodan za upotrebu na građevinskim mašinama IK125 - Eurohitch sistem spojnice - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "280 kg",
@@ -14350,7 +14350,7 @@
         ]
     },
     {
-        "vrsta": "Construction machinery accessories",
+        "vrsta": "Dodatna Oprema za Gradjevinske Masine",
         "model": "Hidraulični čekić pogodan za upotrebu na građevinskim mašinama IK125 - Bobcat sistem spojnice - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "280 kg",
@@ -14376,7 +14376,7 @@
         ]
     },
     {
-        "vrsta": "Agricultural machinery spare parts",
+        "vrsta": "Rezervni delovi za poljoprivredne masine",
         "model": "Desni hidraulični točak za košnju sa povratnom oprugom podesivom osetljivošću. CHIMERA TROKSOS60-R - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "45 kg",
@@ -14393,7 +14393,7 @@
         ]
     },
     {
-        "vrsta": "Tractor shovels - mini excavators",
+        "vrsta": "Traktorske Lopate - Mini Bageri",
         "model": "Hidrostatički utovarivač na točkovima 4k4 4VD | LD10 HST - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Dužina": "4039 mm",
@@ -14432,7 +14432,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Kultivator žetelice BR-H – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "170 kg",
@@ -14451,7 +14451,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "BR Reaper Kultivator - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "160 kg",
@@ -14472,7 +14472,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Riper za podrivač NR130-H - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "180 kg",
@@ -14496,7 +14496,7 @@
         ]
     },
     {
-        "vrsta": "Farming machinery",
+        "vrsta": "Poljoprivredne masine",
         "model": "Kultivator žetelice NR130 - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "175 kg",
@@ -14524,7 +14524,7 @@
         ]
     },
     {
-        "vrsta": "Agricultural machinery spare parts",
+        "vrsta": "Rezervni delovi za poljoprivredne masine",
         "model": "Traktorski utovarivač LS LL1100 - TRAKTORI NA TOČKOVIMA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Maksimalna_visina": "1828 mm",
@@ -14538,7 +14538,7 @@
         ]
     },
     {
-        "vrsta": "Agricultural machinery spare parts",
+        "vrsta": "Rezervni delovi za poljoprivredne masine",
         "model": "Traktorski utovarivač LS LL3106 - TRAKTORI NA TOČKOVIMA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Maksimalna_visina": "2350 mm",
@@ -14552,7 +14552,7 @@
         ]
     },
     {
-        "vrsta": "Agricultural machinery spare parts",
+        "vrsta": "Rezervni delovi za poljoprivredne masine",
         "model": "Traktorski utovarivač LS LL4100 - TRAKTORI NA TOČKOVIMA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Maksimalna_visina": "2446 mm",
@@ -14570,7 +14570,7 @@
         ]
     },
     {
-        "vrsta": "Agricultural machinery spare parts",
+        "vrsta": "Rezervni delovi za poljoprivredne masine",
         "model": "Traktorski utovarivač LS LL4103 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Maksimalna_visina": "2446 mm",
@@ -14588,7 +14588,7 @@
         ]
     },
     {
-        "vrsta": "Agricultural machinery spare parts",
+        "vrsta": "Rezervni delovi za poljoprivredne masine",
         "model": "Traktorski utovarivač LS LL4104 - TRAKTORI NA TOČKOVIMA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Maksimalna_visina": "2446 mm",
@@ -14606,7 +14606,7 @@
         ]
     },
     {
-        "vrsta": "Agricultural machinery spare parts",
+        "vrsta": "Rezervni delovi za poljoprivredne masine",
         "model": "Traktorski utovarivač LS LL5106 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Maksimalna_visina": "2780 mm",
@@ -14621,7 +14621,7 @@
         ]
     },
     {
-        "vrsta": "Agricultural machinery spare parts",
+        "vrsta": "Rezervni delovi za poljoprivredne masine",
         "model": "Traktorski utovarivač LS LL6100 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Maksimalna_visina": "3210 mm",
@@ -14634,7 +14634,7 @@
         ]
     },
     {
-        "vrsta": "Agricultural machinery spare parts",
+        "vrsta": "Rezervni delovi za poljoprivredne masine",
         "model": "Traktorski utovarivač LS LL8100 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Maksimalna_visina": "3550 mm",
@@ -14647,7 +14647,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "BF125-H teška hidraulična mjenjač - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "347 kg",
@@ -14677,7 +14677,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "BF140-H teška hidraulična mjenjač - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "373 kg",
@@ -14707,7 +14707,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "BF160-H teška hidraulična mjenjač - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "399 kg",
@@ -14737,7 +14737,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "BF180-H teška hidraulična mjenjač - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "420 kg",
@@ -14764,7 +14764,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "BFP150 Heavi Duti Tiller - POLjOPRIVREDNE MAŠINE TRAKTOR GUME",
         "specifikacije": {
             "Težina": "404 kg",
@@ -14793,7 +14793,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "BFP150pro Heavi Duti Tiller - POLjOPRIVREDNE MAŠINE TRAKTOR GUME",
         "specifikacije": {
             "Težina": "364 kg",
@@ -14820,7 +14820,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "BFP180 Heavi Duti Tiller - POLjOPRIVREDNE MAŠINE TRAKTOR GUME",
         "specifikacije": {
             "Težina": "435 kg",
@@ -14849,7 +14849,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "BFP180pro Heavi Duti Tiller - POLjOPRIVREDNE MAŠINE TRAKTOR GUME",
         "specifikacije": {
             "Težina": "391 kg",
@@ -14876,7 +14876,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "BFP200 Heavi Duti Tiller - POLjOPRIVREDNE MAŠINE TRAKTOR GUME",
         "specifikacije": {
             "Težina": "487 kg",
@@ -14905,7 +14905,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "Flodalica srednjeg tipa za male traktore Solis, LS, Kubota itd. - sa mehaničkim pomeranjem - radna površina 145cm FREZA M145 - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "256 kg",
@@ -14941,7 +14941,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "FREZA M105 ofset glodalica - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "175 kg",
@@ -14977,7 +14977,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "FREZA M125 ofset glodalica - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "199 kg",
@@ -15013,7 +15013,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "Fooka srednje fioke za male traktore Solis, LS, Kubota itd. - sa mehaničkim pomeranjem - radna površina 135cm FREZA M135 - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "208 kg",
@@ -15049,7 +15049,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "FREZA M155 ofset glodalica - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "267 kg",
@@ -15085,7 +15085,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "BF160 Traktor za teške uslove rada - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "330 kg",
@@ -15114,7 +15114,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "BF180 Traktorski zupčanik za teške uslove - GUME ZA TRAKTORE ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "344 kg",
@@ -15143,7 +15143,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "FREZA R280 Zupčasti mlin - POLjOPRIVREDNE MAŠINE UMOREN TRAKTORI",
         "specifikacije": {
             "Težina": "928 kg",
@@ -15163,7 +15163,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "Teška zupčasta mlin FREZA R300 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "970 kg",
@@ -15183,7 +15183,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "EF95-M Offset tip freze - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "134 kg",
@@ -15212,7 +15212,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "Traktor GRAECUS AF50 freza za vinograde - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "220 kg",
@@ -15246,7 +15246,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "Fulica za traktore GRAECUS AF70 - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "250 kg",
@@ -15277,7 +15277,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "Frelica za drvo traktora AF70 (prototip mašine - u crvenoj boji) - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "250 kg",
@@ -15311,7 +15311,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "Lagana glodalica ofset tipa, za levi PTO EF85-R - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "128 kg",
@@ -15340,7 +15340,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "EF125-M ofset freza - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "154 kg",
@@ -15368,7 +15368,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "Fosetna freza EF85-M - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "128 kg",
@@ -15397,7 +15397,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "Flodalica srednjeg tipa za male traktore Solis, LS, Kubota itd. - sa mehaničkim pomeranjem - radna površina 115cm FREZA M115 - GUME POLjOPRIVREDNE MAŠINE TRAKTORI",
         "specifikacije": {
             "Težina": "186 kg",
@@ -15433,7 +15433,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "IBFS250 Heavi Duti Gear Mill - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "716 kg",
@@ -15462,7 +15462,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "F2 Sadilica - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "140 kg",
@@ -15481,7 +15481,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "ARACHNE R120 Kosilica za završnu obradu - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "175 kg",
@@ -15511,7 +15511,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "ARACHNE R150 kosilica za završnu obradu - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "188 kg",
@@ -15541,7 +15541,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "ARACHNE R180 Kosilica za završnu obradu - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "210 kg",
@@ -15571,7 +15571,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "DV DTS170-H hidraulični menjač - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "401 kg",
@@ -15611,7 +15611,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "DKS185-H hidraulična dizna kosačica sa 2 diska - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "430 kg",
@@ -15651,7 +15651,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "DKS105S 2 disk kosilica - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "175 kg",
@@ -15674,7 +15674,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "DKS135S 2 disk kosilica - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "222 kg",
@@ -15697,7 +15697,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "DKS155S 2 disk kosilica - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "240 kg",
@@ -15720,7 +15720,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "DKS185 2 disk kosilica - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "410 kg",
@@ -15755,7 +15755,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "Mar300 4-dnevni kombajn za travu - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "150 kg",
@@ -15768,7 +15768,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "MAR350 MAR350 5-dnevni kombajn za travu - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "185 kg",
@@ -15901,7 +15901,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "2 aluminijumske rampe dužine 1600 mm za gumene mašine ili mašine na guseničarima sa nosivošću 1000 kg – TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "17 kg",
@@ -15915,7 +15915,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "2 2000mm duge aluminijumske rampe za gumene ili guseničarske mašine sa nosivosti 2000kg - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "26 kg",
@@ -15929,7 +15929,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "2 2500mm duge aluminijumske rampe za gumene ili guseničarske mašine nosivosti 3000kg - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "39 kg",
@@ -15943,7 +15943,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "2 3000mm duge aluminijumske rampe za gumene ili guseničarske mašine nosivosti 4000kg - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "55 kg",
@@ -15957,7 +15957,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "2 aluminijumske rampe dužine 3500 mm za gumene ili guseničarske mašine nosivosti 5000 kg – TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "73 kg",
@@ -15971,7 +15971,7 @@
         ]
     },
     {
-        "vrsta": "Various agricultural machinery",
+        "vrsta": "Razne poljoprivredne masine",
         "model": "2 4000mm duge aluminijumske rampe za gumene ili guseničarske mašine nosivosti 6000kg - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "90 kg",
@@ -16015,7 +16015,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "2HBK180 poluteški dvokapni stroj za uništavanje - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "446 kg",
@@ -16045,7 +16045,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "2HBK200 poluteški dvokapni stroj za uništavanje - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "478 kg",
@@ -16075,7 +16075,7 @@
         ]
     },
     {
-        "vrsta": "Fertilizer distributors",
+        "vrsta": "Rasipaci djubriva",
         "model": "Rasipač đubriva sa dvostrukim linearnim L500 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "70 kg",
@@ -16183,7 +16183,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "BF105 zupčasti traktor za teške uslove rada - GUME ZA TRAKTOR ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "267 kg",
@@ -16210,7 +16210,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "BF125 zupčasti traktor za teške uslove rada - GUME ZA TRAKTOR ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "298 kg",
@@ -16237,7 +16237,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "BF135 zupčasti traktor za teške uslove rada - GUME ZA TRAKTOR ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "311 kg",
@@ -16264,7 +16264,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "BF150 zupčasti traktor za teške uslove rada - GUME ZA TRAKTOR ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "321 kg",
@@ -16291,7 +16291,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "BF90 Traktorska freza za teške uslove rada - GUME ZA TRAKTOR ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "257 kg",
@@ -16318,7 +16318,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "BK150 BK150 BK150 BK150 BK150 BK150 BK150 BREADER VHEEL - VHEELS TRAKTOR",
         "specifikacije": {
             "Težina": "449 kg",
@@ -16353,7 +16353,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "BK165 BK165 Seckalica za teške uslove rada, deplasmanski, nazubljeni čekići i zadnje noževe za prikupljanje - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "471 kg",
@@ -16388,7 +16388,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "BK180 BK180 BK180 Seckalica za teške uslove rada, deplasmanski, nazubljeni čekići i zadnje noževe za prikupljanje - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "492 kg",
@@ -16423,8 +16423,8 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
-        "model": "Teški bočni razarač BPK160 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
+        "vrsta": "Nagnuti Tarupi",
+        "model": "Teški bočni tarup BPK160 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "590 kg",
             "Konji": "55 – 100 KS",
@@ -16458,8 +16458,8 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
-        "model": "BPK180 Teški bočni razarač - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Nagnuti Tarupi",
+        "model": "BPK180 Teški bočni tarup - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "620 kg",
             "Konji": "65 – 100 KS",
@@ -16493,7 +16493,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "DKS165 2 disk kosilica - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "365 kg",
@@ -16527,7 +16527,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "EF115-M ofsetni tip freze - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "145 kg",
@@ -16556,7 +16556,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "EF135-M ofset laka freza - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "176 kg",
@@ -16582,7 +16582,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "EF105-M Offset laka freza - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "143 kg",
@@ -16611,7 +16611,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "ARES STRONG160 Heavi Duti Vrecker, Ektra Displacement, Door and Rear Pick-Up noževi - POLjOPRIVREDNI MAŠINI TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "540 kg",
@@ -16647,7 +16647,7 @@
         ]
     },
     {
-        "vrsta": "Wood chippers - bio shredders",
+        "vrsta": "Drobilice drveta",
         "model": "KT19 Traktorska rezilica - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "347 kg",
@@ -18250,7 +18250,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "MF95-M ofset freza - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
         "specifikacije": {
             "Težina": "161 kg",
@@ -18276,7 +18276,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD115 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "260 kg",
@@ -18298,8 +18298,8 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
-        "model": "MKP135 Srednji razarač čekić - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Tarupi",
+        "model": "MKP135 Srednji tarup čekić - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "320 kg",
             "Konji": "25 – 60 KS",
@@ -18331,7 +18331,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD135-H - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "320 kg",
@@ -18366,7 +18366,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "Traktorska balirka MS130 - GUME ZA TRAKTORSKE MAŠINE ZA POLjOPRIVREDU",
         "specifikacije": {
             "Težina": "274 kg",
@@ -18394,7 +18394,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "Traktorska balirka MS170 - GUME ZA TRAKTORSKE MAŠINE ZA POLjOPRIVREDU",
         "specifikacije": {
             "Težina": "330 kg",
@@ -18425,7 +18425,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "Traktorska balirka MS210 - GUME ZA TRAKTORSKE MAŠINE ZA POLjOPRIVREDU",
         "specifikacije": {
             "Težina": "380 kg",
@@ -18455,7 +18455,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Grejder - PMG140 srednji Split grejder - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "130 kg",
@@ -18483,7 +18483,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Grejder - PMG160 srednje podeljeni grejder - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "148 kg",
@@ -18518,7 +18518,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Grejder - PMG180 srednje podeljeni grejder - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "166 kg",
@@ -18541,7 +18541,7 @@
         ]
     },
     {
-        "vrsta": "Brushcutters - lawn mowers",
+        "vrsta": "Trimeri - Kosilice",
         "model": "DKS165-H hidraulična dizna kosačica sa 2 diska - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "385 kg",
@@ -18581,7 +18581,7 @@
         ]
     },
     {
-        "vrsta": "Construction machinery accessories",
+        "vrsta": "Dodatna Oprema za Gradjevinske Masine",
         "model": "IA300 hidraulična bušilica - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "71 kg",
@@ -18604,7 +18604,7 @@
         ]
     },
     {
-        "vrsta": "Construction machinery accessories",
+        "vrsta": "Dodatna Oprema za Gradjevinske Masine",
         "model": "IA450 Hidraulična bušilica - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "75 kg",
@@ -18624,7 +18624,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "IBFS180 Heavi Duti Gear Mill - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "541 kg",
@@ -18652,7 +18652,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "IBFS200 Heavi Duti Gear Mill - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "588 kg",
@@ -18681,7 +18681,7 @@
         ]
     },
     {
-        "vrsta": "Mills - pellet mills",
+        "vrsta": "Freze",
         "model": "IBFS230 Heavi Duti Gear Mill - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "677 kg",
@@ -18710,7 +18710,7 @@
         ]
     },
     {
-        "vrsta": "Destroyers",
+        "vrsta": "Tarupi",
         "model": "IBK240 Destroier Heavi Duti Destroier - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "610 kg",
@@ -18739,7 +18739,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Grejder - PBG160 Heavi Duti Multisplit grejder - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "173 kg",
@@ -18768,7 +18768,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Grejder - PBG175 Heavi Duti Multisplit grejder - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "193 kg",
@@ -18790,7 +18790,7 @@
         ]
     },
     {
-        "vrsta": "Graders - snowplows",
+        "vrsta": "Raonici - Snezni plugovi",
         "model": "Grejder - PBG200 Heavi Duti Grejder - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "213 kg",
@@ -18817,8 +18817,8 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
-        "model": "IBPK180 kosi razbijač za teške uslove - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Nagnuti Tarupi",
+        "model": "IBPK180 kosi tarup za teške uslove - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "815 kg",
             "Konji": "70 – 120 KS",
@@ -18877,7 +18877,7 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
+        "vrsta": "Nagnuti Tarupi",
         "model": "IBPK200 Destroier Heavi Slope Destroier - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "842 kg",
@@ -18937,8 +18937,8 @@
         ]
     },
     {
-        "vrsta": "Inclined destroyers",
-        "model": "IBPK220 kosi razbijač za teške uslove - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Nagnuti Tarupi",
+        "model": "IBPK220 kosi tarup za teške uslove - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "870 kg",
             "Konji": "85 – 120 KS",
@@ -18997,7 +18997,7 @@
         ]
     },
     {
-        "vrsta": "Construction machinery accessories",
+        "vrsta": "Dodatna Oprema za Gradjevinske Masine",
         "model": "IEK120 hidraulični bager/motika - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "305 kg",
@@ -19025,7 +19025,7 @@
         ]
     },
     {
-        "vrsta": "Construction machinery accessories",
+        "vrsta": "Dodatna Oprema za Gradjevinske Masine",
         "model": "IEK60 hidraulični bager/motika - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "150 kg",
@@ -19051,8 +19051,8 @@
         ]
     },
     {
-        "vrsta": "Construction machinery accessories",
-        "model": "IEK80 hidraulični bager/razbijač motike - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "vrsta": "Dodatna Oprema za Gradjevinske Masine",
+        "model": "IEK80 hidraulični bager/tarup motike - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "272 kg",
             "Kompatibilnost": "3 – 5 T",
