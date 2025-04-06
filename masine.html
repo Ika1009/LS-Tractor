@@ -20,6 +20,20 @@
     <!-- Main CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/color-3.css" id="add_class">
+
+    <style>
+      .clamp-3 {
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 3;
+    
+        display: box;
+        box-orient: vertical;
+        line-clamp: 3;
+    
+        overflow: hidden;
+      }
+    </style>    
 </head>
 
 <body>
@@ -173,15 +187,16 @@
 
     <!-- Machines -->
     <section id="machine_section" class="mx-4 md:mx-8 xl:mx-16 my-4 xl:my-8">
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
-            <div class="shadow-lg rounded-xl p-4">
-                <p class="text-sm">Light-duty shredder with displacement and 85cm hammers for small tractor – Japanese tractor GRAECUS EKN85</p>
-                <h1 class="mt-4 mb-2 font-bold">EKN85</h1>
-                <img src="https://agrimac.gr/wp-content/uploads/2023/12/%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AD%CE%B1%CF%82-%CE%B8%CF%81%CF%85%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%AE%CF%82-%CE%B5%CE%BB%CE%B1%CF%86%CF%81%CF%85%CE%BF%CF%8D-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81-EKN105.jpg" alt="EKN85">
-                <p class="mt-2 text-sm">Working width: <span class="font-bold">850 mm</span></p>
-                <p class="mt-2 text-sm">Weight: <span class="font-bold">119.0 kg</span></p>
-                <p class="mt-2 text-sm">Recommended horsepower: <span class="font-bold">8 – 30 Hp</span></p>
-            </div>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8 items-stretch">
+        <div class="shadow-lg rounded-xl p-4 h-full flex flex-col justify-between">
+          <p class="text-sm clamp-3">
+            Light-duty shredder with displacement and 85cm hammers for small tractor – Japanese tractor GRAECUS EKN85
+          </p>
+          <h1 class="mt-4 mb-2 font-bold">EKN85</h1>
+          <img src="https://agrimac.gr/wp-content/uploads/2023/12/%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AD%CE%B1%CF%82-%CE%B8%CF%81%CF%85%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%AE%CF%82-%CE%B5%CE%BB%CE%B1%CF%86%CF%81%CF%85%CE%BF%CF%8D-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81-EKN105.jpg" alt="EKN85" class="mt-2">
+          <p class="mt-2 text-sm">Working width: <span class="font-bold">850 mm</span></p>
+          <p class="mt-2 text-sm">Weight: <span class="font-bold">119.0 kg</span></p>
+          <p class="mt-2 text-sm">Recommended horsepower: <span class="font-bold">8 – 30 Hp</span></p>
         </div>
     </section>
 

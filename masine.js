@@ -21,10 +21,10 @@ function filterMachines(machines, kategorija) {
 
 function createMachineCard(machine) {
   const card = document.createElement('div');
-  card.className = 'shadow-lg rounded-xl p-4';
+  card.className = 'shadow-lg rounded-xl p-4 h-full flex flex-col justify-between';
 
   const description = document.createElement('p');
-  description.className = 'text-sm';
+  description.className = 'text-sm clamp-3';
   description.textContent = machine.model;
   card.appendChild(description);
 
@@ -73,7 +73,7 @@ function initMachinesDisplay() {
   let gridContainer = machinesSection.querySelector('.grid');
   if (!gridContainer) {
     gridContainer = document.createElement('div');
-    gridContainer.className = 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8';
+    gridContainer.className = 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8 items-stretch';
     machinesSection.appendChild(gridContainer);
   }
   const kategorija = getQueryParam('vrsta');
