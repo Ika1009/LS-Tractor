@@ -61,11 +61,19 @@ function renderMachineDetails(machine) {
   if (galleryContainer && machine.slike) {
     galleryContainer.innerHTML = '';
     machine.slike.slice(1).forEach(src => { // Skips the first image
+      const anchorElement = document.createElement('a');
+      anchorElement.href = img; 
+      anchorElement.target = "_blank"; 
       const img = document.createElement('img');
       img.className = 'w-full aspect-[4/3] object-contain rounded-lg cursor-pointer';
       img.src = src;
       img.alt = machine.model;
-      galleryContainer.appendChild(img);
+      img.onload = function () {
+        anchorElement.setAttribute("data-pswp-width", imgElement.naturalWidth);
+        anchorElement.setAttribute("data-pswp-height", imgElement.naturalHeight);
+      };
+      anchorElement.appendChild(img);
+      galleryContainer.appendChild(anchorElement);
     });
   }  
 
