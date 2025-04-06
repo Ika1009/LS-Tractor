@@ -19,6 +19,13 @@ document.addEventListener('DOMContentLoaded', () => {
       renderMachineDetails(machine);
     })
     .catch(err => console.error(err));
+
+    var lightbox = new PhotoSwipeLightbox({
+      gallery: '.gallery',
+      children: 'a',
+      pswpModule: PhotoSwipe 
+    });
+    lightbox.init();
 });
 
 function getQueryParam(key) {
