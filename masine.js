@@ -29,7 +29,7 @@ function createMachineCard(machine) {
   card.appendChild(description);
 
   const title = document.createElement('h1');
-  title.className = 'mt-4 mb-2 font-bold clamp-3';
+  title.className = 'mt-4 mb-2 font-bold clamp-2';
   title.textContent = machine.model;
   card.appendChild(title);
 
