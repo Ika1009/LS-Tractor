@@ -62,7 +62,7 @@ function renderMachineDetails(machine) {
     galleryContainer.innerHTML = '';
     machine.slike.slice(1).forEach(src => { // Skips the first image
       const anchorElement = document.createElement('a');
-      anchorElement.href = img; 
+      anchorElement.href = src; 
       anchorElement.target = "_blank"; 
       const img = document.createElement('img');
       img.className = 'w-full aspect-[4/3] object-contain rounded-lg cursor-pointer';
