@@ -69,8 +69,8 @@ function renderMachineDetails(machine) {
       img.src = src;
       img.alt = machine.model;
       img.onload = function () {
-        anchorElement.setAttribute("data-pswp-width", imgElement.naturalWidth);
-        anchorElement.setAttribute("data-pswp-height", imgElement.naturalHeight);
+        anchorElement.setAttribute("data-pswp-width", img.naturalWidth);
+        anchorElement.setAttribute("data-pswp-height", img.naturalHeight);
       };
       anchorElement.appendChild(img);
       galleryContainer.appendChild(anchorElement);
