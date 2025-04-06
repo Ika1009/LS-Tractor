@@ -24,7 +24,7 @@ function createMachineCard(machine) {
   card.className = 'shadow-lg rounded-xl p-4 h-full flex flex-col justify-between';
 
   const description = document.createElement('p');
-  description.className = 'text-sm clamp-3';
+  description.className = 'text-sm clamp-2';
   description.textContent = machine.model;
   card.appendChild(description);
 
