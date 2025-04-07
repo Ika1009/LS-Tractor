@@ -63,7 +63,8 @@
             "./images/LS-R65/LS-R65_8.webp",
             "./images/LS-R65/LS-R65_9.webp",
             "./images/LS-R65/LS-R65_10.webp"
-        ]
+        ],
+        "youtube_url": "https://www.youtube.com/embed/Lb_tYE2or8w"
     },
     {
         "model": "LS XR50 MT CAB 50 KS",
@@ -131,7 +132,8 @@
             "./images/LS-XR50/LS-XR50_5.jpg",
             "./images/LS-XR50/LS-XR50_6.jpg",
             "./images/LS-XR50/LS-XR50_7.jpg"
-        ]
+        ],
+        "youtube_url": "https://www.youtube.com/embed/Lb_tYE2or8w"
     },
     {
         "model": "LS U60 MT CAB 60 KS",
@@ -173,7 +175,8 @@
             "./images/LS-U60/LS-U60_8.jpg",
             "./images/LS-U60/LS-U60_9.jpg"
         ],
-        "price": "Cena na upit"
+        "price": "Cena na upit",
+        "youtube_url": "https://www.youtube.com/embed/Lb_tYE2or8w"
     },    
     {
         "model": "LS PLUS100 PS CAB 100 KS",
