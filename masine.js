@@ -1,5 +1,32 @@
 // machines.js
 
+  window.addEventListener('load', function(){
+    new Glider(document.querySelector('.glider'), {
+      slidesToShow: 1.5,
+      slidesToScroll: 1,
+      draggable: true,
+      scrollLock: true,
+      arrows: {
+        prev: '.glider-prev',
+        next: '.glider-next'
+      },
+      responsive: [
+        {
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 3.5
+          }
+        },
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 4.5
+          }
+        }
+      ]
+    });
+  });
+
 function getQueryParam(key) {
   const urlParams = new URLSearchParams(window.location.search);
   return urlParams.get(key);

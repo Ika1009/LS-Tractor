@@ -26,12 +26,159 @@
         display: -webkit-box;
         -webkit-box-orient: vertical;
         -webkit-line-clamp: 2;
-    
         display: box;
         box-orient: vertical;
         line-clamp: 2;
-    
         overflow: hidden;
+      }
+
+      .glider,
+      .glider-contain {
+        margin: 0 auto;
+        position: relative;
+      }
+      
+      .glider,.glider-track {
+        transform: translateZ(0);
+      } 
+      
+      .glider-dot,
+      .glider-next,
+      .glider-prev {
+        border: 0;
+        padding: 0;
+        user-select: none;
+        outline: 0;
+      }
+      
+      .glider-contain {
+        width: 100%;
+      } 
+      
+      .glider {
+        overflow-y: hidden;
+        -webkit-overflow-scrolling: touch;
+        -ms-overflow-style: none;
+      } 
+      
+      .glider-track {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        z-index: 1;
+      } 
+      
+      .glider.draggable {
+        user-select: none;
+        cursor: pointer;
+      }
+      
+      .glider.draggable .glider-slide img {
+        user-select: none;
+        pointer-events: none;
+      }
+      
+      .glider.drag {
+        cursor: pointer;
+      }
+      
+      .glider::-webkit-scrollbar{
+        opacity: 0;
+        height: 0;
+      }
+      
+      .glider-next,
+      .glider-prev {
+        position: absolute;
+        background: 0 0;
+        z-index: 2;
+        font-size: 40px;
+        text-decoration: none;
+        left: -23px;
+        top: 30%;
+        cursor: pointer;
+        color: #666;
+        opacity: 1;
+        line-height: 1;
+        transition: opacity .5s cubic-bezier(.17,.67,.83,.67), color .5s cubic-bezier(.17,.67,.83,.67);
+        display: none;
+      }
+
+      @media (min-width: 640px) {
+        .glider-next,
+        .glider-prev {
+          display: block; 
+        }
+      }
+      
+      .glider-next:focus,
+      .glider-next:hover,
+      .glider-prev:focus,
+      .glider-prev:hover {
+        color: #ccc;
+      }
+      
+      .glider-next {
+        right: -23px;
+        left: auto;
+      }
+      
+      .glider-next.disabled,
+      .glider-prev.disabled {
+        opacity: .25;
+        color: #666;
+        cursor: default;
+      }
+      
+      .glider-hide {
+        opacity: 0;
+      }
+      
+      .glider-dots {
+        user-select: none;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 0 auto;
+        padding: 0;
+      }
+      
+      .glider-dot {
+        display: block;
+        cursor: pointer;
+        color: #ccc;
+        border-radius: 999px;
+        background: #ccc;
+        width: 12px;
+        height: 12px;
+        margin: 7px;
+      }
+      
+      .glider-dot:focus,
+      .glider-dot:hover { 
+        background: #ddd;
+      }
+      
+      .glider-dot.active {
+        background: #a89cc8;
+      }
+      
+      @media(max-width: 36em) {
+        .glider::-webkit-scrollbar {
+          opacity: 1;
+          -webkit-appearance: none;
+          width: 7px;
+          height: 3px
+        }
+        
+        .glider::-webkit-scrollbar-thumb {
+          opacity: 1;
+          border-radius: 99px;
+          background-color: rgba(156,156,156,.25);
+          -webkit-box-shadow: 0 0 1px rgba(255,255,255,.25);
+          box-shadow: 0 0 1px rgba(255,255,255,.25)
+        }
       }
     </style>    
 </head>
@@ -183,7 +330,61 @@
               </div>
           </div>                          
         </nav>
-    </header>
+    </header>  
+
+    <!-- Categories -->
+    <section class="mx-4 md:mx-8 xl:mx-16 my-4 xl:my-8">
+      <div class="glider-contain">
+        <button aria-label="Previous" class="glider-prev">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5" />
+          </svg>          
+        </button>
+        <div class="glider">
+          <div class="card flex flex-row items-start justify-start bg-gray-200 rounded-xl mr-4" data-category="lake-seckalice">
+            <img src="https://agrimac.gr/wp-content/uploads/2024/03/katastrofeis-elafroy-typoy-gia-trakter-times-thessaloniki-athina.jpg" alt="Lake seckalice za male traktore" class="m-2 w-32 h-32 object-cover">
+            <h1 class="mt-6 mr-8 ml-2">Lake seckalice za male traktore</h1>
+          </div>
+          <div class="card flex flex-row bg-gray-200 rounded-xl mr-4" data-category="srednji-unistivaci">
+            <img src="https://agrimac.gr/wp-content/uploads/2022/02/%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%B5%CE%B1%CF%82-%CE%BC%CE%B5%CF%83%CE%B1%CE%B9%CE%BF%CF%85-%CF%84%CF%85%CF%80%CE%BF%CF%85-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81-MKP.jpg" alt="Uništivači srednjeg tipa" class="m-2 w-32 h-32 object-cover">
+            <h1 class="mt-6 mr-8 ml-2">Uništivači srednjeg tipa</h1>
+          </div>
+          <div class="card flex flex-row bg-gray-200 rounded-xl mr-4" data-category="poluteski-unistivaci">
+            <img src="https://agrimac.gr/wp-content/uploads/2022/02/%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%B5%CE%B1%CF%82-%CE%B7%CE%BC%CE%B9%CE%B2%CE%B1%CF%81%CE%B5%CF%89%CF%82-%CF%84%CF%85%CF%80%CE%BF%CF%85-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81-HBP.jpg" alt="Uništivači poluteškog tipa" class="m-2 w-32 h-32 object-cover">
+            <h1 class="mt-6 mr-8 ml-2">Uništivači poluteškog tipa</h1>
+          </div>
+          <div class="card flex flex-row bg-gray-200 rounded-xl mr-4" data-category="teski-unistivaci">
+            <img src="https://agrimac.gr/wp-content/uploads/2024/09/katastrofeis-gia-ola-ta-trakter.jpg" alt="Teški uništivači" class="m-2 w-32 h-32 object-cover">
+            <h1 class="mt-6 mr-8 ml-2">Teški uništivači</h1>
+          </div>
+          <div class="card flex flex-row bg-gray-200 rounded-xl mr-4" data-category="unistivaci-sa-dvostrukom-polugom">
+            <img src="https://agrimac.gr/wp-content/uploads/2024/09/katastrofeas-diplis-zeuksis-gia-trakter.jpg" alt="Uništivači sa dvostrukom polugom" class="m-2 w-32 h-32 object-cover">
+            <h1 class="mt-6 mr-8 ml-2">Uništivači sa dvostrukom polugom</h1>
+          </div>
+          <div class="card flex flex-row bg-gray-200 rounded-xl mr-4" data-category="unistivaci-sa-ludakom">
+            <img src="https://agrimac.gr/wp-content/uploads/2021/12/%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%B5%CE%B1%CF%82-%CE%BC%CE%B5-%CF%85%CE%B4%CF%81%CE%B1%CF%85%CE%BB%CE%B9%CE%BA%CE%BF-%CF%84%CF%81%CE%BF%CF%87%CE%BF-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.jpg" alt="Uništivači sa ludakom" class="m-2 w-32 h-32 object-cover">
+            <h1 class="mt-6 mr-8 ml-2">Uništivači sa ludakom</h1>
+          </div>
+          <div class="card flex flex-row bg-gray-200 rounded-xl mr-4" data-category="seckalice-sa-kantom">
+            <img src="https://agrimac.gr/wp-content/uploads/2021/12/%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%B5%CE%B1%CF%82-%CE%BC%CE%B5-%CE%BA%CE%B1%CE%B4%CE%BF-%CF%83%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%B7%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.jpg" alt="Seckalice sa kantom" class="m-2 w-32 h-32 object-cover">
+            <h1 class="mt-6 mr-8 ml-2">Seckalice sa kantom</h1>
+          </div>
+          <div class="card flex flex-row bg-gray-200 rounded-xl mr-4" data-category="unistivaci-suma">
+            <img src="https://agrimac.gr/wp-content/uploads/2023/02/%CE%B4%CE%B1%CF%83%CE%B9%CE%BA%CE%BF%CE%B9-%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%B5%CE%B9%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B1%CE%BA%CF%84%CE%B5%CF%81.jpg" alt="Uništivači šuma" class="m-2 w-32 h-32 object-cover">
+            <h1 class="mt-6 mr-8 ml-2">Uništivači šuma</h1>
+          </div>
+          <div class="card flex flex-row bg-gray-200 rounded-xl" data-category="seckalice-na-benzin">
+            <img src="https://agrimac.gr/wp-content/uploads/2021/12/%CE%B2%CE%B5%CE%BD%CE%B6%CE%B9%CE%BD%CE%BF%CE%BA%CE%B9%CE%BD%CE%B7%CF%84%CE%BF%CF%82-%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%B5%CE%B1%CF%82-%CF%87%CE%B5%CE%B9%CF%81%CE%BF%CF%82.jpg" alt="Seckalice na benzin" class="m-2 w-32 h-32 object-cover">
+            <h1 class="mt-6 mr-8 ml-2">Seckalice na benzin</h1>
+          </div>
+        </div>
+        <button aria-label="Next" class="glider-next">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+            <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
+          </svg>          
+        </button>
+      </div>
+    </section>
 
     <!-- Machines -->
     <section id="machine_section" class="mx-4 md:mx-8 xl:mx-16 my-4 xl:my-8">
@@ -287,6 +488,7 @@
     <script src="heder.js"></script>
     <script src="assets/js/main.js"></script>
     <script src="masine.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.js"></script>
 </body>
 
 </html>
