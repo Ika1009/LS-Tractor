@@ -1,5 +1,10 @@
 // machines.js
 
+  window.addEventListener('load', () => {
+    const loader = document.getElementById('loader');
+    if (loader) loader.style.display = 'none';
+  });
+
   window.addEventListener('load', function(){
     new Glider(document.querySelector('.glider'), {
       slidesToShow: 1.5,
