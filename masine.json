@@ -421,7 +421,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "IBPK240 kosi tarup za teške uslove - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Profesionalni tarupi horizonalno/vertikalni sa pomakom",
+        "model": "YBPK240 horizonalno/vertikalni tarup sa pomakom za teške uslove - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "895 kg",
             "Konji": "90 – 150 KS",
@@ -478,7 +479,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "IBPK260 Heavi Dumper - TRAKTORI POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Profesionalni tarupi horizonalno/vertikalni sa pomakom",
+        "model": "YBPK260 horizonalno/vertikalni tarup sa pomakom za teške uslove - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "980 kg",
             "Konji": "110 – 170 KS",
@@ -18855,7 +18857,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "IBPK180 kosi tarup za teške uslove - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Profesionalni tarupi horizonalno/vertikalni sa pomakom",
+        "model": "YBPK180 horizonalno/vertikalni tarup sa pomakom za teške uslove - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "815 kg",
             "Konji": "70 – 120 KS",
@@ -18915,7 +18918,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "IBPK200 Tarup Heavi Slope Tarup - TRAKTORI POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Profesionalni tarupi horizonalno/vertikalni sa pomakom",
+        "model": "YBPK200 horizonalno/vertikalni tarup sa pomakom za teške uslove - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "842 kg",
             "Konji": "75 – 120 KS",
@@ -18975,7 +18979,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "IBPK220 kosi tarup za teške uslove - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Profesionalni tarupi horizonalno/vertikalni sa pomakom",
+        "model": "YBPK220 horizonalno/vertikalni tarup sa pomakom za teške uslove - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "870 kg",
             "Konji": "85 – 120 KS",
