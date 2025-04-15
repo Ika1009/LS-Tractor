@@ -2785,7 +2785,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarup",
-        "model": "ARGUS F280 DTarup Dupli Rotor sa Hidrauličnim Pomakom - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
+        "model": "ARGUS F280 Tarup Dupli Rotor sa Hidrauličnim Pomakom - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "1140 kg",
             "Konji": "80 KS",
@@ -4901,7 +4901,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "Hidraulična drobilica sa kolektorom 0,90m MSK90 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Tarupi sa spremnikom",
+        "model": "MSK90 0,90m Hidraulični tarup sa spremnikom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "290 kg",
             "Konji": "20 – 40 KS",
@@ -4943,7 +4944,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "Hidraulična drobilica sa kolektorom 1,20m MSK120 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Tarupi sa spremnikom",
+        "model": "MSK120 1,20m Hidraulični tarup sa spremnikom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "325 kg",
             "Konji": "25 – 50 KS",
@@ -4985,7 +4987,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "Hidraulična drobilica sa kolektorom 1,60m MSK160 - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Tarupi sa spremnikom",
+        "model": "MSK160 1,60m Hidraulični tarup sa spremnikom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "367 kg",
             "Konji": "30 – 60 KS",
