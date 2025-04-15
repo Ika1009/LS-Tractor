@@ -3765,6 +3765,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Teški tarupi",
         "model": "Poluteški čekić HBP205 - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "426 kg",
@@ -3799,6 +3800,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Teški tarupi",
         "model": "Poluteški čekić HBP135 - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "351 kg",
@@ -3866,6 +3868,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Teški tarupi",
         "model": "Poluteški čekić HBP155 - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "369 kg",
@@ -3900,6 +3903,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Teški tarupi",
         "model": "Poluteški čekić HBP175 - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "389 kg",
@@ -3934,6 +3938,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Teški tarupi",
         "model": "Poluteški čekić HBP195 - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "416 kg",
