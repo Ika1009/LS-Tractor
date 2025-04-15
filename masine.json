@@ -1660,7 +1660,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "THOON OPEN165 Traktor za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
+        "podvrsta": "Teški šumski tarupi za krčenje",
+        "model": "THOON OPEN165 Tarup za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "890 kg",
             "Konji": "70 KS",
@@ -1695,7 +1696,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "THOON OPEN200 Traktor za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
+        "podvrsta": "Teški šumski tarupi za krčenje",
+        "model": "THOON OPEN200 Tarup za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "980 kg",
             "Konji": "80 KS",
@@ -1730,7 +1732,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "THOON OPEN230 Traktor za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
+        "podvrsta": "Teški šumski tarupi za krčenje",
+        "model": "THOON OPEN230 Tarup za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "1050 kg",
             "Konji": "100 KS",
@@ -1765,7 +1768,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "THOON SHARK230 traktor za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
+        "podvrsta": "Teški šumski tarupi za krčenje",
+        "model": "THOON SHARK230 Ultra Jaki Tarup za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORSKE GUME",
         "specifikacije": {
             "Težina": "2622 kg",
             "Konji": "170 KS",
@@ -1802,7 +1806,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "THOON VIDIA185 traktor za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
+        "podvrsta": "Teški šumski tarupi za krčenje",
+        "model": "THOON VIDIA185 Tarup za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "1400 kg",
             "Konji": "90 KS",
@@ -1838,7 +1843,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "THOON VIDIA225 traktor za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
+        "podvrsta": "Teški šumski tarupi za krčenje",
+        "model": "THOON VIDIA225 Tarup za uništavanje šuma - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "1590 kg",
             "Konji": "120 KS",
@@ -2784,7 +2790,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup",
+        "podvrsta": "Poluteški tarupi",
         "model": "ARGUS F280 Tarup Dupli Rotor sa Hidrauličnim Pomakom - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "1140 kg",
@@ -2813,7 +2819,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup",
+        "podvrsta": "Poluteški tarupi",
         "model": "ARGUS F250 Tarup Dupli Rotor sa Hidrauličnim Pomakom - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "1060 kg",
@@ -2842,7 +2848,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup",
+        "podvrsta": "Poluteški tarupi",
         "model": "ARGUS F300 Tarup Dupli Rotor sa Hidrauličnim Pomakom - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "1180 kg",
@@ -3340,7 +3346,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Laki tarupi",
+        "podvrsta": "Laki tarupi EKN",
         "model": "Desplasment and Hammer Light Vrecker za mali traktor - japanski GRAECUS EKN135 traktor - POLjOPRIVREDNA MAŠINA GUME TRAKTORI",
         "specifikacije": {
             "Težina": "179 kg",
@@ -3375,7 +3381,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Laki tarupi",
+        "podvrsta": "Laki tarupi EKN",
         "model": "Desplasment and Hammer Light Vrecker za mali traktor – japanski traktor GRAECUS EKN85 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "119 kg",
@@ -3410,7 +3416,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Laki tarupi",
+        "podvrsta": "Laki tarupi EKN",
         "model": "Mali traktor sa pomeranjem 95 cm za mali traktor – japanski traktor GRAECUS EKN95 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "134 kg",
@@ -3445,7 +3451,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Laki tarupi",
+        "podvrsta": "Laki tarupi EKN",
         "model": "Desplasment and Hammer Light Vrecker za mali traktor - japanski GRAECUS EKN105 traktor - POLjOPRIVREDNA MAŠINA GUME TRAKTORI",
         "specifikacije": {
             "Težina": "153 kg",
@@ -3480,7 +3486,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Laki tarupi",
+        "podvrsta": "Laki tarupi EKN",
         "model": "115cm deplasman i čekić lak za uništavanje malih traktora - japanski GRAECUS EKN115 traktor - POLjOPRIVREDNA MAŠINA GUME TRAKTORI",
         "specifikacije": {
             "Težina": "159 kg",
@@ -3515,7 +3521,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Laki tarupi",
+        "podvrsta": "Laki tarupi EKN",
         "model": "Desplasment and Hammer Light Vrecker za mali traktor - japanski GRAECUS EKN125 traktor - POLjOPRIVREDNA MAŠINA GUME TRAKTORI",
         "specifikacije": {
             "Težina": "171 kg",
@@ -3715,7 +3721,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup",
+        "podvrsta": "Poluteški tarupi",
         "model": "2HBK140 poluteški tarup dupli rotor - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "390 kg",
@@ -3746,7 +3752,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup",
+        "podvrsta": "Poluteški tarupi",
         "model": "2HBK160 poluteški tarup dupli rotor - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "400 kg",
@@ -4103,8 +4109,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Srednji fiksni tarupi",
-        "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD135 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
+        "podvrsta": "Fiksni poluteški tarupi",
+        "model": "Srednji tip tarupa sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD135 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "276 kg",
             "Konji": "25 – 60 KS",
@@ -4134,7 +4140,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Srednji fiksni tarupi",
+        "podvrsta": "Fiksni poluteški tarupi",
         "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD145 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "288 kg",
@@ -4165,7 +4171,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Srednji fiksni tarupi",
+        "podvrsta": "Fiksni poluteški tarupi",
         "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD155 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "296 kg",
@@ -4196,7 +4202,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Srednji fiksni tarupi",
+        "podvrsta": "Fiksni poluteški tarupi",
         "model": "Srednji tip seckalica za travu i granje sa vratima. Idealan za male i srednje traktore. GRAECUS MKD165 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "310 kg",
@@ -4227,7 +4233,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Srednji fiksni tarupi",
+        "podvrsta": "Fiksni poluteški tarupi",
         "model": "Srednji tip seckalica za travu i granje sa vratima. Idealan za male i srednje traktore. GRAECUS MKD175 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "332 kg",
@@ -4258,7 +4264,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Srednji fiksni tarupi",
+        "podvrsta": "Fiksni poluteški tarupi",
         "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD125 - TRAKTORI NA TOCKOVIMA ZA POLjOPRIVREDNU MASINU",
         "specifikacije": {
             "Težina": "266 kg",
@@ -4361,7 +4367,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Srednji fiksni tarupi",
+        "podvrsta": "Fiksni poluteški tarupi",
         "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD105 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "254 kg",
@@ -4521,7 +4527,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Tarup hidraulični pomak sa diskom",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "ATK155-H Tarup - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "363 kg",
@@ -4561,7 +4567,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Tarup hidraulični pomak sa diskom",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "ATK145-H Tarup - GUME ZA POLjOPRIVREDNE MAŠINE ZA TRAKTOR",
         "specifikacije": {
             "Težina": "342 kg",
@@ -4598,7 +4604,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Tarup hidraulični pomak sa diskom",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "ATK165-H Tarup - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "384 kg",
@@ -11579,7 +11585,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Tarup hidraulični pomak sa diskom",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "ATK135-H Tarup - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "321 kg",
@@ -16064,7 +16070,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup",
+        "podvrsta": "Poluteški tarupi",
         "model": "2HBK180 poluteški tarup dupli rotor - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "446 kg",
@@ -16095,7 +16101,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup",
+        "podvrsta": "Poluteški tarupi",
         "model": "2HBK200 poluteški tarup dupli rotor - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "478 kg",
@@ -18327,7 +18333,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Srednji fiksni tarupi",
+        "podvrsta": "Fiksni poluteški tarupi",
         "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD115 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "260 kg",
