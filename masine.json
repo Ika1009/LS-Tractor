@@ -2784,7 +2784,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ARGUS F280 Double Linkage Heavi Duti Vrecker - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
+        "podvrsta": "Poluteški tarup",
+        "model": "ARGUS F280 DTarup Dupli Rotor sa Hidrauličnim Pomakom - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "1140 kg",
             "Konji": "80 KS",
@@ -2812,7 +2813,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ARGUS F250 Double Link Heavi Duti Vrecker - TRAKTORI POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Poluteški tarup",
+        "model": "ARGUS F250 Tarup Dupli Rotor sa Hidrauličnim Pomakom - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "1060 kg",
             "Konji": "75 KS",
@@ -2840,7 +2842,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ARGUS F300 Double Link Heavi Duti Vrecker - TRAKTORI POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Poluteški tarup",
+        "model": "ARGUS F300 Tarup Dupli Rotor sa Hidrauličnim Pomakom - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "1180 kg",
             "Konji": "85 KS",
