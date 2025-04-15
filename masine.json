@@ -3831,6 +3831,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji fiksni tarupi",
         "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD145-H - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "330 kg",
@@ -3965,6 +3966,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji fiksni tarupi",
         "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD175-H - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "360 kg",
@@ -4082,6 +4084,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji fiksni tarupi",
         "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD135 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "276 kg",
@@ -4112,6 +4115,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji fiksni tarupi",
         "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD145 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "288 kg",
@@ -4142,6 +4146,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji fiksni tarupi",
         "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD155 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "296 kg",
@@ -4172,6 +4177,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji fiksni tarupi",
         "model": "Srednji tip seckalica za travu i granje sa vratima. Idealan za male i srednje traktore. GRAECUS MKD165 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "310 kg",
@@ -4202,6 +4208,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji fiksni tarupi",
         "model": "Srednji tip seckalica za travu i granje sa vratima. Idealan za male i srednje traktore. GRAECUS MKD175 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "332 kg",
@@ -4232,6 +4239,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji fiksni tarupi",
         "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD125 - TRAKTORI NA TOCKOVIMA ZA POLjOPRIVREDNU MASINU",
         "specifikacije": {
             "Težina": "266 kg",
@@ -4262,6 +4270,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji fiksni tarupi",
         "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD115-H - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "300 kg",
@@ -4297,6 +4306,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji fiksni tarupi",
         "model": "Srednji tip seckalica sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD105-H - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "290 kg",
@@ -4332,6 +4342,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji fiksni tarupi",
         "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD105 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "254 kg",
@@ -4388,6 +4399,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji fiksni tarupi",
         "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD125-H - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "310 kg",
@@ -4423,6 +4435,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji fiksni tarupi",
         "model": "Srednji tip seckalica sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD155-H - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "340 kg",
@@ -4455,6 +4468,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji fiksni tarupi",
         "model": "Srednji tip seckalica sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD165-H - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "350 kg",
@@ -18284,6 +18298,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji fiksni tarupi",
         "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD115 - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "260 kg",
@@ -18339,6 +18354,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji fiksni tarupi",
         "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD135-H - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "320 kg",
