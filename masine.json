@@ -3712,7 +3712,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "2HBK140 poluteški dvokapni stroj za uništavanje - TRAKTORI POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Poluteški tarup",
+        "model": "2HBK140 poluteški tarup dupli rotor - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "390 kg",
             "Konji": "30 – 70 KS",
@@ -3742,7 +3743,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "2HBK160 poluteški dvokapni stroj za uništavanje - TRAKTORI POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Poluteški tarup",
+        "model": "2HBK160 poluteški tarup dupli rotor - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "400 kg",
             "Konji": "35 – 80 KS",
@@ -16056,7 +16058,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "2HBK180 poluteški dvokapni stroj za uništavanje - TRAKTORI POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Poluteški tarup",
+        "model": "2HBK180 poluteški tarup dupli rotor - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "446 kg",
             "Konji": "40 – 90 KS",
@@ -16086,8 +16089,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "",
-        "model": "2HBK200 poluteški dvokapni stroj za uništavanje - TRAKTORI POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Poluteški tarup",
+        "model": "2HBK200 poluteški tarup dupli rotor - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "478 kg",
             "Konji": "45 – 100 KS",
