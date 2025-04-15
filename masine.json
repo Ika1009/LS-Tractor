@@ -612,7 +612,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "Gasoline Destroier GK80pro - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
+        "model": "Gasoline Tarup GK80pro - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "249 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -683,7 +683,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "Gasoline Destroier GK90pro - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "model": "Gasoline Tarup GK90pro - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "335 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -3260,7 +3260,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "CERBERUS HIPER200 Heavi-Duti Heavi Duti Destroier (Demo) - TRAKTORI POLjOPRIVREDNE MAŠINE",
+        "model": "CERBERUS HIPER200 Heavi-Duti Heavi Duti Tarup (Demo) - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "775 kg",
             "Konji": "65 – 120 KS",
@@ -4509,7 +4509,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ATK155-H Crazi Destroier - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
+        "podvrsta": "Tarup hidraulični pomak sa diskom",
+        "model": "ATK155-H Tarup - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "363 kg",
             "Konji": "35 – 60 KS",
@@ -4548,7 +4549,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ATK145-H Crazi Destroier - GUME ZA POLjOPRIVREDNE MAŠINE ZA TRAKTOR",
+        "podvrsta": "Tarup hidraulični pomak sa diskom",
+        "model": "ATK145-H Tarup - GUME ZA POLjOPRIVREDNE MAŠINE ZA TRAKTOR",
         "specifikacije": {
             "Težina": "342 kg",
             "Konji": "30 – 60 KS",
@@ -4584,7 +4586,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ATK165-H Crazi Destroier - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Tarup hidraulični pomak sa diskom",
+        "model": "ATK165-H Tarup - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "384 kg",
             "Konji": "40 – 70 KS",
@@ -4623,7 +4626,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ATK175-H Crazi Destroier - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
+        "model": "ATK175-H Tarup - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
         "specifikacije": {
             "Težina": "405 kg",
             "Konji": "40 – 70 KS",
@@ -5055,7 +5058,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "CERBERUS OPEN160 Hidraulic Shift Heavi-Duti Destroier - TRAKTORI POLjOPRIVREDNE MAŠINE",
+        "model": "CERBERUS OPEN160 Hidraulic Shift Heavi-Duti Tarup - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "688 kg",
             "Konji": "55 – 120 KS",
@@ -5099,7 +5102,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "CERBERUS OPEN200 Hidraulic Shift Heavi-Duti Destroier - TRAKTORI POLjOPRIVREDNE MAŠINE",
+        "model": "CERBERUS OPEN200 Hidraulic Shift Heavi-Duti Tarup - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "754 kg",
             "Konji": "75 -120 KS",
@@ -11521,7 +11524,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ATK125-H Crazi Destroier - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
+        "model": "ATK125-H Tarup - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "300 kg",
             "Konji": "25 – 60 KS",
@@ -11560,7 +11563,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ATK135-H Crazi Destroier - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Tarup hidraulični pomak sa diskom",
+        "model": "ATK135-H Tarup - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "321 kg",
             "Konji": "25 – 60 KS",
@@ -18743,7 +18747,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "IBK240 Destroier Heavi Duti Destroier - TRAKTORI POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Teški tarupi",
+        "model": "YBK240 Teški Tarup - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "610 kg",
             "Konji": "70 – 120 KS",
@@ -18910,7 +18915,7 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "IBPK200 Destroier Heavi Slope Destroier - TRAKTORI POLjOPRIVREDNE MAŠINE",
+        "model": "IBPK200 Tarup Heavi Slope Tarup - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "842 kg",
             "Konji": "75 – 120 KS",
