@@ -575,7 +575,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "GK65 Benzinski tarup - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Samohodni tarupi",
+        "model": "GK65 Samohodni tarup - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "155 kg",
             "Motor": "Loncin 252cc 8 KS",
@@ -614,7 +615,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "Gasoline Tarup GK80pro - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Samohodni tarupi",
+        "model": "GK80pro Samohodni tarup - TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "249 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -654,7 +656,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "GK80 Benzinski tarup - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Samohodni tarupi",
+        "model": "GK80 Samohodni tarup - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "224 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -685,7 +688,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "Gasoline Tarup GK90pro - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Samohodni tarupi",
+        "model": "GK90pro Samohodni tarup - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "335 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -712,7 +716,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "GK90 Benzinski tarup - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Samohodni tarupi",
+        "model": "GK90 Samohodni tarup - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "310 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -11361,7 +11366,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "RGK90pro RC tarup - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
+        "podvrsta": "Samohodni tarupi",
+        "model": "RGK90pro Samohodni tarup - POLjOPRIVREDNE MAŠINE GUME TRAKTORI",
         "specifikacije": {
             "Težina": "280 kg",
             "Motor": "Loncin 420cc 15 KS",
