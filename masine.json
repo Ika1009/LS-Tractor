@@ -3633,6 +3633,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji tarup sa mehaničkim pomakom",
         "model": "MKP145 Srednji čekić tarup - GUME ZA TRAKTORE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "330 kg",
@@ -3668,6 +3669,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji tarup sa mehaničkim pomakom",
         "model": "MKP155 Srednji tarup čekić - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "340 kg",
@@ -3831,7 +3833,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Srednji fiksni tarupi",
+        "podvrsta": "Srednji tarupi sa hidrauličnim pomakom",
         "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD145-H - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "330 kg",
@@ -3966,7 +3968,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Srednji fiksni tarupi",
+        "podvrsta": "Srednji tarupi sa hidrauličnim pomakom",
         "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD175-H - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "360 kg",
@@ -4270,7 +4272,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Srednji fiksni tarupi",
+        "podvrsta": "Srednji tarupi sa hidrauličnim pomakom",
         "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD115-H - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "300 kg",
@@ -4306,7 +4308,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Srednji fiksni tarupi",
+        "podvrsta": "Srednji tarupi sa hidrauličnim pomakom",
         "model": "Srednji tip seckalica sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD105-H - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "290 kg",
@@ -4366,6 +4368,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Srednji tarup sa mehaničkim pomakom",
         "model": "MKP125 Srednji čekić tarup - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "310 kg",
@@ -4399,7 +4402,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Srednji fiksni tarupi",
+        "podvrsta": "Srednji tarupi sa hidrauličnim pomakom",
         "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD125-H - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "310 kg",
@@ -4435,7 +4438,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Srednji fiksni tarupi",
+        "podvrsta": "Srednji tarupi sa hidrauličnim pomakom",
         "model": "Srednji tip seckalica sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD155-H - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "340 kg",
@@ -4468,7 +4471,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Srednji fiksni tarupi",
+        "podvrsta": "Srednji tarupi sa hidrauličnim pomakom",
         "model": "Srednji tip seckalica sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD165-H - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "350 kg",
@@ -18321,7 +18324,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "MKP135 Srednji tarup čekić - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Srednji tarup sa mehaničkim pomakom",
+        "model": "MKP135 Srednji tarup sa mehaničkim pomakom - GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "320 kg",
             "Konji": "25 – 60 KS",
@@ -18354,7 +18358,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Srednji fiksni tarupi",
+        "podvrsta": "Srednji tarupi sa hidrauličnim pomakom",
         "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD135-H - POLjOPRIVREDNE MAŠINE TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "320 kg",
