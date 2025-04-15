@@ -3330,6 +3330,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Laki tarupi",
         "model": "Desplasment and Hammer Light Vrecker za mali traktor - japanski GRAECUS EKN135 traktor - POLjOPRIVREDNA MAŠINA GUME TRAKTORI",
         "specifikacije": {
             "Težina": "179 kg",
@@ -3364,6 +3365,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Laki tarupi",
         "model": "Desplasment and Hammer Light Vrecker za mali traktor – japanski traktor GRAECUS EKN85 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "119 kg",
@@ -3398,6 +3400,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Laki tarupi",
         "model": "Mali traktor sa pomeranjem 95 cm za mali traktor – japanski traktor GRAECUS EKN95 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "134 kg",
@@ -3432,6 +3435,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Laki tarupi",
         "model": "Desplasment and Hammer Light Vrecker za mali traktor - japanski GRAECUS EKN105 traktor - POLjOPRIVREDNA MAŠINA GUME TRAKTORI",
         "specifikacije": {
             "Težina": "153 kg",
@@ -3466,6 +3470,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Laki tarupi",
         "model": "115cm deplasman i čekić lak za uništavanje malih traktora - japanski GRAECUS EKN115 traktor - POLjOPRIVREDNA MAŠINA GUME TRAKTORI",
         "specifikacije": {
             "Težina": "159 kg",
@@ -3500,6 +3505,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Laki tarupi",
         "model": "Desplasment and Hammer Light Vrecker za mali traktor - japanski GRAECUS EKN125 traktor - POLjOPRIVREDNA MAŠINA GUME TRAKTORI",
         "specifikacije": {
             "Težina": "171 kg",
@@ -16046,6 +16052,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "",
         "model": "2HBK200 poluteški dvokapni stroj za uništavanje - TRAKTORI POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "478 kg",
