@@ -134,7 +134,7 @@
     },
     {
         "vrsta": "Poljoprivredne masine",
-        "model": "MOA12-M MOA12-M MOA12-M MOA12-M MOA12-M - GUME ZA TRAKTOR MONACO 12\" Plug",
+        "model": "MOA12-M MOA12-M MOA12-M MOA12-M MOA12-M MONACO 12\" Plug",
         "specifikacije": {
             "Težina": "94 kg",
             "Konji": "25 – 45 KS",
@@ -157,7 +157,7 @@
     },
     {
         "vrsta": "Poljoprivredne masine",
-        "model": "MOA8-M MOA8-M MOA8-M MOA8-M MONA 8\" Plug - UMORNE TRAKTORSKE GUME",
+        "model": "MOA8-M MOA8-M MOA8-M MOA8-M MONA 8\" Plug",
         "specifikacije": {
             "Težina": "67 kg",
             "Konji": "20 – 35 KS",
@@ -208,7 +208,7 @@
     },
     {
         "vrsta": "Poljoprivredne masine",
-        "model": "MOA10-RM MOA10-RM Reverzibilni 10-brzinski plug-plug sa jednim trupom sa mehaničkom rotacionom polugom za male traktore - TRAKTORI NA TOČKOVIMA POLjOPRIVREDNE MAŠINE",
+        "model": "MOA10-RM MOA10-RM Reverzibilni 10-brzinski plug-plug sa jednim trupom sa mehaničkom rotacionom polugom za male traktore",
         "specifikacije": {
             "Težina": "80 kg",
             "Konji": "14 – 35 KS",
@@ -307,7 +307,7 @@
     },
     {
         "vrsta": "Poljoprivredne masine",
-        "model": "Žljeb podesive širine za šasiju više mašina HIDRA AILAKOTIRAS - TRAKTORE GUME POLjOPRIVREDNE MAŠINE",
+        "model": "Žljeb podesive širine za šasiju više mašina HIDRA AILAKOTIRAS",
         "specifikacije": {
             "Težina": "30 kg",
             "Podešavanje_širine": "390 – 650 mm"
@@ -411,7 +411,7 @@
     },
     {
         "vrsta": "Poljoprivredne masine",
-        "model": "Podloga za šasiju više mašina HIDRA VASI – TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "model": "Podloga za šasiju više mašina HIDRA VASI",
         "specifikacije": {
             "Težina": "6 kg"
         },
@@ -717,7 +717,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Samohodni tarupi",
-        "model": "GK90 Samohodni tarup - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
+        "model": "GK90 Samohodni tarup",
         "specifikacije": {
             "Težina": "310 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -756,7 +756,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "Benzinski vučeni tarup sa vratima – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
+        "model": "Benzinski vučeni tarup sa vratima",
         "specifikacije": {
             "Težina": "250 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -1284,7 +1284,7 @@
     },
     {
         "vrsta": "Razne poljoprivredne masine",
-        "model": "Trofazni dizel agregat zatvorenog tipa sa bazom, vodeno hlađen sa automatskim prekidačem GD15 – TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "model": "Trofazni dizel agregat zatvorenog tipa sa bazom, vodeno hlađen sa automatskim prekidačem GD15",
         "specifikacije": {
             "Snaga": "15 Kva",
             "Nominalni_napon": "220/380 V",
@@ -2187,7 +2187,7 @@
     },
     {
         "vrsta": "Raonici - Snezni plugovi",
-        "model": "TRAKTOR EKS200 PUŠAČ SNEGA - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
+        "model": "TRAKTOR EKS200 PUŠAČ SNEGA",
         "specifikacije": {
             "Težina": "285 kg",
             "Konji": "40 – 80 KS",
@@ -2214,7 +2214,7 @@
     },
     {
         "vrsta": "Raonici - Snezni plugovi",
-        "model": "EKS220 Traktor Snežni plug - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORI",
+        "model": "EKS220 Traktor Snežni plug",
         "specifikacije": {
             "Težina": "300 kg",
             "Konji": "50 – 80 KS",
@@ -2499,7 +2499,7 @@
     },
     {
         "vrsta": "Poljoprivredne masine",
-        "model": "Kultivator-Ripper Heavi Tipe 11ari BCS11i - GUME ZA TRAKTORE ZA POLjOPRIVREDNU MAŠINU",
+        "model": "Kultivator-Ripper Heavi Tipe 11ari BCS11iE ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "375 kg",
             "Konji": "50 – 100 KS",
@@ -2552,7 +2552,7 @@
     },
     {
         "vrsta": "Poljoprivredne masine",
-        "model": "Kultivator-Ripper Heavi Tipe BCS13i - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
+        "model": "Kultivator-Ripper Heavi Tipe BCS13i",
         "specifikacije": {
             "Težina": "490 kg",
             "Konji": "60 – 100 KS",
@@ -2578,7 +2578,7 @@
     },
     {
         "vrsta": "Poljoprivredne masine",
-        "model": "BCS5i Heavi Duti Kultivator-Ripper - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
+        "model": "BCS5i Heavi Duti Kultivator-Ripper",
         "specifikacije": {
             "Težina": "185 kg",
             "Konji": "20 – 50 KS",
@@ -2736,7 +2736,7 @@
     },
     {
         "vrsta": "Poljoprivredne masine",
-        "model": "CS9i Heavi Duti Kultivator-Ripper - GUME ZA POLjOPRIVREDNE MAŠINE ZA TRAKTOR",
+        "model": "CS9i Heavi Duti Kultivator-Ripper",
         "specifikacije": {
             "Težina": "206 kg",
             "Konji": "40 – 80 KS",
@@ -3394,7 +3394,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Laki tarupi EKN",
-        "model": "Desplasment and Hammer Light Vrecker za mali traktor – japanski traktor GRAECUS EKN85 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
+        "model": "Desplasment and Hammer Light Vrecker za mali traktor – japanski traktor GRAECUS EKN85",
         "specifikacije": {
             "Težina": "119 kg",
             "Konji": "8 – 30 KS",
@@ -3429,7 +3429,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Laki tarupi EKN",
-        "model": "Mali traktor sa pomeranjem 95 cm za mali traktor – japanski traktor GRAECUS EKN95 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
+        "model": "Mali traktor sa pomeranjem 95 cm za mali traktor – japanski traktor GRAECUS EKN95",
         "specifikacije": {
             "Težina": "134 kg",
             "Konji": "10 – 30 KS",
@@ -4277,7 +4277,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Fiksni poluteški tarupi",
-        "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD125 - TRAKTORI NA TOCKOVIMA ZA POLjOPRIVREDNU MASINU",
+        "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD125",
         "specifikacije": {
             "Težina": "266 kg",
             "Konji": "20 – 60 KS",
@@ -4540,7 +4540,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
-        "model": "ATK155-H Tarup - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
+        "model": "ATK155-H Tarup",
         "specifikacije": {
             "Težina": "363 kg",
             "Konji": "35 – 60 KS",
@@ -4580,7 +4580,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
-        "model": "ATK145-H Tarup - GUME ZA POLjOPRIVREDNE MAŠINE ZA TRAKTOR",
+        "model": "ATK145-H Tarup",
         "specifikacije": {
             "Težina": "342 kg",
             "Konji": "30 – 60 KS",
@@ -4656,7 +4656,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ATK175-H Tarup - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
+        "model": "ATK175-H Tarup",
         "specifikacije": {
             "Težina": "405 kg",
             "Konji": "40 – 70 KS",
@@ -5905,7 +5905,7 @@
     },
     {
         "vrsta": "Drobilice drveta",
-        "model": "Sekač guseničar na benzin | Loncin 15hp KBD12 - POLjOPRIVREDNE MAŠINE UMOREN TRAKTORI",
+        "model": "Sekač guseničar na benzin | Loncin 15hp KBD12",
         "specifikacije": {
             "Težina": "325 kg",
             "Motor_trimera": "Loncin 420cc 15 KS",
@@ -6099,7 +6099,7 @@
     },
     {
         "vrsta": "Drobilice drveta",
-        "model": "Benzinski rezač | Loncin 6.5hp KBT10 - TRAKTORI ZA POLjOPRIVREDNE MAŠINE",
+        "model": "Benzinski rezač | Loncin 6.5hp KBT10",
         "specifikacije": {
             "Težina": "103 kg",
             "Motor_trimera": "Loncin 196cc 6,5 KS",
@@ -6389,7 +6389,7 @@
     },
     {
         "vrsta": "Drobilice drveta",
-        "model": "KT10 Pruner - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
+        "model": "KT10 Pruner",
         "specifikacije": {
             "Težina": "196 kg",
             "Konji": "15 – 50 KS",
@@ -7455,7 +7455,7 @@
     },
     {
         "vrsta": "Rasipaci djubriva",
-        "model": "Rasipač đubriva L600M - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
+        "model": "Rasipač đubriva L600M",
         "specifikacije": {
             "Težina": "126 kg",
             "Konji": "30 HP",
@@ -7566,7 +7566,7 @@
     },
     {
         "vrsta": "Rasipaci djubriva",
-        "model": "Rasipač đubriva L800M - GUME ZA TRAKTORE ZA POLjOPRIVREDNU MAŠINU",
+        "model": "Rasipač đubriva L800ME ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "137 kg",
             "Konji": "40 KS",
@@ -7634,7 +7634,7 @@
     },
     {
         "vrsta": "Traktorske Lopate - Mini Bageri",
-        "model": "4k4 4VD Mini Split Hidrostatički utovarivač na točkovima | LD07 HST Kabina - GUME ZA POLjOPRIVREDNE MAŠINE",
+        "model": "4k4 4VD Mini Split Hidrostatički utovarivač na točkovima | LD07 HST Kabina",
         "specifikacije": {
             "Dužina": "3325 mm",
             "Širina": "1150 mm",
@@ -8015,7 +8015,7 @@
     },
     {
         "vrsta": "Traktorske Lopate - Mini Bageri",
-        "model": "Mini bager sa A/C kabinom 2.7T, Kubota Diesel, okretna grana, sklopivi guseničari, bočne ručke i čekić linija – POLjOPRIVREDNA OPREMA TRAKTORI NA TOČKOVIMA",
+        "model": "Mini bager sa A/C kabinom 2.7T, Kubota Diesel, okretna grana, sklopivi guseničari, bočne ručke i čekić linija",
         "specifikacije": {
             "Oprema": {
                 "Rotacija_strele": "U bočnom položaju",
@@ -8176,7 +8176,7 @@
     },
     {
         "vrsta": "Traktorske Lopate - Mini Bageri",
-        "model": "Mini bager guseničar 1T, dizel, sa zamahom, sklopivim guseničarima i čekić linijom EB10-KSL – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
+        "model": "Mini bager guseničar 1T, dizel, sa zamahom, sklopivim guseničarima i čekić linijom EB10-KSL",
         "specifikacije": {
             "Oprema": {
                 "Okretanje_strele": "50° desno – 55° levo",
@@ -8406,7 +8406,7 @@
     },
     {
         "vrsta": "Traktorske Lopate - Mini Bageri",
-        "model": "Mini bager guseničar 1.2T, dizel Kubota, okretna grana, sklopivi guseničari i čekić linija EB12-KSL – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
+        "model": "Mini bager guseničar 1.2T, dizel Kubota, okretna grana, sklopivi guseničari i čekić linija EB12-KSL",
         "specifikacije": {
             "Oprema": {
                 "Okretanje_strele": "50° desno – 55° levo",
@@ -8483,7 +8483,7 @@
     },
     {
         "vrsta": "Traktorske Lopate - Mini Bageri",
-        "model": "Mini bager guseničar 1.2T, Kubota dizel, okretna grana i linija čekića EB12-BOOM – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
+        "model": "Mini bager guseničar 1.2T, Kubota dizel, okretna grana i linija čekića EB12-BOOM",
         "specifikacije": {
             "Oprema": {
                 "Okretanje_strele": "50° desno – 55° levo",
@@ -8629,7 +8629,7 @@
     },
     {
         "vrsta": "Traktorske Lopate - Mini Bageri",
-        "model": "Mini bager guseničar 1T, dizel, sa zamahom, sklopivim guseničarima, bočnim ručicama i čekić linijom EB10-PRO – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
+        "model": "Mini bager guseničar 1T, dizel, sa zamahom, sklopivim guseničarima, bočnim ručicama i čekić linijom EB10-PRO",
         "specifikacije": {
             "Oprema": {
                 "Okretanje_strele": "50° desno – 55° levo",
@@ -8784,7 +8784,7 @@
     },
     {
         "vrsta": "Traktorske Lopate - Mini Bageri",
-        "model": "Mini motika 2T, Kubota Diesel, sa zamahom, sklopivim gusjenicama, bočnim komandnim polugama i čekić linijom EB20-PRO - POLjOPRIVREDNE MAŠINE TRAKTORI TOČKOVI",
+        "model": "Mini motika 2T, Kubota Diesel, sa zamahom, sklopivim gusjenicama, bočnim komandnim polugama i čekić linijom EB20-PRO",
         "specifikacije": {
             "Oprema": {
                 "Rotacija_strele": "U bočnom položaju",
@@ -9305,7 +9305,7 @@
     },
     {
         "vrsta": "Mini damperi - viljuskari",
-        "model": "D500 mehanička kiper guseničara - POLjOPRIVREDNI MAŠINARI UMORNI TRAKTORI",
+        "model": "D500 mehanička kiper guseničara",
         "specifikacije": {
             "Težina": "245 kg",
             "Motor": "Loncin 196 cc 6,5 KS",
@@ -9336,7 +9336,7 @@
     },
     {
         "vrsta": "Dizalice - Transportne Masine",
-        "model": "Palago za traktor BP1300 - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
+        "model": "Palago za traktor BP1300 POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "265 kg",
             "Konji": "45 – 120 KS",
@@ -9897,7 +9897,7 @@
     },
     {
         "vrsta": "Poljoprivredne masine",
-        "model": "Šasija višenamenske mašine za obradu tla Hidra140 – TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "model": "Šasija višenamenske mašine za obradu tla Hidra140",
         "specifikacije": {
             "Težina": "57 kg",
             "Radna_širina": "1400 mm",
@@ -10591,7 +10591,7 @@
     },
     {
         "vrsta": "Busilice - lanci",
-        "model": "Šasija za bušilicu Arida MT – GUME ZA TRAKTORSKE POLjOPRIVREDNE MAŠINE",
+        "model": "Šasija za bušilicu Arida MT",
         "specifikacije": {
             "Težina": "113 kg",
             "Konji": "15 – 100 KS"
@@ -11035,7 +11035,7 @@
     },
     {
         "vrsta": "Trimeri - Kosilice",
-        "model": "S120M nož za rezanje stabljika - GUME ZA POLjOPRIVREDNE MAŠINE ZA TRAKTOR",
+        "model": "S120M nož za rezanje stabljika",
         "specifikacije": {
             "Težina": "157 kg",
             "Konji": "15 – 30 KS",
@@ -11208,7 +11208,7 @@
     },
     {
         "vrsta": "Sprinklers - turbines",
-        "model": "Vučena turbina 2000L TPS2000 - GUME ZA TRAKTORE ZA POLjOPRIVREDNU MAŠINU",
+        "model": "Vučena turbina 2000L TPS2000E ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "640 kg",
             "Konji": "60 KS",
@@ -12015,7 +12015,7 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopsko koplje – motorne motorne kose LK160S sa strane vozača – TRAKTORI NA TOČKOVIMA POLjOPRIVREDNE MAŠINE",
+        "model": "Teleskopsko koplje – motorne motorne kose LK160S sa strane vozača",
         "specifikacije": {
             "Težina": "295 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12332,7 +12332,7 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK160S-Joistick – TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
+        "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK160S-Joistick",
         "specifikacije": {
             "Težina": "295 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12366,7 +12366,7 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK175S-Joistick – TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
+        "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK175S-Joistick",
         "specifikacije": {
             "Težina": "305 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12400,7 +12400,7 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK190S-Joistick – TRAKTORI GUME ZA POLjOPRIVREDNE MAŠINE",
+        "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK190S-Joistick",
         "specifikacije": {
             "Težina": "315 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12506,7 +12506,7 @@
     },
     {
         "vrsta": "Dizalice - Transportne Masine",
-        "model": "Traktorska prikolica sa trostrukim hidrauličnim kiperom 4000kg MT4000-3H - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORI",
+        "model": "Traktorska prikolica sa trostrukim hidrauličnim kiperom 4000kg MT4000-3H",
         "specifikacije": {
             "Težina": "750 kg",
             "Konji": "50 – 100 KS",
@@ -12602,7 +12602,7 @@
     },
     {
         "vrsta": "Dizalice - Transportne Masine",
-        "model": "Traktorska prikolica sa mehaničkim kiperom 1000kg i pocinkovanim parapetom MT1000-M - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
+        "model": "Traktorska prikolica sa mehaničkim kiperom 1000kg i pocinkovanim parapetom MT1000-M",
         "specifikacije": {
             "Težina": "190 kg",
             "Konji": "10 – 40 KS",
@@ -12807,7 +12807,7 @@
     },
     {
         "vrsta": "Traktorske Lopate - Mini Bageri",
-        "model": "HADES TA330 kapa za traktor - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORI",
+        "model": "HADES TA330 kapa za traktor",
         "specifikacije": {
             "Težina": "700 kg",
             "Konji": "50 – 120 KS",
@@ -12952,7 +12952,7 @@
     },
     {
         "vrsta": "Razne poljoprivredne masine",
-        "model": "Hidraulični dvovezni usisivač sa dodatnom bočnom povratnom četkom i kašikom HIGIEIA H180-P – TRAKTORI GUME ZA POLjOPRIVREDNU MAŠINU",
+        "model": "Hidraulični dvovezni usisivač sa dodatnom bočnom povratnom četkom i kašikom HIGIEIA H180-P",
         "specifikacije": {
             "Težina": "400 kg",
             "Konji": "40 KS",
@@ -13372,7 +13372,7 @@
     },
     {
         "vrsta": "Poljoprivredne masine",
-        "model": "Kultivator žetelice BR-H – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
+        "model": "Kultivator žetelice BR-H",
         "specifikacije": {
             "Težina": "170 kg",
             "Konji": "40 – 80 KS",
@@ -13464,7 +13464,7 @@
     },
     {
         "vrsta": "Rezervni delovi za poljoprivredne masine",
-        "model": "Traktorski utovarivač LS LL1100 - TRAKTORI NA TOČKOVIMA POLjOPRIVREDNE MAŠINE",
+        "model": "Traktorski utovarivač LS LL1100",
         "specifikacije": {
             "Maksimalna_visina": "1828 mm",
             "Ugao_nagiba": "45°",
@@ -13478,7 +13478,7 @@
     },
     {
         "vrsta": "Rezervni delovi za poljoprivredne masine",
-        "model": "Traktorski utovarivač LS LL3106 - TRAKTORI NA TOČKOVIMA POLjOPRIVREDNE MAŠINE",
+        "model": "Traktorski utovarivač LS LL3106",
         "specifikacije": {
             "Maksimalna_visina": "2350 mm",
             "Ugao_nagiba": "48°",
@@ -13492,7 +13492,7 @@
     },
     {
         "vrsta": "Rezervni delovi za poljoprivredne masine",
-        "model": "Traktorski utovarivač LS LL4100 - TRAKTORI NA TOČKOVIMA POLjOPRIVREDNE MAŠINE",
+        "model": "Traktorski utovarivač LS LL4100",
         "specifikacije": {
             "Maksimalna_visina": "2446 mm",
             "Ugao_nagiba": "65°",
@@ -13510,7 +13510,7 @@
     },
     {
         "vrsta": "Rezervni delovi za poljoprivredne masine",
-        "model": "Traktorski utovarivač LS LL4103 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
+        "model": "Traktorski utovarivač LS LL4103",
         "specifikacije": {
             "Maksimalna_visina": "2446 mm",
             "Ugao_nagiba": "65°",
@@ -13528,7 +13528,7 @@
     },
     {
         "vrsta": "Rezervni delovi za poljoprivredne masine",
-        "model": "Traktorski utovarivač LS LL4104 - TRAKTORI NA TOČKOVIMA POLjOPRIVREDNE MAŠINE",
+        "model": "Traktorski utovarivač LS LL4104",
         "specifikacije": {
             "Maksimalna_visina": "2446 mm",
             "Ugao_nagiba": "65°",
@@ -13546,7 +13546,7 @@
     },
     {
         "vrsta": "Rezervni delovi za poljoprivredne masine",
-        "model": "Traktorski utovarivač LS LL5106 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
+        "model": "Traktorski utovarivač LS LL5106",
         "specifikacije": {
             "Maksimalna_visina": "2780 mm",
             "Ugao_nagiba": "50°",
@@ -13561,7 +13561,7 @@
     },
     {
         "vrsta": "Rezervni delovi za poljoprivredne masine",
-        "model": "Traktorski utovarivač LS LL6100 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
+        "model": "Traktorski utovarivač LS LL6100",
         "specifikacije": {
             "Maksimalna_visina": "3210 mm",
             "Ugao_nagiba": "38°",
@@ -13574,7 +13574,7 @@
     },
     {
         "vrsta": "Rezervni delovi za poljoprivredne masine",
-        "model": "Traktorski utovarivač LS LL8100 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
+        "model": "Traktorski utovarivač LS LL8100",
         "specifikacije": {
             "Maksimalna_visina": "3550 mm",
             "Ugao_nagiba": "57°",
@@ -13704,7 +13704,7 @@
     },
     {
         "vrsta": "Freze",
-        "model": "BFP150 Heavi Duti Tiller - POLjOPRIVREDNE MAŠINE TRAKTOR GUME",
+        "model": "BFP150 Heavi Duti Tiller",
         "specifikacije": {
             "Težina": "404 kg",
             "Konji": "40 – 90 KS",
@@ -13733,7 +13733,7 @@
     },
     {
         "vrsta": "Freze",
-        "model": "BFP150pro Heavi Duti Tiller - POLjOPRIVREDNE MAŠINE TRAKTOR GUME",
+        "model": "BFP150pro Heavi Duti Tiller",
         "specifikacije": {
             "Težina": "364 kg",
             "Konji": "40 – 90 KS",
@@ -13760,7 +13760,7 @@
     },
     {
         "vrsta": "Freze",
-        "model": "BFP180 Heavi Duti Tiller - POLjOPRIVREDNE MAŠINE TRAKTOR GUME",
+        "model": "BFP180 Heavi Duti Tiller",
         "specifikacije": {
             "Težina": "435 kg",
             "Konji": "50 – 90 KS",
@@ -13789,7 +13789,7 @@
     },
     {
         "vrsta": "Freze",
-        "model": "BFP180pro Heavi Duti Tiller - POLjOPRIVREDNE MAŠINE TRAKTOR GUME",
+        "model": "BFP180pro Heavi Duti Tiller",
         "specifikacije": {
             "Težina": "391 kg",
             "Konji": "50 – 90 KS",
@@ -13816,7 +13816,7 @@
     },
     {
         "vrsta": "Freze",
-        "model": "BFP200 Heavi Duti Tiller - POLjOPRIVREDNE MAŠINE TRAKTOR GUME",
+        "model": "BFP200 Heavi Duti Tiller",
         "specifikacije": {
             "Težina": "487 kg",
             "Konji": "60 – 90 KS",
@@ -14054,7 +14054,7 @@
     },
     {
         "vrsta": "Freze",
-        "model": "BF180 Traktorski zupčanik za teške uslove - GUME ZA TRAKTORE ZA POLjOPRIVREDNU MAŠINU",
+        "model": "BF180 Traktorski zupčanik za teške usloveE ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "344 kg",
             "Konji": "45 – 70 KS",
@@ -14083,7 +14083,7 @@
     },
     {
         "vrsta": "Freze",
-        "model": "FREZA R280 Zupčasti mlin - POLjOPRIVREDNE MAŠINE UMOREN TRAKTORI",
+        "model": "FREZA R280 Zupčasti mlin",
         "specifikacije": {
             "Težina": "928 kg",
             "Konji": "110 – 150 KS",
@@ -14217,7 +14217,7 @@
     },
     {
         "vrsta": "Freze",
-        "model": "Frelica za drvo traktora AF70 (prototip mašine - u crvenoj boji) - TRAKTORSKE GUME POLjOPRIVREDNE MAŠINE",
+        "model": "Frelica za drvo traktora AF70 (prototip mašine - u crvenoj boji)",
         "specifikacije": {
             "Težina": "250 kg",
             "Konji": "17 KS",
@@ -14451,7 +14451,7 @@
     },
     {
         "vrsta": "Trimeri - Kosilice",
-        "model": "ARACHNE R150 kosilica za završnu obradu - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTOR",
+        "model": "ARACHNE R150 kosilica za završnu obradu",
         "specifikacije": {
             "Težina": "188 kg",
             "Konji": "20 – 35 KS",
@@ -14660,7 +14660,7 @@
     },
     {
         "vrsta": "Trimeri - Kosilice",
-        "model": "DKS185 2 disk kosilica - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
+        "model": "DKS185 2 disk kosilica",
         "specifikacije": {
             "Težina": "410 kg",
             "Konji": "70 – 100 KS",
@@ -14841,7 +14841,7 @@
     },
     {
         "vrsta": "Razne poljoprivredne masine",
-        "model": "2 aluminijumske rampe dužine 1600 mm za gumene mašine ili mašine na guseničarima sa nosivošću 1000 kg – TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "model": "2 aluminijumske rampe dužine 1600 mm za gumene mašine ili mašine na guseničarima sa nosivošću 1000 kg",
         "specifikacije": {
             "Težina": "17 kg",
             "Širina": "300 mm",
@@ -14897,7 +14897,7 @@
     },
     {
         "vrsta": "Razne poljoprivredne masine",
-        "model": "2 aluminijumske rampe dužine 3500 mm za gumene ili guseničarske mašine nosivosti 5000 kg – TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "model": "2 aluminijumske rampe dužine 3500 mm za gumene ili guseničarske mašine nosivosti 5000 kg",
         "specifikacije": {
             "Težina": "73 kg",
             "Širina": "400 mm",
@@ -15125,7 +15125,7 @@
     },
     {
         "vrsta": "Freze",
-        "model": "BF105 zupčasti traktor za teške uslove rada - GUME ZA TRAKTOR ZA POLjOPRIVREDNU MAŠINU",
+        "model": "BF105 zupčasti traktor za teške uslove rada ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "267 kg",
             "Konji": "20 – 60 KS",
@@ -15152,7 +15152,7 @@
     },
     {
         "vrsta": "Freze",
-        "model": "BF125 zupčasti traktor za teške uslove rada - GUME ZA TRAKTOR ZA POLjOPRIVREDNU MAŠINU",
+        "model": "BF125 zupčasti traktor za teške uslove rada ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "298 kg",
             "Konji": "22 – 60 KS",
@@ -15179,7 +15179,7 @@
     },
     {
         "vrsta": "Freze",
-        "model": "BF135 zupčasti traktor za teške uslove rada - GUME ZA TRAKTOR ZA POLjOPRIVREDNU MAŠINU",
+        "model": "BF135 zupčasti traktor za teške uslove rada ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "311 kg",
             "Konji": "25 – 60 KS",
@@ -15206,7 +15206,7 @@
     },
     {
         "vrsta": "Freze",
-        "model": "BF150 zupčasti traktor za teške uslove rada - GUME ZA TRAKTOR ZA POLjOPRIVREDNU MAŠINU",
+        "model": "BF150 zupčasti traktor za teške uslove rada ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "321 kg",
             "Konji": "30 – 60 KS",
@@ -15233,7 +15233,7 @@
     },
     {
         "vrsta": "Freze",
-        "model": "BF90 Traktorska freza za teške uslove rada - GUME ZA TRAKTOR ZA POLjOPRIVREDNU MAŠINU",
+        "model": "BF90 Traktorska freza za teške uslove rada ZA POLjOPRIVREDNU MAŠINU",
         "specifikacije": {
             "Težina": "257 kg",
             "Konji": "18 – 60 KS",
@@ -15368,7 +15368,7 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teški bočni tarup BPK160 – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
+        "model": "Teški bočni tarup BPK160",
         "specifikacije": {
             "Težina": "590 kg",
             "Konji": "55 – 100 KS",
@@ -15438,7 +15438,7 @@
     },
     {
         "vrsta": "Trimeri - Kosilice",
-        "model": "DKS165 2 disk kosilica - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
+        "model": "DKS165 2 disk kosilica POLjOPRIVREDNE MAŠINE",
         "specifikacije": {
             "Težina": "365 kg",
             "Konji": "40 – 90 KS",
@@ -15627,1576 +15627,8 @@
         ]
     },
     {
-        "vrsta": "Tractors",
-        "model": "LS KSJ25 30HP 4VD 1318cc 3 cilindara arboriculture vinogradarski traktor",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Dužina_(bez_protivteže)": "2632 mm",
-                "Ukupna_širina_sa_gumama": "1140mm",
-                "Međuosovinsko_rastojanje": "1500 mm",
-                "Visina": "2458 mm (kod krila 1028 mm)",
-                "Ukupna_težina": "1025 kg",
-                "Nosivost_prikolice": "2.400 kg"
-            },
-            "Gume": {
-                "Napred": "6 – 12",
-                "Nazad": "9,5 – 16"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Obrnuti_obrtaji/min": "540",
-                "Prosečan_broj_obrtaja": "2000"
-            },
-            "Hidraulični_sistem": {
-                "Ukupan_tok": "33,9",
-                "Pumpa_upravljača_L/min": "5,5",
-                "Pumna_litara/min": "28,4",
-                "Kategorija_nagibnog_sistema": "Kategorija I",
-                "Kapacitet_podizanja": "650",
-                "Hidraulični_držači": "2 nazad"
-            },
-            "Motor": {
-                "Tip": "3 cilindra, indirektno ubrizgavanje",
-                "Model": "Mitsubishi S3L2-Z561GT",
-                "Maksimalna_snaga_motora": "30 KS",
-                "Snaga_motora": "25 KS",
-                "PTO_Pover": "20 HP",
-                "Zapremina": "1318 cc",
-                "Kapacitet_rezervoara/litar": "25 l"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Inženjer",
-                "Broj_brzina": "F6 k R2",
-                "Radna_brzina_km/h": "1,2 ~ 17,1"
-            },
-            "Sistem_pogona": {
-                "Tip": "Hidrostatski",
-                "Minimalni_radijus_okretanja": "2,2 m",
-                "Maksimalni_ugao_upravljanja": "47 °"
-            },
-            "Daljinski_upravljač": {
-                "Tip": "Dvojno napajanje",
-                "Broj_brzih_veza": "2"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_515_1.jpg",
-            "slike_masina/slika_515_2.jpg",
-            "slike_masina/slika_515_3.jpg",
-            "slike_masina/slika_515_4.jpg",
-            "slike_masina/slika_515_5.jpg",
-            "slike_masina/slika_515_6.jpg",
-            "slike_masina/slika_515_7.jpg",
-            "slike_masina/slika_515_8.jpg",
-            "slike_masina/slika_515_9.jpg",
-            "slike_masina/slika_515_10.jpg",
-            "slike_masina/slika_515_11.jpg",
-            "slike_masina/slika_515_12.jpg",
-            "slike_masina/slika_515_13.jpg",
-            "slike_masina/slika_515_14.jpg",
-            "slike_masina/slika_515_15.jpg",
-            "slike_masina/slika_515_16.jpg",
-            "slike_masina/slika_515_17.jpg",
-            "slike_masina/slika_515_18.jpg",
-            "slike_masina/slika_515_19.jpg",
-            "slike_masina/slika_515_20.jpg",
-            "slike_masina/slika_515_21.jpg",
-            "slike_masina/slika_515_22.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "LS KSJ25HST 30HP 4VD 1318cc 3 cilindara arboriculture vinogradarski traktor",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Dužina_(bez_protivteže)": "2632 mm",
-                "Ukupna_širina_sa_gumama": "1140mm",
-                "Međuosovinsko_rastojanje": "1500 mm",
-                "Visina": "2458 mm (kod krila 1028 mm)",
-                "Ukupna_težina": "996 kg",
-                "Nosivost_prikolice": "2.400 kg"
-            },
-            "Gume": {
-                "Prednji": "23×8,50 – 12",
-                "Zadnje": "305/70 – 16,5"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Obrnuti_obrtaji/min": "540",
-                "Prosečan_broj_obrtaja": "2000"
-            },
-            "Hidraulični_sistem": {
-                "Ukupan_tok": "35.1",
-                "Pumpa_upravljača_L/min": "10,8",
-                "Pumpa-litara/min": "24,3",
-                "Kategorija_nagibnog_sistema": "Kategorija I",
-                "Kapacitet_podizanja": "650",
-                "Hidraulični_držači": "2 nazad"
-            },
-            "Motor": {
-                "Tip": "3 cilindra, indirektno ubrizgavanje",
-                "Model": "Mitsubishi S3L2-Z561GT",
-                "Maksimalna_snaga_motora": "30 KS",
-                "Snaga_motora": "25 KS",
-                "PTO_Pover": "20 HP",
-                "Zapremina": "1318 cc",
-                "Kapacitet_rezervoara/litar": "25 l"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Hidrostatski",
-                "Broj_brzina": "2 opsega",
-                "Radna_brzina_km/h": "1,2 ~ 17,1"
-            },
-            "Sistem_pogona": {
-                "Tip": "Hidrostatski",
-                "Minimalni_radijus_okretanja": "2,2 m",
-                "Maksimalni_ugao_upravljanja": "47 °"
-            },
-            "Daljinski_upravljač": {
-                "Tip": "Dvojno napajanje",
-                "Broj_brzih_veza": "2"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_516_1.jpg",
-            "slike_masina/slika_516_2.jpg",
-            "slike_masina/slika_516_3.jpg",
-            "slike_masina/slika_516_4.jpg",
-            "slike_masina/slika_516_5.jpg",
-            "slike_masina/slika_516_6.jpg",
-            "slike_masina/slika_516_7.jpg",
-            "slike_masina/slika_516_8.jpg",
-            "slike_masina/slika_516_9.jpg",
-            "slike_masina/slika_516_10.jpg",
-            "slike_masina/slika_516_11.jpg",
-            "slike_masina/slika_516_12.jpg",
-            "slike_masina/slika_516_13.jpg",
-            "slike_masina/slika_516_14.jpg",
-            "slike_masina/slika_516_15.jpg",
-            "slike_masina/slika_516_16.jpg",
-            "slike_masina/slika_516_17.jpg",
-            "slike_masina/slika_516_18.jpg",
-            "slike_masina/slika_516_19.jpg",
-            "slike_masina/slika_516_20.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "LS MT1.25 30HP 4VD 1267cc Traktor kosilica - GUME ZA TRAKTOR POLjOPRIVREDNE MAŠINE",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Dužina_(bez_protivteže)": "2473 mm",
-                "Ukupna_širina_sa_gumama": "1187mm",
-                "Međuosovinsko_rastojanje": "1425 mm",
-                "Visina": "2358 mm (kod krila 978 mm)",
-                "Ukupna_težina": "822 kg",
-                "Nosivost_prikolice": "2.400 kg"
-            },
-            "Gume": {
-                "Prednji": "18×8,50-10",
-                "Nazad": "26-12.00-12"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Obrnuti_obrtaji/min": "540",
-                "Prosečan_broj_obrtaja": "2000"
-            },
-            "Hidraulični_sistem": {
-                "Ukupan_tok": "25,4",
-                "Pumpa_upravljača_L/min": "8",
-                "Pumpa-litara/min": "17,4",
-                "Kategorija_nagibnog_sistema": "Kategorija I",
-                "Kapacitet_dizanja": "450 kg"
-            },
-            "Motor": {
-                "Tip": "3 cilindra, indirektno ubrizgavanje",
-                "Model": "Ianmar 3TNV80F",
-                "Maksimalna_snaga_motora": "30 KS",
-                "Snaga_motora": "25 KS",
-                "PTO_Pover": "18 HP",
-                "Zapremina": "1267 cc",
-                "Kapacitet_rezervoara/litar": "25 l"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Hidrostatski",
-                "Broj_brzina": "2 opsega",
-                "Radna_brzina_km/h": "0 ~ 14,6"
-            },
-            "Sistem_pogona": {
-                "Tip": "Hidrostatski",
-                "Minimalni_radijus_okretanja": "2,4 m",
-                "Maksimalni_ugao_upravljanja": "54,5 °"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_517_1.jpg",
-            "slike_masina/slika_517_2.jpg",
-            "slike_masina/slika_517_3.jpg",
-            "slike_masina/slika_517_4.jpg",
-            "slike_masina/slika_517_5.jpg",
-            "slike_masina/slika_517_6.jpg",
-            "slike_masina/slika_517_7.jpg",
-            "slike_masina/slika_517_8.jpg",
-            "slike_masina/slika_517_9.jpg",
-            "slike_masina/slika_517_10.jpg",
-            "slike_masina/slika_517_11.jpg",
-            "slike_masina/slika_517_12.jpg",
-            "slike_masina/slika_517_13.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "LS MT3.40 49HP 4VD 1879cc Arboretum vinogradarski traktor",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Dužina_(bez_protivteže)": "3137 mm",
-                "Ukupna_širina_sa_gumama": "1402mm",
-                "Međuosovinsko_rastojanje": "1754 mm",
-                "Visina": "2496 mm (kod krila 1227 mm)",
-                "Ukupna_težina": "1,643 kg",
-                "Nosivost_prikolice": "3,380 kg"
-            },
-            "Gume": {
-                "Napred": "7 – 16",
-                "Nazad": "12,4 – 24"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Reverse_revolutions/min": "540/540E/1000 rpm"
-            },
-            "Hidraulični_sistem": {
-                "Ukupan_tok": "51,9",
-                "Pumpa_upravljača_L/min": "20,8",
-                "Pumpa-litara/min": "31,1",
-                "Kategorija_nagibnog_sistema": "Kategorija I",
-                "Kapacitet_podizanja": "820",
-                "Hidraulika_čeka": "4 nazad"
-            },
-            "Motor": {
-                "Tip": "3 cilindra, indirektno ubrizgavanje",
-                "Model": "Mitsubishi L3CRV-T4",
-                "Maksimalna_snaga_motora": "49 KS",
-                "Snaga_motora": "41 KS",
-                "PTO_Pover": "32 HP",
-                "Zapremina": "1879 cc",
-                "Kapacitet_rezervoara/litar": "32 l"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Sinhronizacija",
-                "Broj_brzina": "F12 k R12",
-                "Radna_brzina_km/h": "1,1 ~ 27 (Sinhro šatl) / 0 ~ 25,1 (HST)"
-            },
-            "Sistem_pogona": {
-                "Tip": "Hidrostatski",
-                "Minimalni_radijus_okretanja": "2,8 m",
-                "Maksimalni_ugao_upravljanja": "48 °"
-            },
-            "Daljinski_upravljač": {
-                "Tip": "Dvojno napajanje",
-                "Broj_brzih_veza": "4"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_518_1.jpg",
-            "slike_masina/slika_518_2.jpg",
-            "slike_masina/slika_518_3.jpg",
-            "slike_masina/slika_518_4.jpg",
-            "slike_masina/slika_518_5.jpg",
-            "slike_masina/slika_518_6.jpg",
-            "slike_masina/slika_518_7.jpg",
-            "slike_masina/slika_518_8.jpg",
-            "slike_masina/slika_518_9.jpg",
-            "slike_masina/slika_518_10.jpg",
-            "slike_masina/slika_518_11.jpg",
-            "slike_masina/slika_518_12.jpg",
-            "slike_masina/slika_518_13.jpg",
-            "slike_masina/slika_518_14.jpg",
-            "slike_masina/slika_518_15.jpg",
-            "slike_masina/slika_518_16.jpg",
-            "slike_masina/slika_518_17.jpg",
-            "slike_masina/slika_518_18.jpg",
-            "slike_masina/slika_518_19.jpg",
-            "slike_masina/slika_518_20.jpg",
-            "slike_masina/slika_518_21.jpg",
-            "slike_masina/slika_518_22.jpg",
-            "slike_masina/slika_518_23.jpg",
-            "slike_masina/slika_518_24.jpg",
-            "slike_masina/slika_518_25.jpg",
-            "slike_masina/slika_518_26.jpg",
-            "slike_masina/slika_518_27.jpg",
-            "slike_masina/slika_518_28.jpg",
-            "slike_masina/slika_518_29.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "LS MT3.40 CABIN 49HP 4VD 1879cc arboriculture vinogradarski traktor",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Dužina_(bez_protivteže)": "3137 mm",
-                "Ukupna_širina_sa_gumama": "1458mm",
-                "Međuosovinsko_rastojanje": "1754 mm",
-                "Visina": "2237mm (kod krila 1227mm)",
-                "Ukupna_težina": "1,858 kg",
-                "Nosivost_prikolice": "3,380 kg"
-            },
-            "Gume": {
-                "Napred": "7 – 16",
-                "Nazad": "12,4 – 24"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Reverse_revolutions/min": "540/540E/1000 rpm"
-            },
-            "Hidraulični_sistem": {
-                "Ukupan_tok": "51,9",
-                "Pumpa_upravljača_L/min": "20,8",
-                "Pumpa-litara/min": "31,1",
-                "Kategorija_nagibnog_sistema": "Kategorija I",
-                "Kapacitet_podizanja": "820",
-                "Hidraulika_čeka": "4 nazad"
-            },
-            "Motor": {
-                "Tip": "3 cilindra, indirektno ubrizgavanje",
-                "Model": "Mitsubishi L3CRV-T4",
-                "Maksimalna_snaga_motora": "49 KS",
-                "Snaga_motora": "41 KS",
-                "PTO_Pover": "32 HP",
-                "Zapremina": "1879 cc",
-                "Kapacitet_rezervoara/litar": "47 lt"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Sinhronizacija",
-                "Broj_brzina": "F12 k R12",
-                "Radna_brzina_km/h": "1,1 ~ 27 (Sinhro šatl) / 0 ~ 25,1 (HST)"
-            },
-            "Sistem_pogona": {
-                "Tip": "Hidrostatski",
-                "Minimalni_radijus_okretanja": "2,8 m",
-                "Maksimalni_ugao_upravljanja": "48 °"
-            },
-            "Daljinski_upravljač": {
-                "Tip": "Dvojno napajanje",
-                "Broj_brzih_veza": "4"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_519_1.jpg",
-            "slike_masina/slika_519_2.jpg",
-            "slike_masina/slika_519_3.jpg",
-            "slike_masina/slika_519_4.jpg",
-            "slike_masina/slika_519_5.jpg",
-            "slike_masina/slika_519_6.jpg",
-            "slike_masina/slika_519_7.jpg",
-            "slike_masina/slika_519_8.jpg",
-            "slike_masina/slika_519_9.jpg",
-            "slike_masina/slika_519_10.jpg",
-            "slike_masina/slika_519_11.jpg",
-            "slike_masina/slika_519_12.jpg",
-            "slike_masina/slika_519_13.jpg",
-            "slike_masina/slika_519_14.jpg",
-            "slike_masina/slika_519_15.jpg",
-            "slike_masina/slika_519_16.jpg",
-            "slike_masina/slika_519_17.jpg",
-            "slike_masina/slika_519_18.jpg",
-            "slike_masina/slika_519_19.jpg",
-            "slike_masina/slika_519_20.jpg",
-            "slike_masina/slika_519_21.jpg",
-            "slike_masina/slika_519_22.jpg",
-            "slike_masina/slika_519_23.jpg",
-            "slike_masina/slika_519_24.jpg",
-            "slike_masina/slika_519_25.jpg",
-            "slike_masina/slika_519_26.jpg",
-            "slike_masina/slika_519_27.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "LS MT3.40HST 49HP 4VD 1879cc Arboretum vinogradarski traktor",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Dužina_(bez_protivteže)": "3137 mm",
-                "Ukupna_širina_sa_gumama": "1402mm",
-                "Međuosovinsko_rastojanje": "1754 mm",
-                "Visina": "2496 mm (kod krila 1227 mm)",
-                "Ukupna_težina": "1,643 kg",
-                "Nosivost_prikolice": "3,380 kg"
-            },
-            "Gume": {
-                "Napred": "7 – 16",
-                "Nazad": "12,4 – 24"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Reverse_revolutions/min": "540/540E/1000 rpm"
-            },
-            "Hidraulični_sistem": {
-                "Ukupan_tok": "51,9",
-                "Pumpa_upravljača_L/min": "20,8",
-                "Pumpa-litara/min": "31,1",
-                "Kategorija_nagibnog_sistema": "Kategorija I",
-                "Kapacitet_podizanja": "820",
-                "Hidraulika_čeka": "4 nazad"
-            },
-            "Motor": {
-                "Tip": "3 cilindra, indirektno ubrizgavanje",
-                "Model": "Mitsubishi L3CRV-T4",
-                "Maksimalna_snaga_motora": "49 KS",
-                "Snaga_motora": "41 KS",
-                "PTO_Pover": "32 HP",
-                "Zapremina": "1879 cc",
-                "Kapacitet_rezervoara/litar": "32 l"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Hidrostatski",
-                "Broj_brzina": "3 opsega",
-                "Radna_brzina_km/h": "1,1 ~ 27 (Sinhro šatl) / 0 ~ 25,1 (HST)"
-            },
-            "Sistem_pogona": {
-                "Tip": "Hidrostatski",
-                "Minimalni_radijus_okretanja": "2,8 m",
-                "Maksimalni_ugao_upravljanja": "48 °"
-            },
-            "Daljinski_upravljač": {
-                "Tip": "Dvojno napajanje",
-                "Broj_brzih_veza": "4"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_520_1.jpg",
-            "slike_masina/slika_520_2.jpg",
-            "slike_masina/slika_520_3.jpg",
-            "slike_masina/slika_520_4.jpg",
-            "slike_masina/slika_520_5.jpg",
-            "slike_masina/slika_520_6.jpg",
-            "slike_masina/slika_520_7.jpg",
-            "slike_masina/slika_520_8.jpg",
-            "slike_masina/slika_520_9.jpg",
-            "slike_masina/slika_520_10.jpg",
-            "slike_masina/slika_520_11.jpg",
-            "slike_masina/slika_520_12.jpg",
-            "slike_masina/slika_520_13.jpg",
-            "slike_masina/slika_520_14.jpg",
-            "slike_masina/slika_520_15.jpg",
-            "slike_masina/slika_520_16.jpg",
-            "slike_masina/slika_520_17.jpg",
-            "slike_masina/slika_520_18.jpg",
-            "slike_masina/slika_520_19.jpg",
-            "slike_masina/slika_520_20.jpg",
-            "slike_masina/slika_520_21.jpg",
-            "slike_masina/slika_520_22.jpg",
-            "slike_masina/slika_520_23.jpg",
-            "slike_masina/slika_520_24.jpg",
-            "slike_masina/slika_520_25.jpg",
-            "slike_masina/slika_520_26.jpg",
-            "slike_masina/slika_520_27.jpg",
-            "slike_masina/slika_520_28.jpg",
-            "slike_masina/slika_520_29.jpg",
-            "slike_masina/slika_520_30.jpg",
-            "slike_masina/slika_520_31.jpg",
-            "slike_masina/slika_520_32.jpg",
-            "slike_masina/slika_520_33.jpg",
-            "slike_masina/slika_520_34.jpg",
-            "slike_masina/slika_520_35.jpg",
-            "slike_masina/slika_520_36.jpg",
-            "slike_masina/slika_520_37.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "LS MT3.40HST CABIN 49HP 4VD 1879cc arboriculture vinogradarski traktor",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Dužina_(bez_protivteže)": "3137 mm",
-                "Ukupna_širina_sa_gumama": "1458mm",
-                "Međuosovinsko_rastojanje": "1754 mm",
-                "Visina": "2237mm (kod krila 1227mm)",
-                "Ukupna_težina": "1,858 kg",
-                "Nosivost_prikolice": "3,380 kg"
-            },
-            "Gume": {
-                "Napred": "7 – 16",
-                "Nazad": "12,4 – 24"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Reverse_revolutions/min": "540/540E/1000 rpm"
-            },
-            "Hidraulični_sistem": {
-                "Ukupan_tok": "51,9",
-                "Pumpa_upravljača_L/min": "20,8",
-                "Pumpa-litara/min": "31,1",
-                "Kategorija_nagibnog_sistema": "Kategorija I",
-                "Kapacitet_podizanja": "820",
-                "Hidraulika_čeka": "4 nazad"
-            },
-            "Motor": {
-                "Tip": "3 cilindra, indirektno ubrizgavanje",
-                "Model": "Mitsubishi L3CRV-T4",
-                "Maksimalna_snaga_motora": "49 KS",
-                "Snaga_motora": "41 KS",
-                "PTO_Pover": "32 HP",
-                "Zapremina": "1879 cc",
-                "Kapacitet_rezervoara/litar": "47 lt"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Hidrostatski",
-                "Broj_brzina": "3 opsega",
-                "Radna_brzina_km/h": "1,1 ~ 27 (Sinhro šatl) / 0 ~ 25,1 (HST)"
-            },
-            "Sistem_pogona": {
-                "Tip": "Hidrostatski",
-                "Minimalni_radijus_okretanja": "2,8 m",
-                "Maksimalni_ugao_upravljanja": "48 °"
-            },
-            "Daljinski_upravljač": {
-                "Tip": "Dvojno napajanje",
-                "Broj_brzih_veza": "4"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_521_1.jpg",
-            "slike_masina/slika_521_2.jpg",
-            "slike_masina/slika_521_3.jpg",
-            "slike_masina/slika_521_4.jpg",
-            "slike_masina/slika_521_5.jpg",
-            "slike_masina/slika_521_6.jpg",
-            "slike_masina/slika_521_7.jpg",
-            "slike_masina/slika_521_8.jpg",
-            "slike_masina/slika_521_9.jpg",
-            "slike_masina/slika_521_10.jpg",
-            "slike_masina/slika_521_11.jpg",
-            "slike_masina/slika_521_12.jpg",
-            "slike_masina/slika_521_13.jpg",
-            "slike_masina/slika_521_14.jpg",
-            "slike_masina/slika_521_15.jpg",
-            "slike_masina/slika_521_16.jpg",
-            "slike_masina/slika_521_17.jpg",
-            "slike_masina/slika_521_18.jpg",
-            "slike_masina/slika_521_19.jpg",
-            "slike_masina/slika_521_20.jpg",
-            "slike_masina/slika_521_21.jpg",
-            "slike_masina/slika_521_22.jpg",
-            "slike_masina/slika_521_23.jpg",
-            "slike_masina/slika_521_24.jpg",
-            "slike_masina/slika_521_25.jpg",
-            "slike_masina/slika_521_26.jpg",
-            "slike_masina/slika_521_27.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "LS MT3.50 CABIN 60hp arboriculture vinograd novi traktor - POLjOPRIVREDNA MAŠINA TRAKTORI TOČKOVI",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Dužina_(bez_protivteže)": "3292 mm",
-                "Ukupna_širina_sa_gumama": "od 1450 mm do 1611 mm",
-                "Međuosovinsko_rastojanje": "1758 mm",
-                "Visina": "2300mm",
-                "Visina_volana": "–",
-                "Ukupna_težina": "2,164 kg",
-                "Nosivost_prikolice": "3.600 kg"
-            },
-            "Gume": {
-                "Prednji": "9,5 – 16",
-                "Nazad": "13,6 – 24"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Prosečan_broj_obrtaja_u_minuti": "540/540E/1000"
-            },
-            "Hidraulični_sistem": {
-                "Total_Stream": "47",
-                "Pumpa_upravljača_L/min": "15,5",
-                "Pumpa-litara/min": "31,5",
-                "Kategorija_nagibnog_sistema": "Kategorija I",
-                "Kapacitet_dizanja": "1250",
-                "Hidraulika_čeka": "4 nazad"
-            },
-            "Motor": {
-                "Tip": "3 cilindra, indirektno ubrizgavanje",
-                "Model": "Mitsubishi L3CRV-T9A",
-                "Maksimalna_snaga_motora": "60 KS",
-                "Snaga_motora": "50 KS",
-                "PTO_Pover": "42 HP",
-                "Zapremina": "1879 cc",
-                "Kapacitet_rezervoara/litar": "47 lt"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Sinhronizacija / sinhronizacija sa puzanjem (opciono)",
-                "Broj_brzina": "F16 k R16 / F32 k R16 (puzanje)",
-                "Radna_brzina_km/h": "1,09 ~ 29 / 0,18 ~ 4,65 (aktivno puzanje)"
-            },
-            "Sistem_pogona": {
-                "Tip": "Hidrostatski",
-                "Minimalni_radijus_okretanja": "3,01 m",
-                "Maksimalni_ugao_upravljanja": "57 °"
-            },
-            "Daljinski_upravljač": {
-                "Tip": "Dvojno napajanje",
-                "Broj_brzih_veza": "4",
-                "Brze_veze_za_utovarivač": "Brze veze za džojstik i kašiku"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_522_1.jpg",
-            "slike_masina/slika_522_2.jpg",
-            "slike_masina/slika_522_3.jpg",
-            "slike_masina/slika_522_4.jpg",
-            "slike_masina/slika_522_5.jpg",
-            "slike_masina/slika_522_6.jpg",
-            "slike_masina/slika_522_7.jpg",
-            "slike_masina/slika_522_8.jpg",
-            "slike_masina/slika_522_9.jpg",
-            "slike_masina/slika_522_10.jpg",
-            "slike_masina/slika_522_11.jpg",
-            "slike_masina/slika_522_12.jpg",
-            "slike_masina/slika_522_13.jpg",
-            "slike_masina/slika_522_14.jpg",
-            "slike_masina/slika_522_15.jpg",
-            "slike_masina/slika_522_16.jpg",
-            "slike_masina/slika_522_17.jpg",
-            "slike_masina/slika_522_18.jpg",
-            "slike_masina/slika_522_19.jpg",
-            "slike_masina/slika_522_20.jpg",
-            "slike_masina/slika_522_21.jpg",
-            "slike_masina/slika_522_22.jpg",
-            "slike_masina/slika_522_23.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "LS MT3.50 ROPS 60hp arborikultura vinograd novi traktor",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Dužina_(bez_protivteže)": "3292 mm",
-                "Ukupna_širina_sa_gumama": "od 1450 mm do 1611 mm",
-                "Međuosovinsko_rastojanje": "1758 mm",
-                "Visina": "2645 mm (kod krila 1270 mm)",
-                "Ukupna_težina": "1,919 kg",
-                "Nosivost_prikolice": "3.600 kg"
-            },
-            "Gume": {
-                "Prednji": "9,5 – 16",
-                "Nazad": "13,6 – 24"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Prosečan_broj_obrtaja_u_minuti": "540/540E/1000"
-            },
-            "Hidraulični_sistem": {
-                "Total_Stream": "47",
-                "Pumpa_upravljača_L/min": "15,5",
-                "Pumpa-litara/min": "31,5",
-                "Kategorija_nagibnog_sistema": "Kategorija I",
-                "Kapacitet_dizanja": "1250",
-                "Hidraulika_čeka": "4 nazad"
-            },
-            "Motor": {
-                "Tip": "3 cilindra, indirektno ubrizgavanje",
-                "Model": "Mitsubishi L3CRV-T9A",
-                "Maksimalna_snaga_motora": "60 KS",
-                "Snaga_motora": "50 KS",
-                "PTO_Pover": "42 HP",
-                "Zapremina": "1879 cc",
-                "Kapacitet_rezervoara/litar": "32 l"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Sinhronizacija / sinhronizacija sa puzanjem (opciono)",
-                "Broj_brzina": "F16 k R16 / F32 k R16 (puzanje)",
-                "Radna_brzina_km/h": "1,09 ~ 29 / 0,18 ~ 4,65 (aktivno puzanje)"
-            },
-            "Sistem_pogona": {
-                "Tip": "Hidrostatski",
-                "Minimalni_radijus_okretanja": "3,01 m",
-                "Maksimalni_ugao_upravljanja": "57 °"
-            },
-            "Daljinski_upravljač": {
-                "Tip": "Dvojno napajanje",
-                "Broj_brzih_veza": "4",
-                "Brze_spojnice_utovarivača": "Hidraulični priključak"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_523_1.jpg",
-            "slike_masina/slika_523_2.jpg",
-            "slike_masina/slika_523_3.jpg",
-            "slike_masina/slika_523_4.jpg",
-            "slike_masina/slika_523_5.jpg",
-            "slike_masina/slika_523_6.jpg",
-            "slike_masina/slika_523_7.jpg",
-            "slike_masina/slika_523_8.jpg",
-            "slike_masina/slika_523_9.jpg",
-            "slike_masina/slika_523_10.jpg",
-            "slike_masina/slika_523_11.jpg",
-            "slike_masina/slika_523_12.jpg",
-            "slike_masina/slika_523_13.jpg",
-            "slike_masina/slika_523_14.jpg",
-            "slike_masina/slika_523_15.jpg",
-            "slike_masina/slika_523_16.jpg",
-            "slike_masina/slika_523_17.jpg",
-            "slike_masina/slika_523_18.jpg",
-            "slike_masina/slika_523_19.jpg",
-            "slike_masina/slika_523_20.jpg",
-            "slike_masina/slika_523_21.jpg",
-            "slike_masina/slika_523_22.jpg",
-            "slike_masina/slika_523_23.jpg",
-            "slike_masina/slika_523_24.jpg",
-            "slike_masina/slika_523_25.jpg",
-            "slike_masina/slika_523_26.jpg",
-            "slike_masina/slika_523_27.jpg",
-            "slike_masina/slika_523_28.jpg",
-            "slike_masina/slika_523_29.jpg",
-            "slike_masina/slika_523_30.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "LS MT3.60 CABIN 72hp arboriculture vinograd novi traktor - POLjOPRIVREDNA MAŠINA TRAKTORI TOČKOVI",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Dužina_(bez_protivteže)": "3292 mm",
-                "Ukupna_širina_sa_gumama": "od 1450 mm do 1611 mm",
-                "Međuosovinsko_rastojanje": "1758 mm",
-                "Visina": "2300mm",
-                "Visina_volana": "–",
-                "Ukupna_težina": "2,164 kg",
-                "Nosivost_prikolice": "3.600 kg"
-            },
-            "Gume": {
-                "Prednji": "9,5 – 16",
-                "Nazad": "13,6 – 24"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Prosečan_broj_obrtaja_u_minuti": "540/540E/1000"
-            },
-            "Hidraulični_sistem": {
-                "Total_Stream": "52",
-                "Pumpa_upravljača_L/min": "20,8",
-                "Pumpa-litara/min": "31,3",
-                "Kategorija_nagibnog_sistema": "Kategorija I",
-                "Kapacitet_dizanja": "1250",
-                "Hidraulika_čeka": "4 nazad"
-            },
-            "Motor": {
-                "Tip": "3 cilindra, indirektno ubrizgavanje",
-                "Model": "Mitsubishi L3CRV-T7",
-                "Maksimalna_snaga_motora": "72 KS",
-                "Snaga_motora": "60 KS",
-                "PTO_Pover": "52 HP",
-                "Zapremina": "1879 cc",
-                "Kapacitet_rezervoara/litar": "47 lt"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Sinhronizacija / sinhronizacija sa puzanjem (opciono)",
-                "Broj_brzina": "F16 k R16 / F32 k R16 (puzanje)",
-                "Radna_brzina_km/h": "1,09 ~ 29 / 0,18 ~ 4,65 (aktivno puzanje)"
-            },
-            "Sistem_pogona": {
-                "Tip": "Hidrostatski",
-                "Minimalni_radijus_okretanja": "3,01 m",
-                "Maksimalni_ugao_upravljanja": "57 °"
-            },
-            "Daljinski_upravljač": {
-                "Tip": "Dvojno napajanje",
-                "Broj_brzih_veza": "4",
-                "Brze_veze_za_utovarivač": "Brze veze za džojstik i kašiku"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_524_1.jpg",
-            "slike_masina/slika_524_2.jpg",
-            "slike_masina/slika_524_3.jpg",
-            "slike_masina/slika_524_4.jpg",
-            "slike_masina/slika_524_5.jpg",
-            "slike_masina/slika_524_6.jpg",
-            "slike_masina/slika_524_7.jpg",
-            "slike_masina/slika_524_8.jpg",
-            "slike_masina/slika_524_9.jpg",
-            "slike_masina/slika_524_10.jpg",
-            "slike_masina/slika_524_11.jpg",
-            "slike_masina/slika_524_12.jpg",
-            "slike_masina/slika_524_13.jpg",
-            "slike_masina/slika_524_14.jpg",
-            "slike_masina/slika_524_15.jpg",
-            "slike_masina/slika_524_16.jpg",
-            "slike_masina/slika_524_17.jpg",
-            "slike_masina/slika_524_18.jpg",
-            "slike_masina/slika_524_19.jpg",
-            "slike_masina/slika_524_20.jpg",
-            "slike_masina/slika_524_21.jpg",
-            "slike_masina/slika_524_22.jpg",
-            "slike_masina/slika_524_23.jpg",
-            "slike_masina/slika_524_24.jpg",
-            "slike_masina/slika_524_25.jpg",
-            "slike_masina/slika_524_26.jpg",
-            "slike_masina/slika_524_27.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "LS MT3.60 ROPS 72hp arboriculture vinograd novi traktor - POLjOPRIVREDNA MAŠINA TRAKTORI TOČKOVI",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Dužina_(bez_protivteže)": "3292 mm",
-                "Ukupna_širina_sa_gumama": "od 1450 mm do 1611 mm",
-                "Međuosovinsko_rastojanje": "1758 mm",
-                "Visina": "2645 mm (kod krila 1270 mm)",
-                "Ukupna_težina": "1,919 kg",
-                "Nosivost_prikolice": "3.600 kg"
-            },
-            "Gume": {
-                "Prednji": "9,5 – 16",
-                "Nazad": "13,6 – 24"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Prosečan_broj_obrtaja_u_minuti": "540/540E/1000"
-            },
-            "Hidraulični_sistem": {
-                "Total_Stream": "52",
-                "Pumpa_upravljača_L/min": "20,8",
-                "Pumpa-litara/min": "31,3",
-                "Kategorija_nagibnog_sistema": "Kategorija I",
-                "Kapacitet_dizanja": "1250",
-                "Hidraulika_čeka": "4 nazad"
-            },
-            "Motor": {
-                "Tip": "3 cilindra, indirektno ubrizgavanje",
-                "Model": "Mitsubishi L3CRV-T7",
-                "Maksimalna_snaga_motora": "72 KS",
-                "Snaga_motora": "60 KS",
-                "PTO_Pover": "52 HP",
-                "Zapremina": "1879 cc",
-                "Kapacitet_rezervoara/litar": "32 l"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Sinhronizacija / sinhronizacija sa puzanjem (opciono)",
-                "Broj_brzina": "F16 k R16 / F32 k R16 (puzanje)",
-                "Radna_brzina_km/h": "1,09 ~ 29 / 0,18 ~ 4,65 (aktivno puzanje)"
-            },
-            "Sistem_pogona": {
-                "Tip": "Hidrostatski",
-                "Minimalni_radijus_okretanja": "3,01 m",
-                "Maksimalni_ugao_upravljanja": "57 °"
-            },
-            "Daljinski_upravljač": {
-                "Tip": "Dvojno napajanje",
-                "Broj_brzih_veza": "4",
-                "Brze_spojnice_utovarivača": "Hidraulični priključak"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_525_1.jpg",
-            "slike_masina/slika_525_2.jpg",
-            "slike_masina/slika_525_3.jpg",
-            "slike_masina/slika_525_4.jpg",
-            "slike_masina/slika_525_5.jpg",
-            "slike_masina/slika_525_6.jpg",
-            "slike_masina/slika_525_7.jpg",
-            "slike_masina/slika_525_8.jpg",
-            "slike_masina/slika_525_9.jpg",
-            "slike_masina/slika_525_10.jpg",
-            "slike_masina/slika_525_11.jpg",
-            "slike_masina/slika_525_12.jpg",
-            "slike_masina/slika_525_13.jpg",
-            "slike_masina/slika_525_14.jpg",
-            "slike_masina/slika_525_15.jpg",
-            "slike_masina/slika_525_16.jpg",
-            "slike_masina/slika_525_17.jpg",
-            "slike_masina/slika_525_18.jpg",
-            "slike_masina/slika_525_19.jpg",
-            "slike_masina/slika_525_20.jpg",
-            "slike_masina/slika_525_21.jpg",
-            "slike_masina/slika_525_22.jpg",
-            "slike_masina/slika_525_23.jpg",
-            "slike_masina/slika_525_24.jpg",
-            "slike_masina/slika_525_25.jpg",
-            "slike_masina/slika_525_26.jpg",
-            "slike_masina/slika_525_27.jpg",
-            "slike_masina/slika_525_28.jpg",
-            "slike_masina/slika_525_29.jpg",
-            "slike_masina/slika_525_30.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "Standardni traktor LS MT5.73 90HP 4VD 2505cc – TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Dužina_(bez_protivteže)": "3807 mm",
-                "Ukupna_širina_sa_gumama": "1890mm",
-                "Međuosovinsko_rastojanje": "2150 mm",
-                "Visina_(kabina)": "2652mm",
-                "Ukupna_težina": "3,497 kg",
-                "Nosivost_prikolice": "6.000 kg"
-            },
-            "Gume": {
-                "Prednji": "11.2 – 24",
-                "Nazad": "16,9 – 30"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Reverzni_obrtaji/min": "540/540E/1000"
-            },
-            "Hidraulični_sistem": {
-                "Kontrolni_sistem": "Podešavanje položaja",
-                "Pumna_litara/minuta": "50 litara/minuta",
-                "Upravljačka_pumpa_litara/minutu": "25 litara/minutu",
-                "Ukupni_protok": "75 litara / minut",
-                "Kategorija_sistema_nagiba": "Kategorija II",
-                "Kapacitet_dizanja": "3000",
-                "Hidraulično_čeka": "4 prednje, 6 zadnje"
-            },
-            "Motor": {
-                "Tip": "4 cilindra, turbo dizel",
-                "Model": "MHI 4C25-T",
-                "Maksimalna_snaga_motora": "90 KS",
-                "Snaga_motora": "75 KS",
-                "PTO_Pover": "55 HP",
-                "Zapremina": "2505 cc",
-                "Kapacitet_rezervoara/litara": "100 litara"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Sinhro šatl/Pokretni šatl",
-                "Broj_brzina": "F20 k R20 (puzanje)",
-                "Radna_brzina_km/h": "0,2 ~ 33"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_526_1.jpg",
-            "slike_masina/slika_526_2.jpg",
-            "slike_masina/slika_526_3.jpg",
-            "slike_masina/slika_526_4.jpg",
-            "slike_masina/slika_526_5.jpg",
-            "slike_masina/slika_526_6.jpg",
-            "slike_masina/slika_526_7.jpg",
-            "slike_masina/slika_526_8.jpg",
-            "slike_masina/slika_526_9.jpg",
-            "slike_masina/slika_526_10.jpg",
-            "slike_masina/slika_526_11.jpg",
-            "slike_masina/slika_526_12.jpg",
-            "slike_masina/slika_526_13.jpg",
-            "slike_masina/slika_526_14.jpg",
-            "slike_masina/slika_526_15.jpg",
-            "slike_masina/slika_526_16.jpg",
-            "slike_masina/slika_526_17.jpg",
-            "slike_masina/slika_526_18.jpg",
-            "slike_masina/slika_526_19.jpg",
-            "slike_masina/slika_526_20.jpg",
-            "slike_masina/slika_526_21.jpg",
-            "slike_masina/slika_526_22.jpg",
-            "slike_masina/slika_526_23.jpg",
-            "slike_masina/slika_526_24.jpg",
-            "slike_masina/slika_526_25.jpg",
-            "slike_masina/slika_526_26.jpg",
-            "slike_masina/slika_526_27.jpg",
-            "slike_masina/slika_526_28.jpg",
-            "slike_masina/slika_526_29.jpg",
-            "slike_masina/slika_526_30.jpg",
-            "slike_masina/slika_526_31.jpg",
-            "slike_masina/slika_526_32.jpg",
-            "slike_masina/slika_526_33.jpg",
-            "slike_masina/slika_526_34.jpg",
-            "slike_masina/slika_526_35.jpg",
-            "slike_masina/slika_526_36.jpg",
-            "slike_masina/slika_526_37.jpg",
-            "slike_masina/slika_526_38.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "Standardni traktor LS PLUS100 100HP 4VD 4485cc",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Ukupna_dužina_(bez_protivteže)": "4342 mm",
-                "Ukupna_širina_sa_gumama": "2297mm",
-                "Međuosovinsko_rastojanje": "–",
-                "Visina_(kabina)": "2665 mm (kod krila 1727 mm)",
-                "Ukupna_težina": "3,650 kg",
-                "Opterećenje_prikolice": "–"
-            },
-            "Gume": {
-                "Napred": "12,4 – 24",
-                "Nazad": "16,9 – 34"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Reverse_RPM": "540/540E (750)/1000"
-            },
-            "Hidraulični_sistem": {
-                "Kontrolni_sistem": "Podešavanje položaja",
-                "Pumna_litara/minuta": "55,7 litara/minuta",
-                "Upravljačka_pumpa_litara/minutu": "–",
-                "Ukupan_tok": "–",
-                "Kategorija_sistema_nagiba": "Kategorija II",
-                "Kapacitet_podizanja": "2820",
-                "Hidraulični_držači": "3 dvostruke akcije"
-            },
-            "Motor": {
-                "Tip": "4 cilindra, indirektno ubrizgavanje",
-                "Model": "NEF-71TAA-71kV",
-                "Maksimalna_snaga_motora": "–",
-                "Snaga_motora": "100 KS",
-                "PTO_Pover": "86 HP",
-                "Zapremina": "4485 cc",
-                "Kapacitet_rezervoara/litar": "–"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Hi-Lo Sinc Creep",
-                "Broj_brzina": "F40 k R40 Hi-Lo sa puzavcem",
-                "Radna_brzina_km/h": "–"
-            },
-            "Adresni_sistem": {
-                "Tip": "Hidraulični",
-                "Minimalni_radijus_okretanja": "3500 mm",
-                "Maksimalni_ugao_upravljanja": "–"
-            },
-            "Daljinski_upravljač": {
-                "Tip": "–",
-                "Brze_veze_ne": "–",
-                "Brze_veze_za_učitavanje": "–"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_527_1.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "Standardni traktor LS R36i 38HP 4VD 1758cc - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNE MAŠINE",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Ukupna_dužina": "3142",
-                "Ukupna_širina_sa_gumama": "1299",
-                "međuosovinsko_rastojanje": "1674",
-                "Visina": "2343",
-                "Visina_na_upravljaču": "1350",
-                "Ukupna_težina": "1325"
-            },
-            "Gume": {
-                "Napred": "7 – 16",
-                "Nazad": "12,4 – 24"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Reverse_revolutions/min": "540"
-            },
-            "Hidraulični_sistem": {
-                "Kontrolni_sistem": "Podešavanje položaja",
-                "Pumpa-litara/min": "32,4",
-                "Pumpa_upravljača_L/min": "13,2",
-                "Ukupan_tok": "45,6",
-                "Kategorija_nagibnog_sistema": "Kategorija I",
-                "Korisni_teret": "820",
-                "Hidraulični_držači": "2 nazad"
-            },
-            "Motor": {
-                "Tip": "4-cilindrični, indirektno ubrizgavanje",
-                "Model": "MHI S4L2",
-                "Snaga/konj": "38 KS",
-                "PTO_Pover": "32 HP",
-                "Radna_zapremina_cm³": "1758",
-                "Kapacitet_rezervoara/litar": "32 litra"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Sinhro šatl",
-                "Broj_brzina": "F12 k R12",
-                "Radna_brzina_km/h": "1,3 ~ 26"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_528_1.jpg",
-            "slike_masina/slika_528_2.jpg",
-            "slike_masina/slika_528_3.jpg",
-            "slike_masina/slika_528_4.jpg",
-            "slike_masina/slika_528_5.jpg",
-            "slike_masina/slika_528_6.jpg",
-            "slike_masina/slika_528_7.jpg",
-            "slike_masina/slika_528_8.jpg",
-            "slike_masina/slika_528_9.jpg",
-            "slike_masina/slika_528_10.jpg",
-            "slike_masina/slika_528_11.jpg",
-            "slike_masina/slika_528_12.jpg",
-            "slike_masina/slika_528_13.jpg",
-            "slike_masina/slika_528_14.jpg",
-            "slike_masina/slika_528_15.jpg",
-            "slike_masina/slika_528_16.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "LS R60 72hp 4VD 2505cc Turbo Arboriculture Viticulture Novi traktor",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Ukupna_dužina": "3193",
-                "Ukupna_širina_sa_gumama": "od 1457 do 1611",
-                "međuosovinsko_rastojanje": "1758",
-                "Visina": "2416",
-                "Visina_na_upravljaču": "1480",
-                "Ukupna_težina": "1660"
-            },
-            "Gume": {
-                "Prednji": "8 – 16 || 9,5 – 16",
-                "Nazad": "12,4 – 24 || 13,6 – 24"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Prosečan_broj_obrtaja_u_minuti": "540/750/1000"
-            },
-            "obrti_unazad/min": {},
-            "Hidraulični_sistem": {
-                "Kontrolni_sistem": "Podešavanje položaja",
-                "Pumpa-litara/min": "31,2",
-                "Pumpa_upravljača_L/min": "14,8",
-                "Ukupan_protok": "46",
-                "Kategorija_nagibnog_sistema": "Kategorija I",
-                "Kapacitet_dizanja": "1280",
-                "Hidraulika_čeka": "4 nazad"
-            },
-            "Motor": {
-                "Tip": "4 cilindra, indirektno ubrizgavanje, turbo",
-                "Model": "Mitsubishi S4KL",
-                "Maksimalna_snaga_motora": "72 KS",
-                "Snaga_motora": "60 KS",
-                "PTO_Pover": "52 HP",
-                "Zapremina": "2505 cc",
-                "Kapacitet_rezervoara/litar": "36"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Sinhro šatl / EZ-shift sa Creeper-om",
-                "Broj_brzina": "F16 k R16",
-                "Radna_brzina_km/h": "1,0 ~ 26,2"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_529_1.jpg",
-            "slike_masina/slika_529_2.jpg",
-            "slike_masina/slika_529_3.jpg",
-            "slike_masina/slika_529_4.jpg",
-            "slike_masina/slika_529_5.jpg",
-            "slike_masina/slika_529_6.jpg",
-            "slike_masina/slika_529_7.jpg",
-            "slike_masina/slika_529_8.jpg",
-            "slike_masina/slika_529_9.jpg",
-            "slike_masina/slika_529_10.jpg",
-            "slike_masina/slika_529_11.jpg",
-            "slike_masina/slika_529_12.jpg",
-            "slike_masina/slika_529_13.jpg",
-            "slike_masina/slika_529_14.jpg",
-            "slike_masina/slika_529_15.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "LS R65 CABIN 65hp arboriculture novi traktor",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Dužina": "3370 mm",
-                "Ukupna_širina_sa_gumama": "od 1457 mm",
-                "Međuosovinsko_rastojanje": "1858 mm",
-                "Visina": "2312 mm",
-                "Visina_volana": "–",
-                "Ukupna_težina": "2266 kg",
-                "Nosivost_prikolice": "3.600 kg"
-            },
-            "Gume": {
-                "Prednji": "9,5 – 16",
-                "Nazad": "13,6 – 24"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Prosečan_broj_obrtaja_u_minuti": "540/540E/1000"
-            },
-            "Hidraulični_sistem": {
-                "Total_Stream": "47.1",
-                "Pumpa_upravljača_L/min": "15,9",
-                "Pumpa-litara/min": "31,2",
-                "Kategorija_nagibnog_sistema": "Kategorija I",
-                "Kapacitet_dizanja": "1280",
-                "Hidraulično_čeka": "4 pozadi, 6 pozadi"
-            },
-            "Motor": {
-                "Tip": "4 cilindra, indirektno ubrizgavanje",
-                "Model": "Mitsubishi L4AL-T1",
-                "Snaga_motora": "65 KS",
-                "PTO_Pover": "62 HP",
-                "Zapremina": "2505 cc",
-                "Kapacitet_rezervoara/litar": "47 lt"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Sinhronizacija",
-                "Broj_brzina": "F16 k R16",
-                "Radna_brzina_km/h": "1,09 ~ 26,2"
-            },
-            "Sistem_pogona": {
-                "Tip": "Hidrostatski",
-                "Minimalni_radijus_okretanja": "3,01 m",
-                "Maksimalni_ugao_upravljanja": "57 °"
-            },
-            "Daljinski_upravljač": {
-                "Tip": "Dvojno napajanje",
-                "Broj_brzih_veza": "4",
-                "Brze_veze_za_utovarivač": "Brze veze za džojstik i kašiku"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_530_1.jpg",
-            "slike_masina/slika_530_2.jpg",
-            "slike_masina/slika_530_3.jpg",
-            "slike_masina/slika_530_4.jpg",
-            "slike_masina/slika_530_5.jpg",
-            "slike_masina/slika_530_6.jpg",
-            "slike_masina/slika_530_7.jpg",
-            "slike_masina/slika_530_8.jpg",
-            "slike_masina/slika_530_9.jpg",
-            "slike_masina/slika_530_10.jpg",
-            "slike_masina/slika_530_11.jpg",
-            "slike_masina/slika_530_12.jpg",
-            "slike_masina/slika_530_13.jpg",
-            "slike_masina/slika_530_14.jpg",
-            "slike_masina/slika_530_15.jpg",
-            "slike_masina/slika_530_16.jpg",
-            "slike_masina/slika_530_17.jpg",
-            "slike_masina/slika_530_18.jpg",
-            "slike_masina/slika_530_19.jpg",
-            "slike_masina/slika_530_20.jpg",
-            "slike_masina/slika_530_21.jpg",
-            "slike_masina/slika_530_22.jpg",
-            "slike_masina/slika_530_23.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "LS U60 KABINA 60hp arborikultura vinograd novi traktor",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Dužina_(bez_protivteže)": "3754 mm",
-                "Ukupna_širina_sa_gumama": "od 1777 mm do 2103 mm",
-                "Međuosovinsko_rastojanje": "–",
-                "Visina": "2476 mm",
-                "Visina_volana": "–",
-                "Ukupna_težina": "2,483 kg",
-                "Opterećenje_prikolice": "–"
-            },
-            "Gume": {
-                "Napred": "11.2 – 20",
-                "Nazad": "14,9 – 30"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Prosečan_broj_obrtaja_u_minuti": "540/540E/1000"
-            },
-            "Hidraulični_sistem": {
-                "Ukupan_tok": "–",
-                "Upravljačka_pumpa_litara/minutu": "–",
-                "Pumna_litara/minutu": "17,5 litara/minutu",
-                "Kategorija_nagibnog_sistema": "Kategorija I",
-                "Kapacitet_podizanja": "1852",
-                "Hidraulični_držači": "3 dvostruke akcije"
-            },
-            "Motor": {
-                "Tip": "4 cilindra, indirektno ubrizgavanje",
-                "Model": "Mitsubishi S4KT",
-                "Maksimalna_snaga_motora": "–",
-                "Snaga_motora": "60 KS",
-                "PTO_snaga": "–",
-                "Zapremina": "2505 cc",
-                "Kapacitet_rezervoara/litar": "–"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Sinhronizacija / sinhronizacija sa puzanjem (opciono)",
-                "Broj_brzina": "F16 k R16",
-                "Radna_brzina_km/h": "–"
-            },
-            "Sistem_pogona": {
-                "Tip": "Hidraulični",
-                "Minimalni_radijus_okretanja": "3500 mm",
-                "Maksimalni_ugao_upravljanja": "–"
-            },
-            "Daljinski_upravljač": {
-                "Tip": "–",
-                "Brza_veza_ne": "–",
-                "Brze_veze_za_učitavanje": "–"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_531_1.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "LS MT7.101 122HP 4VD 3595cc motor Iveco traktor Standard",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Ukupna_dužina_(bez_protivteže)": "3922 mm",
-                "Ukupna_širina_sa_gumama": "1967mm",
-                "Međuosovinsko_rastojanje": "2287 mm",
-                "Visina_(kabina)": "2679 mm (kod krila 1727 mm)",
-                "Ukupna_težina": "4.110 kg",
-                "Nosivost_prikolice": "7.000 kg"
-            },
-            "Gume": {
-                "Napred": "12,4 – 24",
-                "Nazad": "16,9 – 34"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Reverse_revolutions/min": "540/750/1000"
-            },
-            "Hidraulični_sistem": {
-                "Kontrolni_sistem": "Podešavanje položaja",
-                "Pumna_litara/minutu": "59,4 litara/minutu",
-                "Upravljačka_pumpa_litara/minutu": "24,8 litara/minutu",
-                "Ukupni_protok": "84,2 litara / minut",
-                "Kategorija_sistema_nagiba": "Kategorija II",
-                "Kapacitet_podizanja": "3290",
-                "Hidraulika_čeka": "6 nazad"
-            },
-            "Motor": {
-                "Tip": "4 cilindra, indirektno ubrizgavanje",
-                "Model": "Iveco FPT F5LGL413S",
-                "Maksimalna_snaga_motora": "122 KS",
-                "Snaga_motora": "102 KS",
-                "PTO_Pover": "86 HP",
-                "Zapremina": "3595 cc",
-                "Kapacitet_rezervoara/litar": "115 litara"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Hi-Lo Sinc Creep",
-                "Broj_brzina": "F40 k R40 Hi-Lo sa puzavcem",
-                "Radna_brzina_km/h": "0,17 ~ 39,8"
-            },
-            "Adresni_sistem": {
-                "Tip": "Hidrostatski",
-                "Minimalni_radijus_okretanja": "3,8 m",
-                "Maksimalni_ugao_upravljanja": "53 °"
-            },
-            "Daljinski_upravljač": {
-                "Tip": "Dvojno napajanje",
-                "Broj_brzih_veza": "6",
-                "Brze_spojnice_utovarivača": "Kupica sa džojstikom i hidraulična dizalica sa brzim spojnicama"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_532_1.jpg",
-            "slike_masina/slika_532_2.jpg",
-            "slike_masina/slika_532_3.jpg",
-            "slike_masina/slika_532_4.jpg",
-            "slike_masina/slika_532_5.jpg",
-            "slike_masina/slika_532_6.jpg",
-            "slike_masina/slika_532_7.jpg",
-            "slike_masina/slika_532_8.jpg",
-            "slike_masina/slika_532_9.jpg",
-            "slike_masina/slika_532_10.jpg",
-            "slike_masina/slika_532_11.jpg",
-            "slike_masina/slika_532_12.jpg",
-            "slike_masina/slika_532_13.jpg",
-            "slike_masina/slika_532_14.jpg",
-            "slike_masina/slika_532_15.jpg",
-            "slike_masina/slika_532_16.jpg",
-            "slike_masina/slika_532_17.jpg",
-            "slike_masina/slika_532_18.jpg",
-            "slike_masina/slika_532_19.jpg",
-            "slike_masina/slika_532_20.jpg",
-            "slike_masina/slika_532_21.jpg",
-            "slike_masina/slika_532_22.jpg",
-            "slike_masina/slika_532_23.jpg",
-            "slike_masina/slika_532_24.jpg",
-            "slike_masina/slika_532_25.jpg",
-            "slike_masina/slika_532_26.jpg",
-            "slike_masina/slika_532_27.jpg",
-            "slike_masina/slika_532_28.jpg",
-            "slike_masina/slika_532_29.jpg",
-            "slike_masina/slika_532_30.jpg",
-            "slike_masina/slika_532_31.jpg",
-            "slike_masina/slika_532_32.jpg",
-            "slike_masina/slika_532_33.jpg",
-            "slike_masina/slika_532_34.jpg",
-            "slike_masina/slika_532_35.jpg",
-            "slike_masina/slika_532_36.jpg",
-            "slike_masina/slika_532_37.jpg",
-            "slike_masina/slika_532_38.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "LS KSR50 CABIN 60hp cab arboriculture novi traktor",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Dužina_(bez_protivteže)": "3370 mm",
-                "Ukupna_širina_sa_gumama": "od 1457 mm",
-                "Međuosovinsko_rastojanje": "1858 mm",
-                "Visina": "2312 mm (kod krila – )",
-                "Ukupna_težina": "2,266 kg",
-                "Opterećenje_prikolice": "–"
-            },
-            "Gume": {
-                "Napred": "8,3 – 20",
-                "Nazad": "12,4 – 28"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Prosečan_broj_obrtaja_u_minuti": "540/750/1000"
-            },
-            "Hidraulični_sistem": {
-                "Ukupan_tok": "46,9",
-                "Pumpa_upravljača_L/min": "15,9",
-                "Pumpa-litara/min": "31",
-                "Kategorija_nagibnog_sistema": "Kategorija I",
-                "Kapacitet_dizanja": "1280",
-                "Hidraulično_čeka": "4 prednje, 6 zadnje"
-            },
-            "Motor": {
-                "Tip": "4 cilindra, indirektno ubrizgavanje",
-                "Model": "Mitsubishi S4KL",
-                "Maksimalna_snaga_motora": "60 KS",
-                "Snaga_motora": "50 KS",
-                "PTO_Pover": "42 HP",
-                "Zapremina": "2505 cc",
-                "Kapacitet_rezervoara/litar": "47 lt"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Sinhronizacija",
-                "Broj_brzina": "F16 k R16",
-                "Radna_brzina_km/h": "1,09 ~ 26,2"
-            },
-            "Sistem_pogona": {
-                "Tip": "Hidrostatski",
-                "Minimalni_radijus_okretanja": "2,74 m",
-                "Maksimalni_ugao_upravljanja": "57°"
-            },
-            "Daljinski_upravljač": {
-                "Tip": "–",
-                "Brza_veza_ne": "–",
-                "Brze_veze_za_učitavanje": "–"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_533_1.jpg",
-            "slike_masina/slika_533_2.jpg",
-            "slike_masina/slika_533_3.jpg",
-            "slike_masina/slika_533_4.jpg",
-            "slike_masina/slika_533_5.jpg",
-            "slike_masina/slika_533_6.jpg",
-            "slike_masina/slika_533_7.jpg",
-            "slike_masina/slika_533_8.jpg",
-            "slike_masina/slika_533_9.jpg",
-            "slike_masina/slika_533_10.jpg",
-            "slike_masina/slika_533_11.jpg",
-            "slike_masina/slika_533_12.jpg",
-            "slike_masina/slika_533_13.jpg",
-            "slike_masina/slika_533_14.jpg",
-            "slike_masina/slika_533_15.jpg",
-            "slike_masina/slika_533_16.jpg",
-            "slike_masina/slika_533_17.jpg",
-            "slike_masina/slika_533_18.jpg",
-            "slike_masina/slika_533_19.jpg",
-            "slike_masina/slika_533_20.jpg",
-            "slike_masina/slika_533_21.jpg",
-            "slike_masina/slika_533_22.jpg",
-            "slike_masina/slika_533_23.jpg",
-            "slike_masina/slika_533_24.jpg",
-            "slike_masina/slika_533_25.jpg",
-            "slike_masina/slika_533_26.jpg",
-            "slike_masina/slika_533_27.jpg",
-            "slike_masina/slika_533_28.jpg",
-            "slike_masina/slika_533_29.jpg",
-            "slike_masina/slika_533_30.jpg",
-            "slike_masina/slika_533_31.jpg",
-            "slike_masina/slika_533_32.jpg",
-            "slike_masina/slika_533_33.jpg",
-            "slike_masina/slika_533_34.jpg",
-            "slike_masina/slika_533_35.jpg",
-            "slike_masina/slika_533_36.jpg",
-            "slike_masina/slika_533_37.jpg",
-            "slike_masina/slika_533_38.jpg",
-            "slike_masina/slika_533_39.jpg",
-            "slike_masina/slika_533_40.jpg",
-            "slike_masina/slika_533_41.jpg",
-            "slike_masina/slika_533_42.jpg",
-            "slike_masina/slika_533_43.jpg",
-            "slike_masina/slika_533_44.jpg",
-            "slike_masina/slika_533_45.jpg"
-        ]
-    },
-    {
-        "vrsta": "Tractors",
-        "model": "LS KSU6168 Cab 84HP 4VD Mitsubishi TURBO arboriculture traktorska kabina",
-        "specifikacije": {
-            "Dimenzije_i_težina": {
-                "Dužina_(bez_protivteže)": "3563 mm",
-                "Ukupna_širina_sa_gumama": "od 1677 mm do 1870 mm",
-                "Međuosovinsko_rastojanje": "2086 mm",
-                "Visina": "2525 mm (kod krila 1459 mm)",
-                "Ukupna_težina": "2,557 kg",
-                "Nosivost_prikolice": "5.000 kg"
-            },
-            "Gume": {
-                "Napred": "11.2 – 20",
-                "Nazad": "14,9 – 30"
-            },
-            "Izvod_snage_(PTO)": {
-                "Tip": "Nezavisno",
-                "Prosečan_broj_obrtaja_u_minuti": "540/540E/1000"
-            },
-            "Hidraulični_sistem": {
-                "Ukupan_tok": "57,3",
-                "Pumpa_upravljača_L/min": "17,5",
-                "Pumpa-litara/min": "39,8",
-                "Kategorija_sistema_nagiba": "Kategorija II",
-                "Kapacitet_dizanja": "1850",
-                "Hidraulika_čeka": "6 nazad"
-            },
-            "Motor": {
-                "Tip": "4 cilindra, indirektno ubrizgavanje",
-                "Model": "Mitsubishi L4C25-T2",
-                "Maksimalna_snaga_motora": "84 KS",
-                "Snaga_motora": "70 KS",
-                "PTO_Pover": "62 HP",
-                "Zapremina": "2505 cc",
-                "Kapacitet_rezervoara/litar": "80 litara"
-            },
-            "Sistem_prenosa": {
-                "Tip": "Sinhronizacija / sinhronizacija sa puzanjem (opciono)",
-                "Broj_brzina": "F16 k R16 / F32 k R16 (puzanje)",
-                "Radna_brzina_km/h": "1,2 ~ 29,2 / 0,2 ~ 29,2 (aktivno puzanje)"
-            },
-            "Sistem_pogona": {
-                "Tip": "Hidrostatski",
-                "Minimalni_radijus_okretanja": "3,3 m",
-                "Maksimalni_ugao_upravljanja": "55 °"
-            },
-            "Daljinski_upravljač": {
-                "Tip": "Dvojno napajanje",
-                "Broj_brzih_veza": "4",
-                "Brze_veze_utovarivača": "Jojstik korpe i hidraulični priključak"
-            }
-        },
-        "slike": [
-            "slike_masina/slika_534_1.jpg",
-            "slike_masina/slika_534_2.jpg",
-            "slike_masina/slika_534_3.jpg",
-            "slike_masina/slika_534_4.jpg",
-            "slike_masina/slika_534_5.jpg",
-            "slike_masina/slika_534_6.jpg",
-            "slike_masina/slika_534_7.jpg",
-            "slike_masina/slika_534_8.jpg",
-            "slike_masina/slika_534_9.jpg",
-            "slike_masina/slika_534_10.jpg",
-            "slike_masina/slika_534_11.jpg",
-            "slike_masina/slika_534_12.jpg",
-            "slike_masina/slika_534_13.jpg",
-            "slike_masina/slika_534_14.jpg",
-            "slike_masina/slika_534_15.jpg",
-            "slike_masina/slika_534_16.jpg",
-            "slike_masina/slika_534_17.jpg"
-        ]
-    },
-    {
         "vrsta": "Freze",
-        "model": "MF95-M ofset freza - GUME ZA POLjOPRIVREDNE MAŠINE TRAKTORSKE",
+        "model": "MF95-M ofset freza",
         "specifikacije": {
             "Težina": "161 kg",
             "Konji": "12 – 45 KS",
