@@ -2877,7 +2877,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ARES STRONG160P seckalica za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorskim senzorom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Teški tarupi",
+        "model": "ARES STRONG160P Super Teški Tarup za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorom",
         "specifikacije": {
             "Težina": "610 kg",
             "Konji": "45 – 100 KS",
@@ -2921,7 +2922,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ARES STRONG180P seckalica za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorskim senzorom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Teški tarupi",
+        "model": "ARES STRONG180P Super Teški Tarup za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorom",
         "specifikacije": {
             "Težina": "650 kg",
             "Konji": "50 – 100 KS",
@@ -2965,7 +2967,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ARES STRONG200P seckalica za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Teški tarupi",
+        "model": "ARES STRONG200P Super Teški Tarup za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorom",
         "specifikacije": {
             "Težina": "680 kg",
             "Konji": "55 – 100 KS",
@@ -3009,7 +3012,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ARES STRONG220P seckalica za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za prikupljanje i samostalnim senzorskim senzorom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Teški tarupi",
+        "model": "ARES STRONG220P Super Teški Tarup za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorom",
         "specifikacije": {
             "Težina": "720 kg",
             "Konji": "65 – 100 KS",
@@ -3053,7 +3057,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ARES STRONG140P seckalica za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorom - TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Teški tarupi",
+        "model": "ARES STRONG140P Super Teški Tarup za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorom",
         "specifikacije": {
             "Težina": "570 kg",
             "Konji": "40 – 100 KS",
@@ -3097,7 +3102,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ARES STRONG220 Heavi Duti Vrecker, Ektra Displacement, Door and Rear Pick-Up Blades - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
+        "podvrsta": "Teški tarupi",
+        "model": "ARES STRONG220 Super Teški Tarup za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorom",
         "specifikacije": {
             "Težina": "650 kg",
             "Konji": "65 – 100 KS",
@@ -3169,7 +3175,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ARES STRONG140 Heavi Duti Vrecker, Ektra Displacement, Door and Rear Pick-up noži – POLjOPRIVREDNI MAŠINI TRAKTORI NA TOČKOVIMA",
+        "podvrsta": "Teški tarupi",
+        "model": "ARES STRONG140 Super Teški Tarup za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorom",
         "specifikacije": {
             "Težina": "500 kg",
             "Konji": "40 – 100 KS",
@@ -3205,7 +3212,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ARES STRONG180 Heavi Duti Vrecker, Ektra Displacement, Door and Rear Pick-up noževi - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
+        "podvrsta": "Teški tarupi",
+        "model": "ARES STRONG180 Super Teški Tarup za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorom",
         "specifikacije": {
             "Težina": "580 kg",
             "Konji": "50 – 100 KS",
@@ -3241,7 +3249,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ARES STRONG200 Heavi Duti Vrecker, Ektra Displacement, Door and Rear Pick-Up Blades – POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
+        "podvrsta": "Teški tarupi",
+        "model": "ARES STRONG200 Super Teški Tarup za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorom",
         "specifikacije": {
             "Težina": "610 kg",
             "Konji": "55 – 100 KS",
@@ -16672,7 +16681,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "ARES STRONG160 Heavi Duti Vrecker, Ektra Displacement, Door and Rear Pick-Up noževi - POLjOPRIVREDNI MAŠINI TRAKTORI NA TOČKOVIMA",
+        "podvrsta": "Teški tarupi",
+        "model": "ARES STRONG160 Super Teški Tarup za teške uslove rada sa dodatnim pomeranjem, vratima, noževima za podizanje i samostalnim senzorom",
         "specifikacije": {
             "Težina": "540 kg",
             "Konji": "45 – 100 KS",
