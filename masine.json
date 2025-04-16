@@ -3133,7 +3133,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "BK200 BK200 BK200 Heavi Duti Vrecker, Displacement, Touched Hammers and Rear Pick-up Blades - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
+        "podvrsta": "Teški tarupi",
+        "model": "BK200 Tarup za teške uslove rada, deplasmanski, nazubljeni čekići i zadnji noževi za prikupljanje - POLjOPRIVREDNA MAŠINA TRAKTORI NA TOČKOVIMA",
         "specifikacije": {
             "Težina": "510 kg",
             "Konji": "55 – 100 KS",
@@ -16375,7 +16376,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "BK150 BK150 BK150 BK150 BK150 BK150 BK150 BREADER VHEEL - VHEELS TRAKTOR",
+        "podvrsta": "Teški tarupi",
+        "model": "BK150 Tarup za teške uslove rada, deplasmanski, nazubljeni čekići i zadnji noževi za prikupljanje",
         "specifikacije": {
             "Težina": "449 kg",
             "Konji": "40 – 100 KS",
@@ -16410,7 +16412,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "BK165 BK165 Seckalica za teške uslove rada, deplasmanski, nazubljeni čekići i zadnje noževe za prikupljanje - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
+        "podvrsta": "Teški tarupi",
+        "model": "BK165 Tarup za teške uslove rada, deplasmanski, nazubljeni čekići i zadnji noževi za prikupljanje",
         "specifikacije": {
             "Težina": "471 kg",
             "Konji": "45 – 100 KS",
@@ -16445,7 +16448,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "BK180 BK180 BK180 Seckalica za teške uslove rada, deplasmanski, nazubljeni čekići i zadnje noževe za prikupljanje - TRAKTORI NA TOČKOVIMA ZA POLjOPRIVREDNU MAŠINU",
+        "podvrsta": "Teški tarupi",
+        "model": "BK180 Tarup za teške uslove rada, deplasmanski, nazubljeni čekići i zadnji noževi za prikupljanje",
         "specifikacije": {
             "Težina": "492 kg",
             "Konji": "50 – 100 KS",
