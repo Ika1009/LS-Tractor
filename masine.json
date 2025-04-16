@@ -7980,13 +7980,14 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "Samouvlačeća, sklopiva samohidraulična drljača ERIS AM60 – TRAKTORI GUME POLjOPRIVREDNE MAŠINE",
+        "podvrsta": "Teški tarupi",
+        "model": "ERIS AM60 Tarup Biorotor",
         "specifikacije": {
             "Težina": "290 kg",
+            "Debljina_žice": "4x4 mm",
             "Konji": "17 – 100 KS",
             "Rezervoar_za_ulje": "27 L",
             "Mesinese": "42 kom",
-            "Debljina_glasnika": "4×4 mm",
             "Sistem_za_hlađenje_ulja": "12 V",
             "A": "1400 – 2700 mm",
             "B": "520 mm",
