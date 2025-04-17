@@ -338,7 +338,7 @@
     </header>  
 
     <!-- Categories -->
-    <section class="mx-4 md:mx-8 xl:mx-16 my-4 xl:my-8">
+    <section id="tarupi_categories" style="display: none;" class="mx-4 md:mx-8 xl:mx-16 my-4 xl:my-8">
       <div class="glider-contain">
         <button aria-label="Previous" class="glider-prev">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
@@ -346,6 +346,10 @@
           </svg>          
         </button>
         <div class="glider">
+          <div class="card flex flex-row items-start justify-start bg-gray-200 rounded-xl mr-4" data-category="sve">
+            <img src="assets/img/header/destroyers.webp" alt="Svi tarupi" class="m-2 w-32 h-32 object-cover">
+            <h1 class="mt-6 mr-8 ml-2">Svi tarupi</h1>
+          </div>
           <div class="card flex flex-row items-start justify-start bg-gray-200 rounded-xl mr-4" data-category="Laki tarupi EKN">
             <img src="https://agrimac.gr/wp-content/uploads/2024/03/katastrofeis-elafroy-typoy-gia-trakter-times-thessaloniki-athina.jpg" alt="Laki tarupi EKN" class="m-2 w-32 h-32 object-cover">
             <h1 class="mt-6 mr-8 ml-2">Laki tarupi EKN</h1>
@@ -507,16 +511,21 @@
               const podvrstaDiv = machine.querySelector("[data-podvrsta]")
 
               if (!podvrstaDiv) {
-                link.style.display = "none";
+                machine.style.display = "none";
                 return;
               }
 
               const podvrsta = podvrstaDiv.dataset.podvrsta;
 
-              if (selectedCategory === "sve" || podvrsta === selectedCategory) {
-                machine.style.display = "block"; 
+              if (selectedCategory.toLowerCase() === "sve") {
+                machine.style.display = "block";
+                return;
+              }
+
+              if (podvrsta === selectedCategory) {
+                machine.style.display = "block";
               } else {
-                machine.style.display = "none"; 
+                machine.style.display = "none";
               }
             });
           });

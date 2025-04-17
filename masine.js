@@ -1,36 +1,34 @@
-// machines.js
+window.addEventListener('load', () => {
+  const loader = document.getElementById('loader');
+  if (loader) loader.style.display = 'none';
+});
 
-  window.addEventListener('load', () => {
-    const loader = document.getElementById('loader');
-    if (loader) loader.style.display = 'none';
-  });
-
-  window.addEventListener('load', function(){
-    new Glider(document.querySelector('.glider'), {
-      slidesToShow: 1.5,
-      slidesToScroll: 1,
-      draggable: true,
-      scrollLock: true,
-      arrows: {
-        prev: '.glider-prev',
-        next: '.glider-next'
-      },
-      responsive: [
-        {
-          breakpoint: 768,
-          settings: {
-            slidesToShow: 3.5
-          }
-        },
-        {
-          breakpoint: 1024,
-          settings: {
-            slidesToShow: 4.5
-          }
+window.addEventListener('load', function() {
+  new Glider(document.querySelector('.glider'), {
+    slidesToShow: 1.5,
+    slidesToScroll: 1,
+    draggable: true,
+    scrollLock: true,
+    arrows: {
+      prev: '.glider-prev',
+      next: '.glider-next'
+    },
+    responsive: [
+      {
+        breakpoint: 768,
+        settings: {
+          slidesToShow: 3.5
         }
-      ]
-    });
+      },
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 4.5
+        }
+      }
+    ]
   });
+});
 
 function getQueryParam(key) {
   const urlParams = new URLSearchParams(window.location.search);
@@ -81,7 +79,6 @@ function createMachineCard(machine) {
     kartica.appendChild(specParagraph);
   });
 
-  // Kreiramo link koji vodi na masina.html sa URL enkodovanim imenom modela
   const link = document.createElement('a');
   link.href = `masina.html?masina=${encodeURIComponent(machine.model)}`;
   link.appendChild(kartica);
@@ -110,6 +107,14 @@ function initMachinesDisplay() {
     machinesSection.appendChild(gridContainer);
   }
   const kategorija = getQueryParam('vrsta');
+  const kategorijeSection = document.getElementById('tarupi_categories');
+  if (kategorijeSection) {
+    if (kategorija === 'Tarupi') {
+      kategorijeSection.style.display = 'block';
+    } else {
+      kategorijeSection.style.display = 'none';
+    }
+  }
   fetchMachines()
     .then(machinesData => {
       const filteredMachines = filterMachines(machinesData, kategorija);
@@ -120,5 +125,4 @@ function initMachinesDisplay() {
     });
 }
 
-console.log("MASINE");
 initMachinesDisplay();
