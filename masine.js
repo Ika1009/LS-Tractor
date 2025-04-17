@@ -108,11 +108,19 @@ function initMachinesDisplay() {
   }
   const kategorija = getQueryParam('vrsta');
   const kategorijeSection = document.getElementById('tarupi_categories');
+  const kategorije2Section = document.getElementById('nagnuti_categories');
   if (kategorijeSection) {
     if (kategorija === 'Tarupi') {
       kategorijeSection.style.display = 'block';
     } else {
-      kategorijeSection.style.display = 'none';
+      kategorijeSection.remove();
+    }
+  }
+  if (kategorije2Section) {
+    if (kategorija === 'Nagnuti Tarupi') {
+      kategorije2Section.style.display = 'block';
+    } else {
+      kategorije2Section.remove();
     }
   }
   fetchMachines()
