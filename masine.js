@@ -52,38 +52,39 @@ function filterMachines(machines, kategorija) {
 }
 
 function createMachineCard(machine) {
-  const card = document.createElement('div');
-  card.className = 'shadow-lg rounded-xl p-4 h-full flex flex-col justify-between';
+  const kartica = document.createElement('div');
+  kartica.className = 'shadow-lg rounded-xl p-4 h-full flex flex-col justify-between';
+  kartica.setAttribute('data-podvrsta', machine.podvrsta);
 
   const description = document.createElement('p');
   description.className = 'text-sm clamp-2';
   description.textContent = machine.model;
-  card.appendChild(description);
+  kartica.appendChild(description);
 
   const title = document.createElement('h1');
   title.className = 'mt-4 mb-2 font-bold clamp-2';
   title.textContent = machine.model;
-  card.appendChild(title);
+  kartica.appendChild(title);
 
   const image = document.createElement('img');
   if (machine.slike && machine.slike.length > 0) {
     image.src = machine.slike[0];
   }
   image.alt = machine.model;
-  card.appendChild(image);
+  kartica.appendChild(image);
 
   const specEntries = Object.entries(machine.specifikacije).slice(0, 3);
   specEntries.forEach(([key, value]) => {
     const specParagraph = document.createElement('p');
     specParagraph.className = 'mt-2 text-sm';
     specParagraph.innerHTML = `${key}: <span class="font-bold">${value}</span>`;
-    card.appendChild(specParagraph);
+    kartica.appendChild(specParagraph);
   });
 
   // Kreiramo link koji vodi na masina.html sa URL enkodovanim imenom modela
   const link = document.createElement('a');
   link.href = `masina.html?masina=${encodeURIComponent(machine.model)}`;
-  link.appendChild(card);
+  link.appendChild(kartica);
 
   return link;
 }
