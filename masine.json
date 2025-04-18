@@ -424,7 +424,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "YBPK Profesionalni Horizontalno-vertikalni Tarupi sa Rukom",
-        "model": "YBPK240 horizonalno/vertikalni tarup sa pomakom za teške uslove",
+        "model": "YBPK240 horizonalno/vertikalni Tarup sa pomakom za teške uslove",
         "specifikacije": {
             "Težina": "895 kg",
             "Konji": "90 – 150 KS",
@@ -482,7 +482,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "YBPK Profesionalni Horizontalno-vertikalni Tarupi sa Rukom",
-        "model": "YBPK260 horizonalno/vertikalni tarup sa pomakom za teške uslove",
+        "model": "YBPK260 horizonalno/vertikalni Tarup sa pomakom za teške uslove",
         "specifikacije": {
             "Težina": "980 kg",
             "Konji": "110 – 170 KS",
@@ -760,7 +760,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Samohodni tarupi",
-        "model": "Benzinski vučeni tarup sa vratima",
+        "model": "Benzinski vučeni Tarup sa vratima",
         "specifikacije": {
             "Težina": "250 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -4933,7 +4933,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Tarupi sa spremnikom",
-        "model": "MSK90 0,90m Hidraulični tarup sa spremnikom",
+        "model": "MSK90 0,90m Hidraulični Tarup sa spremnikom",
         "specifikacije": {
             "Težina": "290 kg",
             "Konji": "20 – 40 KS",
@@ -4976,7 +4976,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Tarupi sa spremnikom",
-        "model": "MSK120 1,20m Hidraulični tarup sa spremnikom",
+        "model": "MSK120 1,20m Hidraulični Tarup sa spremnikom",
         "specifikacije": {
             "Težina": "325 kg",
             "Konji": "25 – 50 KS",
@@ -5019,7 +5019,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Tarupi sa spremnikom",
-        "model": "MSK160 1,60m Hidraulični tarup sa spremnikom",
+        "model": "MSK160 1,60m Hidraulični Tarup sa spremnikom",
         "specifikacije": {
             "Težina": "367 kg",
             "Konji": "30 – 60 KS",
@@ -7051,7 +7051,7 @@
     },
     {
         "vrsta": "Poljoprivredne masine",
-        "model": "Cilindarski tarup zemlje za ram više mašina HIDRA RAOILO140",
+        "model": "Cilindarski Tarup zemlje za ram više mašina HIDRA RAOILO140",
         "specifikacije": {
             "Težina": "70 kg",
             "Radna_širina": "1400 mm"
@@ -7064,7 +7064,7 @@
     },
     {
         "vrsta": "Poljoprivredne masine",
-        "model": "Cilindarski tarup zemlje za ram više mašina HIDRA RAOILO160",
+        "model": "Cilindarski Tarup zemlje za ram više mašina HIDRA RAOILO160",
         "specifikacije": {
             "Težina": "77 kg",
             "Radna_širina": "1600 mm"
@@ -7077,7 +7077,7 @@
     },
     {
         "vrsta": "Poljoprivredne masine",
-        "model": "Cilindarski tarup zemlje za ram više mašina HIDRA RAOILO120",
+        "model": "Cilindarski Tarup zemlje za ram više mašina HIDRA RAOILO120",
         "specifikacije": {
             "Težina": "61 kg",
             "Radna_širina": "1200 mm"
@@ -11485,7 +11485,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopski ručni tarup, samostalni za traktore | srednji tip | MTK120",
+        "model": "Teleskopski Ručni Tarup, Samostalni za Traktore | Srednji Tip | MTK120",
         "specifikacije": {
             "Težina": "640 kg",
             "Konji": "65 – 100 KS",
@@ -11518,7 +11518,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopski džojstik samostalni traktor traktor | srednji tip | MTK120-Joistick",
+        "model": "Teleskopski Ručni Tarup, Samostalni za Traktore | Srednji Tip | MTK120-Joystick",
         "specifikacije": {
             "Težina": "640 kg",
             "Konji": "65 – 100 KS",
@@ -11551,7 +11551,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopski džojstik džojstik samostalni traktor traktor | teške uslove | BTK150-Joistick",
+        "model": "Teleskopski Ručni Tarup, Samostalni za Traktore | Za Teške Uslove | BTK150-Joystick",
         "specifikacije": {
             "Težina": "1185 kg",
             "Konji": "85 KS",
@@ -11908,7 +11908,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopska koplje - motorna kosa sa reznom šipkom samostalna za traktore LK145",
+        "model": "Teleskopski Tarup - motorna kosa sa reznom šipkom samostalna za traktore LK145",
         "specifikacije": {
             "Težina": "270 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -11954,7 +11954,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopsko koplje - motorna kosa sa reznom šipkom samostalna za traktore LK175",
+        "model": "Teleskopski Tarup - motorna kosa sa reznom šipkom samostalna za traktore LK175",
         "specifikacije": {
             "Težina": "285 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12000,7 +12000,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopsko koplje - motorna kosa sa rezačem za traktore, sa mogućnošću napredovanja na strani vozača LK145S",
+        "model": "Teleskopski Tarup - motorna kosa sa rezačem za traktore, sa mogućnošću napredovanja na strani vozača LK145S",
         "specifikacije": {
             "Težina": "290 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12038,7 +12038,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopsko koplje – motorne motorne kose LK160S sa strane vozača",
+        "model": "Teleskopski Tarup – motorne motorne kose LK160S sa strane vozača",
         "specifikacije": {
             "Težina": "295 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12076,7 +12076,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopsko koplje - motorna kosa sa rezačem za traktore, sa mogućnošću napredovanja na strani vozača LK175S",
+        "model": "Teleskopski Tarup - motorna kosa sa rezačem za traktore, sa mogućnošću napredovanja na strani vozača LK175S",
         "specifikacije": {
             "Težina": "305 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12114,7 +12114,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopsko koplje - samostalna motorna kosa sa reznom šipkom za traktore LK130",
+        "model": "Teleskopski Tarup - samostalna motorna kosa sa reznom šipkom za traktore LK130",
         "specifikacije": {
             "Težina": "265 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12160,7 +12160,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopska koplje - motorna kosa sa reznom šipkom samostalna za traktore LK160",
+        "model": "Teleskopski Tarup - motorna kosa sa reznom šipkom samostalna za traktore LK160",
         "specifikacije": {
             "Težina": "275 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12206,7 +12206,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopska koplje - samostalna motorna kosa sa reznom šipkom za traktore LK190",
+        "model": "Teleskopski Tarup - samostalna motorna kosa sa reznom šipkom za traktore LK190",
         "specifikacije": {
             "Težina": "295 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12252,7 +12252,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopsko koplje - motorna kosa sa reznom šipkom za traktore, sa mogućnošću napredovanja na strani vozača LK190S",
+        "model": "Teleskopski Tarup - motorna kosa sa reznom šipkom za traktore, sa mogućnošću napredovanja na strani vozača LK190S",
         "specifikacije": {
             "Težina": "315 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12290,7 +12290,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopsko koplje sa reznom šipkom, džojstikom i mogućnošću napredovanja na strani vozača LK130S-Joistick",
+        "model": "Teleskopski Tarup sa reznom šipkom, džojstikom i mogućnošću napredovanja na strani vozača LK130S-Joystick",
         "specifikacije": {
             "Težina": "285 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12325,7 +12325,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopsko koplje - motorna kosa sa reznom šipkom za traktore, sa mogućnošću napredovanja na strani vozača LK130S",
+        "model": "Teleskopski Tarup - motorna kosa sa reznom šipkom za traktore, sa mogućnošću napredovanja na strani vozača LK130S",
         "specifikacije": {
             "Težina": "285 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12363,7 +12363,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK160S-Joistick",
+        "model": "Teleskopski Tarup sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK160S-Joystick",
         "specifikacije": {
             "Težina": "295 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12398,7 +12398,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK175S-Joistick",
+        "model": "Teleskopski Tarup sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK175S-Joystick",
         "specifikacije": {
             "Težina": "305 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12433,7 +12433,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK190S-Joistick",
+        "model": "Teleskopski Tarup sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK190S-Joystick",
         "specifikacije": {
             "Težina": "315 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12468,7 +12468,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK145S-Joistick",
+        "model": "Teleskopski Tarup sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK145S-Joystick",
         "specifikacije": {
             "Težina": "290 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -15715,7 +15715,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi sa mehaničkim pomakom",
-        "model": "MKP135 Poluteški tarup sa mehaničkim pomakom",
+        "model": "MKP135 Poluteški Tarup sa mehaničkim pomakom",
         "specifikacije": {
             "Težina": "320 kg",
             "Konji": "25 – 60 KS",
@@ -16237,7 +16237,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "YBPK Profesionalni Horizontalno-vertikalni Tarupi sa Rukom",
-        "model": "YBPK180 horizonalno/vertikalni tarup sa pomakom za teške uslove",
+        "model": "YBPK180 horizonalno/vertikalni Tarup sa pomakom za teške uslove",
         "specifikacije": {
             "Težina": "815 kg",
             "Konji": "70 – 120 KS",
@@ -16298,7 +16298,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "YBPK Profesionalni Horizontalno-vertikalni Tarupi sa Rukom",
-        "model": "YBPK200 horizonalno/vertikalni tarup sa pomakom za teške uslove",
+        "model": "YBPK200 horizonalno/vertikalni Tarup sa pomakom za teške uslove",
         "specifikacije": {
             "Težina": "842 kg",
             "Konji": "75 – 120 KS",
@@ -16359,7 +16359,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "YBPK Profesionalni Horizontalno-vertikalni Tarupi sa Rukom",
-        "model": "YBPK220 horizonalno/vertikalni tarup sa pomakom za teške uslove",
+        "model": "YBPK220 horizonalno/vertikalni Tarup sa pomakom za teške uslove",
         "specifikacije": {
             "Težina": "870 kg",
             "Konji": "85 – 120 KS",
