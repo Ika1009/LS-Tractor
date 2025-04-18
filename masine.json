@@ -542,7 +542,7 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "podvrsta": "BPK Teški Horizontalno-Vertikalni Tarup sa Rukom",
+        "podvrsta": "BPK Teški Horizontalno-vertikalni Tarup sa Rukom",
         "model": "BPK200 Teški Nagnuti tarup",
         "specifikacije": {
             "Težina": "677 kg",
@@ -15403,7 +15403,7 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "podvrsta": "BPK Teški Horizontalno-Vertikalni Tarup sa Rukom",
+        "podvrsta": "BPK Teški Horizontalno-vertikalni Tarup sa Rukom",
         "model": "BPK160 Teški Nagnuti Tarup",
         "specifikacije": {
             "Težina": "590 kg",
@@ -15439,7 +15439,7 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "podvrsta": "BPK Teški Horizontalno-Vertikalni Tarup sa Rukom",
+        "podvrsta": "BPK Teški Horizontalno-vertikalni Tarup sa Rukom",
         "model": "BPK180 Teški Nagnuti tarup",
         "specifikacije": {
             "Težina": "620 kg",
