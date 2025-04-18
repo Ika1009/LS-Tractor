@@ -543,7 +543,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "BPK Teški Horizontalno-vertikalni Tarupi sa Rukom",
-        "model": "BPK200 Teški Nagnuti tarup",
+        "model": "BPK200 Teški Nagnuti Tarup",
         "specifikacije": {
             "Težina": "677 kg",
             "Konji": "70 – 110 KS",
@@ -579,7 +579,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Samohodni tarupi",
-        "model": "GK65 Samohodni tarup",
+        "model": "GK65 Samohodni Tarup",
         "specifikacije": {
             "Težina": "155 kg",
             "Motor": "Loncin 252cc 8 KS",
@@ -619,7 +619,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Samohodni tarupi",
-        "model": "GK80pro Samohodni tarup",
+        "model": "GK80pro Samohodni Tarup",
         "specifikacije": {
             "Težina": "249 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -660,7 +660,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Samohodni tarupi",
-        "model": "GK80 Samohodni tarup",
+        "model": "GK80 Samohodni Tarup",
         "specifikacije": {
             "Težina": "224 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -692,7 +692,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Samohodni tarupi",
-        "model": "GK90pro Samohodni tarup",
+        "model": "GK90pro Samohodni Tarup",
         "specifikacije": {
             "Težina": "335 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -720,7 +720,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Samohodni tarupi",
-        "model": "GK90 Samohodni tarup",
+        "model": "GK90 Samohodni Tarup",
         "specifikacije": {
             "Težina": "310 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -3365,7 +3365,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Laki tarupi EKN",
-        "model": "Desplasment and Hammer Light Vrecker za mali traktor - japanski GRAECUS EKN135 traktor",
+        "model": "Laki Tarup za Mali Traktor - japanski GRAECUS EKN135",
         "specifikacije": {
             "Težina": "179 kg",
             "Konji": "20 – 30 KS",
@@ -3400,7 +3400,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Laki tarupi EKN",
-        "model": "Desplasment and Hammer Light Vrecker za mali traktor – japanski traktor GRAECUS EKN85",
+        "model": "Laki Tarup za Mali Traktor – japanski traktor GRAECUS EKN85",
         "specifikacije": {
             "Težina": "119 kg",
             "Konji": "8 – 30 KS",
@@ -3470,7 +3470,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Laki tarupi EKN",
-        "model": "Desplasment and Hammer Light Vrecker za mali traktor - japanski GRAECUS EKN105 traktor",
+        "model": "Laki Tarup za Mali Traktor - japanski GRAECUS EKN105",
         "specifikacije": {
             "Težina": "153 kg",
             "Konji": "13 – 30 KS",
@@ -3505,7 +3505,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Laki tarupi EKN",
-        "model": "115cm deplasman i čekić lak za uništavanje malih traktora - japanski GRAECUS EKN115 traktor",
+        "model": "Laki Tarup za Mali Traktor - japanski GRAECUS EKN115",
         "specifikacije": {
             "Težina": "159 kg",
             "Konji": "15 – 30 KS",
@@ -3540,7 +3540,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Laki tarupi EKN",
-        "model": "Desplasment and Hammer Light Vrecker za mali traktor - japanski GRAECUS EKN125 traktor",
+        "model": "Laki Tarup za Mali Traktor - japanski GRAECUS EKN125 traktor",
         "specifikacije": {
             "Težina": "171 kg",
             "Konji": "18 – 30 KS",
@@ -3671,7 +3671,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi sa mehaničkim pomakom",
-        "model": "MKP145 Poluteški tarup",
+        "model": "MKP145 Poluteški Tarup",
         "specifikacije": {
             "Težina": "330 kg",
             "Konji": "30 – 60 KS",
@@ -3707,7 +3707,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi sa mehaničkim pomakom",
-        "model": "MKP155 Poluteški tarup",
+        "model": "MKP155 Poluteški Tarup",
         "specifikacije": {
             "Težina": "340 kg",
             "Konji": "35 – 60 KS",
@@ -3875,7 +3875,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi sa hidrauličnim pomakom",
-        "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD145-H",
+        "model": "Srednji tip Tarupa sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD145-H",
         "specifikacije": {
             "Težina": "330 kg",
             "Konji": "30 – 60 KS",
@@ -4013,7 +4013,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi sa hidrauličnim pomakom",
-        "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD175-H",
+        "model": "Srednji tip Tarupa sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD175-H",
         "specifikacije": {
             "Težina": "360 kg",
             "Konji": "40 – 70 KS",
@@ -4162,7 +4162,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Fiksni poluteški tarupi",
-        "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD145",
+        "model": "Srednji tip Tarupa sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD145",
         "specifikacije": {
             "Težina": "288 kg",
             "Konji": "30 – 60 KS",
@@ -4193,7 +4193,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Fiksni poluteški tarupi",
-        "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD155",
+        "model": "Srednji tip Tarupa sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD155",
         "specifikacije": {
             "Težina": "296 kg",
             "Konji": "35 – 60 KS",
@@ -4224,7 +4224,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Fiksni poluteški tarupi",
-        "model": "Srednji tip seckalica za travu i granje sa vratima. Idealan za male i srednje traktore. GRAECUS MKD165",
+        "model": "Srednji tip Tarupa za travu i granje sa vratima. Idealan za male i srednje traktore. GRAECUS MKD165",
         "specifikacije": {
             "Težina": "310 kg",
             "Konji": "35 – 70 KS",
@@ -4255,7 +4255,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Fiksni poluteški tarupi",
-        "model": "Srednji tip seckalica za travu i granje sa vratima. Idealan za male i srednje traktore. GRAECUS MKD175",
+        "model": "Srednji tip Tarupa za travu i granje sa vratima. Idealan za male i srednje traktore. GRAECUS MKD175",
         "specifikacije": {
             "Težina": "332 kg",
             "Konji": "40 – 70 KS",
@@ -4286,7 +4286,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Fiksni poluteški tarupi",
-        "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD125",
+        "model": "Srednji tip Tarupa sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD125",
         "specifikacije": {
             "Težina": "266 kg",
             "Konji": "20 – 60 KS",
@@ -4317,7 +4317,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi sa hidrauličnim pomakom",
-        "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD115-H",
+        "model": "Srednji tip Tarupa sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD115-H",
         "specifikacije": {
             "Težina": "300 kg",
             "Konji": "17 – 40 KS",
@@ -4353,7 +4353,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi sa hidrauličnim pomakom",
-        "model": "Srednji tip seckalica sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD105-H",
+        "model": "Srednji tip Tarupa sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD105-H",
         "specifikacije": {
             "Težina": "290 kg",
             "Konji": "15 – 40 KS",
@@ -4389,7 +4389,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Fiksni poluteški tarupi",
-        "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD105",
+        "model": "Srednji tip Tarupa sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD105",
         "specifikacije": {
             "Težina": "254 kg",
             "Konji": "15 – 40 KS",
@@ -4447,7 +4447,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi sa hidrauličnim pomakom",
-        "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD125-H",
+        "model": "Srednji tip Tarupa sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD125-H",
         "specifikacije": {
             "Težina": "310 kg",
             "Konji": "20 – 60 KS",
@@ -4483,7 +4483,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi sa hidrauličnim pomakom",
-        "model": "Srednji tip seckalica sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD155-H",
+        "model": "Srednji tip Tarupa sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD155-H",
         "specifikacije": {
             "Težina": "340 kg",
             "Konji": "35 – 60 KS",
@@ -4516,7 +4516,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi sa hidrauličnim pomakom",
-        "model": "Srednji tip seckalica sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD165-H",
+        "model": "Srednji tip Tarupa sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD165-H",
         "specifikacije": {
             "Težina": "350 kg",
             "Konji": "35 – 70 KS",
@@ -11416,7 +11416,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Samohodni tarupi",
-        "model": "RGK90pro Samohodni tarup",
+        "model": "RGK90pro Samohodni Tarup",
         "specifikacije": {
             "Težina": "280 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -11666,7 +11666,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "Tarupi sa Teleskopskom Rukom",
-        "model": "TK100 Teleskopski tarup",
+        "model": "TK100 Teleskopski Tarup",
         "specifikacije": {
             "Težina": "315 kg",
             "Konji": "25 – 60 KS",
@@ -15440,7 +15440,7 @@
     {
         "vrsta": "Nagnuti Tarupi",
         "podvrsta": "BPK Teški Horizontalno-vertikalni Tarupi sa Rukom",
-        "model": "BPK180 Teški Nagnuti tarup",
+        "model": "BPK180 Teški Nagnuti Tarup",
         "specifikacije": {
             "Težina": "620 kg",
             "Konji": "65 – 100 KS",
@@ -15692,7 +15692,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Fiksni poluteški tarupi",
-        "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD115",
+        "model": "Srednji tip Tarupa sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD115",
         "specifikacije": {
             "Težina": "260 kg",
             "Konji": "17 – 40 KS",
@@ -15749,7 +15749,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi sa hidrauličnim pomakom",
-        "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD135-H",
+        "model": "Srednji tip Tarupa sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD135-H",
         "specifikacije": {
             "Težina": "320 kg",
             "Konji": "25 – 60 KS",
