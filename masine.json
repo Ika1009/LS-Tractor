@@ -3805,7 +3805,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Teški tarupi",
-        "model": "Poluteški čekić HBP205",
+        "model": "Poluteški Tarup HBP205",
         "specifikacije": {
             "Težina": "426 kg",
             "Konji": "47 – 70 KS",
@@ -3840,7 +3840,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Teški tarupi",
-        "model": "Poluteški čekić HBP135",
+        "model": "Poluteški Tarup HBP135",
         "specifikacije": {
             "Težina": "351 kg",
             "Konji": "30 – 70 KS",
@@ -3908,7 +3908,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Teški tarupi",
-        "model": "Poluteški čekić HBP155",
+        "model": "Poluteški Tarup HBP155",
         "specifikacije": {
             "Težina": "369 kg",
             "Konji": "35 – 70 KS",
@@ -3943,7 +3943,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Teški tarupi",
-        "model": "Poluteški čekić HBP175",
+        "model": "Poluteški Tarup HBP175",
         "specifikacije": {
             "Težina": "389 kg",
             "Konji": "40 – 70 KS",
@@ -3978,7 +3978,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Teški tarupi",
-        "model": "Poluteški čekić HBP195",
+        "model": "Poluteški Tarup HBP195",
         "specifikacije": {
             "Težina": "416 kg",
             "Konji": "45 – 70 KS",
@@ -4413,7 +4413,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi sa mehaničkim pomakom",
-        "model": "MKP125 Srednji čekić tarup",
+        "model": "MKP125 Poluteški Tarup",
         "specifikacije": {
             "Težina": "310 kg",
             "Konji": "20 – 60 KS",
@@ -15715,7 +15715,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi sa mehaničkim pomakom",
-        "model": "MKP135 Poluteški tarupi sa mehaničkim pomakom",
+        "model": "MKP135 Poluteški tarup sa mehaničkim pomakom",
         "specifikacije": {
             "Težina": "320 kg",
             "Konji": "25 – 60 KS",
