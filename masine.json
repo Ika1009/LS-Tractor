@@ -225,6 +225,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "Levi hidraulični točak za košnju sa povratnom oprugom podesivom osetljivošću. CHIMERA TROKSOS60-L",
         "specifikacije": {
             "Težina": "45 kg",
@@ -242,6 +243,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "Leva motika vinograda 36cm sa senzorom i elektro-hidrauličnim ventilom. CHIMERA LAMA36-L",
         "specifikacije": {
             "Težina": "30 kg",
@@ -756,6 +758,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Samohodni tarupi",
         "model": "Benzinski vučeni tarup sa vratima",
         "specifikacije": {
             "Težina": "250 kg",
@@ -1907,6 +1910,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "Desna motika za vinograd 36cm sa senzorom i elektrohidrauličnim ventilom. CHIMERA LAMA36-R",
         "specifikacije": {
             "Težina": "30 kg",
@@ -1921,6 +1925,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "Desni hidraulični nož sa povratnom oprugom podesive osetljivosti. CHIMERA MESINEZA60-R",
         "specifikacije": {
             "Težina": "60 kg",
@@ -4655,7 +4660,8 @@
         ]
     },
     {
-        "vrsta": "Tarupi",
+        "vrsta": "Tarupi",        
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "ATK175-H Tarup",
         "specifikacije": {
             "Težina": "405 kg",
@@ -9945,7 +9951,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Laki tarupi EKN",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "CHIMERA BRATSO SH90 Tarup - Laka mašina za održavanje manjih površina",
         "specifikacije": {
         "Težina": "140 kg",
@@ -9961,7 +9967,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Laki tarupi EKN",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "CHIMERA BRATSO SH120 Tarup - Laka mašina za travu i nisko rastinje",
         "specifikacije": {
         "Težina": "155 kg",
@@ -9977,7 +9983,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteski tarupi sa hidrauličnim pomakom",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "CHIMERA BRATSO DH90 Tarup - Poluteški model sa hidrauličnim sklopivim rukama",
         "specifikacije": {
         "Težina": "160 kg",
@@ -9993,7 +9999,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteski tarupi sa hidrauličnim pomakom",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "CHIMERA BRATSO HID120 Tarup - Hidraulični model sa nezavisnim sistemom",
         "specifikacije": {
         "Težina": "210 kg",
@@ -10011,7 +10017,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteski tarupi sa hidrauličnim pomakom",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "CHIMERA BRATSO DH120 Tarup - Snažan model sa dvostrukim hidrauličnim sklopivim rukama",
         "specifikacije": {
         "Težina": "175 kg",
@@ -11567,7 +11573,8 @@
         ]
     },
     {
-        "vrsta": "Tarupi",
+        "vrsta": "Tarupi",        
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "ATK125-H Tarup",
         "specifikacije": {
             "Težina": "300 kg",
@@ -12978,6 +12985,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "Levi hidraulični nož sa povratnom oprugom podesivom osetljivošću. CHIMERA MESINEZA60-L",
         "specifikacije": {
             "Težina": "60 kg",
