@@ -225,6 +225,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "Levi hidraulični točak za košnju sa povratnom oprugom podesivom osetljivošću. CHIMERA TROKSOS60-L",
         "specifikacije": {
             "Težina": "45 kg",
@@ -242,6 +243,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "Leva motika vinograda 36cm sa senzorom i elektro-hidrauličnim ventilom. CHIMERA LAMA36-L",
         "specifikacije": {
             "Težina": "30 kg",
@@ -421,8 +423,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "podvrsta": "Profesionalni tarupi horizonalno/vertikalni sa pomakom",
-        "model": "YBPK240 horizonalno/vertikalni tarup sa pomakom za teške uslove",
+        "podvrsta": "YBPK Profesionalni Horizontalno-vertikalni Tarupi sa Rukom",
+        "model": "YBPK240 horizonalno/vertikalni Tarup sa pomakom za teške uslove",
         "specifikacije": {
             "Težina": "895 kg",
             "Konji": "90 – 150 KS",
@@ -479,8 +481,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "podvrsta": "Profesionalni tarupi horizonalno/vertikalni sa pomakom",
-        "model": "YBPK260 horizonalno/vertikalni tarup sa pomakom za teške uslove",
+        "podvrsta": "YBPK Profesionalni Horizontalno-vertikalni Tarupi sa Rukom",
+        "model": "YBPK260 horizonalno/vertikalni Tarup sa pomakom za teške uslove",
         "specifikacije": {
             "Težina": "980 kg",
             "Konji": "110 – 170 KS",
@@ -540,7 +542,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "BPK200 Teški bočni tarup",
+        "podvrsta": "BPK Teški Horizontalno-vertikalni Tarupi sa Rukom",
+        "model": "BPK200 Teški Nagnuti Tarup",
         "specifikacije": {
             "Težina": "677 kg",
             "Konji": "70 – 110 KS",
@@ -576,7 +579,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Samohodni tarupi",
-        "model": "GK65 Samohodni tarup",
+        "model": "GK65 Samohodni Tarup",
         "specifikacije": {
             "Težina": "155 kg",
             "Motor": "Loncin 252cc 8 KS",
@@ -616,7 +619,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Samohodni tarupi",
-        "model": "GK80pro Samohodni tarup",
+        "model": "GK80pro Samohodni Tarup",
         "specifikacije": {
             "Težina": "249 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -657,7 +660,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Samohodni tarupi",
-        "model": "GK80 Samohodni tarup",
+        "model": "GK80 Samohodni Tarup",
         "specifikacije": {
             "Težina": "224 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -689,7 +692,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Samohodni tarupi",
-        "model": "GK90pro Samohodni tarup",
+        "model": "GK90pro Samohodni Tarup",
         "specifikacije": {
             "Težina": "335 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -717,7 +720,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Samohodni tarupi",
-        "model": "GK90 Samohodni tarup",
+        "model": "GK90 Samohodni Tarup",
         "specifikacije": {
             "Težina": "310 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -756,7 +759,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "model": "Benzinski vučeni tarup sa vratima",
+        "podvrsta": "Samohodni tarupi",
+        "model": "Benzinski vučeni Tarup sa vratima",
         "specifikacije": {
             "Težina": "250 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -1907,6 +1911,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "Desna motika za vinograd 36cm sa senzorom i elektrohidrauličnim ventilom. CHIMERA LAMA36-R",
         "specifikacije": {
             "Težina": "30 kg",
@@ -1921,6 +1926,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "Desni hidraulični nož sa povratnom oprugom podesive osetljivosti. CHIMERA MESINEZA60-R",
         "specifikacije": {
             "Težina": "60 kg",
@@ -3359,7 +3365,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Laki tarupi EKN",
-        "model": "Desplasment and Hammer Light Vrecker za mali traktor - japanski GRAECUS EKN135 traktor",
+        "model": "Laki Tarup za Mali Traktor - japanski GRAECUS EKN135",
         "specifikacije": {
             "Težina": "179 kg",
             "Konji": "20 – 30 KS",
@@ -3394,7 +3400,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Laki tarupi EKN",
-        "model": "Desplasment and Hammer Light Vrecker za mali traktor – japanski traktor GRAECUS EKN85",
+        "model": "Laki Tarup za Mali Traktor – japanski traktor GRAECUS EKN85",
         "specifikacije": {
             "Težina": "119 kg",
             "Konji": "8 – 30 KS",
@@ -3464,7 +3470,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Laki tarupi EKN",
-        "model": "Desplasment and Hammer Light Vrecker za mali traktor - japanski GRAECUS EKN105 traktor",
+        "model": "Laki Tarup za Mali Traktor - japanski GRAECUS EKN105",
         "specifikacije": {
             "Težina": "153 kg",
             "Konji": "13 – 30 KS",
@@ -3499,7 +3505,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Laki tarupi EKN",
-        "model": "115cm deplasman i čekić lak za uništavanje malih traktora - japanski GRAECUS EKN115 traktor",
+        "model": "Laki Tarup za Mali Traktor - japanski GRAECUS EKN115",
         "specifikacije": {
             "Težina": "159 kg",
             "Konji": "15 – 30 KS",
@@ -3534,7 +3540,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Laki tarupi EKN",
-        "model": "Desplasment and Hammer Light Vrecker za mali traktor - japanski GRAECUS EKN125 traktor",
+        "model": "Laki Tarup za Mali Traktor - japanski GRAECUS EKN125 traktor",
         "specifikacije": {
             "Težina": "171 kg",
             "Konji": "18 – 30 KS",
@@ -3568,7 +3574,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Poluteški čekić HPK160",
+        "podvrsta": "HBP Poluteški Tarupi sa Horizontalnom i Vertikalnom Rukom",
+        "model": "Poluteški Tarup HPK160",
         "specifikacije": {
             "Težina": "499 kg",
             "Konji": "40 – 75 KS",
@@ -3599,7 +3606,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Poluteški čekić HPK180",
+        "podvrsta": "HBP Poluteški Tarupi sa Horizontalnom i Vertikalnom Rukom",
+        "model": "Poluteški Tarup HPK180",
         "specifikacije": {
             "Težina": "530 kg",
             "Konji": "45 – 75 KS",
@@ -3630,7 +3638,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Poluteški čekić HPK140",
+        "podvrsta": "HBP Poluteški Tarupi sa Horizontalnom i Vertikalnom Rukom",
+        "model": "Poluteški Tarup HPK140",
         "specifikacije": {
             "Težina": "475 kg",
             "Konji": "35 – 75 KS",
@@ -3662,7 +3671,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi sa mehaničkim pomakom",
-        "model": "MKP145 Poluteški tarup",
+        "model": "MKP145 Poluteški Tarup",
         "specifikacije": {
             "Težina": "330 kg",
             "Konji": "30 – 60 KS",
@@ -3697,8 +3706,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup sa mehaničkim pomakom",
-        "model": "MKP155 Poluteški tarup",
+        "podvrsta": "Poluteški tarupi sa mehaničkim pomakom",
+        "model": "MKP155 Poluteški Tarup",
         "specifikacije": {
             "Težina": "340 kg",
             "Konji": "35 – 60 KS",
@@ -3734,7 +3743,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi",
-        "model": "2HBK140 poluteški tarup dupli rotor",
+        "model": "2HBK140 Poluteški Tarup Dupli Rotor",
         "specifikacije": {
             "Težina": "390 kg",
             "Konji": "30 – 70 KS",
@@ -3765,7 +3774,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi",
-        "model": "2HBK160 poluteški tarup dupli rotor",
+        "model": "2HBK160 Poluteški Tarup Dupli Rotor",
         "specifikacije": {
             "Težina": "400 kg",
             "Konji": "35 – 80 KS",
@@ -3796,7 +3805,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Teški tarupi",
-        "model": "Poluteški čekić HBP205",
+        "model": "Poluteški Tarup HBP205",
         "specifikacije": {
             "Težina": "426 kg",
             "Konji": "47 – 70 KS",
@@ -3831,7 +3840,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Teški tarupi",
-        "model": "Poluteški čekić HBP135",
+        "model": "Poluteški Tarup HBP135",
         "specifikacije": {
             "Težina": "351 kg",
             "Konji": "30 – 70 KS",
@@ -3865,8 +3874,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup sa hidrauličnim pomakom",
-        "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD145-H",
+        "podvrsta": "Poluteški tarupi sa hidrauličnim pomakom",
+        "model": "Srednji tip Tarupa sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD145-H",
         "specifikacije": {
             "Težina": "330 kg",
             "Konji": "30 – 60 KS",
@@ -3899,7 +3908,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Teški tarupi",
-        "model": "Poluteški čekić HBP155",
+        "model": "Poluteški Tarup HBP155",
         "specifikacije": {
             "Težina": "369 kg",
             "Konji": "35 – 70 KS",
@@ -3934,7 +3943,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Teški tarupi",
-        "model": "Poluteški čekić HBP175",
+        "model": "Poluteški Tarup HBP175",
         "specifikacije": {
             "Težina": "389 kg",
             "Konji": "40 – 70 KS",
@@ -3969,7 +3978,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Teški tarupi",
-        "model": "Poluteški čekić HBP195",
+        "model": "Poluteški Tarup HBP195",
         "specifikacije": {
             "Težina": "416 kg",
             "Konji": "45 – 70 KS",
@@ -4003,8 +4012,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup sa hidrauličnim pomakom",
-        "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD175-H",
+        "podvrsta": "Poluteški tarupi sa hidrauličnim pomakom",
+        "model": "Srednji tip Tarupa sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD175-H",
         "specifikacije": {
             "Težina": "360 kg",
             "Konji": "40 – 70 KS",
@@ -4153,7 +4162,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Fiksni poluteški tarupi",
-        "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD145",
+        "model": "Srednji tip Tarupa sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD145",
         "specifikacije": {
             "Težina": "288 kg",
             "Konji": "30 – 60 KS",
@@ -4184,7 +4193,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Fiksni poluteški tarupi",
-        "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD155",
+        "model": "Srednji tip Tarupa sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD155",
         "specifikacije": {
             "Težina": "296 kg",
             "Konji": "35 – 60 KS",
@@ -4215,7 +4224,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Fiksni poluteški tarupi",
-        "model": "Srednji tip seckalica za travu i granje sa vratima. Idealan za male i srednje traktore. GRAECUS MKD165",
+        "model": "Srednji tip Tarupa za travu i granje sa vratima. Idealan za male i srednje traktore. GRAECUS MKD165",
         "specifikacije": {
             "Težina": "310 kg",
             "Konji": "35 – 70 KS",
@@ -4246,7 +4255,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Fiksni poluteški tarupi",
-        "model": "Srednji tip seckalica za travu i granje sa vratima. Idealan za male i srednje traktore. GRAECUS MKD175",
+        "model": "Srednji tip Tarupa za travu i granje sa vratima. Idealan za male i srednje traktore. GRAECUS MKD175",
         "specifikacije": {
             "Težina": "332 kg",
             "Konji": "40 – 70 KS",
@@ -4277,7 +4286,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Fiksni poluteški tarupi",
-        "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD125",
+        "model": "Srednji tip Tarupa sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD125",
         "specifikacije": {
             "Težina": "266 kg",
             "Konji": "20 – 60 KS",
@@ -4307,8 +4316,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup sa hidrauličnim pomakom",
-        "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD115-H",
+        "podvrsta": "Poluteški tarupi sa hidrauličnim pomakom",
+        "model": "Srednji tip Tarupa sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD115-H",
         "specifikacije": {
             "Težina": "300 kg",
             "Konji": "17 – 40 KS",
@@ -4343,8 +4352,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup sa hidrauličnim pomakom",
-        "model": "Srednji tip seckalica sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD105-H",
+        "podvrsta": "Poluteški tarupi sa hidrauličnim pomakom",
+        "model": "Srednji tip Tarupa sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD105-H",
         "specifikacije": {
             "Težina": "290 kg",
             "Konji": "15 – 40 KS",
@@ -4380,7 +4389,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Fiksni poluteški tarupi",
-        "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD105",
+        "model": "Srednji tip Tarupa sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD105",
         "specifikacije": {
             "Težina": "254 kg",
             "Konji": "15 – 40 KS",
@@ -4403,8 +4412,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup sa mehaničkim pomakom",
-        "model": "MKP125 Srednji čekić tarup",
+        "podvrsta": "Poluteški tarupi sa mehaničkim pomakom",
+        "model": "MKP125 Poluteški Tarup",
         "specifikacije": {
             "Težina": "310 kg",
             "Konji": "20 – 60 KS",
@@ -4437,8 +4446,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup sa hidrauličnim pomakom",
-        "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD125-H",
+        "podvrsta": "Poluteški tarupi sa hidrauličnim pomakom",
+        "model": "Srednji tip Tarupa sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD125-H",
         "specifikacije": {
             "Težina": "310 kg",
             "Konji": "20 – 60 KS",
@@ -4473,8 +4482,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup sa hidrauličnim pomakom",
-        "model": "Srednji tip seckalica sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD155-H",
+        "podvrsta": "Poluteški tarupi sa hidrauličnim pomakom",
+        "model": "Srednji tip Tarupa sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD155-H",
         "specifikacije": {
             "Težina": "340 kg",
             "Konji": "35 – 60 KS",
@@ -4506,8 +4515,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup sa hidrauličnim pomakom",
-        "model": "Srednji tip seckalica sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD165-H",
+        "podvrsta": "Poluteški tarupi sa hidrauličnim pomakom",
+        "model": "Srednji tip Tarupa sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD165-H",
         "specifikacije": {
             "Težina": "350 kg",
             "Konji": "35 – 70 KS",
@@ -4655,7 +4664,8 @@
         ]
     },
     {
-        "vrsta": "Tarupi",
+        "vrsta": "Tarupi",        
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "ATK175-H Tarup",
         "specifikacije": {
             "Težina": "405 kg",
@@ -4808,7 +4818,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "EPK125 hidraulični tarup nagiba sa čekićima",
+        "podvrsta": "Srednji Tip Tarupa sa Horizontalnom i Vertikalnom Rukom",
+        "model": "EPK125 Hidraulični Nagnuti Tarup sa čekićima",
         "specifikacije": {
             "Težina": "250 kg",
             "Konji": "25 – 45 KS",
@@ -4845,7 +4856,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "EPK145 hidraulični tarup nagiba sa čekićima",
+        "podvrsta": "Srednji Tip Tarupa sa Horizontalnom i Vertikalnom Rukom",
+        "model": "EPK145 Hidraulični Nagnuti Tarup Nagiba sa čekićima",
         "specifikacije": {
             "Težina": "294 kg",
             "Konji": "30 – 50 KS",
@@ -4882,7 +4894,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "EPK165 hidraulični čekić sa čekićima",
+        "podvrsta": "Srednji Tip Tarupa sa Horizontalnom i Vertikalnom Rukom",
+        "model": "EPK165 Hidraulični Nagnuti Tarup sa čekićima",
         "specifikacije": {
             "Težina": "322 kg",
             "Konji": "35 – 55 KS",
@@ -4920,7 +4933,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Tarupi sa spremnikom",
-        "model": "MSK90 0,90m Hidraulični tarup sa spremnikom",
+        "model": "MSK90 0,90m Hidraulični Tarup sa spremnikom",
         "specifikacije": {
             "Težina": "290 kg",
             "Konji": "20 – 40 KS",
@@ -4963,7 +4976,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Tarupi sa spremnikom",
-        "model": "MSK120 1,20m Hidraulični tarup sa spremnikom",
+        "model": "MSK120 1,20m Hidraulični Tarup sa spremnikom",
         "specifikacije": {
             "Težina": "325 kg",
             "Konji": "25 – 50 KS",
@@ -5006,7 +5019,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Tarupi sa spremnikom",
-        "model": "MSK160 1,60m Hidraulični tarup sa spremnikom",
+        "model": "MSK160 1,60m Hidraulični Tarup sa spremnikom",
         "specifikacije": {
             "Težina": "367 kg",
             "Konji": "30 – 60 KS",
@@ -7038,7 +7051,7 @@
     },
     {
         "vrsta": "Poljoprivredne masine",
-        "model": "Cilindarski tarup zemlje za ram više mašina HIDRA RAOILO140",
+        "model": "Cilindarski Tarup zemlje za ram više mašina HIDRA RAOILO140",
         "specifikacije": {
             "Težina": "70 kg",
             "Radna_širina": "1400 mm"
@@ -7051,7 +7064,7 @@
     },
     {
         "vrsta": "Poljoprivredne masine",
-        "model": "Cilindarski tarup zemlje za ram više mašina HIDRA RAOILO160",
+        "model": "Cilindarski Tarup zemlje za ram više mašina HIDRA RAOILO160",
         "specifikacije": {
             "Težina": "77 kg",
             "Radna_širina": "1600 mm"
@@ -7064,7 +7077,7 @@
     },
     {
         "vrsta": "Poljoprivredne masine",
-        "model": "Cilindarski tarup zemlje za ram više mašina HIDRA RAOILO120",
+        "model": "Cilindarski Tarup zemlje za ram više mašina HIDRA RAOILO120",
         "specifikacije": {
             "Težina": "61 kg",
             "Radna_širina": "1200 mm"
@@ -9945,7 +9958,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Laki tarupi EKN",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "CHIMERA BRATSO SH90 Tarup - Laka mašina za održavanje manjih površina",
         "specifikacije": {
         "Težina": "140 kg",
@@ -9961,7 +9974,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Laki tarupi EKN",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "CHIMERA BRATSO SH120 Tarup - Laka mašina za travu i nisko rastinje",
         "specifikacije": {
         "Težina": "155 kg",
@@ -9977,7 +9990,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteski tarupi sa hidrauličnim pomakom",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "CHIMERA BRATSO DH90 Tarup - Poluteški model sa hidrauličnim sklopivim rukama",
         "specifikacije": {
         "Težina": "160 kg",
@@ -9993,7 +10006,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteski tarupi sa hidrauličnim pomakom",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "CHIMERA BRATSO HID120 Tarup - Hidraulični model sa nezavisnim sistemom",
         "specifikacije": {
         "Težina": "210 kg",
@@ -10011,7 +10024,7 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteski tarupi sa hidrauličnim pomakom",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "CHIMERA BRATSO DH120 Tarup - Snažan model sa dvostrukim hidrauličnim sklopivim rukama",
         "specifikacije": {
         "Težina": "175 kg",
@@ -11403,7 +11416,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Samohodni tarupi",
-        "model": "RGK90pro Samohodni tarup",
+        "model": "RGK90pro Samohodni Tarup",
         "specifikacije": {
             "Težina": "280 kg",
             "Motor": "Loncin 420cc 15 KS",
@@ -11433,6 +11446,7 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
         "model": "Teleskopska ruka tarup, samostalna za traktore | Teški Tarup | BTK150",
         "specifikacije": {
             "Težina": "1185 kg",
@@ -11470,7 +11484,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopski ručni tarup, samostalni za traktore | srednji tip | MTK120",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Ručni Tarup, Samostalni za Traktore | Srednji Tip | MTK120",
         "specifikacije": {
             "Težina": "640 kg",
             "Konji": "65 – 100 KS",
@@ -11502,7 +11517,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopski džojstik samostalni traktor traktor | srednji tip | MTK120-Joistick",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Ručni Tarup, Samostalni za Traktore | Srednji Tip | MTK120-Joystick",
         "specifikacije": {
             "Težina": "640 kg",
             "Konji": "65 – 100 KS",
@@ -11534,7 +11550,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopski džojstik džojstik samostalni traktor traktor | teške uslove | BTK150-Joistick",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Ručni Tarup, Samostalni za Traktore | Za Teške Uslove | BTK150-Joystick",
         "specifikacije": {
             "Težina": "1185 kg",
             "Konji": "85 KS",
@@ -11567,7 +11584,8 @@
         ]
     },
     {
-        "vrsta": "Tarupi",
+        "vrsta": "Tarupi",        
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "ATK125-H Tarup",
         "specifikacije": {
             "Težina": "300 kg",
@@ -11647,7 +11665,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "TK100 Teleskopski tarup",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "TK100 Teleskopski Tarup",
         "specifikacije": {
             "Težina": "315 kg",
             "Konji": "25 – 60 KS",
@@ -11888,7 +11907,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopska koplje - motorna kosa sa reznom šipkom samostalna za traktore LK145",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Tarup - motorna kosa sa reznom šipkom samostalna za traktore LK145",
         "specifikacije": {
             "Težina": "270 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -11933,7 +11953,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopsko koplje - motorna kosa sa reznom šipkom samostalna za traktore LK175",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Tarup - motorna kosa sa reznom šipkom samostalna za traktore LK175",
         "specifikacije": {
             "Težina": "285 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -11978,7 +11999,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopsko koplje - motorna kosa sa rezačem za traktore, sa mogućnošću napredovanja na strani vozača LK145S",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Tarup - motorna kosa sa rezačem za traktore, sa mogućnošću napredovanja na strani vozača LK145S",
         "specifikacije": {
             "Težina": "290 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12015,7 +12037,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopsko koplje – motorne motorne kose LK160S sa strane vozača",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Tarup – motorne motorne kose LK160S sa strane vozača",
         "specifikacije": {
             "Težina": "295 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12052,7 +12075,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopsko koplje - motorna kosa sa rezačem za traktore, sa mogućnošću napredovanja na strani vozača LK175S",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Tarup - motorna kosa sa rezačem za traktore, sa mogućnošću napredovanja na strani vozača LK175S",
         "specifikacije": {
             "Težina": "305 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12089,7 +12113,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopsko koplje - samostalna motorna kosa sa reznom šipkom za traktore LK130",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Tarup - samostalna motorna kosa sa reznom šipkom za traktore LK130",
         "specifikacije": {
             "Težina": "265 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12134,7 +12159,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopska koplje - motorna kosa sa reznom šipkom samostalna za traktore LK160",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Tarup - motorna kosa sa reznom šipkom samostalna za traktore LK160",
         "specifikacije": {
             "Težina": "275 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12179,7 +12205,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopska koplje - samostalna motorna kosa sa reznom šipkom za traktore LK190",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Tarup - samostalna motorna kosa sa reznom šipkom za traktore LK190",
         "specifikacije": {
             "Težina": "295 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12224,7 +12251,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopsko koplje - motorna kosa sa reznom šipkom za traktore, sa mogućnošću napredovanja na strani vozača LK190S",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Tarup - motorna kosa sa reznom šipkom za traktore, sa mogućnošću napredovanja na strani vozača LK190S",
         "specifikacije": {
             "Težina": "315 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12261,7 +12289,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopsko koplje sa reznom šipkom, džojstikom i mogućnošću napredovanja na strani vozača LK130S-Joistick",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Tarup sa reznom šipkom, džojstikom i mogućnošću napredovanja na strani vozača LK130S-Joystick",
         "specifikacije": {
             "Težina": "285 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12295,7 +12324,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopsko koplje - motorna kosa sa reznom šipkom za traktore, sa mogućnošću napredovanja na strani vozača LK130S",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Tarup - motorna kosa sa reznom šipkom za traktore, sa mogućnošću napredovanja na strani vozača LK130S",
         "specifikacije": {
             "Težina": "285 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12332,7 +12362,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK160S-Joistick",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Tarup sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK160S-Joystick",
         "specifikacije": {
             "Težina": "295 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12366,7 +12397,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK175S-Joistick",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Tarup sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK175S-Joystick",
         "specifikacije": {
             "Težina": "305 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12400,7 +12432,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK190S-Joistick",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Tarup sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK190S-Joystick",
         "specifikacije": {
             "Težina": "315 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12434,7 +12467,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teleskopsko koplje sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK145S-Joistick",
+        "podvrsta": "Tarupi sa Teleskopskom Rukom",
+        "model": "Teleskopski Tarup sa nožem, džojstikom i mogućnošću napredovanja na strani vozača LK145S-Joystick",
         "specifikacije": {
             "Težina": "290 kg",
             "Konji_(min_–_mak)": "20 – 60 KS",
@@ -12978,6 +13012,7 @@
     },
     {
         "vrsta": "Tarupi",
+        "podvrsta": "Tarupi sa hidrauličnim pomakom i diskom",
         "model": "Levi hidraulični nož sa povratnom oprugom podesivom osetljivošću. CHIMERA MESINEZA60-L",
         "specifikacije": {
             "Težina": "60 kg",
@@ -14956,7 +14991,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi",
-        "model": "2HBK180 poluteški tarup dupli rotor",
+        "model": "2HBK180 Poluteški Tarup Dupli Rotor",
         "specifikacije": {
             "Težina": "446 kg",
             "Konji": "40 – 90 KS",
@@ -14987,7 +15022,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Poluteški tarupi",
-        "model": "2HBK200 poluteški tarup dupli rotor",
+        "model": "2HBK200 Poluteški Tarup Dupli Rotor",
         "specifikacije": {
             "Težina": "478 kg",
             "Konji": "45 – 100 KS",
@@ -15368,7 +15403,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "Teški bočni tarup BPK160",
+        "podvrsta": "BPK Teški Horizontalno-vertikalni Tarupi sa Rukom",
+        "model": "BPK160 Teški Nagnuti Tarup",
         "specifikacije": {
             "Težina": "590 kg",
             "Konji": "55 – 100 KS",
@@ -15403,7 +15439,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "model": "BPK180 Teški bočni tarup",
+        "podvrsta": "BPK Teški Horizontalno-vertikalni Tarupi sa Rukom",
+        "model": "BPK180 Teški Nagnuti Tarup",
         "specifikacije": {
             "Težina": "620 kg",
             "Konji": "65 – 100 KS",
@@ -15655,7 +15692,7 @@
     {
         "vrsta": "Tarupi",
         "podvrsta": "Fiksni poluteški tarupi",
-        "model": "Srednji tip seckalica sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD115",
+        "model": "Srednji tip Tarupa sa vratima za travu i granje. Idealan za male i srednje traktore. GRAECUS MKD115",
         "specifikacije": {
             "Težina": "260 kg",
             "Konji": "17 – 40 KS",
@@ -15677,8 +15714,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup sa mehaničkim pomakom",
-        "model": "MKP135 Poluteški tarup sa mehaničkim pomakom",
+        "podvrsta": "Poluteški tarupi sa mehaničkim pomakom",
+        "model": "MKP135 Poluteški Tarup sa mehaničkim pomakom",
         "specifikacije": {
             "Težina": "320 kg",
             "Konji": "25 – 60 KS",
@@ -15711,8 +15748,8 @@
     },
     {
         "vrsta": "Tarupi",
-        "podvrsta": "Poluteški tarup sa hidrauličnim pomakom",
-        "model": "Srednji tip drobilice sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD135-H",
+        "podvrsta": "Poluteški tarupi sa hidrauličnim pomakom",
+        "model": "Srednji tip Tarupa sa vratima i hidrauličnim menjačem. Idealan za male i srednje traktore. GRAECUS MKD135-H",
         "specifikacije": {
             "Težina": "320 kg",
             "Konji": "25 – 60 KS",
@@ -16199,8 +16236,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "podvrsta": "Profesionalni tarupi horizonalno/vertikalni sa pomakom",
-        "model": "YBPK180 horizonalno/vertikalni tarup sa pomakom za teške uslove",
+        "podvrsta": "YBPK Profesionalni Horizontalno-vertikalni Tarupi sa Rukom",
+        "model": "YBPK180 horizonalno/vertikalni Tarup sa pomakom za teške uslove",
         "specifikacije": {
             "Težina": "815 kg",
             "Konji": "70 – 120 KS",
@@ -16260,8 +16297,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "podvrsta": "Profesionalni tarupi horizonalno/vertikalni sa pomakom",
-        "model": "YBPK200 horizonalno/vertikalni tarup sa pomakom za teške uslove",
+        "podvrsta": "YBPK Profesionalni Horizontalno-vertikalni Tarupi sa Rukom",
+        "model": "YBPK200 horizonalno/vertikalni Tarup sa pomakom za teške uslove",
         "specifikacije": {
             "Težina": "842 kg",
             "Konji": "75 – 120 KS",
@@ -16321,8 +16358,8 @@
     },
     {
         "vrsta": "Nagnuti Tarupi",
-        "podvrsta": "Profesionalni tarupi horizonalno/vertikalni sa pomakom",
-        "model": "YBPK220 horizonalno/vertikalni tarup sa pomakom za teške uslove",
+        "podvrsta": "YBPK Profesionalni Horizontalno-vertikalni Tarupi sa Rukom",
+        "model": "YBPK220 horizonalno/vertikalni Tarup sa pomakom za teške uslove",
         "specifikacije": {
             "Težina": "870 kg",
             "Konji": "85 – 120 KS",
