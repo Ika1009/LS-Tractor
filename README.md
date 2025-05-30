@@ -1,6 +1,6 @@
 # 🚜 LS Traktors Serbia – Official LS Tractor Distributor Website
 
-Welcome to the official repository for [LS Traktori Srbija](https://lstraktori.rs/) — a custom-built website for **LS Nikolagrar d.o.o.**, the exclusive importer and distributor of **LS Tractor** in Serbia.
+Welcome to the official repository for [LS Tractors Serbia](https://lstraktori.rs/) — a custom-built website for **LS Nikolagrar d.o.o.**, the exclusive importer and distributor of **LS Tractor** in Serbia.
 
 This project highlights my capabilities in front-end development, data aggregation, and website optimization for a large-scale business in the agricultural machinery industry.
 
